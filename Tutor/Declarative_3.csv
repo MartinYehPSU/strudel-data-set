@@ -1,0 +1,56 @@
+User ID,Quiz Result ID,Taken On,Score,Question 1 Body,Question 1 Answer,Question 1 Correct
+770,16336,2021-03-31 19:33:08 UTC,0.0,What is the name of yellow circled component?,Processor Unit,no
+771,16484,2021-04-02 19:12:35 UTC,0.0,What is the name of yellow circled component?,Mixer,no
+772,16677,2021-04-09 16:49:34 UTC,0.0,What is the name of yellow circled component?,Mixer,no
+773,16723,2021-04-10 00:40:29 UTC,0.0,What is the name of yellow circled component?,RF differentiator,no
+776,16968,2021-04-16 21:10:40 UTC,0.0,What is the name of yellow circled component?,"",no
+784,17142,2021-04-26 23:26:25 UTC,0.0,What is the name of yellow circled component?,Adjuster,no
+779,17164,2021-04-27 01:43:28 UTC,0.0,What is the name of yellow circled component?,"",no
+784,17189,2021-04-27 16:50:19 UTC,0.0,What is the name of yellow circled component?,N/A,no
+780,17211,2021-04-28 18:23:16 UTC,0.0,What is the name of yellow circled component?,indicatpr,no
+787,17235,2021-04-28 20:41:12 UTC,0.0,What is the name of yellow circled component?,llama's are cute,no
+790,17259,2021-04-28 21:25:50 UTC,0.0,What is the name of yellow circled component?,"",no
+786,17281,2021-04-29 19:21:00 UTC,0.0,What is the name of yellow circled component?,AS amplifier,no
+789,17323,2021-04-30 19:25:41 UTC,0.0,What is the name of yellow circled component?,Duplexer,no
+781,17345,2021-05-01 19:27:31 UTC,0.0,What is the name of yellow circled component?,Differentiator,no
+783,17367,2021-05-02 21:26:26 UTC,0.0,What is the name of yellow circled component?,Rc Diff,no
+793,17389,2021-05-05 18:31:28 UTC,0.0,What is the name of yellow circled component?,RF overdrive,no
+800,17411,2021-05-06 00:35:26 UTC,0.0,What is the name of yellow circled component?,RF Frequency ...,no
+795,17433,2021-05-06 17:25:55 UTC,0.0,What is the name of yellow circled component?,"",no
+799,17454,2021-05-07 22:49:00 UTC,0.0,What is the name of yellow circled component?,"",no
+802,17477,2021-05-09 15:15:28 UTC,0.0,What is the name of yellow circled component?,RC (something),no
+803,17499,2021-05-10 16:18:47 UTC,0.0,What is the name of yellow circled component?,"",no
+804,17523,2021-05-11 01:23:53 UTC,0.0,What is the name of yellow circled component?,"",no
+796,17549,2021-05-11 21:24:55 UTC,0.0,What is the name of yellow circled component?,"",no
+807,17575,2021-05-13 19:23:56 UTC,0.0,What is the name of yellow circled component?,"",no
+807,17583,2021-05-13 19:28:38 UTC,0.0,What is the name of yellow circled component?,"",no
+808,17603,2021-05-14 16:08:54 UTC,0.0,What is the name of yellow circled component?,Limiter,no
+809,17625,2021-05-14 22:53:53 UTC,1.0,What is the name of yellow circled component?,RC Differentiator,yes
+811,17647,2021-05-17 16:32:17 UTC,0.0,What is the name of yellow circled component?,NA,no
+794,17669,2021-05-20 23:19:56 UTC,0.0,What is the name of yellow circled component?,RC differentiater,no
+797,17691,2021-05-21 16:22:20 UTC,0.0,What is the name of yellow circled component?,RC,no
+816,17713,2021-05-21 21:01:00 UTC,0.0,What is the name of yellow circled component?,"",no
+810,17735,2021-05-22 17:54:24 UTC,0.0,What is the name of yellow circled component?,oscillator,no
+812,17757,2021-05-24 20:22:45 UTC,0.0,What is the name of yellow circled component?,"",no
+817,17779,2021-05-26 15:21:59 UTC,0.0,What is the name of yellow circled component?,"",no
+814,17801,2021-05-27 16:33:08 UTC,0.0,What is the name of yellow circled component?,Sine Wave Generator,no
+820,17867,2021-05-28 23:45:24 UTC,0.0,What is the name of yellow circled component?,"",no
+821,17897,2021-05-29 16:30:52 UTC,0.0,What is the name of yellow circled component?,Adapter,no
+822,17919,2021-06-03 17:50:51 UTC,1.0,What is the name of yellow circled component?,RC differentiator,yes
+823,17941,2021-06-05 01:25:34 UTC,0.0,What is the name of yellow circled component?,"",no
+825,17963,2021-06-05 22:23:06 UTC,0.0,What is the name of yellow circled component?,"",no
+826,17985,2021-06-07 16:20:11 UTC,0.0,What is the name of yellow circled component?,"",no
+828,18008,2021-06-15 15:23:20 UTC,0.0,What is the name of yellow circled component?,N/A,no
+813,18032,2021-06-15 18:18:28 UTC,0.0,What is the name of yellow circled component?,Differentiator,no
+829,18054,2021-06-15 19:22:58 UTC,0.0,What is the name of yellow circled component?,"",no
+830,18076,2021-06-21 19:18:42 UTC,1.0,What is the name of yellow circled component?,RC Differentiator,yes
+808,18098,2021-07-01 15:17:07 UTC,0.0,What is the name of yellow circled component?,sin oscillating wave,no
+832,18120,2021-07-01 18:23:33 UTC,0.0,What is the name of yellow circled component?,"",no
+834,18143,2021-07-17 00:23:40 UTC,0.0,What is the name of yellow circled component?,"",no
+833,18168,2021-07-19 19:52:01 UTC,0.0,What is the name of yellow circled component?,"",no
+837,18191,2021-09-14 22:04:11 UTC,0.0,What is the name of yellow circled component?,RC Differential,no
+838,18217,2021-09-15 20:27:12 UTC,0.0,What is the name of yellow circled component?,"",no
+839,18249,2021-10-07 17:31:40 UTC,0.0,What is the name of yellow circled component?,"",no
+852,18271,2021-10-15 01:38:46 UTC,0.0,What is the name of yellow circled component?,"",no
+853,18293,2021-10-15 17:42:12 UTC,0.0,What is the name of yellow circled component?,"",no
+869,20136,2022-04-05 21:20:07 UTC,0.0,What is the name of yellow circled component?,"",no

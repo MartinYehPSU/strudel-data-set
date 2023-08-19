@@ -1,0 +1,55 @@
+User ID,Quiz Result ID,Taken On,Score,Question 1 Body,Question 1 Answer,Question 1 Correct
+770,16339,2021-03-31 19:33:55 UTC,0.0,What is the name of yellow circled component?,Mid Fidelity Processor,no
+771,16487,2021-04-02 19:13:31 UTC,0.0,What is the name of yellow circled component?,IF amplifier,no
+772,16680,2021-04-09 16:50:25 UTC,0.0,What is the name of yellow circled component?,AF Mixer,no
+773,16726,2021-04-10 00:41:06 UTC,0.0,What is the name of yellow circled component?,amplifier,no
+776,16971,2021-04-16 21:11:12 UTC,0.0,What is the name of yellow circled component?,"",no
+784,17145,2021-04-26 23:27:38 UTC,0.0,What is the name of yellow circled component?,RF Antenna,no
+779,17167,2021-04-27 01:44:17 UTC,0.0,What is the name of yellow circled component?,amplifier,no
+784,17192,2021-04-27 16:51:44 UTC,0.0,What is the name of yellow circled component?,N/A,no
+780,17214,2021-04-28 18:23:58 UTC,0.0,What is the name of yellow circled component?,amp,no
+787,17238,2021-04-28 20:42:00 UTC,0.0,What is the name of yellow circled component?,IFC Mixer,no
+790,17262,2021-04-28 21:27:20 UTC,0.0,What is the name of yellow circled component?,"",no
+786,17284,2021-04-29 19:21:39 UTC,0.0,What is the name of yellow circled component?,"",no
+789,17326,2021-04-30 19:26:53 UTC,0.0,What is the name of yellow circled component?,Video Processor,no
+781,17348,2021-05-01 19:28:28 UTC,1.0,What is the name of yellow circled component?,AFC Amplifier,yes
+783,17370,2021-05-02 21:27:18 UTC,1.0,What is the name of yellow circled component?,Afc amplifier,yes
+793,17392,2021-05-05 18:32:39 UTC,0.0,What is the name of yellow circled component?,"",no
+800,17414,2021-05-06 00:36:01 UTC,0.0,What is the name of yellow circled component?,AFC Amp,no
+795,17436,2021-05-06 17:27:32 UTC,0.0,What is the name of yellow circled component?,AFC  amp,no
+799,17457,2021-05-07 22:50:33 UTC,0.0,What is the name of yellow circled component?,Wavelength*,no
+802,17480,2021-05-09 15:17:05 UTC,0.0,What is the name of yellow circled component?,RFC (something),no
+803,17502,2021-05-10 16:20:25 UTC,0.0,What is the name of yellow circled component?,"",no
+804,17526,2021-05-11 01:24:33 UTC,0.0,What is the name of yellow circled component?,"",no
+796,17552,2021-05-11 21:25:53 UTC,0.0,What is the name of yellow circled component?,"",no
+807,17578,2021-05-13 19:25:58 UTC,0.0,What is the name of yellow circled component?,___ Oscillator,no
+808,17606,2021-05-14 16:09:45 UTC,0.0,What is the name of yellow circled component?,Amplifier,no
+809,17628,2021-05-14 22:54:33 UTC,0.0,What is the name of yellow circled component?,amplifier,no
+811,17650,2021-05-17 16:35:38 UTC,0.0,What is the name of yellow circled component?,Time AMP,no
+794,17672,2021-05-20 23:20:47 UTC,0.0,What is the name of yellow circled component?,AFC amplitude,no
+797,17694,2021-05-21 16:23:06 UTC,0.0,What is the name of yellow circled component?,"",no
+816,17716,2021-05-21 21:03:31 UTC,0.0,What is the name of yellow circled component?,Line Transmission,no
+810,17738,2021-05-22 17:55:12 UTC,0.0,What is the name of yellow circled component?,Video,no
+812,17760,2021-05-24 20:24:01 UTC,0.0,What is the name of yellow circled component?,"",no
+817,17782,2021-05-26 15:23:05 UTC,0.0,What is the name of yellow circled component?,"",no
+814,17804,2021-05-27 16:33:56 UTC,0.0,What is the name of yellow circled component?,Control,no
+820,17870,2021-05-28 23:47:43 UTC,0.0,What is the name of yellow circled component?,ACF amplifier,no
+821,17900,2021-05-29 16:31:56 UTC,0.0,What is the name of yellow circled component?,"",no
+822,17922,2021-06-03 17:51:55 UTC,0.0,What is the name of yellow circled component?,"",no
+823,17944,2021-06-05 01:26:20 UTC,0.0,What is the name of yellow circled component?,"",no
+825,17966,2021-06-05 22:23:49 UTC,0.0,What is the name of yellow circled component?,"",no
+826,17988,2021-06-07 16:21:17 UTC,0.0,What is the name of yellow circled component?,AFC Mixer,no
+828,18011,2021-06-15 15:23:51 UTC,0.0,What is the name of yellow circled component?,N/A,no
+813,18035,2021-06-15 18:20:03 UTC,0.0,What is the name of yellow circled component?,"",no
+829,18057,2021-06-15 19:24:25 UTC,0.0,What is the name of yellow circled component?,aft,no
+830,18079,2021-06-21 19:19:56 UTC,1.0,What is the name of yellow circled component?,AFC Amplifier,yes
+808,18101,2021-07-01 15:18:36 UTC,0.0,What is the name of yellow circled component?,"",no
+832,18123,2021-07-01 18:23:58 UTC,0.0,What is the name of yellow circled component?,"",no
+834,18146,2021-07-17 00:25:18 UTC,0.0,What is the name of yellow circled component?,"",no
+833,18171,2021-07-19 19:53:06 UTC,0.0,What is the name of yellow circled component?,AFC Mixer,no
+837,18194,2021-09-14 22:05:09 UTC,0.0,What is the name of yellow circled component?,AFC Amp,no
+837,18196,2021-09-14 22:05:46 UTC,1.0,What is the name of yellow circled component?,AFC Amplifier,yes
+838,18222,2021-09-15 20:28:30 UTC,0.0,What is the name of yellow circled component?,Radio Antenna,no
+839,18252,2021-10-07 17:32:30 UTC,0.0,What is the name of yellow circled component?,"",no
+852,18274,2021-10-15 01:39:52 UTC,0.0,What is the name of yellow circled component?,Video something,no
+853,18296,2021-10-15 17:44:17 UTC,0.0,What is the name of yellow circled component?,Transmitter,no

@@ -1,0 +1,59 @@
+User ID,Quiz Result ID,Taken On,Score,Question 1 Body,Question 1 Answer,Question 1 Correct
+770,16343,2021-03-31 19:35:04 UTC,0.0,What is the name of yellow circled component?,Amplifier Unit 2,no
+771,16491,2021-04-02 19:14:24 UTC,0.0,What is the name of yellow circled component?,Modulator,no
+772,16684,2021-04-09 16:51:41 UTC,0.0,What is the name of yellow circled component?,Duplexer,no
+773,16730,2021-04-10 00:42:32 UTC,1.0,What is the name of yellow circled component?,frequency synthesizer,yes
+776,16975,2021-04-16 21:11:41 UTC,0.0,What is the name of yellow circled component?,"",no
+776,16977,2021-04-16 21:12:05 UTC,0.0,What is the name of yellow circled component?,... mixer?,no
+784,17149,2021-04-26 23:29:42 UTC,0.0,What is the name of yellow circled component?,Frequency generator,no
+779,17171,2021-04-27 01:45:13 UTC,0.0,What is the name of yellow circled component?,"",no
+784,17196,2021-04-27 16:53:55 UTC,0.0,What is the name of yellow circled component?,frequency synthesizer ?,no
+780,17218,2021-04-28 18:25:24 UTC,0.0,What is the name of yellow circled component?,wavelengths,no
+787,17242,2021-04-28 20:44:01 UTC,0.0,What is the name of yellow circled component?,super sonicator,no
+790,17266,2021-04-28 21:29:28 UTC,0.0,What is the name of yellow circled component?,"",no
+786,17288,2021-04-29 19:22:30 UTC,0.0,What is the name of yellow circled component?,synchronize,no
+789,17330,2021-04-30 19:29:16 UTC,0.0,What is the name of yellow circled component?,transmission switch,no
+781,17352,2021-05-01 19:30:28 UTC,0.0,What is the name of yellow circled component?,"",no
+783,17374,2021-05-02 21:29:20 UTC,0.0,What is the name of yellow circled component?,freq. Synthesizer,no
+793,17396,2021-05-05 18:34:30 UTC,1.0,What is the name of yellow circled component?,Frequency Synthesizer,yes
+800,17418,2021-05-06 00:37:27 UTC,0.0,What is the name of yellow circled component?,Synthetizer,no
+795,17440,2021-05-06 17:29:05 UTC,0.0,What is the name of yellow circled component?,Freq synthesiser,no
+799,17461,2021-05-07 22:52:05 UTC,0.0,What is the name of yellow circled component?,Transmitter Amplifier,no
+802,17484,2021-05-09 15:19:40 UTC,0.0,What is the name of yellow circled component?,FS,no
+803,17508,2021-05-10 16:22:48 UTC,0.0,What is the name of yellow circled component?,Frequency Synchronizer,no
+804,17530,2021-05-11 01:25:46 UTC,0.0,What is the name of yellow circled component?,"",no
+804,17532,2021-05-11 01:26:06 UTC,0.0,What is the name of yellow circled component?,"",no
+796,17556,2021-05-11 21:27:15 UTC,1.0,What is the name of yellow circled component?,Frequency synthesizer,yes
+807,17582,2021-05-13 19:28:28 UTC,0.0,What is the name of yellow circled component?,"",no
+807,17586,2021-05-13 19:29:23 UTC,0.0,What is the name of yellow circled component?,"",no
+808,17610,2021-05-14 16:10:57 UTC,1.0,What is the name of yellow circled component?,Frequency Synthesizer,yes
+809,17632,2021-05-14 22:55:24 UTC,0.0,What is the name of yellow circled component?,synthesizer,no
+811,17654,2021-05-17 16:39:48 UTC,0.0,What is the name of yellow circled component?,Transmit power,no
+794,17676,2021-05-20 23:21:51 UTC,1.0,What is the name of yellow circled component?,Frequency synthesizer,yes
+797,17698,2021-05-21 16:24:10 UTC,1.0,What is the name of yellow circled component?,frequency synthesizer,yes
+816,17720,2021-05-21 21:09:51 UTC,0.0,What is the name of yellow circled component?,Frequency oscillator,no
+810,17742,2021-05-22 17:56:03 UTC,0.0,What is the name of yellow circled component?,sine wave oscillator,no
+812,17764,2021-05-24 20:25:19 UTC,0.0,What is the name of yellow circled component?,"",no
+817,17786,2021-05-26 15:24:11 UTC,0.0,What is the name of yellow circled component?,frequencey synthesizer,no
+814,17808,2021-05-27 16:35:35 UTC,0.0,What is the name of yellow circled component?,Signal Rectifier generator,no
+820,17874,2021-05-28 23:49:40 UTC,0.0,What is the name of yellow circled component?,frequency amplifier,no
+820,17877,2021-05-28 23:50:31 UTC,0.0,What is the name of yellow circled component?,"",no
+820,17882,2021-05-28 23:51:50 UTC,0.0,What is the name of yellow circled component?,frequency amplifier,no
+821,17904,2021-05-29 16:33:28 UTC,1.0,What is the name of yellow circled component?,Frequency Synthesizer,yes
+822,17926,2021-06-03 17:53:27 UTC,1.0,What is the name of yellow circled component?,Frequency Synthesizer,yes
+823,17948,2021-06-05 01:27:18 UTC,0.0,What is the name of yellow circled component?,receiver,no
+825,17970,2021-06-05 22:24:41 UTC,0.0,What is the name of yellow circled component?,"",no
+826,17992,2021-06-07 16:23:35 UTC,0.0,What is the name of yellow circled component?,Frequency,no
+828,18015,2021-06-15 15:25:16 UTC,0.0,What is the name of yellow circled component?,Synthesizer,no
+813,18039,2021-06-15 18:22:27 UTC,0.0,What is the name of yellow circled component?,Synthesizor,no
+829,18061,2021-06-15 19:25:31 UTC,0.0,What is the name of yellow circled component?,"",no
+830,18083,2021-06-21 19:21:33 UTC,1.0,What is the name of yellow circled component?,Frequency Synthesizer,yes
+808,18105,2021-07-01 15:20:17 UTC,0.0,What is the name of yellow circled component?,"",no
+832,18127,2021-07-01 18:24:35 UTC,0.0,What is the name of yellow circled component?,"",no
+834,18150,2021-07-17 00:27:18 UTC,0.0,What is the name of yellow circled component?,RF Simplifier,no
+833,18175,2021-07-19 19:54:31 UTC,1.0,What is the name of yellow circled component?,Frequency Synthesizer,yes
+837,18200,2021-09-14 22:07:14 UTC,0.0,What is the name of yellow circled component?,Synthesizer,no
+838,18226,2021-09-15 20:30:05 UTC,0.0,What is the name of yellow circled component?,"",no
+839,18256,2021-10-07 17:33:47 UTC,0.0,What is the name of yellow circled component?,"",no
+852,18278,2021-10-15 01:41:04 UTC,0.0,What is the name of yellow circled component?,Duplexer type thing,no
+853,18300,2021-10-15 17:45:58 UTC,0.0,What is the name of yellow circled component?,Power transmitter,no

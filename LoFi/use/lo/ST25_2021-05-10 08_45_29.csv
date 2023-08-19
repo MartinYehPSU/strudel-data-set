@@ -1,0 +1,341 @@
+subject,subject_group,round,round_start_date_utc,round_start_time_utc,current_time_utc,current_hour24,current_minute,current_second,current_elapsed_seconds,event,ui_tab,active_faults,fixed_faults,fixed_nonfaults,ReplacedComponents,FaultsRemaining,ReplacedNonFaults
+ST25,LO,1,5/11/21,12:45:29,12:45:29,0,45,29,0.05,Make electrical flaw: AFC Amplifier,Front Panel,AFC-Amplifier-(electrical),,,0,1,0
+ST25,LO,1,5/11/21,12:45:29,12:45:29,0,45,29,0.05,Start,Front Panel,AFC-Amplifier-(electrical),,,0,1,0
+ST25,LO,1,5/11/21,12:45:29,12:45:29,0,45,29,0.05,Change tab,Front Panel,AFC-Amplifier-(electrical),,,0,1,0
+ST25,LO,1,5/11/21,12:45:29,12:46:51,0,46,51,82.61,Change tab,Synchronizer,AFC-Amplifier-(electrical),,,0,1,0
+ST25,LO,1,5/11/21,12:45:29,12:46:56,0,46,56,87.66,Change tab,Front Panel,AFC-Amplifier-(electrical),,,0,1,0
+ST25,LO,1,5/11/21,12:45:29,12:47:03,0,47,3,94.65,Change tab,Transmitter,AFC-Amplifier-(electrical),,,0,1,0
+ST25,LO,1,5/11/21,12:45:29,12:47:10,0,47,10,101.06,Click node: 'Stage 2 Modulator',Transmitter,AFC-Amplifier-(electrical),,,0,1,0
+ST25,LO,1,5/11/21,12:45:29,12:47:12,0,47,12,103.16,Replaced unnecessarily Stage 2 Modulator (electrical),Transmitter,AFC-Amplifier-(electrical),,Stage-2-Modulator-(electrical),1,1,1
+ST25,LO,1,5/11/21,12:45:29,12:47:36,0,47,36,126.99,Click node: 'RF Amplifier 2',Transmitter,AFC-Amplifier-(electrical),,Stage-2-Modulator-(electrical),1,1,1
+ST25,LO,1,5/11/21,12:45:29,12:47:37,0,47,37,128.7,Replaced unnecessarily RF Amplifier 2 (electrical),Transmitter,AFC-Amplifier-(electrical),,Stage-2-Modulator-(electrical) RF-Amplifier-2-(electrical),2,1,2
+ST25,LO,1,5/11/21,12:45:29,12:47:44,0,47,44,135.18,Click node: 'Stage 1 Modulator',Transmitter,AFC-Amplifier-(electrical),,Stage-2-Modulator-(electrical) RF-Amplifier-2-(electrical),2,1,2
+ST25,LO,1,5/11/21,12:45:29,12:47:45,0,47,45,136.71,Replaced unnecessarily Stage 1 Modulator (electrical),Transmitter,AFC-Amplifier-(electrical),,Stage-2-Modulator-(electrical) RF-Amplifier-2-(electrical) Stage-1-Modulator-(electrical),3,1,3
+ST25,LO,1,5/11/21,12:45:29,12:47:47,0,47,47,138.01,Click node: 'RF Amplifier 1',Transmitter,AFC-Amplifier-(electrical),,Stage-2-Modulator-(electrical) RF-Amplifier-2-(electrical) Stage-1-Modulator-(electrical),3,1,3
+ST25,LO,1,5/11/21,12:45:29,12:47:48,0,47,48,139.43,Replaced unnecessarily RF Amplifier 1 (electrical),Transmitter,AFC-Amplifier-(electrical),,Stage-2-Modulator-(electrical) RF-Amplifier-2-(electrical) Stage-1-Modulator-(electrical) RF-Amplifier-1-(electrical),4,1,4
+ST25,LO,1,5/11/21,12:45:29,12:47:53,0,47,53,144.46,Change tab,Tracker,AFC-Amplifier-(electrical),,Stage-2-Modulator-(electrical) RF-Amplifier-2-(electrical) Stage-1-Modulator-(electrical) RF-Amplifier-1-(electrical),4,1,4
+ST25,LO,1,5/11/21,12:45:29,12:47:55,0,47,55,146.01,Change tab,Processor,AFC-Amplifier-(electrical),,Stage-2-Modulator-(electrical) RF-Amplifier-2-(electrical) Stage-1-Modulator-(electrical) RF-Amplifier-1-(electrical),4,1,4
+ST25,LO,1,5/11/21,12:45:29,12:47:56,0,47,56,147.87,Click node: 'AFC Amplifier',Processor,AFC-Amplifier-(electrical),,Stage-2-Modulator-(electrical) RF-Amplifier-2-(electrical) Stage-1-Modulator-(electrical) RF-Amplifier-1-(electrical),4,1,4
+ST25,LO,1,5/11/21,12:45:29,12:47:59,0,47,59,150.85,Fixed AFC Amplifier (electrical),Processor,,AFC-Amplifier-(electrical),Stage-2-Modulator-(electrical) RF-Amplifier-2-(electrical) Stage-1-Modulator-(electrical) RF-Amplifier-1-(electrical),5,0,4
+ST25,LO,1,5/11/21,12:45:29,12:48:05,0,48,5,156.7,Change tab,Synchronizer,,AFC-Amplifier-(electrical),Stage-2-Modulator-(electrical) RF-Amplifier-2-(electrical) Stage-1-Modulator-(electrical) RF-Amplifier-1-(electrical),5,0,4
+ST25,LO,1,5/11/21,12:45:29,12:48:06,0,48,6,157.88,Change tab,Transmitter,,AFC-Amplifier-(electrical),Stage-2-Modulator-(electrical) RF-Amplifier-2-(electrical) Stage-1-Modulator-(electrical) RF-Amplifier-1-(electrical),5,0,4
+ST25,LO,1,5/11/21,12:45:29,12:48:08,0,48,8,159.61,Change tab,Processor,,AFC-Amplifier-(electrical),Stage-2-Modulator-(electrical) RF-Amplifier-2-(electrical) Stage-1-Modulator-(electrical) RF-Amplifier-1-(electrical),5,0,4
+ST25,LO,1,5/11/21,12:45:29,12:48:09,0,48,9,160.66,Change tab,Tracker,,AFC-Amplifier-(electrical),Stage-2-Modulator-(electrical) RF-Amplifier-2-(electrical) Stage-1-Modulator-(electrical) RF-Amplifier-1-(electrical),5,0,4
+ST25,LO,1,5/11/21,12:45:29,12:48:10,0,48,10,161.81,Change tab,Indicator,,AFC-Amplifier-(electrical),Stage-2-Modulator-(electrical) RF-Amplifier-2-(electrical) Stage-1-Modulator-(electrical) RF-Amplifier-1-(electrical),5,0,4
+ST25,LO,1,5/11/21,12:45:29,12:48:14,0,48,14,165.07,Change tab,Front Panel,,AFC-Amplifier-(electrical),Stage-2-Modulator-(electrical) RF-Amplifier-2-(electrical) Stage-1-Modulator-(electrical) RF-Amplifier-1-(electrical),5,0,4
+ST25,LO,1,5/11/21,12:45:29,12:48:16,0,48,16,167.32,Change tab,Transmitter,,AFC-Amplifier-(electrical),Stage-2-Modulator-(electrical) RF-Amplifier-2-(electrical) Stage-1-Modulator-(electrical) RF-Amplifier-1-(electrical),5,0,4
+ST25,LO,1,5/11/21,12:45:29,12:48:18,0,48,18,169.25,Click node: 'Stage 1 Modulator',Transmitter,,AFC-Amplifier-(electrical),Stage-2-Modulator-(electrical) RF-Amplifier-2-(electrical) Stage-1-Modulator-(electrical) RF-Amplifier-1-(electrical),5,0,4
+ST25,LO,1,5/11/21,12:45:29,12:48:19,0,48,19,170.9,Replaced unnecessarily Stage 1 Modulator (electrical),Transmitter,,AFC-Amplifier-(electrical),Stage-2-Modulator-(electrical) RF-Amplifier-2-(electrical) Stage-1-Modulator-(electrical) RF-Amplifier-1-(electrical),5,0,4
+ST25,LO,1,5/11/21,12:45:29,12:48:36,0,48,36,187.64,Submit?,Transmitter,,AFC-Amplifier-(electrical),Stage-2-Modulator-(electrical) RF-Amplifier-2-(electrical) Stage-1-Modulator-(electrical) RF-Amplifier-1-(electrical),5,0,4
+ST25,LO,1,5/11/21,12:45:29,12:48:38,0,48,38,189.19,Submit Confirm,Transmitter,,AFC-Amplifier-(electrical),Stage-2-Modulator-(electrical) RF-Amplifier-2-(electrical) Stage-1-Modulator-(electrical) RF-Amplifier-1-(electrical),5,0,4
+ST25,LO,2,5/11/21,12:48:45,12:48:45,0,48,45,0,Change tab,Front Panel,,,,0,0,0
+ST25,LO,2,5/11/21,12:48:45,12:48:45,0,48,45,0,Make electrical flaw: Sweep Generator Circuit,Front Panel,Sweep-Generator-Circuit-(electrical),,,0,1,0
+ST25,LO,2,5/11/21,12:48:45,12:48:45,0,48,45,0,Start,Front Panel,Sweep-Generator-Circuit-(electrical),,,0,1,0
+ST25,LO,2,5/11/21,12:48:45,12:48:55,0,48,55,10.12,Change tab,Indicator,Sweep-Generator-Circuit-(electrical),,,0,1,0
+ST25,LO,2,5/11/21,12:48:45,12:48:59,0,48,59,14.25,Click node: 'Sweep Generator Circuit',Indicator,Sweep-Generator-Circuit-(electrical),,,0,1,0
+ST25,LO,2,5/11/21,12:48:45,12:49:04,0,49,4,19.8,Fixed Sweep Generator Circuit (electrical),Indicator,,Sweep-Generator-Circuit-(electrical),,1,0,0
+ST25,LO,2,5/11/21,12:48:45,12:49:09,0,49,9,23.95,Change tab,Transmitter,,Sweep-Generator-Circuit-(electrical),,1,0,0
+ST25,LO,2,5/11/21,12:48:45,12:49:10,0,49,10,25.21,Change tab,Tracker,,Sweep-Generator-Circuit-(electrical),,1,0,0
+ST25,LO,2,5/11/21,12:48:45,12:49:11,0,49,11,26.76,Change tab,Front Panel,,Sweep-Generator-Circuit-(electrical),,1,0,0
+ST25,LO,2,5/11/21,12:48:45,12:49:14,0,49,14,29.52,Change tab,Transmitter,,Sweep-Generator-Circuit-(electrical),,1,0,0
+ST25,LO,2,5/11/21,12:48:45,12:49:38,0,49,38,53.7,Click node: 'Stage 2 Modulator',Transmitter,,Sweep-Generator-Circuit-(electrical),,1,0,0
+ST25,LO,2,5/11/21,12:48:45,12:49:40,0,49,40,55.55,Replaced unnecessarily Stage 2 Modulator (electrical),Transmitter,,Sweep-Generator-Circuit-(electrical),Stage-2-Modulator-(electrical),2,0,1
+ST25,LO,2,5/11/21,12:48:45,12:49:45,0,49,45,60.1,Click node: 'RF Amplifier 2',Transmitter,,Sweep-Generator-Circuit-(electrical),Stage-2-Modulator-(electrical),2,0,1
+ST25,LO,2,5/11/21,12:48:45,12:49:47,0,49,47,62.31,Replaced unnecessarily RF Amplifier 2 (electrical),Transmitter,,Sweep-Generator-Circuit-(electrical),Stage-2-Modulator-(electrical) RF-Amplifier-2-(electrical),3,0,2
+ST25,LO,2,5/11/21,12:48:45,12:49:57,0,49,57,72.8,Click node: 'Stage 2 Modulator',Transmitter,,Sweep-Generator-Circuit-(electrical),Stage-2-Modulator-(electrical) RF-Amplifier-2-(electrical),3,0,2
+ST25,LO,2,5/11/21,12:48:45,12:49:59,0,49,59,74.37,Replaced unnecessarily Stage 2 Modulator (electrical),Transmitter,,Sweep-Generator-Circuit-(electrical),Stage-2-Modulator-(electrical) RF-Amplifier-2-(electrical),3,0,2
+ST25,LO,2,5/11/21,12:48:45,12:50:01,0,50,1,76.85,Click node: 'RF Amplifier 1',Transmitter,,Sweep-Generator-Circuit-(electrical),Stage-2-Modulator-(electrical) RF-Amplifier-2-(electrical),3,0,2
+ST25,LO,2,5/11/21,12:48:45,12:50:05,0,50,5,80.16,Cancel window: 'RF Amplifier 1',Transmitter,,Sweep-Generator-Circuit-(electrical),Stage-2-Modulator-(electrical) RF-Amplifier-2-(electrical),3,0,2
+ST25,LO,2,5/11/21,12:48:45,12:50:06,0,50,6,81.3,Click node: 'Stage 1 Modulator',Transmitter,,Sweep-Generator-Circuit-(electrical),Stage-2-Modulator-(electrical) RF-Amplifier-2-(electrical),3,0,2
+ST25,LO,2,5/11/21,12:48:45,12:50:07,0,50,7,82.43,Replaced unnecessarily Stage 1 Modulator (electrical),Transmitter,,Sweep-Generator-Circuit-(electrical),Stage-2-Modulator-(electrical) RF-Amplifier-2-(electrical) Stage-1-Modulator-(electrical),4,0,3
+ST25,LO,2,5/11/21,12:48:45,12:50:10,0,50,10,85.03,Submit?,Transmitter,,Sweep-Generator-Circuit-(electrical),Stage-2-Modulator-(electrical) RF-Amplifier-2-(electrical) Stage-1-Modulator-(electrical),4,0,3
+ST25,LO,2,5/11/21,12:48:45,12:50:11,0,50,11,86.32,Submit Confirm,Transmitter,,Sweep-Generator-Circuit-(electrical),Stage-2-Modulator-(electrical) RF-Amplifier-2-(electrical) Stage-1-Modulator-(electrical),4,0,3
+ST25,LO,3,5/11/21,12:50:13,12:50:13,0,50,13,0,Change tab,Front Panel,,,,0,0,0
+ST25,LO,3,5/11/21,12:50:13,12:50:13,0,50,13,0,Make electrical flaw: Stage 2 Modulator,Front Panel,Stage-2-Modulator-(electrical),,,0,1,0
+ST25,LO,3,5/11/21,12:50:13,12:50:13,0,50,13,0,Start,Front Panel,Stage-2-Modulator-(electrical),,,0,1,0
+ST25,LO,3,5/11/21,12:50:13,12:50:18,0,50,18,4.8,Change tab,Tracker,Stage-2-Modulator-(electrical),,,0,1,0
+ST25,LO,3,5/11/21,12:50:13,12:50:29,0,50,29,16.1,Click node: 'Transmitter Antenna',Tracker,Stage-2-Modulator-(electrical),,,0,1,0
+ST25,LO,3,5/11/21,12:50:13,12:50:31,0,50,31,17.7,Replaced unnecessarily Transmitter Antenna (electrical),Tracker,Stage-2-Modulator-(electrical),,Transmitter-Antenna-(electrical),1,1,1
+ST25,LO,3,5/11/21,12:50:13,12:50:36,0,50,36,22.88,Click node: 'Transmitter Transmission Line',Tracker,Stage-2-Modulator-(electrical),,Transmitter-Antenna-(electrical),1,1,1
+ST25,LO,3,5/11/21,12:50:13,12:50:37,0,50,37,24.06,Replaced unnecessarily Transmitter Transmission Line (electrical),Tracker,Stage-2-Modulator-(electrical),,Transmitter-Antenna-(electrical) Transmitter-Transmission-Line-(electrical),2,1,2
+ST25,LO,3,5/11/21,12:50:13,12:50:42,0,50,42,29.21,Change tab,Front Panel,Stage-2-Modulator-(electrical),,Transmitter-Antenna-(electrical) Transmitter-Transmission-Line-(electrical),2,1,2
+ST25,LO,3,5/11/21,12:50:13,12:50:44,0,50,44,31.27,Change tab,Transmitter,Stage-2-Modulator-(electrical),,Transmitter-Antenna-(electrical) Transmitter-Transmission-Line-(electrical),2,1,2
+ST25,LO,3,5/11/21,12:50:13,12:50:47,0,50,47,33.94,Click node: 'Stage 1 Modulator',Transmitter,Stage-2-Modulator-(electrical),,Transmitter-Antenna-(electrical) Transmitter-Transmission-Line-(electrical),2,1,2
+ST25,LO,3,5/11/21,12:50:13,12:50:49,0,50,49,35.34,Replaced unnecessarily Stage 1 Modulator (electrical),Transmitter,Stage-2-Modulator-(electrical),,Transmitter-Antenna-(electrical) Transmitter-Transmission-Line-(electrical) Stage-1-Modulator-(electrical),3,1,3
+ST25,LO,3,5/11/21,12:50:13,12:50:52,0,50,52,38.43,Submit?,Transmitter,Stage-2-Modulator-(electrical),,Transmitter-Antenna-(electrical) Transmitter-Transmission-Line-(electrical) Stage-1-Modulator-(electrical),3,1,3
+ST25,LO,3,5/11/21,12:50:13,12:50:53,0,50,53,39.75,Submit Confirm,Transmitter,Stage-2-Modulator-(electrical),,Transmitter-Antenna-(electrical) Transmitter-Transmission-Line-(electrical) Stage-1-Modulator-(electrical),3,1,3
+ST25,LO,4,5/11/21,12:50:54,12:50:54,0,50,54,0,Change tab,Front Panel,,,,0,0,0
+ST25,LO,4,5/11/21,12:50:54,12:50:54,0,50,54,0,Make electrical flaw: Duplexer,Front Panel,Duplexer-(electrical),,,0,1,0
+ST25,LO,4,5/11/21,12:50:54,12:50:54,0,50,54,0,Start,Front Panel,Duplexer-(electrical),,,0,1,0
+ST25,LO,4,5/11/21,12:50:54,12:50:58,0,50,58,3.91,Change tab,Tracker,Duplexer-(electrical),,,0,1,0
+ST25,LO,4,5/11/21,12:50:54,12:51:00,0,51,0,5.33,Change tab,Transmitter,Duplexer-(electrical),,,0,1,0
+ST25,LO,4,5/11/21,12:50:54,12:51:13,0,51,13,18.07,Click node: 'Stage 1 Modulator',Transmitter,Duplexer-(electrical),,,0,1,0
+ST25,LO,4,5/11/21,12:50:54,12:51:15,0,51,15,20.1,Replaced unnecessarily Stage 1 Modulator (electrical),Transmitter,Duplexer-(electrical),,Stage-1-Modulator-(electrical),1,1,1
+ST25,LO,4,5/11/21,12:50:54,12:51:18,0,51,18,23.1,Click node: 'RF Amplifier 1',Transmitter,Duplexer-(electrical),,Stage-1-Modulator-(electrical),1,1,1
+ST25,LO,4,5/11/21,12:50:54,12:51:19,0,51,19,24.71,Replaced unnecessarily RF Amplifier 1 (electrical),Transmitter,Duplexer-(electrical),,Stage-1-Modulator-(electrical) RF-Amplifier-1-(electrical),2,1,2
+ST25,LO,4,5/11/21,12:50:54,12:51:21,0,51,21,26.29,Change tab,Front Panel,Duplexer-(electrical),,Stage-1-Modulator-(electrical) RF-Amplifier-1-(electrical),2,1,2
+ST25,LO,4,5/11/21,12:50:54,12:51:22,0,51,22,27.89,Change tab,Synchronizer,Duplexer-(electrical),,Stage-1-Modulator-(electrical) RF-Amplifier-1-(electrical),2,1,2
+ST25,LO,4,5/11/21,12:50:54,12:51:25,0,51,25,30.81,Change tab,Transmitter,Duplexer-(electrical),,Stage-1-Modulator-(electrical) RF-Amplifier-1-(electrical),2,1,2
+ST25,LO,4,5/11/21,12:50:54,12:51:40,0,51,40,45.98,Click node: 'Stage 3 Modulator',Transmitter,Duplexer-(electrical),,Stage-1-Modulator-(electrical) RF-Amplifier-1-(electrical),2,1,2
+ST25,LO,4,5/11/21,12:50:54,12:51:42,0,51,42,47.23,Replaced unnecessarily Stage 3 Modulator (electrical),Transmitter,Duplexer-(electrical),,Stage-1-Modulator-(electrical) RF-Amplifier-1-(electrical) Stage-3-Modulator-(electrical),3,1,3
+ST25,LO,4,5/11/21,12:50:54,12:51:43,0,51,43,48.42,Click node: 'RF Amplifier 3',Transmitter,Duplexer-(electrical),,Stage-1-Modulator-(electrical) RF-Amplifier-1-(electrical) Stage-3-Modulator-(electrical),3,1,3
+ST25,LO,4,5/11/21,12:50:54,12:51:44,0,51,44,49.79,Replaced unnecessarily RF Amplifier 3 (electrical),Transmitter,Duplexer-(electrical),,Stage-1-Modulator-(electrical) RF-Amplifier-1-(electrical) Stage-3-Modulator-(electrical) RF-Amplifier-3-(electrical),4,1,4
+ST25,LO,4,5/11/21,12:50:54,12:51:46,0,51,46,51.54,Change tab,Tracker,Duplexer-(electrical),,Stage-1-Modulator-(electrical) RF-Amplifier-1-(electrical) Stage-3-Modulator-(electrical) RF-Amplifier-3-(electrical),4,1,4
+ST25,LO,4,5/11/21,12:50:54,12:51:48,0,51,48,53.9,Click node: 'Duplexer',Tracker,Duplexer-(electrical),,Stage-1-Modulator-(electrical) RF-Amplifier-1-(electrical) Stage-3-Modulator-(electrical) RF-Amplifier-3-(electrical),4,1,4
+ST25,LO,4,5/11/21,12:50:54,12:51:50,0,51,50,55.2,Fixed Duplexer (electrical),Tracker,,Duplexer-(electrical),Stage-1-Modulator-(electrical) RF-Amplifier-1-(electrical) Stage-3-Modulator-(electrical) RF-Amplifier-3-(electrical),5,0,4
+ST25,LO,4,5/11/21,12:50:54,12:52:02,0,52,2,67.44,Change tab,Synchronizer,,Duplexer-(electrical),Stage-1-Modulator-(electrical) RF-Amplifier-1-(electrical) Stage-3-Modulator-(electrical) RF-Amplifier-3-(electrical),5,0,4
+ST25,LO,4,5/11/21,12:50:54,12:52:03,0,52,3,68.19,Change tab,Transmitter,,Duplexer-(electrical),Stage-1-Modulator-(electrical) RF-Amplifier-1-(electrical) Stage-3-Modulator-(electrical) RF-Amplifier-3-(electrical),5,0,4
+ST25,LO,4,5/11/21,12:50:54,12:52:05,0,52,5,70.79,Click node: 'Frequency Synthesizer',Transmitter,,Duplexer-(electrical),Stage-1-Modulator-(electrical) RF-Amplifier-1-(electrical) Stage-3-Modulator-(electrical) RF-Amplifier-3-(electrical),5,0,4
+ST25,LO,4,5/11/21,12:50:54,12:52:08,0,52,8,73.32,Replaced unnecessarily Frequency Synthesizer (electrical),Transmitter,,Duplexer-(electrical),Stage-1-Modulator-(electrical) RF-Amplifier-1-(electrical) Stage-3-Modulator-(electrical) RF-Amplifier-3-(electrical) Frequency-Synthesizer-(electrical),6,0,5
+ST25,LO,4,5/11/21,12:50:54,12:52:11,0,52,11,76.83,Change tab,Tracker,,Duplexer-(electrical),Stage-1-Modulator-(electrical) RF-Amplifier-1-(electrical) Stage-3-Modulator-(electrical) RF-Amplifier-3-(electrical) Frequency-Synthesizer-(electrical),6,0,5
+ST25,LO,4,5/11/21,12:50:54,12:52:12,0,52,12,77.68,Change tab,Processor,,Duplexer-(electrical),Stage-1-Modulator-(electrical) RF-Amplifier-1-(electrical) Stage-3-Modulator-(electrical) RF-Amplifier-3-(electrical) Frequency-Synthesizer-(electrical),6,0,5
+ST25,LO,4,5/11/21,12:50:54,12:52:14,0,52,14,79.43,Change tab,Indicator,,Duplexer-(electrical),Stage-1-Modulator-(electrical) RF-Amplifier-1-(electrical) Stage-3-Modulator-(electrical) RF-Amplifier-3-(electrical) Frequency-Synthesizer-(electrical),6,0,5
+ST25,LO,4,5/11/21,12:50:54,12:52:17,0,52,17,82.23,Submit?,Indicator,,Duplexer-(electrical),Stage-1-Modulator-(electrical) RF-Amplifier-1-(electrical) Stage-3-Modulator-(electrical) RF-Amplifier-3-(electrical) Frequency-Synthesizer-(electrical),6,0,5
+ST25,LO,4,5/11/21,12:50:54,12:52:19,0,52,19,84.16,Submit Confirm,Indicator,,Duplexer-(electrical),Stage-1-Modulator-(electrical) RF-Amplifier-1-(electrical) Stage-3-Modulator-(electrical) RF-Amplifier-3-(electrical) Frequency-Synthesizer-(electrical),6,0,5
+ST25,LO,5,5/11/21,12:52:20,12:52:20,0,52,20,0,Change tab,Front Panel,,,,0,0,0
+ST25,LO,5,5/11/21,12:52:20,12:52:20,0,52,20,0,Make electrical flaw: Sweep Control Circuit,Front Panel,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST25,LO,5,5/11/21,12:52:20,12:52:20,0,52,20,0,Start,Front Panel,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST25,LO,5,5/11/21,12:52:20,12:52:24,0,52,24,4.05,Change tab,Transmitter,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST25,LO,5,5/11/21,12:52:20,12:52:51,0,52,51,30.94,Click node: 'RF Amplifier 2',Transmitter,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST25,LO,5,5/11/21,12:52:20,12:52:52,0,52,52,32.44,Replaced unnecessarily RF Amplifier 2 (electrical),Transmitter,Sweep-Control-Circuit-(electrical),,RF-Amplifier-2-(electrical),1,1,1
+ST25,LO,5,5/11/21,12:52:20,12:52:55,0,52,55,34.95,Click node: 'Stage 2 Modulator',Transmitter,Sweep-Control-Circuit-(electrical),,RF-Amplifier-2-(electrical),1,1,1
+ST25,LO,5,5/11/21,12:52:20,12:52:56,0,52,56,36.15,Replaced unnecessarily Stage 2 Modulator (electrical),Transmitter,Sweep-Control-Circuit-(electrical),,RF-Amplifier-2-(electrical) Stage-2-Modulator-(electrical),2,1,2
+ST25,LO,5,5/11/21,12:52:20,12:52:57,0,52,57,37.5,Click node: 'RF Amplifier 1',Transmitter,Sweep-Control-Circuit-(electrical),,RF-Amplifier-2-(electrical) Stage-2-Modulator-(electrical),2,1,2
+ST25,LO,5,5/11/21,12:52:20,12:52:59,0,52,59,38.92,Replaced unnecessarily RF Amplifier 1 (electrical),Transmitter,Sweep-Control-Circuit-(electrical),,RF-Amplifier-2-(electrical) Stage-2-Modulator-(electrical) RF-Amplifier-1-(electrical),3,1,3
+ST25,LO,5,5/11/21,12:52:20,12:53:00,0,53,0,40.33,Click node: 'Stage 1 Modulator',Transmitter,Sweep-Control-Circuit-(electrical),,RF-Amplifier-2-(electrical) Stage-2-Modulator-(electrical) RF-Amplifier-1-(electrical),3,1,3
+ST25,LO,5,5/11/21,12:52:20,12:53:02,0,53,2,41.61,Replaced unnecessarily Stage 1 Modulator (electrical),Transmitter,Sweep-Control-Circuit-(electrical),,RF-Amplifier-2-(electrical) Stage-2-Modulator-(electrical) RF-Amplifier-1-(electrical) Stage-1-Modulator-(electrical),4,1,4
+ST25,LO,5,5/11/21,12:52:20,12:53:04,0,53,4,44.01,Submit?,Transmitter,Sweep-Control-Circuit-(electrical),,RF-Amplifier-2-(electrical) Stage-2-Modulator-(electrical) RF-Amplifier-1-(electrical) Stage-1-Modulator-(electrical),4,1,4
+ST25,LO,5,5/11/21,12:52:20,12:53:05,0,53,5,45.36,Submit Confirm,Transmitter,Sweep-Control-Circuit-(electrical),,RF-Amplifier-2-(electrical) Stage-2-Modulator-(electrical) RF-Amplifier-1-(electrical) Stage-1-Modulator-(electrical),4,1,4
+ST25,LO,6,5/11/21,12:53:07,12:53:07,0,53,7,0,Change tab,Front Panel,,,,0,0,0
+ST25,LO,6,5/11/21,12:53:07,12:53:07,0,53,7,0,Make electrical flaw: Receiver Transmission Line,Front Panel,Receiver-Transmission-Line-(electrical),,,0,1,0
+ST25,LO,6,5/11/21,12:53:07,12:53:07,0,53,7,0,Start,Front Panel,Receiver-Transmission-Line-(electrical),,,0,1,0
+ST25,LO,6,5/11/21,12:53:07,12:53:11,0,53,11,4.01,Change tab,Processor,Receiver-Transmission-Line-(electrical),,,0,1,0
+ST25,LO,6,5/11/21,12:53:07,12:53:37,0,53,37,30.56,Click node: 'Low Noise RF Amplifier',Processor,Receiver-Transmission-Line-(electrical),,,0,1,0
+ST25,LO,6,5/11/21,12:53:07,12:53:38,0,53,38,31.74,Replaced unnecessarily Low Noise RF Amplifier (electrical),Processor,Receiver-Transmission-Line-(electrical),,Low-Noise-RF-Amplifier-(electrical),1,1,1
+ST25,LO,6,5/11/21,12:53:07,12:53:40,0,53,40,33.34,Click node: 'Mixer Detector',Processor,Receiver-Transmission-Line-(electrical),,Low-Noise-RF-Amplifier-(electrical),1,1,1
+ST25,LO,6,5/11/21,12:53:07,12:53:42,0,53,42,35.3,Replaced unnecessarily Mixer Detector (electrical),Processor,Receiver-Transmission-Line-(electrical),,Low-Noise-RF-Amplifier-(electrical) Mixer-Detector-(electrical),2,1,2
+ST25,LO,6,5/11/21,12:53:07,12:53:43,0,53,43,36.55,Click node: 'Video Detector',Processor,Receiver-Transmission-Line-(electrical),,Low-Noise-RF-Amplifier-(electrical) Mixer-Detector-(electrical),2,1,2
+ST25,LO,6,5/11/21,12:53:07,12:53:44,0,53,44,37.65,Replaced unnecessarily Video Detector (electrical),Processor,Receiver-Transmission-Line-(electrical),,Low-Noise-RF-Amplifier-(electrical) Mixer-Detector-(electrical) Video-Detector-(electrical),3,1,3
+ST25,LO,6,5/11/21,12:53:07,12:53:45,0,53,45,38.87,Click node: 'Video Amplifier',Processor,Receiver-Transmission-Line-(electrical),,Low-Noise-RF-Amplifier-(electrical) Mixer-Detector-(electrical) Video-Detector-(electrical),3,1,3
+ST25,LO,6,5/11/21,12:53:07,12:53:46,0,53,46,39.95,Replaced unnecessarily Video Amplifier (electrical),Processor,Receiver-Transmission-Line-(electrical),,Low-Noise-RF-Amplifier-(electrical) Mixer-Detector-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical),4,1,4
+ST25,LO,6,5/11/21,12:53:07,12:53:47,0,53,47,40.83,Click node: 'IF Amplifier',Processor,Receiver-Transmission-Line-(electrical),,Low-Noise-RF-Amplifier-(electrical) Mixer-Detector-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical),4,1,4
+ST25,LO,6,5/11/21,12:53:07,12:53:48,0,53,48,41.75,Replaced unnecessarily IF Amplifier (electrical),Processor,Receiver-Transmission-Line-(electrical),,Low-Noise-RF-Amplifier-(electrical) Mixer-Detector-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical) IF-Amplifier-(electrical),5,1,5
+ST25,LO,6,5/11/21,12:53:07,12:53:52,0,53,52,45.04,Change tab,Transmitter,Receiver-Transmission-Line-(electrical),,Low-Noise-RF-Amplifier-(electrical) Mixer-Detector-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical) IF-Amplifier-(electrical),5,1,5
+ST25,LO,6,5/11/21,12:53:07,12:53:52,0,53,52,45.79,Change tab,Tracker,Receiver-Transmission-Line-(electrical),,Low-Noise-RF-Amplifier-(electrical) Mixer-Detector-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical) IF-Amplifier-(electrical),5,1,5
+ST25,LO,6,5/11/21,12:53:07,12:53:56,0,53,56,49.57,Click node: 'Duplexer Bypass',Tracker,Receiver-Transmission-Line-(electrical),,Low-Noise-RF-Amplifier-(electrical) Mixer-Detector-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical) IF-Amplifier-(electrical),5,1,5
+ST25,LO,6,5/11/21,12:53:07,12:53:57,0,53,57,50.64,Replaced unnecessarily Duplexer Bypass (electrical),Tracker,Receiver-Transmission-Line-(electrical),,Low-Noise-RF-Amplifier-(electrical) Mixer-Detector-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical) IF-Amplifier-(electrical) Duplexer-Bypass-(electrical),6,1,6
+ST25,LO,6,5/11/21,12:53:07,12:53:59,0,53,59,52.37,Click node: 'Receiver Transmission Line',Tracker,Receiver-Transmission-Line-(electrical),,Low-Noise-RF-Amplifier-(electrical) Mixer-Detector-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical) IF-Amplifier-(electrical) Duplexer-Bypass-(electrical),6,1,6
+ST25,LO,6,5/11/21,12:53:07,12:54:00,0,54,0,53.35,Fixed Receiver Transmission Line (electrical),Tracker,,Receiver-Transmission-Line-(electrical),Low-Noise-RF-Amplifier-(electrical) Mixer-Detector-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical) IF-Amplifier-(electrical) Duplexer-Bypass-(electrical),7,0,6
+ST25,LO,6,5/11/21,12:53:07,12:54:02,0,54,2,55.78,Change tab,Transmitter,,Receiver-Transmission-Line-(electrical),Low-Noise-RF-Amplifier-(electrical) Mixer-Detector-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical) IF-Amplifier-(electrical) Duplexer-Bypass-(electrical),7,0,6
+ST25,LO,6,5/11/21,12:53:07,12:54:06,0,54,6,59.68,Click node: 'Stage 1 Modulator',Transmitter,,Receiver-Transmission-Line-(electrical),Low-Noise-RF-Amplifier-(electrical) Mixer-Detector-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical) IF-Amplifier-(electrical) Duplexer-Bypass-(electrical),7,0,6
+ST25,LO,6,5/11/21,12:53:07,12:54:07,0,54,7,60.86,Replaced unnecessarily Stage 1 Modulator (electrical),Transmitter,,Receiver-Transmission-Line-(electrical),Low-Noise-RF-Amplifier-(electrical) Mixer-Detector-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical) IF-Amplifier-(electrical) Duplexer-Bypass-(electrical) Stage-1-Modulator-(electrical),8,0,7
+ST25,LO,6,5/11/21,12:53:07,12:54:09,0,54,9,62.65,Click node: 'RF Amplifier 1',Transmitter,,Receiver-Transmission-Line-(electrical),Low-Noise-RF-Amplifier-(electrical) Mixer-Detector-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical) IF-Amplifier-(electrical) Duplexer-Bypass-(electrical) Stage-1-Modulator-(electrical),8,0,7
+ST25,LO,6,5/11/21,12:53:07,12:54:10,0,54,10,63.91,Replaced unnecessarily RF Amplifier 1 (electrical),Transmitter,,Receiver-Transmission-Line-(electrical),Low-Noise-RF-Amplifier-(electrical) Mixer-Detector-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical) IF-Amplifier-(electrical) Duplexer-Bypass-(electrical) Stage-1-Modulator-(electrical) RF-Amplifier-1-(electrical),9,0,8
+ST25,LO,6,5/11/21,12:53:07,12:54:17,0,54,17,70.47,Change tab,Synchronizer,,Receiver-Transmission-Line-(electrical),Low-Noise-RF-Amplifier-(electrical) Mixer-Detector-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical) IF-Amplifier-(electrical) Duplexer-Bypass-(electrical) Stage-1-Modulator-(electrical) RF-Amplifier-1-(electrical),9,0,8
+ST25,LO,6,5/11/21,12:53:07,12:54:24,0,54,24,77.67,Change tab,Transmitter,,Receiver-Transmission-Line-(electrical),Low-Noise-RF-Amplifier-(electrical) Mixer-Detector-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical) IF-Amplifier-(electrical) Duplexer-Bypass-(electrical) Stage-1-Modulator-(electrical) RF-Amplifier-1-(electrical),9,0,8
+ST25,LO,6,5/11/21,12:53:07,12:54:26,0,54,26,79.76,Change tab,Front Panel,,Receiver-Transmission-Line-(electrical),Low-Noise-RF-Amplifier-(electrical) Mixer-Detector-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical) IF-Amplifier-(electrical) Duplexer-Bypass-(electrical) Stage-1-Modulator-(electrical) RF-Amplifier-1-(electrical),9,0,8
+ST25,LO,6,5/11/21,12:53:07,12:54:28,0,54,28,81.3,Change tab,Transmitter,,Receiver-Transmission-Line-(electrical),Low-Noise-RF-Amplifier-(electrical) Mixer-Detector-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical) IF-Amplifier-(electrical) Duplexer-Bypass-(electrical) Stage-1-Modulator-(electrical) RF-Amplifier-1-(electrical),9,0,8
+ST25,LO,6,5/11/21,12:53:07,12:54:30,0,54,30,83.53,Click node: 'RF Amplifier 2',Transmitter,,Receiver-Transmission-Line-(electrical),Low-Noise-RF-Amplifier-(electrical) Mixer-Detector-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical) IF-Amplifier-(electrical) Duplexer-Bypass-(electrical) Stage-1-Modulator-(electrical) RF-Amplifier-1-(electrical),9,0,8
+ST25,LO,6,5/11/21,12:53:07,12:54:31,0,54,31,84.93,Replaced unnecessarily RF Amplifier 2 (electrical),Transmitter,,Receiver-Transmission-Line-(electrical),Low-Noise-RF-Amplifier-(electrical) Mixer-Detector-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical) IF-Amplifier-(electrical) Duplexer-Bypass-(electrical) Stage-1-Modulator-(electrical) RF-Amplifier-1-(electrical) RF-Amplifier-2-(electrical),10,0,9
+ST25,LO,6,5/11/21,12:53:07,12:54:34,0,54,34,87.11,Change tab,Tracker,,Receiver-Transmission-Line-(electrical),Low-Noise-RF-Amplifier-(electrical) Mixer-Detector-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical) IF-Amplifier-(electrical) Duplexer-Bypass-(electrical) Stage-1-Modulator-(electrical) RF-Amplifier-1-(electrical) RF-Amplifier-2-(electrical),10,0,9
+ST25,LO,6,5/11/21,12:53:07,12:54:35,0,54,35,88.47,Submit?,Tracker,,Receiver-Transmission-Line-(electrical),Low-Noise-RF-Amplifier-(electrical) Mixer-Detector-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical) IF-Amplifier-(electrical) Duplexer-Bypass-(electrical) Stage-1-Modulator-(electrical) RF-Amplifier-1-(electrical) RF-Amplifier-2-(electrical),10,0,9
+ST25,LO,6,5/11/21,12:53:07,12:54:36,0,54,36,89.64,Submit Confirm,Tracker,,Receiver-Transmission-Line-(electrical),Low-Noise-RF-Amplifier-(electrical) Mixer-Detector-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical) IF-Amplifier-(electrical) Duplexer-Bypass-(electrical) Stage-1-Modulator-(electrical) RF-Amplifier-1-(electrical) RF-Amplifier-2-(electrical),10,0,9
+ST25,LO,7,5/11/21,12:54:37,12:54:37,0,54,37,0,Change tab,Front Panel,,,,0,0,0
+ST25,LO,7,5/11/21,12:54:37,12:54:37,0,54,37,0,Make electrical flaw: Overdriven Amplifier,Front Panel,Overdriven-Amplifier-(electrical),,,0,1,0
+ST25,LO,7,5/11/21,12:54:37,12:54:37,0,54,37,0,Start,Front Panel,Overdriven-Amplifier-(electrical),,,0,1,0
+ST25,LO,7,5/11/21,12:54:37,12:54:42,0,54,42,4.3,Change tab,Synchronizer,Overdriven-Amplifier-(electrical),,,0,1,0
+ST25,LO,7,5/11/21,12:54:37,12:54:56,0,54,56,18.88,Click node: 'Overdriven Amplifier',Synchronizer,Overdriven-Amplifier-(electrical),,,0,1,0
+ST25,LO,7,5/11/21,12:54:37,12:54:58,0,54,58,20.15,Fixed Overdriven Amplifier (electrical),Synchronizer,,Overdriven-Amplifier-(electrical),,1,0,0
+ST25,LO,7,5/11/21,12:54:37,12:55:00,0,55,0,22.76,Change tab,Transmitter,,Overdriven-Amplifier-(electrical),,1,0,0
+ST25,LO,7,5/11/21,12:54:37,12:55:04,0,55,4,26.81,Click node: 'Stage 1 Modulator',Transmitter,,Overdriven-Amplifier-(electrical),,1,0,0
+ST25,LO,7,5/11/21,12:54:37,12:55:06,0,55,6,28.56,Replaced unnecessarily Stage 1 Modulator (electrical),Transmitter,,Overdriven-Amplifier-(electrical),Stage-1-Modulator-(electrical),2,0,1
+ST25,LO,7,5/11/21,12:54:37,12:55:08,0,55,8,30.37,Click node: 'Stage 3 Modulator',Transmitter,,Overdriven-Amplifier-(electrical),Stage-1-Modulator-(electrical),2,0,1
+ST25,LO,7,5/11/21,12:54:37,12:55:09,0,55,9,31.64,Replaced unnecessarily Stage 3 Modulator (electrical),Transmitter,,Overdriven-Amplifier-(electrical),Stage-1-Modulator-(electrical) Stage-3-Modulator-(electrical),3,0,2
+ST25,LO,7,5/11/21,12:54:37,12:55:10,0,55,10,32.97,Click node: 'RF Amplifier 3',Transmitter,,Overdriven-Amplifier-(electrical),Stage-1-Modulator-(electrical) Stage-3-Modulator-(electrical),3,0,2
+ST25,LO,7,5/11/21,12:54:37,12:55:12,0,55,12,34.35,Replaced unnecessarily RF Amplifier 3 (electrical),Transmitter,,Overdriven-Amplifier-(electrical),Stage-1-Modulator-(electrical) Stage-3-Modulator-(electrical) RF-Amplifier-3-(electrical),4,0,3
+ST25,LO,7,5/11/21,12:54:37,12:55:13,0,55,13,35.59,Click node: 'RF Amplifier 1',Transmitter,,Overdriven-Amplifier-(electrical),Stage-1-Modulator-(electrical) Stage-3-Modulator-(electrical) RF-Amplifier-3-(electrical),4,0,3
+ST25,LO,7,5/11/21,12:54:37,12:55:14,0,55,14,36.67,Replaced unnecessarily RF Amplifier 1 (electrical),Transmitter,,Overdriven-Amplifier-(electrical),Stage-1-Modulator-(electrical) Stage-3-Modulator-(electrical) RF-Amplifier-3-(electrical) RF-Amplifier-1-(electrical),5,0,4
+ST25,LO,7,5/11/21,12:54:37,12:55:16,0,55,16,38.57,Change tab,Tracker,,Overdriven-Amplifier-(electrical),Stage-1-Modulator-(electrical) Stage-3-Modulator-(electrical) RF-Amplifier-3-(electrical) RF-Amplifier-1-(electrical),5,0,4
+ST25,LO,7,5/11/21,12:54:37,12:55:18,0,55,18,40.6,Change tab,Processor,,Overdriven-Amplifier-(electrical),Stage-1-Modulator-(electrical) Stage-3-Modulator-(electrical) RF-Amplifier-3-(electrical) RF-Amplifier-1-(electrical),5,0,4
+ST25,LO,7,5/11/21,12:54:37,12:55:20,0,55,20,42.23,Change tab,Indicator,,Overdriven-Amplifier-(electrical),Stage-1-Modulator-(electrical) Stage-3-Modulator-(electrical) RF-Amplifier-3-(electrical) RF-Amplifier-1-(electrical),5,0,4
+ST25,LO,7,5/11/21,12:54:37,12:55:22,0,55,22,44.46,Submit?,Indicator,,Overdriven-Amplifier-(electrical),Stage-1-Modulator-(electrical) Stage-3-Modulator-(electrical) RF-Amplifier-3-(electrical) RF-Amplifier-1-(electrical),5,0,4
+ST25,LO,7,5/11/21,12:54:37,12:55:23,0,55,23,45.74,Submit Confirm,Indicator,,Overdriven-Amplifier-(electrical),Stage-1-Modulator-(electrical) Stage-3-Modulator-(electrical) RF-Amplifier-3-(electrical) RF-Amplifier-1-(electrical),5,0,4
+ST25,LO,8,5/11/21,12:55:26,12:55:26,0,55,26,0,Change tab,Front Panel,,,,0,0,0
+ST25,LO,8,5/11/21,12:55:26,12:55:26,0,55,26,0,Make electrical flaw: RF Amplifier 1,Front Panel,RF-Amplifier-1-(electrical),,,0,1,0
+ST25,LO,8,5/11/21,12:55:26,12:55:26,0,55,26,0,Start,Front Panel,RF-Amplifier-1-(electrical),,,0,1,0
+ST25,LO,8,5/11/21,12:55:26,12:55:32,0,55,32,5.1,Change tab,Synchronizer,RF-Amplifier-1-(electrical),,,0,1,0
+ST25,LO,8,5/11/21,12:55:26,12:55:32,0,55,32,5.81,Change tab,Transmitter,RF-Amplifier-1-(electrical),,,0,1,0
+ST25,LO,8,5/11/21,12:55:26,12:55:37,0,55,37,10.22,Click node: 'RF Amplifier 1',Transmitter,RF-Amplifier-1-(electrical),,,0,1,0
+ST25,LO,8,5/11/21,12:55:26,12:55:38,0,55,38,11.46,Fixed RF Amplifier 1 (electrical),Transmitter,,RF-Amplifier-1-(electrical),,1,0,0
+ST25,LO,8,5/11/21,12:55:26,12:55:40,0,55,40,13.27,Click node: 'Stage 2 Modulator',Transmitter,,RF-Amplifier-1-(electrical),,1,0,0
+ST25,LO,8,5/11/21,12:55:26,12:55:41,0,55,41,14.47,Replaced unnecessarily Stage 2 Modulator (electrical),Transmitter,,RF-Amplifier-1-(electrical),Stage-2-Modulator-(electrical),2,0,1
+ST25,LO,8,5/11/21,12:55:26,12:56:06,0,56,6,39.37,Click node: 'Stage 2 Modulator',Transmitter,,RF-Amplifier-1-(electrical),Stage-2-Modulator-(electrical),2,0,1
+ST25,LO,8,5/11/21,12:55:26,12:56:09,0,56,9,42.96,Replaced unnecessarily Stage 2 Modulator (electrical),Transmitter,,RF-Amplifier-1-(electrical),Stage-2-Modulator-(electrical),2,0,1
+ST25,LO,8,5/11/21,12:55:26,12:56:12,0,56,12,45.61,Click node: 'RF Amplifier 2',Transmitter,,RF-Amplifier-1-(electrical),Stage-2-Modulator-(electrical),2,0,1
+ST25,LO,8,5/11/21,12:55:26,12:56:14,0,56,14,47.11,Replaced unnecessarily RF Amplifier 2 (electrical),Transmitter,,RF-Amplifier-1-(electrical),Stage-2-Modulator-(electrical) RF-Amplifier-2-(electrical),3,0,2
+ST25,LO,8,5/11/21,12:55:26,12:56:15,0,56,15,48.92,Click node: 'RF Amplifier 3',Transmitter,,RF-Amplifier-1-(electrical),Stage-2-Modulator-(electrical) RF-Amplifier-2-(electrical),3,0,2
+ST25,LO,8,5/11/21,12:55:26,12:56:17,0,56,17,50.21,Replaced unnecessarily RF Amplifier 3 (electrical),Transmitter,,RF-Amplifier-1-(electrical),Stage-2-Modulator-(electrical) RF-Amplifier-2-(electrical) RF-Amplifier-3-(electrical),4,0,3
+ST25,LO,8,5/11/21,12:55:26,12:56:18,0,56,18,51.61,Change tab,Tracker,,RF-Amplifier-1-(electrical),Stage-2-Modulator-(electrical) RF-Amplifier-2-(electrical) RF-Amplifier-3-(electrical),4,0,3
+ST25,LO,8,5/11/21,12:55:26,12:56:19,0,56,19,52.84,Change tab,Processor,,RF-Amplifier-1-(electrical),Stage-2-Modulator-(electrical) RF-Amplifier-2-(electrical) RF-Amplifier-3-(electrical),4,0,3
+ST25,LO,8,5/11/21,12:55:26,12:56:20,0,56,20,53.57,Change tab,Indicator,,RF-Amplifier-1-(electrical),Stage-2-Modulator-(electrical) RF-Amplifier-2-(electrical) RF-Amplifier-3-(electrical),4,0,3
+ST25,LO,8,5/11/21,12:55:26,12:56:22,0,56,22,55.37,Submit?,Indicator,,RF-Amplifier-1-(electrical),Stage-2-Modulator-(electrical) RF-Amplifier-2-(electrical) RF-Amplifier-3-(electrical),4,0,3
+ST25,LO,8,5/11/21,12:55:26,12:56:23,0,56,23,56.5,Submit Confirm,Indicator,,RF-Amplifier-1-(electrical),Stage-2-Modulator-(electrical) RF-Amplifier-2-(electrical) RF-Amplifier-3-(electrical),4,0,3
+ST25,LO,9,5/11/21,12:56:24,12:56:24,0,56,24,0,Change tab,Front Panel,,,,0,0,0
+ST25,LO,9,5/11/21,12:56:24,12:56:24,0,56,24,0,Make electrical flaw: Video Amplifier,Front Panel,Video-Amplifier-(electrical),,,0,1,0
+ST25,LO,9,5/11/21,12:56:24,12:56:24,0,56,24,0,Start,Front Panel,Video-Amplifier-(electrical),,,0,1,0
+ST25,LO,9,5/11/21,12:56:24,12:56:28,0,56,28,4.3,Change tab,Transmitter,Video-Amplifier-(electrical),,,0,1,0
+ST25,LO,9,5/11/21,12:56:24,12:56:31,0,56,31,7.28,Click node: 'Stage 3 Modulator',Transmitter,Video-Amplifier-(electrical),,,0,1,0
+ST25,LO,9,5/11/21,12:56:24,12:56:33,0,56,33,8.48,Replaced unnecessarily Stage 3 Modulator (electrical),Transmitter,Video-Amplifier-(electrical),,Stage-3-Modulator-(electrical),1,1,1
+ST25,LO,9,5/11/21,12:56:24,12:56:34,0,56,34,9.56,Click node: 'RF Amplifier 3',Transmitter,Video-Amplifier-(electrical),,Stage-3-Modulator-(electrical),1,1,1
+ST25,LO,9,5/11/21,12:56:24,12:56:35,0,56,35,10.72,Replaced unnecessarily RF Amplifier 3 (electrical),Transmitter,Video-Amplifier-(electrical),,Stage-3-Modulator-(electrical) RF-Amplifier-3-(electrical),2,1,2
+ST25,LO,9,5/11/21,12:56:24,12:56:37,0,56,37,12.51,Click node: 'RF Amplifier 1',Transmitter,Video-Amplifier-(electrical),,Stage-3-Modulator-(electrical) RF-Amplifier-3-(electrical),2,1,2
+ST25,LO,9,5/11/21,12:56:24,12:56:38,0,56,38,13.64,Replaced unnecessarily RF Amplifier 1 (electrical),Transmitter,Video-Amplifier-(electrical),,Stage-3-Modulator-(electrical) RF-Amplifier-3-(electrical) RF-Amplifier-1-(electrical),3,1,3
+ST25,LO,9,5/11/21,12:56:24,12:56:39,0,56,39,14.79,Click node: 'Stage 1 Modulator',Transmitter,Video-Amplifier-(electrical),,Stage-3-Modulator-(electrical) RF-Amplifier-3-(electrical) RF-Amplifier-1-(electrical),3,1,3
+ST25,LO,9,5/11/21,12:56:24,12:56:40,0,56,40,15.97,Replaced unnecessarily Stage 1 Modulator (electrical),Transmitter,Video-Amplifier-(electrical),,Stage-3-Modulator-(electrical) RF-Amplifier-3-(electrical) RF-Amplifier-1-(electrical) Stage-1-Modulator-(electrical),4,1,4
+ST25,LO,9,5/11/21,12:56:24,12:56:43,0,56,43,18.82,Click node: 'Frequency Synthesizer',Transmitter,Video-Amplifier-(electrical),,Stage-3-Modulator-(electrical) RF-Amplifier-3-(electrical) RF-Amplifier-1-(electrical) Stage-1-Modulator-(electrical),4,1,4
+ST25,LO,9,5/11/21,12:56:24,12:56:44,0,56,44,20.16,Cancel window: 'Frequency Synthesizer',Transmitter,Video-Amplifier-(electrical),,Stage-3-Modulator-(electrical) RF-Amplifier-3-(electrical) RF-Amplifier-1-(electrical) Stage-1-Modulator-(electrical),4,1,4
+ST25,LO,9,5/11/21,12:56:24,12:56:57,0,56,57,33.34,Change tab,Tracker,Video-Amplifier-(electrical),,Stage-3-Modulator-(electrical) RF-Amplifier-3-(electrical) RF-Amplifier-1-(electrical) Stage-1-Modulator-(electrical),4,1,4
+ST25,LO,9,5/11/21,12:56:24,12:56:58,0,56,58,34.25,Change tab,Processor,Video-Amplifier-(electrical),,Stage-3-Modulator-(electrical) RF-Amplifier-3-(electrical) RF-Amplifier-1-(electrical) Stage-1-Modulator-(electrical),4,1,4
+ST25,LO,9,5/11/21,12:56:24,12:56:59,0,56,59,34.97,Change tab,Indicator,Video-Amplifier-(electrical),,Stage-3-Modulator-(electrical) RF-Amplifier-3-(electrical) RF-Amplifier-1-(electrical) Stage-1-Modulator-(electrical),4,1,4
+ST25,LO,9,5/11/21,12:56:24,12:57:00,0,57,0,35.8,Change tab,Processor,Video-Amplifier-(electrical),,Stage-3-Modulator-(electrical) RF-Amplifier-3-(electrical) RF-Amplifier-1-(electrical) Stage-1-Modulator-(electrical),4,1,4
+ST25,LO,9,5/11/21,12:56:24,12:57:01,0,57,1,36.7,Click node: 'Video Amplifier',Processor,Video-Amplifier-(electrical),,Stage-3-Modulator-(electrical) RF-Amplifier-3-(electrical) RF-Amplifier-1-(electrical) Stage-1-Modulator-(electrical),4,1,4
+ST25,LO,9,5/11/21,12:56:24,12:57:02,0,57,2,37.8,Fixed Video Amplifier (electrical),Processor,,Video-Amplifier-(electrical),Stage-3-Modulator-(electrical) RF-Amplifier-3-(electrical) RF-Amplifier-1-(electrical) Stage-1-Modulator-(electrical),5,0,4
+ST25,LO,9,5/11/21,12:56:24,12:57:05,0,57,5,41.11,Change tab,Indicator,,Video-Amplifier-(electrical),Stage-3-Modulator-(electrical) RF-Amplifier-3-(electrical) RF-Amplifier-1-(electrical) Stage-1-Modulator-(electrical),5,0,4
+ST25,LO,9,5/11/21,12:56:24,12:57:07,0,57,7,43.11,Change tab,Synchronizer,,Video-Amplifier-(electrical),Stage-3-Modulator-(electrical) RF-Amplifier-3-(electrical) RF-Amplifier-1-(electrical) Stage-1-Modulator-(electrical),5,0,4
+ST25,LO,9,5/11/21,12:56:24,12:57:08,0,57,8,44.01,Change tab,Front Panel,,Video-Amplifier-(electrical),Stage-3-Modulator-(electrical) RF-Amplifier-3-(electrical) RF-Amplifier-1-(electrical) Stage-1-Modulator-(electrical),5,0,4
+ST25,LO,9,5/11/21,12:56:24,12:57:11,0,57,11,46.49,Change tab,Transmitter,,Video-Amplifier-(electrical),Stage-3-Modulator-(electrical) RF-Amplifier-3-(electrical) RF-Amplifier-1-(electrical) Stage-1-Modulator-(electrical),5,0,4
+ST25,LO,9,5/11/21,12:56:24,12:57:12,0,57,12,47.79,Click node: 'Stage 1 Modulator',Transmitter,,Video-Amplifier-(electrical),Stage-3-Modulator-(electrical) RF-Amplifier-3-(electrical) RF-Amplifier-1-(electrical) Stage-1-Modulator-(electrical),5,0,4
+ST25,LO,9,5/11/21,12:56:24,12:57:13,0,57,13,49.11,Replaced unnecessarily Stage 1 Modulator (electrical),Transmitter,,Video-Amplifier-(electrical),Stage-3-Modulator-(electrical) RF-Amplifier-3-(electrical) RF-Amplifier-1-(electrical) Stage-1-Modulator-(electrical),5,0,4
+ST25,LO,9,5/11/21,12:56:24,12:57:15,0,57,15,50.59,Click node: 'RF Amplifier 1',Transmitter,,Video-Amplifier-(electrical),Stage-3-Modulator-(electrical) RF-Amplifier-3-(electrical) RF-Amplifier-1-(electrical) Stage-1-Modulator-(electrical),5,0,4
+ST25,LO,9,5/11/21,12:56:24,12:57:16,0,57,16,51.82,Replaced unnecessarily RF Amplifier 1 (electrical),Transmitter,,Video-Amplifier-(electrical),Stage-3-Modulator-(electrical) RF-Amplifier-3-(electrical) RF-Amplifier-1-(electrical) Stage-1-Modulator-(electrical),5,0,4
+ST25,LO,9,5/11/21,12:56:24,12:57:17,0,57,17,53.34,Submit?,Transmitter,,Video-Amplifier-(electrical),Stage-3-Modulator-(electrical) RF-Amplifier-3-(electrical) RF-Amplifier-1-(electrical) Stage-1-Modulator-(electrical),5,0,4
+ST25,LO,9,5/11/21,12:56:24,12:57:19,0,57,19,55,Submit Confirm,Transmitter,,Video-Amplifier-(electrical),Stage-3-Modulator-(electrical) RF-Amplifier-3-(electrical) RF-Amplifier-1-(electrical) Stage-1-Modulator-(electrical),5,0,4
+ST25,LO,10,5/11/21,12:57:20,12:57:20,0,57,20,0,Change tab,Front Panel,,,,0,0,0
+ST25,LO,10,5/11/21,12:57:20,12:57:20,0,57,20,0,Make electrical flaw: Stage 1 Modulator,Front Panel,Stage-1-Modulator-(electrical),,,0,1,0
+ST25,LO,10,5/11/21,12:57:20,12:57:20,0,57,20,0,Start,Front Panel,Stage-1-Modulator-(electrical),,,0,1,0
+ST25,LO,10,5/11/21,12:57:20,12:57:24,0,57,24,3.46,Change tab,Synchronizer,Stage-1-Modulator-(electrical),,,0,1,0
+ST25,LO,10,5/11/21,12:57:20,12:57:26,0,57,26,5.33,Change tab,Transmitter,Stage-1-Modulator-(electrical),,,0,1,0
+ST25,LO,10,5/11/21,12:57:20,12:57:42,0,57,42,21.95,Click node: 'Stage 2 Modulator',Transmitter,Stage-1-Modulator-(electrical),,,0,1,0
+ST25,LO,10,5/11/21,12:57:20,12:57:44,0,57,44,23.26,Replaced unnecessarily Stage 2 Modulator (electrical),Transmitter,Stage-1-Modulator-(electrical),,Stage-2-Modulator-(electrical),1,1,1
+ST25,LO,10,5/11/21,12:57:20,12:57:47,0,57,47,26.54,Click node: 'Stage 1 Modulator',Transmitter,Stage-1-Modulator-(electrical),,Stage-2-Modulator-(electrical),1,1,1
+ST25,LO,10,5/11/21,12:57:20,12:57:48,0,57,48,27.99,Fixed Stage 1 Modulator (electrical),Transmitter,,Stage-1-Modulator-(electrical),Stage-2-Modulator-(electrical),2,0,1
+ST25,LO,10,5/11/21,12:57:20,12:57:50,0,57,50,29.39,Click node: 'Stage 2 Modulator',Transmitter,,Stage-1-Modulator-(electrical),Stage-2-Modulator-(electrical),2,0,1
+ST25,LO,10,5/11/21,12:57:20,12:57:51,0,57,51,30.56,Replaced unnecessarily Stage 2 Modulator (electrical),Transmitter,,Stage-1-Modulator-(electrical),Stage-2-Modulator-(electrical),2,0,1
+ST25,LO,10,5/11/21,12:57:20,12:57:53,0,57,53,32.49,Submit?,Transmitter,,Stage-1-Modulator-(electrical),Stage-2-Modulator-(electrical),2,0,1
+ST25,LO,10,5/11/21,12:57:20,12:57:54,0,57,54,33.67,Submit Confirm,Transmitter,,Stage-1-Modulator-(electrical),Stage-2-Modulator-(electrical),2,0,1
+ST25,LO,11,5/11/21,12:57:55,12:57:55,0,57,55,0,Change tab,Front Panel,,,,0,0,0
+ST25,LO,11,5/11/21,12:57:55,12:57:55,0,57,55,0,Make electrical flaw: Local Oscillator,Front Panel,Local-Oscillator-(electrical),,,0,1,0
+ST25,LO,11,5/11/21,12:57:55,12:57:55,0,57,55,0,Start,Front Panel,Local-Oscillator-(electrical),,,0,1,0
+ST25,LO,11,5/11/21,12:57:55,12:57:59,0,57,59,4.32,Change tab,Transmitter,Local-Oscillator-(electrical),,,0,1,0
+ST25,LO,11,5/11/21,12:57:55,12:58:02,0,58,2,7.31,Change tab,Tracker,Local-Oscillator-(electrical),,,0,1,0
+ST25,LO,11,5/11/21,12:57:55,12:58:04,0,58,4,8.59,Change tab,Processor,Local-Oscillator-(electrical),,,0,1,0
+ST25,LO,11,5/11/21,12:57:55,12:58:12,0,58,12,16.82,Click node: 'Local Oscillator',Processor,Local-Oscillator-(electrical),,,0,1,0
+ST25,LO,11,5/11/21,12:57:55,12:58:13,0,58,13,18.23,Fixed Local Oscillator (electrical),Processor,,Local-Oscillator-(electrical),,1,0,0
+ST25,LO,11,5/11/21,12:57:55,12:58:16,0,58,16,21.37,Change tab,Indicator,,Local-Oscillator-(electrical),,1,0,0
+ST25,LO,11,5/11/21,12:57:55,12:58:18,0,58,18,23.15,Change tab,Synchronizer,,Local-Oscillator-(electrical),,1,0,0
+ST25,LO,11,5/11/21,12:57:55,12:58:19,0,58,19,23.86,Change tab,Transmitter,,Local-Oscillator-(electrical),,1,0,0
+ST25,LO,11,5/11/21,12:57:55,12:58:21,0,58,21,25.53,Submit?,Transmitter,,Local-Oscillator-(electrical),,1,0,0
+ST25,LO,11,5/11/21,12:57:55,12:58:22,0,58,22,26.79,Submit Confirm,Transmitter,,Local-Oscillator-(electrical),,1,0,0
+ST25,LO,12,5/11/21,12:58:28,12:58:28,0,58,28,0,Change tab,Front Panel,,,,0,0,0
+ST25,LO,12,5/11/21,12:58:28,12:58:28,0,58,28,0,Make electrical flaw: Transmitter Transmission Line,Front Panel,Transmitter-Transmission-Line-(electrical),,,0,1,0
+ST25,LO,12,5/11/21,12:58:28,12:58:28,0,58,28,0,Start,Front Panel,Transmitter-Transmission-Line-(electrical),,,0,1,0
+ST25,LO,12,5/11/21,12:58:28,12:58:32,0,58,32,3.7,Change tab,Tracker,Transmitter-Transmission-Line-(electrical),,,0,1,0
+ST25,LO,12,5/11/21,12:58:28,12:58:51,0,58,51,22.36,Click node: 'Transmitter Transmission Line',Tracker,Transmitter-Transmission-Line-(electrical),,,0,1,0
+ST25,LO,12,5/11/21,12:58:28,12:58:52,0,58,52,23.58,Fixed Transmitter Transmission Line (electrical),Tracker,,Transmitter-Transmission-Line-(electrical),,1,0,0
+ST25,LO,12,5/11/21,12:58:28,12:58:54,0,58,54,25.26,Change tab,Processor,,Transmitter-Transmission-Line-(electrical),,1,0,0
+ST25,LO,12,5/11/21,12:58:28,12:58:55,0,58,55,26.28,Change tab,Indicator,,Transmitter-Transmission-Line-(electrical),,1,0,0
+ST25,LO,12,5/11/21,12:58:28,12:58:56,0,58,56,27.74,Submit?,Indicator,,Transmitter-Transmission-Line-(electrical),,1,0,0
+ST25,LO,12,5/11/21,12:58:28,12:58:57,0,58,57,28.84,Submit Confirm,Indicator,,Transmitter-Transmission-Line-(electrical),,1,0,0
+ST25,LO,13,5/11/21,12:58:58,12:58:58,0,58,58,0,Change tab,Front Panel,,,,0,0,0
+ST25,LO,13,5/11/21,12:58:58,12:58:58,0,58,58,0,Make electrical flaw: Receiver Antenna,Front Panel,Receiver-Antenna-(electrical),,,0,1,0
+ST25,LO,13,5/11/21,12:58:58,12:58:58,0,58,58,0,Start,Front Panel,Receiver-Antenna-(electrical),,,0,1,0
+ST25,LO,13,5/11/21,12:58:58,12:59:05,0,59,5,6.35,Change tab,Tracker,Receiver-Antenna-(electrical),,,0,1,0
+ST25,LO,13,5/11/21,12:58:58,12:59:13,0,59,13,15,Click node: 'Receiver Antenna',Tracker,Receiver-Antenna-(electrical),,,0,1,0
+ST25,LO,13,5/11/21,12:58:58,12:59:14,0,59,14,16.07,Fixed Receiver Antenna (electrical),Tracker,,Receiver-Antenna-(electrical),,1,0,0
+ST25,LO,13,5/11/21,12:58:58,12:59:16,0,59,16,17.57,Change tab,Processor,,Receiver-Antenna-(electrical),,1,0,0
+ST25,LO,13,5/11/21,12:58:58,12:59:17,0,59,17,19.19,Change tab,Indicator,,Receiver-Antenna-(electrical),,1,0,0
+ST25,LO,13,5/11/21,12:58:58,12:59:19,0,59,19,20.88,Change tab,Front Panel,,Receiver-Antenna-(electrical),,1,0,0
+ST25,LO,13,5/11/21,12:58:58,12:59:21,0,59,21,22.5,Submit?,Front Panel,,Receiver-Antenna-(electrical),,1,0,0
+ST25,LO,13,5/11/21,12:58:58,12:59:22,0,59,22,23.76,Submit Confirm,Front Panel,,Receiver-Antenna-(electrical),,1,0,0
+ST25,LO,14,5/11/21,12:59:23,12:59:23,0,59,23,0,Make electrical flaw: AFC Frequency Discriminator,Front Panel,AFC-Frequency-Discriminator-(electrical),,,0,1,0
+ST25,LO,14,5/11/21,12:59:23,12:59:23,0,59,23,0,Start,Front Panel,AFC-Frequency-Discriminator-(electrical),,,0,1,0
+ST25,LO,14,5/11/21,12:59:23,12:59:29,0,59,29,5.63,Change tab,Processor,AFC-Frequency-Discriminator-(electrical),,,0,1,0
+ST25,LO,14,5/11/21,12:59:23,12:59:32,0,59,32,8.64,Click node: 'AFC Frequency Discriminator',Processor,AFC-Frequency-Discriminator-(electrical),,,0,1,0
+ST25,LO,14,5/11/21,12:59:23,12:59:33,0,59,33,10.08,Fixed AFC Frequency Discriminator (electrical),Processor,,AFC-Frequency-Discriminator-(electrical),,1,0,0
+ST25,LO,14,5/11/21,12:59:23,12:59:36,0,59,36,12.39,Change tab,Indicator,,AFC-Frequency-Discriminator-(electrical),,1,0,0
+ST25,LO,14,5/11/21,12:59:23,12:59:37,0,59,37,13.69,Change tab,Front Panel,,AFC-Frequency-Discriminator-(electrical),,1,0,0
+ST25,LO,14,5/11/21,12:59:23,12:59:39,0,59,39,15.82,Submit?,Front Panel,,AFC-Frequency-Discriminator-(electrical),,1,0,0
+ST25,LO,14,5/11/21,12:59:23,12:59:40,0,59,40,17,Submit Confirm,Front Panel,,AFC-Frequency-Discriminator-(electrical),,1,0,0
+ST25,LO,15,5/11/21,12:59:42,12:59:42,0,59,42,0,Make electrical flaw: Gate Circuit,Front Panel,Gate-Circuit-(electrical),,,0,1,0
+ST25,LO,15,5/11/21,12:59:42,12:59:42,0,59,42,0,Start,Front Panel,Gate-Circuit-(electrical),,,0,1,0
+ST25,LO,15,5/11/21,12:59:42,12:59:47,0,59,47,4.91,Change tab,Indicator,Gate-Circuit-(electrical),,,0,1,0
+ST25,LO,15,5/11/21,12:59:42,12:59:48,0,59,48,6.66,Click node: 'Gate Circuit',Indicator,Gate-Circuit-(electrical),,,0,1,0
+ST25,LO,15,5/11/21,12:59:42,12:59:50,0,59,50,7.94,Fixed Gate Circuit (electrical),Indicator,,Gate-Circuit-(electrical),,1,0,0
+ST25,LO,15,5/11/21,12:59:42,12:59:52,0,59,52,9.94,Change tab,Transmitter,,Gate-Circuit-(electrical),,1,0,0
+ST25,LO,15,5/11/21,12:59:42,12:59:54,0,59,54,12.69,Click node: 'Stage 2 Modulator',Transmitter,,Gate-Circuit-(electrical),,1,0,0
+ST25,LO,15,5/11/21,12:59:42,12:59:56,0,59,56,14.02,Replaced unnecessarily Stage 2 Modulator (electrical),Transmitter,,Gate-Circuit-(electrical),Stage-2-Modulator-(electrical),2,0,1
+ST25,LO,15,5/11/21,12:59:42,12:59:57,0,59,57,15.71,Click node: 'RF Amplifier 2',Transmitter,,Gate-Circuit-(electrical),Stage-2-Modulator-(electrical),2,0,1
+ST25,LO,15,5/11/21,12:59:42,12:59:59,0,59,59,16.9,Replaced unnecessarily RF Amplifier 2 (electrical),Transmitter,,Gate-Circuit-(electrical),Stage-2-Modulator-(electrical) RF-Amplifier-2-(electrical),3,0,2
+ST25,LO,15,5/11/21,12:59:42,1:00:04,1,0,4,22.25,Click node: 'Stage 2 Modulator',Transmitter,,Gate-Circuit-(electrical),Stage-2-Modulator-(electrical) RF-Amplifier-2-(electrical),3,0,2
+ST25,LO,15,5/11/21,12:59:42,1:00:06,1,0,6,24.21,Replaced unnecessarily Stage 2 Modulator (electrical),Transmitter,,Gate-Circuit-(electrical),Stage-2-Modulator-(electrical) RF-Amplifier-2-(electrical),3,0,2
+ST25,LO,15,5/11/21,12:59:42,1:00:07,1,0,7,25.81,Submit?,Transmitter,,Gate-Circuit-(electrical),Stage-2-Modulator-(electrical) RF-Amplifier-2-(electrical),3,0,2
+ST25,LO,15,5/11/21,12:59:42,1:00:09,1,0,9,27.06,Submit Confirm,Transmitter,,Gate-Circuit-(electrical),Stage-2-Modulator-(electrical) RF-Amplifier-2-(electrical),3,0,2
+ST25,LO,16,5/11/21,1:00:10,1:00:10,1,0,10,0,Change tab,Front Panel,,,,0,0,0
+ST25,LO,16,5/11/21,1:00:10,1:00:10,1,0,10,0,Make electrical flaw: Transmitter Antenna,Front Panel,Transmitter-Antenna-(electrical),,,0,1,0
+ST25,LO,16,5/11/21,1:00:10,1:00:10,1,0,10,0,Start,Front Panel,Transmitter-Antenna-(electrical),,,0,1,0
+ST25,LO,16,5/11/21,1:00:10,1:00:14,1,0,14,3.83,Change tab,Tracker,Transmitter-Antenna-(electrical),,,0,1,0
+ST25,LO,16,5/11/21,1:00:10,1:00:16,1,0,16,5.69,Click node: 'Transmitter Antenna',Tracker,Transmitter-Antenna-(electrical),,,0,1,0
+ST25,LO,16,5/11/21,1:00:10,1:00:17,1,0,17,7.08,Fixed Transmitter Antenna (electrical),Tracker,,Transmitter-Antenna-(electrical),,1,0,0
+ST25,LO,16,5/11/21,1:00:10,1:00:19,1,0,19,8.89,Change tab,Processor,,Transmitter-Antenna-(electrical),,1,0,0
+ST25,LO,16,5/11/21,1:00:10,1:00:20,1,0,20,10.13,Change tab,Front Panel,,Transmitter-Antenna-(electrical),,1,0,0
+ST25,LO,16,5/11/21,1:00:10,1:00:22,1,0,22,12.14,Submit?,Front Panel,,Transmitter-Antenna-(electrical),,1,0,0
+ST25,LO,16,5/11/21,1:00:10,1:00:23,1,0,23,13.34,Submit Confirm,Front Panel,,Transmitter-Antenna-(electrical),,1,0,0
+ST25,LO,17,5/11/21,1:00:24,1:00:24,1,0,24,0,Make electrical flaw: Frequency Synthesizer,Front Panel,Frequency-Synthesizer-(electrical),,,0,1,0
+ST25,LO,17,5/11/21,1:00:24,1:00:24,1,0,24,0,Start,Front Panel,Frequency-Synthesizer-(electrical),,,0,1,0
+ST25,LO,17,5/11/21,1:00:24,1:00:28,1,0,28,3.76,Change tab,Transmitter,Frequency-Synthesizer-(electrical),,,0,1,0
+ST25,LO,17,5/11/21,1:00:24,1:00:32,1,0,32,7.09,Click node: 'RF Amplifier 2',Transmitter,Frequency-Synthesizer-(electrical),,,0,1,0
+ST25,LO,17,5/11/21,1:00:24,1:00:33,1,0,33,8.99,Replaced unnecessarily RF Amplifier 2 (electrical),Transmitter,Frequency-Synthesizer-(electrical),,RF-Amplifier-2-(electrical),1,1,1
+ST25,LO,17,5/11/21,1:00:24,1:00:46,1,0,46,21.47,Click node: 'Frequency Synthesizer',Transmitter,Frequency-Synthesizer-(electrical),,RF-Amplifier-2-(electrical),1,1,1
+ST25,LO,17,5/11/21,1:00:24,1:00:47,1,0,47,22.63,Fixed Frequency Synthesizer (electrical),Transmitter,,Frequency-Synthesizer-(electrical),RF-Amplifier-2-(electrical),2,0,1
+ST25,LO,17,5/11/21,1:00:24,1:00:54,1,0,54,29.49,Click node: 'RF Amplifier 1',Transmitter,,Frequency-Synthesizer-(electrical),RF-Amplifier-2-(electrical),2,0,1
+ST25,LO,17,5/11/21,1:00:24,1:00:55,1,0,55,30.94,Replaced unnecessarily RF Amplifier 1 (electrical),Transmitter,,Frequency-Synthesizer-(electrical),RF-Amplifier-2-(electrical) RF-Amplifier-1-(electrical),3,0,2
+ST25,LO,17,5/11/21,1:00:24,1:00:57,1,0,57,32.26,Click node: 'Stage 1 Modulator',Transmitter,,Frequency-Synthesizer-(electrical),RF-Amplifier-2-(electrical) RF-Amplifier-1-(electrical),3,0,2
+ST25,LO,17,5/11/21,1:00:24,1:00:58,1,0,58,33.27,Replaced unnecessarily Stage 1 Modulator (electrical),Transmitter,,Frequency-Synthesizer-(electrical),RF-Amplifier-2-(electrical) RF-Amplifier-1-(electrical) Stage-1-Modulator-(electrical),4,0,3
+ST25,LO,17,5/11/21,1:00:24,1:01:01,1,1,1,36.34,Change tab,Front Panel,,Frequency-Synthesizer-(electrical),RF-Amplifier-2-(electrical) RF-Amplifier-1-(electrical) Stage-1-Modulator-(electrical),4,0,3
+ST25,LO,17,5/11/21,1:00:24,1:01:03,1,1,3,38.3,Submit?,Front Panel,,Frequency-Synthesizer-(electrical),RF-Amplifier-2-(electrical) RF-Amplifier-1-(electrical) Stage-1-Modulator-(electrical),4,0,3
+ST25,LO,17,5/11/21,1:00:24,1:01:04,1,1,4,39.7,Submit Confirm,Front Panel,,Frequency-Synthesizer-(electrical),RF-Amplifier-2-(electrical) RF-Amplifier-1-(electrical) Stage-1-Modulator-(electrical),4,0,3
+ST25,LO,18,5/11/21,1:01:05,1:01:05,1,1,5,0,Make electrical flaw: IF Amplifier,Front Panel,IF-Amplifier-(electrical),,,0,1,0
+ST25,LO,18,5/11/21,1:01:05,1:01:05,1,1,5,0,Start,Front Panel,IF-Amplifier-(electrical),,,0,1,0
+ST25,LO,18,5/11/21,1:01:05,1:01:08,1,1,8,2.82,Change tab,Processor,IF-Amplifier-(electrical),,,0,1,0
+ST25,LO,18,5/11/21,1:01:05,1:01:10,1,1,10,4.63,Click node: 'IF Amplifier',Processor,IF-Amplifier-(electrical),,,0,1,0
+ST25,LO,18,5/11/21,1:01:05,1:01:11,1,1,11,5.83,Fixed IF Amplifier (electrical),Processor,,IF-Amplifier-(electrical),,1,0,0
+ST25,LO,18,5/11/21,1:01:05,1:01:12,1,1,12,7.33,Change tab,Indicator,,IF-Amplifier-(electrical),,1,0,0
+ST25,LO,18,5/11/21,1:01:05,1:01:14,1,1,14,8.81,Submit?,Indicator,,IF-Amplifier-(electrical),,1,0,0
+ST25,LO,18,5/11/21,1:01:05,1:01:15,1,1,15,9.92,Submit Confirm,Indicator,,IF-Amplifier-(electrical),,1,0,0
+ST25,LO,19,5/11/21,1:01:16,1:01:16,1,1,16,0,Change tab,Front Panel,,,,0,0,0
+ST25,LO,19,5/11/21,1:01:16,1:01:16,1,1,16,0,Make electrical flaw: Receiver Waveguide,Front Panel,Receiver-Waveguide-(electrical),,,0,1,0
+ST25,LO,19,5/11/21,1:01:16,1:01:16,1,1,16,0,Start,Front Panel,Receiver-Waveguide-(electrical),,,0,1,0
+ST25,LO,19,5/11/21,1:01:16,1:01:20,1,1,20,3.95,Change tab,Processor,Receiver-Waveguide-(electrical),,,0,1,0
+ST25,LO,19,5/11/21,1:01:16,1:01:21,1,1,21,5.6,Click node: 'Low Noise RF Amplifier',Processor,Receiver-Waveguide-(electrical),,,0,1,0
+ST25,LO,19,5/11/21,1:01:16,1:01:22,1,1,22,6.84,Replaced unnecessarily Low Noise RF Amplifier (electrical),Processor,Receiver-Waveguide-(electrical),,Low-Noise-RF-Amplifier-(electrical),1,1,1
+ST25,LO,19,5/11/21,1:01:16,1:01:42,1,1,42,26.33,Click node: 'Mixer Detector',Processor,Receiver-Waveguide-(electrical),,Low-Noise-RF-Amplifier-(electrical),1,1,1
+ST25,LO,19,5/11/21,1:01:16,1:01:43,1,1,43,27.66,Replaced unnecessarily Mixer Detector (electrical),Processor,Receiver-Waveguide-(electrical),,Low-Noise-RF-Amplifier-(electrical) Mixer-Detector-(electrical),2,1,2
+ST25,LO,19,5/11/21,1:01:16,1:01:45,1,1,45,29.14,Click node: 'Video Amplifier',Processor,Receiver-Waveguide-(electrical),,Low-Noise-RF-Amplifier-(electrical) Mixer-Detector-(electrical),2,1,2
+ST25,LO,19,5/11/21,1:01:16,1:01:46,1,1,46,30.52,Replaced unnecessarily Video Amplifier (electrical),Processor,Receiver-Waveguide-(electrical),,Low-Noise-RF-Amplifier-(electrical) Mixer-Detector-(electrical) Video-Amplifier-(electrical),3,1,3
+ST25,LO,19,5/11/21,1:01:16,1:01:48,1,1,48,32.32,Click node: 'IF Amplifier',Processor,Receiver-Waveguide-(electrical),,Low-Noise-RF-Amplifier-(electrical) Mixer-Detector-(electrical) Video-Amplifier-(electrical),3,1,3
+ST25,LO,19,5/11/21,1:01:16,1:01:49,1,1,49,33.22,Replaced unnecessarily IF Amplifier (electrical),Processor,Receiver-Waveguide-(electrical),,Low-Noise-RF-Amplifier-(electrical) Mixer-Detector-(electrical) Video-Amplifier-(electrical) IF-Amplifier-(electrical),4,1,4
+ST25,LO,19,5/11/21,1:01:16,1:01:50,1,1,50,33.92,Click node: 'Video Detector',Processor,Receiver-Waveguide-(electrical),,Low-Noise-RF-Amplifier-(electrical) Mixer-Detector-(electrical) Video-Amplifier-(electrical) IF-Amplifier-(electrical),4,1,4
+ST25,LO,19,5/11/21,1:01:16,1:01:51,1,1,51,34.95,Replaced unnecessarily Video Detector (electrical),Processor,Receiver-Waveguide-(electrical),,Low-Noise-RF-Amplifier-(electrical) Mixer-Detector-(electrical) Video-Amplifier-(electrical) IF-Amplifier-(electrical) Video-Detector-(electrical),5,1,5
+ST25,LO,19,5/11/21,1:01:16,1:01:55,1,1,55,39.07,Change tab,Tracker,Receiver-Waveguide-(electrical),,Low-Noise-RF-Amplifier-(electrical) Mixer-Detector-(electrical) Video-Amplifier-(electrical) IF-Amplifier-(electrical) Video-Detector-(electrical),5,1,5
+ST25,LO,19,5/11/21,1:01:16,1:01:57,1,1,57,41.55,Click node: 'Receiver Waveguide',Tracker,Receiver-Waveguide-(electrical),,Low-Noise-RF-Amplifier-(electrical) Mixer-Detector-(electrical) Video-Amplifier-(electrical) IF-Amplifier-(electrical) Video-Detector-(electrical),5,1,5
+ST25,LO,19,5/11/21,1:01:16,1:01:58,1,1,58,42.81,Fixed Receiver Waveguide (electrical),Tracker,,Receiver-Waveguide-(electrical),Low-Noise-RF-Amplifier-(electrical) Mixer-Detector-(electrical) Video-Amplifier-(electrical) IF-Amplifier-(electrical) Video-Detector-(electrical),6,0,5
+ST25,LO,19,5/11/21,1:01:16,1:02:00,1,2,0,44.03,Change tab,Processor,,Receiver-Waveguide-(electrical),Low-Noise-RF-Amplifier-(electrical) Mixer-Detector-(electrical) Video-Amplifier-(electrical) IF-Amplifier-(electrical) Video-Detector-(electrical),6,0,5
+ST25,LO,19,5/11/21,1:01:16,1:02:03,1,2,3,47.06,Change tab,Front Panel,,Receiver-Waveguide-(electrical),Low-Noise-RF-Amplifier-(electrical) Mixer-Detector-(electrical) Video-Amplifier-(electrical) IF-Amplifier-(electrical) Video-Detector-(electrical),6,0,5
+ST25,LO,19,5/11/21,1:01:16,1:02:05,1,2,5,49.39,Submit?,Front Panel,,Receiver-Waveguide-(electrical),Low-Noise-RF-Amplifier-(electrical) Mixer-Detector-(electrical) Video-Amplifier-(electrical) IF-Amplifier-(electrical) Video-Detector-(electrical),6,0,5
+ST25,LO,19,5/11/21,1:01:16,1:02:06,1,2,6,50.54,Submit Confirm,Front Panel,,Receiver-Waveguide-(electrical),Low-Noise-RF-Amplifier-(electrical) Mixer-Detector-(electrical) Video-Amplifier-(electrical) IF-Amplifier-(electrical) Video-Detector-(electrical),6,0,5
+ST25,LO,20,5/11/21,1:02:07,1:02:07,1,2,7,0,Make electrical flaw: Duplexer Bypass,Front Panel,Duplexer-Bypass-(electrical),,,0,1,0
+ST25,LO,20,5/11/21,1:02:07,1:02:07,1,2,7,0,Start,Front Panel,Duplexer-Bypass-(electrical),,,0,1,0
+ST25,LO,20,5/11/21,1:02:07,1:02:10,1,2,10,2.68,Submit?,Front Panel,Duplexer-Bypass-(electrical),,,0,1,0
+ST25,LO,20,5/11/21,1:02:07,1:02:11,1,2,11,4.35,Submit Confirm,Front Panel,Duplexer-Bypass-(electrical),,,0,1,0
+ST25,LO,21,5/11/21,1:02:13,1:02:13,1,2,13,0,Make electrical flaw: Intensity Gate Generator,Front Panel,Intensity-Gate-Generator-(electrical),,,0,1,0
+ST25,LO,21,5/11/21,1:02:13,1:02:13,1,2,13,0,Start,Front Panel,Intensity-Gate-Generator-(electrical),,,0,1,0

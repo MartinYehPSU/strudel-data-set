@@ -1,0 +1,273 @@
+subject,subject_group,round,round_start_date_utc,round_start_time_utc,current_time_utc,current_hour24,current_minute,current_second,current_elapsed_seconds,event,ui_tab,active_faults,fixed_faults,fixed_nonfaults,ReplacedComponents,FaultsRemaining,ReplacedNonFaults
+st40,HI,1,5/28/21,23:04:57,23:04:57,23,4,57,0.04,Make electrical flaw: Sweep Control Circuit,,Sweep-Control-Circuit-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:04:57,23:04:57,23,4,57,0.05,Start (High Fidelity Sim),,Sweep-Control-Circuit-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:04:57,23:09:56,23,9,56,298.63,Move to Spare Parts Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:04:57,23:10:09,23,10,9,312.41,Leave Spare Parts Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:04:57,23:10:37,23,10,37,340.31,Move to Server Box Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:04:57,23:10:42,23,10,42,344.58,Leave Server Box Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:04:57,23:10:44,23,10,44,346.88,Move to Server Box Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:04:57,23:10:45,23,10,45,348.06,Leave Server Box Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:04:57,23:10:46,23,10,46,349.03,Move to Server Box Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:04:57,23:10:51,23,10,51,353.46,Leave Server Box Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:04:57,23:10:53,23,10,53,355.72,Move to Server Box Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:04:57,23:10:58,23,10,58,361.06,Leave Server Box Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:04:57,23:11:02,23,11,2,364.89,Move to Server Box Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:04:57,23:11:03,23,11,3,365.99,Leave Server Box Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:04:57,23:11:29,23,11,29,392.4,Move to Spare Parts Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:04:57,23:11:31,23,11,31,394.2,Leave Spare Parts Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:04:57,23:11:33,23,11,33,395.46,Move to Spare Parts Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:04:57,23:11:35,23,11,35,397.52,Leave Spare Parts Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:04:57,23:12:03,23,12,3,425.42,Move to Server Box Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:04:57,23:12:20,23,12,20,442.69,Leave Server Box Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:04:57,23:12:40,23,12,40,463.3,Move to Spare Parts Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:04:57,23:12:41,23,12,41,464.1,Leave Spare Parts Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:04:57,23:13:38,23,13,38,521.37,Pick Up LRU: 'Adjuster [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:04:57,23:13:39,23,13,39,521.52,Drop LRU: 'Adjuster [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:04:57,23:14:53,23,14,53,596.16,Move to Server Box Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:04:57,23:15:14,23,15,14,617.37,Swing front panel: 0% open,,Sweep-Control-Circuit-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:04:57,23:16:03,23,16,3,665.51,Swing front panel: 0% open,,Sweep-Control-Circuit-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:04:57,23:16:31,23,16,31,693.66,Swing front panel: 0% open,,Sweep-Control-Circuit-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:04:57,23:16:37,23,16,37,699.91,Leave Server Box Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:04:57,23:16:40,23,16,40,702.47,Move to Server Box Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:04:57,23:16:41,23,16,41,703.76,Leave Server Box Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:04:57,23:16:45,23,16,45,707.88,Move to Server Box Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:04:57,23:16:55,23,16,55,717.64,Leave Server Box Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:04:57,23:16:55,23,16,55,718.23,Move to Server Box Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:04:57,23:17:03,23,17,3,725.62,Leave Server Box Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:04:57,23:17:04,23,17,4,726.46,Move to Server Box Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:04:57,23:17:14,23,17,14,737.41,Leave Server Box Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:04:57,23:17:16,23,17,16,738.49,Move to Server Box Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:04:57,23:17:16,23,17,16,739.21,Leave Server Box Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:04:57,23:17:17,23,17,17,740.29,Move to Server Box Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:04:57,23:17:20,23,17,20,743.12,Leave Server Box Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:04:57,23:17:57,23,17,57,779.99,Move to Server Box Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:04:57,23:18:16,23,18,16,798.79,Leave Server Box Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:04:57,23:18:27,23,18,27,809.86,Move to Server Box Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:04:57,23:18:53,23,18,53,836.08,Leave Server Box Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:04:57,23:18:54,23,18,54,837.1,Move to Spare Parts Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:04:57,23:18:57,23,18,57,840.12,Leave Spare Parts Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:04:57,23:18:58,23,18,58,840.69,Move to Server Box Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:04:57,23:19:01,23,19,1,844.09,Leave Server Box Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:04:57,23:19:05,23,19,5,847.77,Move to Server Box Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:04:57,23:19:07,23,19,7,849.97,Leave Server Box Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:04:57,23:19:10,23,19,10,852.49,Move to Spare Parts Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:04:57,23:19:10,23,19,10,852.8,Leave Spare Parts Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:04:57,23:19:11,23,19,11,853.59,Move to Server Box Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:04:57,23:19:38,23,19,38,880.92,Leave Server Box Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:04:57,23:19:39,23,19,39,882.25,Move to Spare Parts Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:04:57,23:19:40,23,19,40,883.15,Leave Spare Parts Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:04:57,23:19:42,23,19,42,885.25,Move to Server Box Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:04:57,23:19:47,23,19,47,889.89,Swing front panel: 0% open,,Sweep-Control-Circuit-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:04:57,23:19:47,23,19,47,890.15,Swing front panel: 0.2% open,,Sweep-Control-Circuit-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:04:57,23:20:05,23,20,5,908.28,Leave Server Box Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:04:57,23:21:17,23,21,17,979.54,Move to Server Box Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:04:57,23:21:29,23,21,29,991.58,Leave Server Box Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:04:57,23:21:30,23,21,30,993,Move to Server Box Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:04:57,23:21:57,23,21,57,1019.56,Move drawer: 0% open,Synchronizer,Sweep-Control-Circuit-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:04:57,23:22:03,23,22,3,1026.19,Leave Server Box Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:04:57,23:22:05,23,22,5,1027.74,Move to Server Box Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:04:57,23:22:19,23,22,19,1042.36,Leave Server Box Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:04:57,23:22:27,23,22,27,1049.58,Move to Server Box Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:04:57,23:22:49,23,22,49,1071.51,Swing front panel: 100% open,,Sweep-Control-Circuit-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:04:57,23:23:24,23,23,24,1107.19,Move drawer: 95.4% open,Transmitter,Sweep-Control-Circuit-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:04:57,23:24:02,23,24,2,1144.69,Move drawer: 95.4% open,Transmitter,Sweep-Control-Circuit-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:04:57,23:24:02,23,24,2,1145.41,Click on: 'Stage 2 Modulator',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:04:57,23:24:07,23,24,7,1149.63,Cancel disconnect: 'Stage 2 Modulator',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:04:57,23:24:12,23,24,12,1154.46,Click on: 'RF Amplifier 2',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:04:57,23:24:15,23,24,15,1157.9,Cancel disconnect: 'RF Amplifier 2',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:04:57,23:24:17,23,24,17,1160.41,Click on: 'RF Amplifier 2',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:04:57,23:24:21,23,24,21,1163.62,Cancel disconnect: 'RF Amplifier 2',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:04:57,23:24:21,23,24,21,1163.64,Move drawer: 95.4% open,Transmitter,Sweep-Control-Circuit-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:04:57,23:24:25,23,24,25,1168.22,Move drawer: 95.4% open,Transmitter,Sweep-Control-Circuit-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:04:57,23:24:31,23,24,31,1173.44,Click on: 'RF Amplifier 3',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:04:57,23:24:37,23,24,37,1179.47,Cancel disconnect: 'RF Amplifier 3',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:04:57,23:24:40,23,24,40,1183.16,Click on: 'Stage 2 Modulator',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:04:57,23:24:46,23,24,46,1188.44,Swing front panel: 100% open,,Sweep-Control-Circuit-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:04:57,23:24:47,23,24,47,1190.07,Cancel disconnect: 'Stage 2 Modulator',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:04:57,23:24:47,23,24,47,1190.09,Move drawer: 95.4% open,Transmitter,Sweep-Control-Circuit-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:04:57,23:24:51,23,24,51,1194.32,Click on: 'Stage 3 Modulator',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:04:57,23:24:56,23,24,56,1198.85,Disconnect LRU: 'Stage 3 Modulator',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:04:57,23:24:56,23,24,56,1198.87,Move drawer: 95.4% open,Transmitter,Sweep-Control-Circuit-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:04:57,23:25:03,23,25,3,1205.72,Pick Up LRU: 'Stage 3 Modulator',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:04:57,23:25:03,23,25,3,1205.99,Drop LRU: 'Stage 3 Modulator',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:04:57,23:25:06,23,25,6,1208.93,Cancel connect: 'Stage 3 Modulator',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:04:57,23:25:06,23,25,6,1208.95,Move drawer: 95.4% open,Transmitter,Sweep-Control-Circuit-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:04:57,23:25:51,23,25,51,1254,Click on: 'RF Amplifier 2',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:04:57,23:25:54,23,25,54,1256.43,Cancel disconnect: 'RF Amplifier 2',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:04:57,23:25:54,23,25,54,1256.46,Move drawer: 95.4% open,Transmitter,Sweep-Control-Circuit-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:04:57,23:26:02,23,26,2,1264.9,Click on: 'Stage 1 Modulator',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:04:57,23:26:04,23,26,4,1267.06,Cancel disconnect: 'Stage 1 Modulator',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:04:57,23:26:04,23,26,4,1267.08,Move drawer: 95.4% open,Transmitter,Sweep-Control-Circuit-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:04:57,23:26:05,23,26,5,1268.3,Move drawer: 95.4% open,Transmitter,Sweep-Control-Circuit-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:04:57,23:26:06,23,26,6,1269.39,Click on: 'Stage 2 Modulator',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:04:57,23:26:09,23,26,9,1271.6,Disconnect LRU: 'Stage 2 Modulator',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:04:57,23:26:09,23,26,9,1271.63,Move drawer: 95.4% open,Transmitter,Sweep-Control-Circuit-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:04:57,23:26:12,23,26,12,1275.14,Pick Up LRU: 'Stage 2 Modulator',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:04:57,23:26:12,23,26,12,1275.28,Drop LRU: 'Stage 2 Modulator',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:04:57,23:26:14,23,26,14,1276.67,Cancel connect: 'Stage 2 Modulator',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:04:57,23:26:15,23,26,15,1278.25,Pick Up LRU: 'Stage 3 Modulator',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:04:57,23:26:16,23,26,16,1278.42,Drop LRU: 'Stage 3 Modulator',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:04:57,23:26:17,23,26,17,1280.15,Cancel connect: 'Stage 3 Modulator',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:04:57,23:26:20,23,26,20,1282.72,Click on: 'RF Amplifier 1',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:04:57,23:26:21,23,26,21,1284.18,Cancel disconnect: 'RF Amplifier 1',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:04:57,23:26:21,23,26,21,1284.2,Move drawer: 95.4% open,Transmitter,Sweep-Control-Circuit-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:04:57,23:26:26,23,26,26,1288.45,Click on: 'Stage 1 Modulator',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:04:57,23:26:27,23,26,27,1290.03,Cancel disconnect: 'Stage 1 Modulator',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:04:57,23:26:28,23,26,28,1291.09,Pick Up LRU: 'Stage 3 Modulator',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:04:57,23:26:28,23,26,28,1291.24,Drop LRU: 'Stage 3 Modulator',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:04:57,23:26:30,23,26,30,1292.43,Connect LRU: 'Stage 3 Modulator',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:04:57,23:26:30,23,26,30,1292.44,Move drawer: 95.4% open,Transmitter,Sweep-Control-Circuit-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:04:57,23:26:34,23,26,34,1297.28,Pick Up LRU: 'Stage 2 Modulator',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:04:57,23:26:35,23,26,35,1297.45,Drop LRU: 'Stage 2 Modulator',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:04:57,23:26:36,23,26,36,1298.54,Connect LRU: 'Stage 2 Modulator',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:04:57,23:26:36,23,26,36,1298.55,Move drawer: 95.4% open,Transmitter,Sweep-Control-Circuit-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:04:57,23:26:44,23,26,44,1307.07,Move drawer: 95.4% open,Transmitter,Sweep-Control-Circuit-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:04:57,23:27:00,23,27,0,1323.27,Click on: 'Stage 2 Modulator',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:04:57,23:27:04,23,27,4,1327.25,Swing front panel: 100% open,,Sweep-Control-Circuit-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:04:57,23:27:05,23,27,5,1328.23,Cancel disconnect: 'Stage 2 Modulator',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:04:57,23:27:07,23,27,7,1329.45,Click on: 'Stage 1 Modulator',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:04:57,23:27:08,23,27,8,1331.35,Cancel disconnect: 'Stage 1 Modulator',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:04:57,23:27:09,23,27,9,1332.35,Move drawer: 95.4% open,Transmitter,Sweep-Control-Circuit-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:04:57,23:27:10,23,27,10,1333.29,Click on: 'Frequency Synthesizer',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:04:57,23:27:16,23,27,16,1338.53,Cancel disconnect: 'Frequency Synthesizer',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:04:57,23:27:16,23,27,16,1338.55,Move drawer: 95.4% open,Transmitter,Sweep-Control-Circuit-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:04:57,23:27:17,23,27,17,1339.65,Click on: 'RF Amplifier 1',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:04:57,23:27:19,23,27,19,1341.71,Cancel disconnect: 'RF Amplifier 1',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:04:57,23:27:19,23,27,19,1341.73,Move drawer: 95.4% open,Transmitter,Sweep-Control-Circuit-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:04:57,23:27:20,23,27,20,1343.08,Click on: 'RF Amplifier 2',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:04:57,23:27:23,23,27,23,1345.48,Cancel disconnect: 'RF Amplifier 2',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:04:57,23:27:23,23,27,23,1345.5,Move drawer: 95.4% open,Transmitter,Sweep-Control-Circuit-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:04:57,23:27:24,23,27,24,1346.62,Click on: 'Stage 3 Modulator',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:04:57,23:27:25,23,27,25,1348.09,Cancel disconnect: 'Stage 3 Modulator',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:04:57,23:27:25,23,27,25,1348.11,Move drawer: 95.4% open,Transmitter,Sweep-Control-Circuit-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:04:57,23:27:33,23,27,33,1355.91,Move drawer: 95.4% open,Transmitter,Sweep-Control-Circuit-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:04:57,23:27:34,23,27,34,1356.71,Click on: 'Stage 2 Modulator',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:04:57,23:27:35,23,27,35,1358.36,Cancel disconnect: 'Stage 2 Modulator',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:04:57,23:27:36,23,27,36,1359.2,Move drawer: 95.4% open,Transmitter,Sweep-Control-Circuit-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:04:57,23:27:38,23,27,38,1361.11,Click on: 'Stage 1 Modulator',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:04:57,23:27:42,23,27,42,1364.68,Cancel disconnect: 'Stage 1 Modulator',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:04:57,23:27:42,23,27,42,1364.7,Move drawer: 95.4% open,Transmitter,Sweep-Control-Circuit-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:04:57,23:27:43,23,27,43,1365.53,Move drawer: 95.4% open,Transmitter,Sweep-Control-Circuit-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:04:57,23:27:43,23,27,43,1366.18,Click on: 'RF Amplifier 2',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:04:57,23:27:47,23,27,47,1369.56,Cancel disconnect: 'RF Amplifier 2',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:04:57,23:27:54,23,27,54,1376.6,Click on: 'RF Amplifier 2',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:04:57,23:27:56,23,27,56,1378.81,Disconnect LRU: 'RF Amplifier 2',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:04:57,23:27:56,23,27,56,1378.83,Move drawer: 95.4% open,Transmitter,Sweep-Control-Circuit-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:04:57,23:28:02,23,28,2,1384.73,Pick Up LRU: 'RF Amplifier 2',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:04:57,23:28:02,23,28,2,1384.9,Drop LRU: 'RF Amplifier 2',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:04:57,23:28:03,23,28,3,1386.3,Connect LRU: 'RF Amplifier 2',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:04:57,23:28:03,23,28,3,1386.31,Move drawer: 95.4% open,Transmitter,Sweep-Control-Circuit-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:04:57,23:28:13,23,28,13,1396.21,Click on: 'Stage 1 Modulator',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:04:57,23:28:15,23,28,15,1397.49,Disconnect LRU: 'Stage 1 Modulator',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:04:57,23:28:15,23,28,15,1397.51,Move drawer: 95.4% open,Transmitter,Sweep-Control-Circuit-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:04:57,23:28:24,23,28,24,1407.18,Move drawer: 98.3% open,Transmitter,Sweep-Control-Circuit-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:04:57,23:28:26,23,28,26,1408.68,Move drawer: 95.4% open,Transmitter,Sweep-Control-Circuit-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:04:57,23:28:27,23,28,27,1409.51,Click on: 'RF Amplifier 2',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:04:57,23:28:28,23,28,28,1411.35,Disconnect LRU: 'RF Amplifier 2',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:04:57,23:28:28,23,28,28,1411.37,Move drawer: 95.4% open,Transmitter,Sweep-Control-Circuit-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:04:57,23:28:30,23,28,30,1412.76,Connect LRU: 'RF Amplifier 2',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:04:57,23:28:30,23,28,30,1412.78,Move drawer: 95.4% open,Transmitter,Sweep-Control-Circuit-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:04:57,23:28:36,23,28,36,1418.68,Click on: 'RF Amplifier 3',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:04:57,23:28:37,23,28,37,1420.39,Disconnect LRU: 'RF Amplifier 3',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:04:57,23:28:38,23,28,38,1420.41,Move drawer: 95.4% open,Transmitter,Sweep-Control-Circuit-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:04:57,23:28:48,23,28,48,1431.06,Click on: 'RF Amplifier 1',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:04:57,23:28:50,23,28,50,1432.62,Disconnect LRU: 'RF Amplifier 1',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:04:57,23:28:50,23,28,50,1432.63,Move drawer: 95.4% open,Transmitter,Sweep-Control-Circuit-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:04:57,23:28:56,23,28,56,1439.28,Click on: 'RF Amplifier 2',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:04:57,23:28:58,23,28,58,1440.81,Pick Up LRU: 'Stage 1 Modulator',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:04:57,23:28:58,23,28,58,1440.98,Drop LRU: 'Stage 1 Modulator',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:04:57,23:28:58,23,28,58,1440.98,Disconnect LRU: 'RF Amplifier 2',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:04:57,23:29:03,23,29,3,1445.71,Connect LRU: 'Stage 1 Modulator',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:04:57,23:29:03,23,29,3,1445.73,Move drawer: 95.4% open,Transmitter,Sweep-Control-Circuit-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:04:57,23:29:07,23,29,7,1450.3,Pick Up LRU: 'RF Amplifier 3',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:04:57,23:29:08,23,29,8,1450.48,Drop LRU: 'RF Amplifier 3',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:04:57,23:29:09,23,29,9,1451.88,Connect LRU: 'RF Amplifier 3',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:04:57,23:29:09,23,29,9,1451.89,Move drawer: 95.4% open,Transmitter,Sweep-Control-Circuit-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:04:57,23:29:25,23,29,25,1467.63,Move drawer: 95.4% open,Transmitter,Sweep-Control-Circuit-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:04:57,23:29:26,23,29,26,1468.49,Click on: 'Stage 2 Modulator',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:04:57,23:29:34,23,29,34,1477.39,Disconnect LRU: 'Stage 2 Modulator',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:04:57,23:29:35,23,29,35,1477.41,Move drawer: 95.4% open,Transmitter,Sweep-Control-Circuit-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:04:57,23:29:36,23,29,36,1479.27,Connect LRU: 'Stage 2 Modulator',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:04:57,23:29:36,23,29,36,1479.29,Move drawer: 95.4% open,Transmitter,Sweep-Control-Circuit-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:04:57,23:29:39,23,29,39,1482.13,Click on: 'Stage 1 Modulator',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:04:57,23:29:41,23,29,41,1483.96,Pick Up LRU: 'RF Amplifier 2',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:04:57,23:29:41,23,29,41,1484.13,Drop LRU: 'RF Amplifier 2',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:04:57,23:29:41,23,29,41,1484.13,Cancel disconnect: 'Stage 1 Modulator',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:04:57,23:29:44,23,29,44,1486.62,Connect LRU: 'RF Amplifier 2',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:04:57,23:29:44,23,29,44,1486.64,Move drawer: 95.4% open,Transmitter,Sweep-Control-Circuit-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:04:57,23:29:51,23,29,51,1494.06,Move drawer: -9.4% open,Transmitter,Sweep-Control-Circuit-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:04:57,23:29:53,23,29,53,1495.57,Click on: 'Receiver Transmission Line',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:04:57,23:29:55,23,29,55,1497.62,Disconnect LRU: 'Receiver Transmission Line',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:04:57,23:29:55,23,29,55,1497.64,Move drawer: 0% open,Processor,Sweep-Control-Circuit-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:04:57,23:29:58,23,29,58,1500.68,Move drawer: 90.5% open,Tracker,Sweep-Control-Circuit-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:04:57,23:30:33,23,30,33,1536.35,Click on: 'Duplexer Bypass',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:04:57,23:30:43,23,30,43,1545.47,Cancel disconnect: 'Duplexer Bypass',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:04:57,23:30:54,23,30,54,1556.62,Click on: 'Receiver Waveguide',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:04:57,23:31:36,23,31,36,1599.1,Disconnect LRU: 'Receiver Waveguide',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:04:57,23:31:36,23,31,36,1599.12,Move drawer: 95.4% open,Tracker,Sweep-Control-Circuit-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:04:57,23:31:38,23,31,38,1600.44,Connect LRU: 'Receiver Waveguide',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:04:57,23:31:46,23,31,46,1608.44,Click on: 'Receiver Waveguide',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:04:57,23:31:47,23,31,47,1610.35,Disconnect LRU: 'Receiver Waveguide',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:04:57,23:31:49,23,31,49,1612.09,Connect LRU: 'Receiver Waveguide',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:04:57,23:31:57,23,31,57,1619.95,Click on: 'Video Detector',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:04:57,23:32:23,23,32,23,1645.92,Disconnect LRU: 'Video Detector',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:04:57,23:32:28,23,32,28,1651.38,Click on: 'Receiver Waveguide',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:04:57,23:32:30,23,32,30,1653.23,Cancel disconnect: 'Receiver Waveguide',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:04:57,23:32:31,23,32,31,1654.28,Click on: 'Duplexer Bypass',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:04:57,23:32:33,23,32,33,1655.91,Cancel disconnect: 'Duplexer Bypass',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:04:57,23:32:33,23,32,33,1655.93,Move drawer: 95.4% open,Tracker,Sweep-Control-Circuit-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:04:57,23:32:37,23,32,37,1660.3,Move drawer: 95.4% open,Tracker,Sweep-Control-Circuit-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:04:57,23:32:45,23,32,45,1668.27,Move drawer: 0.3% open,Synchronizer,Sweep-Control-Circuit-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:04:57,23:33:28,23,33,28,1711.25,Click on: 'Receiver Waveguide',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:04:57,23:33:30,23,33,30,1712.78,Cancel disconnect: 'Receiver Waveguide',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:04:57,23:33:56,23,33,56,1739.26,Click on: 'Duplexer Bypass',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:04:57,23:33:59,23,33,59,1742.27,Disconnect LRU: 'Duplexer Bypass',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:04:57,23:33:59,23,33,59,1742.29,Move drawer: 0.3% open,Synchronizer,Sweep-Control-Circuit-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:04:57,23:34:20,23,34,20,1762.46,Pick Up LRU: 'Duplexer Bypass',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:04:57,23:34:20,23,34,20,1762.68,Drop LRU: 'Duplexer Bypass',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:04:57,23:34:21,23,34,21,1764.37,Connect LRU: 'Duplexer Bypass',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:04:57,23:34:24,23,34,24,1767.23,Click on: 'Receiver Waveguide',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:04:57,23:34:30,23,34,30,1772.66,Cancel disconnect: 'Receiver Waveguide',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:04:57,23:34:30,23,34,30,1772.68,Move drawer: 0.3% open,Synchronizer,Sweep-Control-Circuit-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:04:57,23:34:51,23,34,51,1793.52,Click on: 'Transmitter Waveguide',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:04:57,23:34:53,23,34,53,1795.84,Cancel disconnect: 'Transmitter Waveguide',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:04:57,23:34:54,23,34,54,1797.25,Click on: 'Duplexer',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:04:57,23:34:57,23,34,57,1800.24,Disconnect LRU: 'Duplexer',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:04:57,23:35:02,23,35,2,1804.86,Click on: 'Transmitter Waveguide',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:04:57,23:35:03,23,35,3,1806.37,Disconnect LRU: 'Transmitter Waveguide',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:04:57,23:35:12,23,35,12,1814.53,Pick Up LRU: 'Transmitter Waveguide',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:04:57,23:35:12,23,35,12,1814.69,Drop LRU: 'Transmitter Waveguide',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:04:57,23:35:14,23,35,14,1816.56,Connect LRU: 'Transmitter Waveguide',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:04:57,23:35:16,23,35,16,1819.21,Pick Up LRU: 'Duplexer',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:04:57,23:35:16,23,35,16,1819.38,Drop LRU: 'Duplexer',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:04:57,23:35:19,23,35,19,1822.08,Connect LRU: 'Duplexer',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:04:57,23:35:19,23,35,19,1822.09,Move drawer: 0.3% open,Synchronizer,Sweep-Control-Circuit-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:04:57,23:35:34,23,35,34,1836.81,Move drawer: 95.4% open,Tracker,Sweep-Control-Circuit-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:04:57,23:35:36,23,35,36,1839.01,Move drawer: 0% open,Transmitter,Sweep-Control-Circuit-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:04:57,23:35:38,23,35,38,1840.61,Move drawer: 0.3% open,Synchronizer,Sweep-Control-Circuit-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:04:57,23:35:43,23,35,43,1846.17,Click on: 'Receiver Waveguide',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:04:57,23:35:48,23,35,48,1850.51,Disconnect LRU: 'Receiver Waveguide',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:04:57,23:35:55,23,35,55,1858.07,Connect LRU: 'Receiver Waveguide',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:04:57,23:35:58,23,35,58,1860.72,Click on: 'Duplexer Bypass',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:04:57,23:35:59,23,35,59,1862.39,Disconnect LRU: 'Duplexer Bypass',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:04:57,23:35:59,23,35,59,1862.41,Move drawer: 0.3% open,Synchronizer,Sweep-Control-Circuit-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:04:57,23:36:09,23,36,9,1871.89,Connect LRU: 'Duplexer Bypass',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:04:57,23:36:19,23,36,19,1882.37,Click on: 'Receiver Antenna',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:04:57,23:36:25,23,36,25,1887.87,Disconnect LRU: 'Receiver Antenna',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:04:57,23:36:25,23,36,25,1887.89,Move drawer: 0.3% open,Synchronizer,Sweep-Control-Circuit-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:04:57,23:36:30,23,36,30,1893.26,Connect LRU: 'Receiver Antenna',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:04:57,23:36:30,23,36,30,1893.27,Move drawer: 0.3% open,Synchronizer,Sweep-Control-Circuit-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:04:57,23:36:33,23,36,33,1895.94,Move drawer: 95.4% open,Tracker,Sweep-Control-Circuit-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:04:57,23:36:35,23,36,35,1898.06,Click on: 'Receiver Antenna',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:04:57,23:36:37,23,36,37,1899.59,Disconnect LRU: 'Receiver Antenna',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:04:57,23:36:40,23,36,40,1902.49,Connect LRU: 'Receiver Antenna',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:04:57,23:36:40,23,36,40,1902.51,Move drawer: 0.3% open,Synchronizer,Sweep-Control-Circuit-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:04:57,23:36:43,23,36,43,1905.86,Click on: 'Receiver Waveguide',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:04:57,23:36:45,23,36,45,1907.7,Disconnect LRU: 'Receiver Waveguide',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:04:57,23:36:49,23,36,49,1912.07,Connect LRU: 'Receiver Waveguide',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:04:57,23:36:51,23,36,51,1914.27,Click on: 'Receiver Antenna',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:04:57,23:36:53,23,36,53,1915.7,Disconnect LRU: 'Receiver Antenna',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:04:57,23:36:54,23,36,54,1917.06,Connect LRU: 'Receiver Antenna',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:04:57,23:37:05,23,37,5,1927.57,Click on: 'Receiver Antenna',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:04:57,23:37:07,23,37,7,1929.95,Move drawer: 0.4% open,Synchronizer,Sweep-Control-Circuit-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:04:57,23:37:07,23,37,7,1930.22,Move drawer: 0.4% open,Synchronizer,Sweep-Control-Circuit-(electrical),,,0,1,0

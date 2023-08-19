@@ -1,0 +1,333 @@
+subject,subject_group,round,round_start_date_utc,round_start_time_utc,current_time_utc,current_hour24,current_minute,current_second,current_elapsed_seconds,event,ui_tab,active_faults,fixed_faults,fixed_nonfaults,ReplacedComponents,FaultsRemaining,ReplacedNonFaults
+st53,LO,1,7/17/21,0:05:01,0:05:02,0,5,2,0.06,Make electrical flaw: Sweep Control Circuit,,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:05:02,0,5,2,0.07,Start (High Fidelity Sim),,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:05:15,0,5,15,13.29,Move to Server Box Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:05:34,0,5,34,33,Leave Server Box Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:05:35,0,5,35,33.27,Move to Spare Parts Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:05:41,0,5,41,39.7,Leave Spare Parts Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:05:41,0,5,41,39.97,Move to Server Box Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:05:43,0,5,43,41.35,Swing front panel: 0% open,,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:05:44,0,5,44,42.12,Swing front panel: 0% open,,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:05:44,0,5,44,43.02,Swing front panel: 0% open,,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:05:45,0,5,45,43.65,Swing front panel: 0% open,,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:05:58,0,5,58,56.82,Leave Server Box Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:05:59,0,5,59,57.07,Move to Spare Parts Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:06:05,0,6,5,63.15,Leave Spare Parts Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:06:05,0,6,5,63.48,Move to Server Box Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:06:12,0,6,12,70.55,Swing front panel: 0% open,,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:06:13,0,6,13,71.2,Swing front panel: 0% open,,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:06:14,0,6,14,72.17,Swing front panel: 0% open,,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:06:21,0,6,21,79.91,Leave Server Box Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:06:22,0,6,22,80.21,Move to Spare Parts Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:06:25,0,6,25,83.43,Pick Up LRU: 'RF Amplifier 2 [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:06:27,0,6,27,85.41,Leave Spare Parts Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:06:27,0,6,27,85.72,Move to Server Box Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:06:30,0,6,30,88.53,Drop LRU: 'RF Amplifier 2 [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:06:31,0,6,31,89.43,Pick Up LRU: 'RF Amplifier 2 [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:06:31,0,6,31,89.95,Drop LRU: 'RF Amplifier 2 [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:06:38,0,6,38,96.7,Swing front panel: 0% open,,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:06:39,0,6,39,97.62,Swing front panel: 0% open,,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:06:51,0,6,51,109.25,Swing front panel: 6.8% open,,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:06:55,0,6,55,113.91,Swing front panel: 71.8% open,,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:06:57,0,6,57,115.23,Move drawer: 0% open,Transmitter,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:07:06,0,7,6,124.73,Move drawer: 0% open,Transmitter,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:07:07,0,7,7,125.58,Move drawer: 5.7% open,Transmitter,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:07:12,0,7,12,130.71,Leave Server Box Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:07:13,0,7,13,131.53,Move to Server Box Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:07:16,0,7,16,134.34,Move drawer: -10.3% open,Transmitter,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:07:20,0,7,20,138.58,Move drawer: 97.9% open,Transmitter,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:07:22,0,7,22,140.33,Move drawer: 99.7% open,Transmitter,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:07:27,0,7,27,145.3,Click on: 'RF Amplifier 1',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:07:30,0,7,30,148.11,Cancel disconnect: 'RF Amplifier 1',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:07:33,0,7,33,151.43,Click on: 'Stage 2 Modulator',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:07:34,0,7,34,152.69,Cancel disconnect: 'Stage 2 Modulator',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:07:44,0,7,44,162.87,Click on: 'Transmitter Transmission Line',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:07:46,0,7,46,164.12,Cancel disconnect: 'Transmitter Transmission Line',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:08:05,0,8,5,183.37,Move drawer: -2.2% open,Transmitter,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:08:08,0,8,8,186.54,Move drawer: -11.4% open,Transmitter,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:08:10,0,8,10,188.71,Click on: 'Frequency Synthesizer',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:08:11,0,8,11,189.82,Cancel disconnect: 'Frequency Synthesizer',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:08:12,0,8,12,190.84,Click on: 'RF Amplifier 1',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:08:13,0,8,13,191.66,Cancel disconnect: 'RF Amplifier 1',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:08:14,0,8,14,192.47,Click on: 'Frequency Synthesizer',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:08:15,0,8,15,193.27,Cancel disconnect: 'Frequency Synthesizer',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:08:15,0,8,15,193.29,Swing front panel: 100% open,,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:08:21,0,8,21,199.65,Move drawer: 42.4% open,Synchronizer,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:08:28,0,8,28,207.02,Move drawer: 54.7% open,Synchronizer,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:08:32,0,8,32,210.75,Move drawer: -2.5% open,Synchronizer,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:08:35,0,8,35,213.35,Move drawer: 33.1% open,Transmitter,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:08:39,0,8,39,217.2,Move drawer: 93.7% open,Transmitter,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:08:44,0,8,44,222.69,Move drawer: 12.1% open,Transmitter,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:08:45,0,8,45,223.7,Click on: 'Control Circuit',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:08:47,0,8,47,225.45,Cancel disconnect: 'Control Circuit',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:08:50,0,8,50,228.92,Move drawer: 98.8% open,Tracker,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:08:53,0,8,53,231.58,Move drawer: 1.3% open,Tracker,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:08:58,0,8,58,236.1,Move drawer: 5.8% open,Processor,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:08:59,0,8,59,237.95,Move drawer: 14.8% open,Indicator,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:09:04,0,9,4,242.75,Move drawer: 38.9% open,Indicator,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:09:17,0,9,17,255.4,Move drawer: 21.9% open,Indicator,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:09:22,0,9,22,260.5,Move drawer: 95.4% open,Transmitter,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:09:28,0,9,28,266.8,Leave Server Box Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:09:29,0,9,29,267.06,Move to Spare Parts Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:09:31,0,9,31,269.59,Leave Spare Parts Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:09:31,0,9,31,270.01,Move to Server Box Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:09:34,0,9,34,272.9,Click on: 'Stage 2 Modulator',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:09:41,0,9,41,279.06,Cancel disconnect: 'Stage 2 Modulator',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:09:45,0,9,45,284.05,Move drawer: -0.8% open,Synchronizer,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:09:51,0,9,51,289.43,Move drawer: 98.6% open,Synchronizer,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:09:53,0,9,53,291.85,Move drawer: 95.4% open,Synchronizer,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:09:54,0,9,54,292.68,Move drawer: 95.4% open,Synchronizer,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:09:55,0,9,55,293.36,Move drawer: 95.4% open,Synchronizer,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:09:55,0,9,55,293.81,Click on: 'Adjuster',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:09:56,0,9,56,295.01,Cancel disconnect: 'Adjuster',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:09:57,0,9,57,295.71,Click on: 'Sine Wave Oscillator',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:09:58,0,9,58,296.74,Cancel disconnect: 'Sine Wave Oscillator',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:09:59,0,9,59,297.41,Click on: 'Limiter',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:10:00,0,10,0,299.04,Disconnect LRU: 'Limiter',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:10:03,0,10,3,301.11,Leave Server Box Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:10:03,0,10,3,301.39,Move to Spare Parts Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:10:07,0,10,7,305.7,Pick Up LRU: 'Stage 1 Modulator [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:10:07,0,10,7,305.81,Drop LRU: 'Stage 1 Modulator [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:10:08,0,10,8,306.54,Pick Up LRU: 'Stage 1 Modulator [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:10:09,0,10,9,307.47,Drop LRU: 'Stage 1 Modulator [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:10:10,0,10,10,308.54,Pick Up LRU: 'Stage 1 Modulator [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:10:12,0,10,12,310.16,Drop LRU: 'Stage 1 Modulator [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:10:14,0,10,14,312.27,Leave Spare Parts Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:10:17,0,10,17,315.59,Pick Up LRU: 'RF Amplifier 3 [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:10:18,0,10,18,316.99,Move to Server Box Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:10:19,0,10,19,317.29,Drop LRU: 'RF Amplifier 3 [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:10:21,0,10,21,319.98,Leave Server Box Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:10:25,0,10,25,323.79,Move to Spare Parts Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:10:27,0,10,27,325.53,Pick Up LRU: 'Adjuster [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:10:27,0,10,27,325.61,Drop LRU: 'Adjuster [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:10:29,0,10,29,327.19,Leave Spare Parts Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:10:31,0,10,31,329.47,Move to Spare Parts Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:10:37,0,10,37,335.61,Pick Up LRU: 'Stage 3 Modulator [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:10:38,0,10,38,336.61,Drop LRU: 'Stage 3 Modulator [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:10:54,0,10,54,352.86,Leave Spare Parts Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:10:55,0,10,55,353.12,Move to Server Box Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:11:04,0,11,4,362.09,Pick Up LRU: 'Limiter',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:11:04,0,11,4,362.2,Drop LRU: 'Limiter',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:11:07,0,11,7,365.44,Connect LRU: 'Limiter',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:11:11,0,11,11,369.64,Move drawer: 20.3% open,Synchronizer,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:11:13,0,11,13,371.39,Click on: 'RF Amplifier 2',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:11:22,0,11,22,380.79,Move drawer: 20.3% open,Synchronizer,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:11:23,0,11,23,381.7,Disconnect LRU: 'RF Amplifier 2',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:11:24,0,11,24,382.47,Click on: 'Stage 1 Modulator',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:11:25,0,11,25,383.45,Disconnect LRU: 'Stage 1 Modulator',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:11:26,0,11,26,384.07,Move drawer: 95.4% open,Transmitter,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:11:26,0,11,26,384.62,Move drawer: 95.4% open,Transmitter,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:11:27,0,11,27,385.66,Click on: 'Stage 2 Modulator',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:11:28,0,11,28,386.64,Disconnect LRU: 'Stage 2 Modulator',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:11:30,0,11,30,388.85,Click on: 'RF Amplifier 1',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:11:31,0,11,31,389.85,Disconnect LRU: 'RF Amplifier 1',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:11:36,0,11,36,394.87,Move drawer: 64.3% open,Transmitter,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:11:38,0,11,38,396.32,Move drawer: 36.5% open,Indicator,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:11:39,0,11,39,397.25,Click on: 'Cathode Ray Tube',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:11:40,0,11,40,398.08,Disconnect LRU: 'Cathode Ray Tube',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:11:44,0,11,44,402.3,Move drawer: 70.8% open,Indicator,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:11:48,0,11,48,406.51,Leave Server Box Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:11:56,0,11,56,414.06,Move to Spare Parts Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:12:10,0,12,10,428.6,Leave Spare Parts Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:12:13,0,12,13,432.05,Move to Server Box Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:12:20,0,12,20,438.53,Leave Server Box Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:12:20,0,12,20,438.81,Move to Spare Parts Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:12:28,0,12,28,446.46,Pick Up LRU: 'Limiter [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:12:29,0,12,29,447.71,Leave Spare Parts Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:12:30,0,12,30,448.91,Move to Server Box Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:12:33,0,12,33,451.16,Leave Server Box Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:12:33,0,12,33,451.49,Move to Server Box Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:12:37,0,12,37,455.84,Drop LRU: 'Limiter [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:12:40,0,12,40,458.21,Cancel connect: 'RF Amplifier 1',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:12:53,0,12,53,471.64,Swing front panel: 80.1% open,,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:12:57,0,12,57,475.74,Pick Up LRU: 'RF Amplifier 2',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:12:59,0,12,59,477.36,Drop LRU: 'RF Amplifier 2',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:13:27,0,13,27,505.16,Pick Up LRU: 'Limiter [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:13:30,0,13,30,508.29,Drop LRU: 'Limiter [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:13:33,0,13,33,511.72,Move drawer: 70.8% open,Indicator,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:13:40,0,13,40,518.37,Pick Up LRU: 'Limiter [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:13:41,0,13,41,519.31,Drop LRU: 'Limiter [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:13:42,0,13,42,520.37,Pick Up LRU: 'Limiter [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:13:44,0,13,44,522.34,Drop LRU: 'Limiter [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:13:45,0,13,45,523.19,Pick Up LRU: 'Limiter [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:13:52,0,13,52,530.37,Drop LRU: 'Limiter [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:13:55,0,13,55,533.37,Pick Up LRU: 'Limiter [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:13:56,0,13,56,534.25,Drop LRU: 'Limiter [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:14:04,0,14,4,542.69,Move drawer: 83.5% open,Indicator,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:14:05,0,14,5,543.44,Move drawer: 86.9% open,Indicator,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:14:06,0,14,6,544.31,Move drawer: 96.7% open,Indicator,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:14:06,0,14,6,545.02,Click on: 'Sweep Generator Circuit',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:14:07,0,14,7,545.81,Disconnect LRU: 'Sweep Generator Circuit',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:14:07,0,14,7,545.82,Move drawer: 95.4% open,Indicator,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:14:08,0,14,8,546.84,Click on: 'Sweep Control Circuit',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:14:09,0,14,9,547.52,Disconnect LRU: 'Sweep Control Circuit',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:14:12,0,14,12,550.15,Pick Up LRU: 'Sweep Generator Circuit',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:14:12,0,14,12,550.24,Drop LRU: 'Sweep Generator Circuit',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:14:12,0,14,12,550.24,Cancel connect: 'Sweep Control Circuit',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:14:15,0,14,15,554.04,Pick Up LRU: 'RF Amplifier 1',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:14:17,0,14,17,555.44,Drop LRU: 'RF Amplifier 1',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:14:17,0,14,17,555.53,Attempt to reconnect mismatched LRU: 'RF Amplifier 1',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:14:23,0,14,23,561.99,Move drawer: 99.4% open,Transmitter,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:14:24,0,14,24,562.87,Cancel connect: 'Stage 2 Modulator',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:14:26,0,14,26,564.72,Move drawer: 99.7% open,Transmitter,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:14:27,0,14,27,565.48,Pick Up LRU: 'RF Amplifier 1',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:14:28,0,14,28,566.33,Attempt to reconnect mismatched LRU: 'RF Amplifier 1',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:14:28,0,14,28,566.77,Drop LRU: 'RF Amplifier 1',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:14:30,0,14,30,568.47,Connect LRU: 'RF Amplifier 1',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:14:32,0,14,32,570.89,Click on: 'RF Amplifier 1',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:14:33,0,14,33,572.02,Disconnect LRU: 'RF Amplifier 1',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:14:35,0,14,35,573.19,Cancel connect: 'RF Amplifier 1',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:14:35,0,14,35,574.02,Pick Up LRU: 'RF Amplifier 1',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:14:37,0,14,37,575.11,Drop LRU: 'RF Amplifier 1',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:14:37,0,14,37,575.18,Attempt to reconnect mismatched LRU: 'RF Amplifier 1',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:14:38,0,14,38,576.33,Pick Up LRU: 'RF Amplifier 1',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:14:38,0,14,38,576.42,Drop LRU: 'RF Amplifier 1',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:14:39,0,14,39,577.36,Pick Up LRU: 'RF Amplifier 1',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:14:39,0,14,39,577.48,Drop LRU: 'RF Amplifier 1',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:14:39,0,14,39,577.56,Attempt to reconnect mismatched LRU: 'RF Amplifier 1',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:14:41,0,14,41,579.73,Move drawer: 98.9% open,Synchronizer,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:14:46,0,14,46,584.27,Move drawer: 28% open,Synchronizer,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:14:48,0,14,48,586.13,Pick Up LRU: 'Limiter [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:14:48,0,14,48,586.92,Drop LRU: 'Limiter [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:14:52,0,14,52,590.93,Pick Up LRU: 'RF Amplifier 2',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:14:58,0,14,58,596.13,Drop LRU: 'RF Amplifier 2',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:15:00,0,15,0,598.37,Pick Up LRU: 'RF Amplifier 2',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:15:02,0,15,2,600.08,Drop LRU: 'RF Amplifier 2',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:15:09,0,15,9,607.28,Pick Up LRU: 'RF Amplifier 2',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:15:10,0,15,10,608.83,Drop LRU: 'RF Amplifier 2',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:15:13,0,15,13,611.93,Pick Up LRU: 'RF Amplifier 2',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:15:14,0,15,14,613.03,Pick Up LRU: 'RF Amplifier 2',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:15:15,0,15,15,613.16,Pick Up LRU: 'RF Amplifier 2',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:15:15,0,15,15,613.4,Drop LRU: 'RF Amplifier 2',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:15:15,0,15,15,613.95,Pick Up LRU: 'RF Amplifier 2',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:15:16,0,15,16,614.98,Drop LRU: 'RF Amplifier 2',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:15:24,0,15,24,622.63,Pick Up LRU: 'RF Amplifier 2',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:15:33,0,15,33,631.93,Pick Up LRU: 'Limiter [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:15:35,0,15,35,633.43,Pick Up LRU: 'Limiter [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:15:37,0,15,37,635.59,Leave Server Box Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:15:37,0,15,37,635.79,Drop LRU: 'Limiter [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:15:42,0,15,42,640.11,Move to Server Box Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:15:53,0,15,53,651.71,Pick Up LRU: 'Limiter [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:15:53,0,15,53,651.83,Drop LRU: 'Limiter [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:15:56,0,15,56,654.21,Pick Up LRU: 'Limiter [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:15:56,0,15,56,654.53,Drop LRU: 'Limiter [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:15:57,0,15,57,655.81,Pick Up LRU: 'Limiter [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:15:57,0,15,57,655.88,Drop LRU: 'Limiter [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:15:58,0,15,58,656.43,Pick Up LRU: 'Limiter [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:15:59,0,15,59,657.83,Drop LRU: 'Limiter [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:16:06,0,16,6,665.01,Leave Server Box Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:16:09,0,16,9,667.66,Pick Up LRU: 'Duplexer [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:16:11,0,16,11,669.37,Drop LRU: 'Duplexer [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:16:15,0,16,15,673.67,Pick Up LRU: 'Duplexer Bypass [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:16:18,0,16,18,676.12,Drop LRU: 'Duplexer Bypass [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:16:19,0,16,19,677.08,Pick Up LRU: 'Duplexer Bypass [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:16:26,0,16,26,684.86,Move to Server Box Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:16:38,0,16,38,696.89,Attempt to reconnect mismatched LRU: 'Duplexer Bypass [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:16:39,0,16,39,697.42,Attempt to reconnect mismatched LRU: 'Duplexer Bypass [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:16:42,0,16,42,700.06,Drop LRU: 'Duplexer Bypass [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:16:45,0,16,45,703.87,Move drawer: 99% open,Indicator,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:16:45,0,16,45,703.89,Leave Server Box Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:16:46,0,16,46,704.49,Move to Server Box Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:16:48,0,16,48,706.36,Move drawer: 20.1% open,Transmitter,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:16:50,0,16,50,708.44,Pick Up LRU: 'Stage 2 Modulator',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:16:50,0,16,50,708.52,Drop LRU: 'Stage 2 Modulator',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:16:50,0,16,50,708.67,Pick Up LRU: 'Stage 2 Modulator',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:16:50,0,16,50,708.89,Drop LRU: 'Stage 2 Modulator',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:16:51,0,16,51,709.37,Pick Up LRU: 'Stage 2 Modulator',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:16:52,0,16,52,710.79,Drop LRU: 'Stage 2 Modulator',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:16:57,0,16,57,715.05,Move drawer: 95.5% open,Indicator,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:17:07,0,17,7,725.6,Move drawer: 100% open,Transmitter,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:17:22,0,17,22,740.38,Pick Up LRU: 'Duplexer Bypass [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:17:23,0,17,23,741.5,Drop LRU: 'Duplexer Bypass [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:17:27,0,17,27,745.1,Pick Up LRU: 'Duplexer Bypass [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:17:27,0,17,27,745.97,Drop LRU: 'Duplexer Bypass [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:17:28,0,17,28,746.8,Pick Up LRU: 'Duplexer Bypass [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:17:31,0,17,31,749.82,Drop LRU: 'Duplexer Bypass [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:17:31,0,17,31,750.05,Pick Up LRU: 'Duplexer Bypass [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:17:38,0,17,38,756.72,Drop LRU: 'Duplexer Bypass [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:17:41,0,17,41,760.01,Pick Up LRU: 'Stage 2 Modulator',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:17:48,0,17,48,766.35,Drop LRU: 'Stage 2 Modulator',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:17:50,0,17,50,768.63,Pick Up LRU: 'Duplexer Bypass [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:17:54,0,17,54,772.8,Leave Server Box Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:17:54,0,17,54,772.97,Drop LRU: 'Duplexer Bypass [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:17:56,0,17,56,774.21,Pick Up LRU: 'Duplexer Bypass [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:17:59,0,17,59,777.65,Drop LRU: 'Duplexer Bypass [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:18:01,0,18,1,779.16,Pick Up LRU: 'Duplexer Bypass [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:18:03,0,18,3,781.93,Move to Server Box Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:18:06,0,18,6,784.7,Drop LRU: 'Duplexer Bypass [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:18:07,0,18,7,785.1,Move drawer: 95.4% open,Transmitter,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:18:08,0,18,8,786.58,Pick Up LRU: 'Limiter [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:18:14,0,18,14,792.21,Drop LRU: 'Limiter [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:18:15,0,18,15,793.08,Pick Up LRU: 'Stage 2 Modulator',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:18:25,0,18,25,803.11,Attempt to reconnect mismatched LRU: 'Stage 2 Modulator',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:18:25,0,18,25,803.93,Drop LRU: 'Stage 2 Modulator',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:18:26,0,18,26,804.39,Pick Up LRU: 'Stage 2 Modulator',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:18:26,0,18,26,804.51,Drop LRU: 'Stage 2 Modulator',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:18:26,0,18,26,804.61,Attempt to reconnect mismatched LRU: 'Stage 2 Modulator',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:18:29,0,18,29,807.63,Swing front panel: 94.8% open,,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:18:33,0,18,33,811.29,Swing front panel: 91.6% open,,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:18:35,0,18,35,813.16,Move drawer: 95.4% open,Indicator,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:18:38,0,18,38,816.16,Move drawer: 37.1% open,Synchronizer,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:18:40,0,18,40,818.06,Move drawer: 95.4% open,Synchronizer,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:18:42,0,18,42,820.29,Attempt to reconnect mismatched LRU: 'Duplexer Bypass [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:18:42,0,18,42,820.34,Move drawer: 6.3% open,Synchronizer,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:18:43,0,18,43,821.16,Pick Up LRU: 'Duplexer Bypass [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:18:43,0,18,43,821.83,Attempt to reconnect mismatched LRU: 'Duplexer Bypass [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:18:43,0,18,43,821.84,Attempt to reconnect mismatched LRU: 'Duplexer Bypass [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:18:44,0,18,44,822.54,Drop LRU: 'Duplexer Bypass [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:19:01,0,19,1,839.24,Pick Up LRU: 'Duplexer Bypass [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:19:01,0,19,1,839.71,Attempt to reconnect mismatched LRU: 'Duplexer Bypass [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:19:01,0,19,1,839.84,Attempt to reconnect mismatched LRU: 'Duplexer Bypass [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:19:02,0,19,2,840.27,Drop LRU: 'Duplexer Bypass [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:19:03,0,19,3,841.19,Pick Up LRU: 'Duplexer Bypass [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:19:03,0,19,3,841.28,Drop LRU: 'Duplexer Bypass [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:19:04,0,19,4,842.13,Move drawer: 95.4% open,Transmitter,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:19:04,0,19,4,842.57,Pick Up LRU: 'Duplexer Bypass [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:19:04,0,19,4,842.67,Drop LRU: 'Duplexer Bypass [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:19:04,0,19,4,842.76,Attempt to reconnect mismatched LRU: 'Duplexer Bypass [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:19:05,0,19,5,843.14,Pick Up LRU: 'Duplexer Bypass [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:19:07,0,19,7,845.16,Drop LRU: 'Duplexer Bypass [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:19:07,0,19,7,845.22,Attempt to reconnect mismatched LRU: 'Duplexer Bypass [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:19:07,0,19,7,845.87,Pick Up LRU: 'Duplexer Bypass [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:19:12,0,19,12,850.47,Attempt to reconnect mismatched LRU: 'Duplexer Bypass [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:19:12,0,19,12,850.47,Attempt to reconnect mismatched LRU: 'Duplexer Bypass [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:19:13,0,19,13,851.41,Drop LRU: 'Duplexer Bypass [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:19:13,0,19,13,851.81,Pick Up LRU: 'Duplexer Bypass [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:19:14,0,19,14,852.61,Attempt to reconnect mismatched LRU: 'Duplexer Bypass [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:19:14,0,19,14,852.72,Attempt to reconnect mismatched LRU: 'Duplexer Bypass [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:19:15,0,19,15,853.76,Drop LRU: 'Duplexer Bypass [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:19:16,0,19,16,854.24,Pick Up LRU: 'Duplexer Bypass [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:19:16,0,19,16,854.81,Attempt to reconnect mismatched LRU: 'Duplexer Bypass [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:19:17,0,19,17,855.54,Drop LRU: 'Duplexer Bypass [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:19:18,0,19,18,856.16,Pick Up LRU: 'Duplexer Bypass [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:19:18,0,19,18,856.26,Drop LRU: 'Duplexer Bypass [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:19:18,0,19,18,856.32,Attempt to reconnect mismatched LRU: 'Duplexer Bypass [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:19:20,0,19,20,858.54,Move drawer: 50.3% open,Transmitter,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:19:22,0,19,22,860.22,Move drawer: 9% open,Transmitter,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:19:23,0,19,23,861.36,Pick Up LRU: 'Duplexer Bypass [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:19:24,0,19,24,862.89,Drop LRU: 'Duplexer Bypass [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:19:26,0,19,26,864.27,Pick Up LRU: 'Stage 1 Modulator',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:19:27,0,19,27,865.27,Attempt to reconnect mismatched LRU: 'Stage 1 Modulator',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:19:27,0,19,27,865.32,Attempt to reconnect mismatched LRU: 'Stage 1 Modulator',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:19:27,0,19,27,865.57,Attempt to reconnect mismatched LRU: 'Stage 1 Modulator',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:19:27,0,19,27,865.59,Attempt to reconnect mismatched LRU: 'Stage 1 Modulator',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:19:28,0,19,28,866.07,Drop LRU: 'Stage 1 Modulator',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:19:28,0,19,28,866.21,Attempt to reconnect mismatched LRU: 'Stage 1 Modulator',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:19:29,0,19,29,867.21,Pick Up LRU: 'Stage 1 Modulator',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:19:30,0,19,30,868.79,Attempt to reconnect mismatched LRU: 'Stage 1 Modulator',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:19:31,0,19,31,869.37,Attempt to reconnect mismatched LRU: 'Stage 1 Modulator',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:19:31,0,19,31,869.77,Attempt to reconnect mismatched LRU: 'Stage 1 Modulator',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:19:32,0,19,32,870.42,Drop LRU: 'Stage 1 Modulator',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:19:33,0,19,33,871.39,Leave Server Box Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:19:34,0,19,34,872.25,Move to Spare Parts Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:19:47,0,19,47,885.92,Pick Up LRU: 'Sine Wave Oscillator [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:19:49,0,19,49,887.32,Drop LRU: 'Sine Wave Oscillator [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:19:49,0,19,49,888.05,Pick Up LRU: 'Sine Wave Oscillator [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:19:52,0,19,52,890.68,Leave Spare Parts Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:19:56,0,19,56,894.65,Drop LRU: 'Sine Wave Oscillator [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:19:58,0,19,58,896.85,Move to Server Box Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:20:16,0,20,16,914.8,Submit?,,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:05:01,0:20:19,0,20,19,917.44,Submit Confirm,,Sweep-Control-Circuit-(electrical),,,0,1,0
+st53,LO,2,7/17/21,0:20:20,0:20:20,0,20,20,0,Make electrical flaw: AFC Mixer,,AFC-Mixer-(electrical),,,0,1,0
+st53,LO,2,7/17/21,0:20:20,0:20:20,0,20,20,0,Start (High Fidelity Sim),,AFC-Mixer-(electrical),,,0,1,0
+st53,LO,2,7/17/21,0:20:20,0:20:20,0,20,20,0.03,Leave Server Box Table,,AFC-Mixer-(electrical),,,0,1,0

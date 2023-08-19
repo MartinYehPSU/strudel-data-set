@@ -1,0 +1,399 @@
+subject,subject_group,round,round_start_date_utc,round_start_time_utc,current_time_utc,current_hour24,current_minute,current_second,current_elapsed_seconds,event,ui_tab,active_faults,fixed_faults,fixed_nonfaults,ReplacedComponents,FaultsRemaining,ReplacedNonFaults
+st12,Hi,1,4/28/21,20:45:44,20:45:44,20,45,44,0.03,Make electrical flaw: Sweep Control Circuit,,Sweep-Control-Circuit-(electrical),,,0,1,0
+st12,Hi,1,4/28/21,20:45:44,20:45:44,20,45,44,0.04,Start (High Fidelity Sim),,Sweep-Control-Circuit-(electrical),,,0,1,0
+st12,Hi,1,4/28/21,20:45:44,20:46:39,20,46,39,55.66,Move to Spare Parts Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+st12,Hi,1,4/28/21,20:45:44,20:46:40,20,46,40,56.24,Leave Spare Parts Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+st12,Hi,1,4/28/21,20:45:44,20:46:40,20,46,40,56.51,Move to Server Box Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+st12,Hi,1,4/28/21,20:45:44,20:46:41,20,46,41,56.91,Leave Server Box Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+st12,Hi,1,4/28/21,20:45:44,20:46:42,20,46,42,58.56,Move to Server Box Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+st12,Hi,1,4/28/21,20:45:44,20:46:43,20,46,43,59.14,Leave Server Box Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+st12,Hi,1,4/28/21,20:45:44,20:47:19,20,47,19,95.09,Move to Server Box Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+st12,Hi,1,4/28/21,20:45:44,20:47:22,20,47,22,98.25,Swing front panel: 0% open,,Sweep-Control-Circuit-(electrical),,,0,1,0
+st12,Hi,1,4/28/21,20:45:44,20:47:23,20,47,23,99.39,Swing front panel: 0% open,,Sweep-Control-Circuit-(electrical),,,0,1,0
+st12,Hi,1,4/28/21,20:45:44,20:47:29,20,47,29,105.57,Leave Server Box Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+st12,Hi,1,4/28/21,20:45:44,20:47:30,20,47,30,105.86,Move to Spare Parts Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+st12,Hi,1,4/28/21,20:45:44,20:47:31,20,47,31,106.96,Leave Spare Parts Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+st12,Hi,1,4/28/21,20:45:44,20:47:34,20,47,34,109.89,Move to Server Box Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+st12,Hi,1,4/28/21,20:45:44,20:47:40,20,47,40,116.26,Swing front panel: 0% open,,Sweep-Control-Circuit-(electrical),,,0,1,0
+st12,Hi,1,4/28/21,20:45:44,20:47:41,20,47,41,117.41,Swing front panel: 0% open,,Sweep-Control-Circuit-(electrical),,,0,1,0
+st12,Hi,1,4/28/21,20:45:44,20:47:45,20,47,45,120.76,Swing front panel: 68.7% open,,Sweep-Control-Circuit-(electrical),,,0,1,0
+st12,Hi,1,4/28/21,20:45:44,20:49:18,20,49,18,213.76,Move drawer: 99.7% open,Transmitter,Sweep-Control-Circuit-(electrical),,,0,1,0
+st12,Hi,1,4/28/21,20:45:44,20:49:41,20,49,41,237.25,Swing front panel: 42% open,,Sweep-Control-Circuit-(electrical),,,0,1,0
+st12,Hi,1,4/28/21,20:45:44,20:50:05,20,50,5,260.92,Move drawer: 0.1% open,Tracker,Sweep-Control-Circuit-(electrical),,,0,1,0
+st12,Hi,1,4/28/21,20:45:44,20:50:06,20,50,6,261.76,Move drawer: -1.9% open,Tracker,Sweep-Control-Circuit-(electrical),,,0,1,0
+st12,Hi,1,4/28/21,20:45:44,20:50:07,20,50,7,263.61,Swing front panel: 70.1% open,,Sweep-Control-Circuit-(electrical),,,0,1,0
+st12,Hi,1,4/28/21,20:45:44,20:50:13,20,50,13,269.18,Swing front panel: 65.3% open,,Sweep-Control-Circuit-(electrical),,,0,1,0
+st12,Hi,1,4/28/21,20:45:44,20:50:15,20,50,15,271.08,Move drawer: 2.4% open,Transmitter,Sweep-Control-Circuit-(electrical),,,0,1,0
+st12,Hi,1,4/28/21,20:45:44,20:50:17,20,50,17,272.8,Click on: 'Cathode Ray Tube',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st12,Hi,1,4/28/21,20:45:44,20:50:20,20,50,20,276.66,Cancel disconnect: 'Cathode Ray Tube',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st12,Hi,1,4/28/21,20:45:44,20:50:20,20,50,20,276.68,Swing front panel: 100% open,,Sweep-Control-Circuit-(electrical),,,0,1,0
+st12,Hi,1,4/28/21,20:45:44,20:50:23,20,50,23,278.83,Move drawer: 99.6% open,Indicator,Sweep-Control-Circuit-(electrical),,,0,1,0
+st12,Hi,1,4/28/21,20:45:44,20:50:54,20,50,54,310.65,Move drawer: 0.1% open,Indicator,Sweep-Control-Circuit-(electrical),,,0,1,0
+st12,Hi,1,4/28/21,20:45:44,20:50:59,20,50,59,315.13,Move drawer: 95.2% open,Processor,Sweep-Control-Circuit-(electrical),,,0,1,0
+st12,Hi,1,4/28/21,20:45:44,20:51:17,20,51,17,333.18,Click on: 'AFC Amplifier',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st12,Hi,1,4/28/21,20:45:44,20:51:19,20,51,19,335.38,Cancel disconnect: 'AFC Amplifier',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st12,Hi,1,4/28/21,20:45:44,20:51:40,20,51,40,356.2,Move drawer: 60.1% open,Processor,Sweep-Control-Circuit-(electrical),,,0,1,0
+st12,Hi,1,4/28/21,20:45:44,20:51:47,20,51,47,363.05,Move drawer: 60.1% open,Processor,Sweep-Control-Circuit-(electrical),,,0,1,0
+st12,Hi,1,4/28/21,20:45:44,20:51:48,20,51,48,364.26,Move drawer: 1.8% open,Processor,Sweep-Control-Circuit-(electrical),,,0,1,0
+st12,Hi,1,4/28/21,20:45:44,20:51:51,20,51,51,366.75,Move drawer: 54.3% open,Tracker,Sweep-Control-Circuit-(electrical),,,0,1,0
+st12,Hi,1,4/28/21,20:45:44,20:51:54,20,51,54,369.88,Move drawer: 45.9% open,Indicator,Sweep-Control-Circuit-(electrical),,,0,1,0
+st12,Hi,1,4/28/21,20:45:44,20:51:56,20,51,56,372.3,Move drawer: 98.6% open,Tracker,Sweep-Control-Circuit-(electrical),,,0,1,0
+st12,Hi,1,4/28/21,20:45:44,20:52:11,20,52,11,387.7,Move drawer: 74.7% open,Transmitter,Sweep-Control-Circuit-(electrical),,,0,1,0
+st12,Hi,1,4/28/21,20:45:44,20:52:14,20,52,14,390.67,Move drawer: 95.4% open,Transmitter,Sweep-Control-Circuit-(electrical),,,0,1,0
+st12,Hi,1,4/28/21,20:45:44,20:52:30,20,52,30,406.17,Click on: 'Stage 1 Modulator',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st12,Hi,1,4/28/21,20:45:44,20:52:31,20,52,31,407.59,Disconnect LRU: 'Stage 1 Modulator',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st12,Hi,1,4/28/21,20:45:44,20:52:31,20,52,31,407.6,Move drawer: 95.4% open,Transmitter,Sweep-Control-Circuit-(electrical),,,0,1,0
+st12,Hi,1,4/28/21,20:45:44,20:52:46,20,52,46,422.31,Leave Server Box Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+st12,Hi,1,4/28/21,20:45:44,20:52:47,20,52,47,422.8,Move to Spare Parts Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+st12,Hi,1,4/28/21,20:45:44,20:53:08,20,53,8,444.1,Pick Up LRU: 'Stage 1 Modulator [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st12,Hi,1,4/28/21,20:45:44,20:53:11,20,53,11,447.05,Leave Spare Parts Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+st12,Hi,1,4/28/21,20:45:44,20:53:14,20,53,14,449.8,Move to Server Box Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+st12,Hi,1,4/28/21,20:45:44,20:53:16,20,53,16,452.03,Drop LRU: 'Stage 1 Modulator [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st12,Hi,1,4/28/21,20:45:44,20:53:17,20,53,17,453.23,Pick Up LRU: 'Stage 1 Modulator [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st12,Hi,1,4/28/21,20:45:44,20:53:19,20,53,19,455.16,Drop LRU: 'Stage 1 Modulator [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st12,Hi,1,4/28/21,20:45:44,20:53:20,20,53,20,456.3,Pick Up LRU: 'Stage 1 Modulator [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st12,Hi,1,4/28/21,20:45:44,20:53:21,20,53,21,457.62,Drop LRU: 'Stage 1 Modulator [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st12,Hi,1,4/28/21,20:45:44,20:53:24,20,53,24,459.81,Pick Up LRU: 'Stage 1 Modulator [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st12,Hi,1,4/28/21,20:45:44,20:53:25,20,53,25,461.36,Drop LRU: 'Stage 1 Modulator [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st12,Hi,1,4/28/21,20:45:44,20:53:26,20,53,26,462.55,Pick Up LRU: 'Stage 1 Modulator [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st12,Hi,1,4/28/21,20:45:44,20:53:29,20,53,29,464.92,Drop LRU: 'Stage 1 Modulator [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st12,Hi,1,4/28/21,20:45:44,20:53:36,20,53,36,472.33,Pick Up LRU: 'Stage 1 Modulator [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st12,Hi,1,4/28/21,20:45:44,20:53:38,20,53,38,474.2,Drop LRU: 'Stage 1 Modulator [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st12,Hi,1,4/28/21,20:45:44,20:53:39,20,53,39,474.88,Pick Up LRU: 'Stage 1 Modulator [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st12,Hi,1,4/28/21,20:45:44,20:53:43,20,53,43,479.53,Drop LRU: 'Stage 1 Modulator [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st12,Hi,1,4/28/21,20:45:44,20:53:45,20,53,45,481.32,Pick Up LRU: 'Stage 1 Modulator [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st12,Hi,1,4/28/21,20:45:44,20:53:46,20,53,46,482.68,Drop LRU: 'Stage 1 Modulator [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st12,Hi,1,4/28/21,20:45:44,20:53:48,20,53,48,483.8,Pick Up LRU: 'Stage 1 Modulator [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st12,Hi,1,4/28/21,20:45:44,20:53:51,20,53,51,486.83,Drop LRU: 'Stage 1 Modulator [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st12,Hi,1,4/28/21,20:45:44,20:53:52,20,53,52,488.1,Leave Server Box Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+st12,Hi,1,4/28/21,20:45:44,20:53:52,20,53,52,488.4,Move to Spare Parts Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+st12,Hi,1,4/28/21,20:45:44,20:53:59,20,53,59,495.12,Pick Up LRU: 'Stage 2 Modulator [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st12,Hi,1,4/28/21,20:45:44,20:54:04,20,54,4,500.45,Leave Spare Parts Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+st12,Hi,1,4/28/21,20:45:44,20:54:12,20,54,12,508.55,Move to Server Box Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+st12,Hi,1,4/28/21,20:45:44,20:54:26,20,54,26,522.66,Drop LRU: 'Stage 2 Modulator [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st12,Hi,1,4/28/21,20:45:44,20:54:28,20,54,28,524.66,Pick Up LRU: 'Stage 2 Modulator [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st12,Hi,1,4/28/21,20:45:44,20:54:35,20,54,35,530.82,Drop LRU: 'Stage 2 Modulator [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st12,Hi,1,4/28/21,20:45:44,20:54:35,20,54,35,531.55,Pick Up LRU: 'Stage 2 Modulator [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st12,Hi,1,4/28/21,20:45:44,20:54:37,20,54,37,532.79,Drop LRU: 'Stage 2 Modulator [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st12,Hi,1,4/28/21,20:45:44,20:54:40,20,54,40,536.15,Pick Up LRU: 'Stage 2 Modulator [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st12,Hi,1,4/28/21,20:45:44,20:54:53,20,54,53,549.67,Drop LRU: 'Stage 2 Modulator [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st12,Hi,1,4/28/21,20:45:44,20:54:57,20,54,57,553.6,Leave Server Box Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+st12,Hi,1,4/28/21,20:45:44,20:54:58,20,54,58,553.98,Move to Server Box Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+st12,Hi,1,4/28/21,20:45:44,20:55:05,20,55,5,561.05,Pick Up LRU: 'Stage 2 Modulator [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st12,Hi,1,4/28/21,20:45:44,20:55:24,20,55,24,580.23,Leave Server Box Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+st12,Hi,1,4/28/21,20:45:44,20:55:24,20,55,24,580.6,Drop LRU: 'Stage 2 Modulator [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st12,Hi,1,4/28/21,20:45:44,20:55:25,20,55,25,581.4,Move to Server Box Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+st12,Hi,1,4/28/21,20:45:44,20:55:31,20,55,31,587.38,Pick Up LRU: 'Stage 1 Modulator [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st12,Hi,1,4/28/21,20:45:44,20:55:54,20,55,54,610,Drop LRU: 'Stage 1 Modulator [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st12,Hi,1,4/28/21,20:45:44,20:55:59,20,55,59,615.55,Pick Up LRU: 'Stage 1 Modulator [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st12,Hi,1,4/28/21,20:45:44,20:56:14,20,56,14,630.2,Drop LRU: 'Stage 1 Modulator [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st12,Hi,1,4/28/21,20:45:44,20:56:16,20,56,16,632.17,Pick Up LRU: 'Stage 1 Modulator',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st12,Hi,1,4/28/21,20:45:44,20:56:17,20,56,17,633.38,Drop LRU: 'Stage 1 Modulator',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st12,Hi,1,4/28/21,20:45:44,20:56:21,20,56,21,636.79,Connect LRU: 'Stage 1 Modulator',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st12,Hi,1,4/28/21,20:45:44,20:56:21,20,56,21,636.8,Move drawer: 95.4% open,Tracker,Sweep-Control-Circuit-(electrical),,,0,1,0
+st12,Hi,1,4/28/21,20:45:44,20:56:22,20,56,22,638.17,Pick Up LRU: 'Stage 1 Modulator [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st12,Hi,1,4/28/21,20:45:44,20:56:25,20,56,25,640.84,Drop LRU: 'Stage 1 Modulator [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st12,Hi,1,4/28/21,20:45:44,20:56:26,20,56,26,642.14,Click on: 'Stage 1 Modulator',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st12,Hi,1,4/28/21,20:45:44,20:56:27,20,56,27,643.67,Move drawer: 95.4% open,Tracker,Sweep-Control-Circuit-(electrical),,,0,1,0
+st12,Hi,1,4/28/21,20:45:44,20:56:28,20,56,28,644.49,Disconnect LRU: 'Stage 1 Modulator',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st12,Hi,1,4/28/21,20:45:44,20:56:28,20,56,28,644.5,Move drawer: 95.4% open,Tracker,Sweep-Control-Circuit-(electrical),,,0,1,0
+st12,Hi,1,4/28/21,20:45:44,20:56:30,20,56,30,646.67,Connect LRU: 'Stage 1 Modulator',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st12,Hi,1,4/28/21,20:45:44,20:56:30,20,56,30,646.69,Move drawer: 95.4% open,Tracker,Sweep-Control-Circuit-(electrical),,,0,1,0
+st12,Hi,1,4/28/21,20:45:44,20:56:31,20,56,31,647.7,Click on: 'Stage 1 Modulator',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st12,Hi,1,4/28/21,20:45:44,20:56:34,20,56,34,650.04,Disconnect LRU: 'Stage 1 Modulator',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st12,Hi,1,4/28/21,20:45:44,20:56:34,20,56,34,650.05,Move drawer: 95.4% open,Tracker,Sweep-Control-Circuit-(electrical),,,0,1,0
+st12,Hi,1,4/28/21,20:45:44,20:56:36,20,56,36,652.54,Cancel connect: 'Stage 1 Modulator',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st12,Hi,1,4/28/21,20:45:44,20:56:36,20,56,36,652.55,Move drawer: 95.4% open,Tracker,Sweep-Control-Circuit-(electrical),,,0,1,0
+st12,Hi,1,4/28/21,20:45:44,20:56:37,20,56,37,653.44,Pick Up LRU: 'Stage 1 Modulator',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st12,Hi,1,4/28/21,20:45:44,20:56:38,20,56,38,654.64,Drop LRU: 'Stage 1 Modulator',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st12,Hi,1,4/28/21,20:45:44,20:56:40,20,56,40,655.97,Cancel connect: 'Stage 1 Modulator',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st12,Hi,1,4/28/21,20:45:44,20:56:40,20,56,40,655.99,Move drawer: 95.4% open,Tracker,Sweep-Control-Circuit-(electrical),,,0,1,0
+st12,Hi,1,4/28/21,20:45:44,20:56:41,20,56,41,656.94,Pick Up LRU: 'Stage 1 Modulator',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st12,Hi,1,4/28/21,20:45:44,20:56:43,20,56,43,659.3,Drop LRU: 'Stage 1 Modulator',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st12,Hi,1,4/28/21,20:45:44,20:56:45,20,56,45,660.86,Cancel connect: 'Stage 1 Modulator',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st12,Hi,1,4/28/21,20:45:44,20:56:46,20,56,46,661.74,Pick Up LRU: 'Stage 1 Modulator [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st12,Hi,1,4/28/21,20:45:44,20:56:47,20,56,47,663.4,Drop LRU: 'Stage 1 Modulator [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st12,Hi,1,4/28/21,20:45:44,20:56:49,20,56,49,665.44,Connect LRU: 'Stage 1 Modulator [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st12,Hi,1,4/28/21,20:45:44,20:56:49,20,56,49,665.46,Move drawer: 95.4% open,Tracker,Sweep-Control-Circuit-(electrical),,,0,1,0
+st12,Hi,1,4/28/21,20:45:44,20:56:50,20,56,50,666.66,Replaced unnecessarily Stage 1 Modulator (electrical),,Sweep-Control-Circuit-(electrical),,Stage-1-Modulator-(electrical),1,1,1
+st12,Hi,1,4/28/21,20:45:44,20:56:50,20,56,50,666.67,Move drawer: 95.4% open,Tracker,Sweep-Control-Circuit-(electrical),,Stage-1-Modulator-(electrical),1,1,1
+st12,Hi,1,4/28/21,20:45:44,20:56:58,20,56,58,674.42,Move drawer: 99.6% open,Transmitter,Sweep-Control-Circuit-(electrical),,Stage-1-Modulator-(electrical),1,1,1
+st12,Hi,1,4/28/21,20:45:44,20:57:00,20,57,0,676.71,Move drawer: 95.4% open,Transmitter,Sweep-Control-Circuit-(electrical),,Stage-1-Modulator-(electrical),1,1,1
+st12,Hi,1,4/28/21,20:45:44,20:57:02,20,57,2,678.25,Move drawer: 96.8% open,Transmitter,Sweep-Control-Circuit-(electrical),,Stage-1-Modulator-(electrical),1,1,1
+st12,Hi,1,4/28/21,20:45:44,20:57:03,20,57,3,679.52,Move drawer: 95.4% open,Transmitter,Sweep-Control-Circuit-(electrical),,Stage-1-Modulator-(electrical),1,1,1
+st12,Hi,1,4/28/21,20:45:44,20:57:04,20,57,4,679.79,Move drawer: 95.4% open,Transmitter,Sweep-Control-Circuit-(electrical),,Stage-1-Modulator-(electrical),1,1,1
+st12,Hi,1,4/28/21,20:45:44,20:57:04,20,57,4,680.06,Move drawer: 95.4% open,Transmitter,Sweep-Control-Circuit-(electrical),,Stage-1-Modulator-(electrical),1,1,1
+st12,Hi,1,4/28/21,20:45:44,20:57:06,20,57,6,681.95,Move drawer: 95.4% open,Transmitter,Sweep-Control-Circuit-(electrical),,Stage-1-Modulator-(electrical),1,1,1
+st12,Hi,1,4/28/21,20:45:44,20:57:07,20,57,7,683.08,Move drawer: 95.4% open,Transmitter,Sweep-Control-Circuit-(electrical),,Stage-1-Modulator-(electrical),1,1,1
+st12,Hi,1,4/28/21,20:45:44,20:57:08,20,57,8,684.37,Move drawer: 94.4% open,Transmitter,Sweep-Control-Circuit-(electrical),,Stage-1-Modulator-(electrical),1,1,1
+st12,Hi,1,4/28/21,20:45:44,20:57:08,20,57,8,684.67,Move drawer: 94.4% open,Transmitter,Sweep-Control-Circuit-(electrical),,Stage-1-Modulator-(electrical),1,1,1
+st12,Hi,1,4/28/21,20:45:44,20:57:09,20,57,9,685.35,Move drawer: 97% open,Transmitter,Sweep-Control-Circuit-(electrical),,Stage-1-Modulator-(electrical),1,1,1
+st12,Hi,1,4/28/21,20:45:44,20:57:11,20,57,11,687.17,Move drawer: 95.4% open,Transmitter,Sweep-Control-Circuit-(electrical),,Stage-1-Modulator-(electrical),1,1,1
+st12,Hi,1,4/28/21,20:45:44,20:57:12,20,57,12,688.04,Move drawer: 95.3% open,Transmitter,Sweep-Control-Circuit-(electrical),,Stage-1-Modulator-(electrical),1,1,1
+st12,Hi,1,4/28/21,20:45:44,20:57:13,20,57,13,688.77,Move drawer: 95.3% open,Transmitter,Sweep-Control-Circuit-(electrical),,Stage-1-Modulator-(electrical),1,1,1
+st12,Hi,1,4/28/21,20:45:44,20:57:17,20,57,17,693.34,Move drawer: 95.3% open,Transmitter,Sweep-Control-Circuit-(electrical),,Stage-1-Modulator-(electrical),1,1,1
+st12,Hi,1,4/28/21,20:45:44,20:57:20,20,57,20,696.67,Move drawer: 95.3% open,Transmitter,Sweep-Control-Circuit-(electrical),,Stage-1-Modulator-(electrical),1,1,1
+st12,Hi,1,4/28/21,20:45:44,20:57:22,20,57,22,698.57,Click on: 'Stage 1 Modulator [SPARE]',,Sweep-Control-Circuit-(electrical),,Stage-1-Modulator-(electrical),1,1,1
+st12,Hi,1,4/28/21,20:45:44,20:57:24,20,57,24,700.49,Cancel disconnect: 'Stage 1 Modulator [SPARE]',,Sweep-Control-Circuit-(electrical),,Stage-1-Modulator-(electrical),1,1,1
+st12,Hi,1,4/28/21,20:45:44,20:57:24,20,57,24,700.5,Move drawer: 95.4% open,Tracker,Sweep-Control-Circuit-(electrical),,Stage-1-Modulator-(electrical),1,1,1
+st12,Hi,1,4/28/21,20:45:44,20:58:15,20,58,15,751.66,Move drawer: 50.8% open,Transmitter,Sweep-Control-Circuit-(electrical),,Stage-1-Modulator-(electrical),1,1,1
+st12,Hi,1,4/28/21,20:45:44,20:58:16,20,58,16,752.46,Move drawer: 50.8% open,Transmitter,Sweep-Control-Circuit-(electrical),,Stage-1-Modulator-(electrical),1,1,1
+st12,Hi,1,4/28/21,20:45:44,20:58:18,20,58,18,754.62,Move drawer: -2% open,Transmitter,Sweep-Control-Circuit-(electrical),,Stage-1-Modulator-(electrical),1,1,1
+st12,Hi,1,4/28/21,20:45:44,20:58:21,20,58,21,757.69,Move drawer: 98.7% open,Synchronizer,Sweep-Control-Circuit-(electrical),,Stage-1-Modulator-(electrical),1,1,1
+st12,Hi,1,4/28/21,20:45:44,20:58:25,20,58,25,761.16,Move drawer: 95.4% open,Synchronizer,Sweep-Control-Circuit-(electrical),,Stage-1-Modulator-(electrical),1,1,1
+st12,Hi,1,4/28/21,20:45:44,20:58:27,20,58,27,763.32,Move drawer: 95.4% open,Synchronizer,Sweep-Control-Circuit-(electrical),,Stage-1-Modulator-(electrical),1,1,1
+st12,Hi,1,4/28/21,20:45:44,20:58:29,20,58,29,764.87,Move drawer: 95.4% open,Synchronizer,Sweep-Control-Circuit-(electrical),,Stage-1-Modulator-(electrical),1,1,1
+st12,Hi,1,4/28/21,20:45:44,20:58:29,20,58,29,765.32,Move drawer: 95.4% open,Synchronizer,Sweep-Control-Circuit-(electrical),,Stage-1-Modulator-(electrical),1,1,1
+st12,Hi,1,4/28/21,20:45:44,20:58:31,20,58,31,767.14,Click on: 'Limiter',,Sweep-Control-Circuit-(electrical),,Stage-1-Modulator-(electrical),1,1,1
+st12,Hi,1,4/28/21,20:45:44,20:58:33,20,58,33,768.89,Disconnect LRU: 'Limiter',,Sweep-Control-Circuit-(electrical),,Stage-1-Modulator-(electrical),1,1,1
+st12,Hi,1,4/28/21,20:45:44,20:58:33,20,58,33,768.9,Move drawer: 95.4% open,Synchronizer,Sweep-Control-Circuit-(electrical),,Stage-1-Modulator-(electrical),1,1,1
+st12,Hi,1,4/28/21,20:45:44,20:58:34,20,58,34,770.44,Pick Up LRU: 'Limiter',,Sweep-Control-Circuit-(electrical),,Stage-1-Modulator-(electrical),1,1,1
+st12,Hi,1,4/28/21,20:45:44,20:58:34,20,58,34,770.57,Drop LRU: 'Limiter',,Sweep-Control-Circuit-(electrical),,Stage-1-Modulator-(electrical),1,1,1
+st12,Hi,1,4/28/21,20:45:44,20:58:36,20,58,36,772.39,Connect LRU: 'Limiter',,Sweep-Control-Circuit-(electrical),,Stage-1-Modulator-(electrical),1,1,1
+st12,Hi,1,4/28/21,20:45:44,20:58:36,20,58,36,772.4,Move drawer: 95.4% open,Synchronizer,Sweep-Control-Circuit-(electrical),,Stage-1-Modulator-(electrical),1,1,1
+st12,Hi,1,4/28/21,20:45:44,20:58:43,20,58,43,779.12,Click on: 'Limiter',,Sweep-Control-Circuit-(electrical),,Stage-1-Modulator-(electrical),1,1,1
+st12,Hi,1,4/28/21,20:45:44,20:58:45,20,58,45,780.82,Disconnect LRU: 'Limiter',,Sweep-Control-Circuit-(electrical),,Stage-1-Modulator-(electrical),1,1,1
+st12,Hi,1,4/28/21,20:45:44,20:58:45,20,58,45,780.84,Move drawer: 95.4% open,Synchronizer,Sweep-Control-Circuit-(electrical),,Stage-1-Modulator-(electrical),1,1,1
+st12,Hi,1,4/28/21,20:45:44,20:58:46,20,58,46,781.72,Connect LRU: 'Limiter',,Sweep-Control-Circuit-(electrical),,Stage-1-Modulator-(electrical),1,1,1
+st12,Hi,1,4/28/21,20:45:44,20:58:46,20,58,46,781.74,Move drawer: 95.4% open,Synchronizer,Sweep-Control-Circuit-(electrical),,Stage-1-Modulator-(electrical),1,1,1
+st12,Hi,1,4/28/21,20:45:44,20:58:47,20,58,47,783.46,Move drawer: 95.4% open,Synchronizer,Sweep-Control-Circuit-(electrical),,Stage-1-Modulator-(electrical),1,1,1
+st12,Hi,1,4/28/21,20:45:44,20:58:48,20,58,48,784.12,Click on: 'Limiter',,Sweep-Control-Circuit-(electrical),,Stage-1-Modulator-(electrical),1,1,1
+st12,Hi,1,4/28/21,20:45:44,20:58:49,20,58,49,785.64,Disconnect LRU: 'Limiter',,Sweep-Control-Circuit-(electrical),,Stage-1-Modulator-(electrical),1,1,1
+st12,Hi,1,4/28/21,20:45:44,20:58:49,20,58,49,785.66,Move drawer: 95.4% open,Synchronizer,Sweep-Control-Circuit-(electrical),,Stage-1-Modulator-(electrical),1,1,1
+st12,Hi,1,4/28/21,20:45:44,20:58:51,20,58,51,786.98,Cancel connect: 'Limiter',,Sweep-Control-Circuit-(electrical),,Stage-1-Modulator-(electrical),1,1,1
+st12,Hi,1,4/28/21,20:45:44,20:58:51,20,58,51,786.99,Move drawer: 95.4% open,Synchronizer,Sweep-Control-Circuit-(electrical),,Stage-1-Modulator-(electrical),1,1,1
+st12,Hi,1,4/28/21,20:45:44,20:58:52,20,58,52,788.02,Pick Up LRU: 'Limiter',,Sweep-Control-Circuit-(electrical),,Stage-1-Modulator-(electrical),1,1,1
+st12,Hi,1,4/28/21,20:45:44,20:58:54,20,58,54,790.05,Drop LRU: 'Limiter',,Sweep-Control-Circuit-(electrical),,Stage-1-Modulator-(electrical),1,1,1
+st12,Hi,1,4/28/21,20:45:44,20:58:56,20,58,56,792.03,Cancel connect: 'Limiter',,Sweep-Control-Circuit-(electrical),,Stage-1-Modulator-(electrical),1,1,1
+st12,Hi,1,4/28/21,20:45:44,20:58:56,20,58,56,792.04,Move drawer: 95.4% open,Synchronizer,Sweep-Control-Circuit-(electrical),,Stage-1-Modulator-(electrical),1,1,1
+st12,Hi,1,4/28/21,20:45:44,20:58:59,20,58,59,795.12,Move drawer: 63.5% open,Synchronizer,Sweep-Control-Circuit-(electrical),,Stage-1-Modulator-(electrical),1,1,1
+st12,Hi,1,4/28/21,20:45:44,20:58:59,20,58,59,795.69,Move drawer: 63.5% open,Synchronizer,Sweep-Control-Circuit-(electrical),,Stage-1-Modulator-(electrical),1,1,1
+st12,Hi,1,4/28/21,20:45:44,20:59:01,20,59,1,797.32,Move drawer: 15.8% open,Synchronizer,Sweep-Control-Circuit-(electrical),,Stage-1-Modulator-(electrical),1,1,1
+st12,Hi,1,4/28/21,20:45:44,20:59:03,20,59,3,799.54,Pick Up LRU: 'Limiter',,Sweep-Control-Circuit-(electrical),,Stage-1-Modulator-(electrical),1,1,1
+st12,Hi,1,4/28/21,20:45:44,20:59:06,20,59,6,802.01,Drop LRU: 'Limiter',,Sweep-Control-Circuit-(electrical),,Stage-1-Modulator-(electrical),1,1,1
+st12,Hi,1,4/28/21,20:45:44,20:59:14,20,59,14,810.04,Leave Server Box Table,,Sweep-Control-Circuit-(electrical),,Stage-1-Modulator-(electrical),1,1,1
+st12,Hi,1,4/28/21,20:45:44,20:59:14,20,59,14,810.34,Move to Spare Parts Table,,Sweep-Control-Circuit-(electrical),,Stage-1-Modulator-(electrical),1,1,1
+st12,Hi,1,4/28/21,20:45:44,20:59:17,20,59,17,812.74,Leave Spare Parts Table,,Sweep-Control-Circuit-(electrical),,Stage-1-Modulator-(electrical),1,1,1
+st12,Hi,1,4/28/21,20:45:44,20:59:17,20,59,17,813.64,Move to Spare Parts Table,,Sweep-Control-Circuit-(electrical),,Stage-1-Modulator-(electrical),1,1,1
+st12,Hi,1,4/28/21,20:45:44,20:59:30,20,59,30,825.89,Pick Up LRU: 'Limiter [SPARE]',,Sweep-Control-Circuit-(electrical),,Stage-1-Modulator-(electrical),1,1,1
+st12,Hi,1,4/28/21,20:45:44,20:59:32,20,59,32,827.87,Leave Spare Parts Table,,Sweep-Control-Circuit-(electrical),,Stage-1-Modulator-(electrical),1,1,1
+st12,Hi,1,4/28/21,20:45:44,20:59:43,20,59,43,839.46,Drop LRU: 'Limiter [SPARE]',,Sweep-Control-Circuit-(electrical),,Stage-1-Modulator-(electrical),1,1,1
+st12,Hi,1,4/28/21,20:45:44,20:59:51,20,59,51,847.59,Move to Server Box Table,,Sweep-Control-Circuit-(electrical),,Stage-1-Modulator-(electrical),1,1,1
+st12,Hi,1,4/28/21,20:45:44,20:59:57,20,59,57,853.51,Move drawer: 95.4% open,Tracker,Sweep-Control-Circuit-(electrical),,Stage-1-Modulator-(electrical),1,1,1
+st12,Hi,1,4/28/21,20:45:44,21:00:06,21,0,6,862.69,Pick Up LRU: 'Limiter [SPARE]',,Sweep-Control-Circuit-(electrical),,Stage-1-Modulator-(electrical),1,1,1
+st12,Hi,1,4/28/21,20:45:44,21:00:09,21,0,9,865.03,Drop LRU: 'Limiter [SPARE]',,Sweep-Control-Circuit-(electrical),,Stage-1-Modulator-(electrical),1,1,1
+st12,Hi,1,4/28/21,20:45:44,21:00:09,21,0,9,865.24,Pick Up LRU: 'Limiter [SPARE]',,Sweep-Control-Circuit-(electrical),,Stage-1-Modulator-(electrical),1,1,1
+st12,Hi,1,4/28/21,20:45:44,21:00:18,21,0,18,874.66,Drop LRU: 'Limiter [SPARE]',,Sweep-Control-Circuit-(electrical),,Stage-1-Modulator-(electrical),1,1,1
+st12,Hi,1,4/28/21,20:45:44,21:00:20,21,0,20,876.69,Leave Server Box Table,,Sweep-Control-Circuit-(electrical),,Stage-1-Modulator-(electrical),1,1,1
+st12,Hi,1,4/28/21,20:45:44,21:00:21,21,0,21,877.42,Move to Server Box Table,,Sweep-Control-Circuit-(electrical),,Stage-1-Modulator-(electrical),1,1,1
+st12,Hi,1,4/28/21,20:45:44,21:00:34,21,0,34,890.67,Pick Up LRU: 'Limiter [SPARE]',,Sweep-Control-Circuit-(electrical),,Stage-1-Modulator-(electrical),1,1,1
+st12,Hi,1,4/28/21,20:45:44,21:00:34,21,0,34,890.71,Drop LRU: 'Limiter [SPARE]',,Sweep-Control-Circuit-(electrical),,Stage-1-Modulator-(electrical),1,1,1
+st12,Hi,1,4/28/21,20:45:44,21:00:35,21,0,35,891.37,Pick Up LRU: 'Limiter [SPARE]',,Sweep-Control-Circuit-(electrical),,Stage-1-Modulator-(electrical),1,1,1
+st12,Hi,1,4/28/21,20:45:44,21:00:42,21,0,42,897.86,Drop LRU: 'Limiter [SPARE]',,Sweep-Control-Circuit-(electrical),,Stage-1-Modulator-(electrical),1,1,1
+st12,Hi,1,4/28/21,20:45:44,21:00:45,21,0,45,900.99,Move drawer: 98.9% open,Synchronizer,Sweep-Control-Circuit-(electrical),,Stage-1-Modulator-(electrical),1,1,1
+st12,Hi,1,4/28/21,20:45:44,21:00:50,21,0,50,906.44,Pick Up LRU: 'Limiter',,Sweep-Control-Circuit-(electrical),,Stage-1-Modulator-(electrical),1,1,1
+st12,Hi,1,4/28/21,20:45:44,21:01:00,21,1,0,915.99,Drop LRU: 'Limiter',,Sweep-Control-Circuit-(electrical),,Stage-1-Modulator-(electrical),1,1,1
+st12,Hi,1,4/28/21,20:45:44,21:01:00,21,1,0,916.69,Click on: 'Receiver Transmission Line',,Sweep-Control-Circuit-(electrical),,Stage-1-Modulator-(electrical),1,1,1
+st12,Hi,1,4/28/21,20:45:44,21:01:03,21,1,3,918.84,Cancel disconnect: 'Receiver Transmission Line',,Sweep-Control-Circuit-(electrical),,Stage-1-Modulator-(electrical),1,1,1
+st12,Hi,1,4/28/21,20:45:44,21:01:07,21,1,7,923.12,Pick Up LRU: 'Limiter',,Sweep-Control-Circuit-(electrical),,Stage-1-Modulator-(electrical),1,1,1
+st12,Hi,1,4/28/21,20:45:44,21:01:08,21,1,8,924.09,Drop LRU: 'Limiter',,Sweep-Control-Circuit-(electrical),,Stage-1-Modulator-(electrical),1,1,1
+st12,Hi,1,4/28/21,20:45:44,21:01:09,21,1,9,924.77,Pick Up LRU: 'Limiter',,Sweep-Control-Circuit-(electrical),,Stage-1-Modulator-(electrical),1,1,1
+st12,Hi,1,4/28/21,20:45:44,21:01:13,21,1,13,929.31,Drop LRU: 'Limiter',,Sweep-Control-Circuit-(electrical),,Stage-1-Modulator-(electrical),1,1,1
+st12,Hi,1,4/28/21,20:45:44,21:01:15,21,1,15,930.74,Pick Up LRU: 'Limiter',,Sweep-Control-Circuit-(electrical),,Stage-1-Modulator-(electrical),1,1,1
+st12,Hi,1,4/28/21,20:45:44,21:01:21,21,1,21,937.22,Leave Server Box Table,,Sweep-Control-Circuit-(electrical),,Stage-1-Modulator-(electrical),1,1,1
+st12,Hi,1,4/28/21,20:45:44,21:01:21,21,1,21,937.41,Drop LRU: 'Limiter',,Sweep-Control-Circuit-(electrical),,Stage-1-Modulator-(electrical),1,1,1
+st12,Hi,1,4/28/21,20:45:44,21:01:24,21,1,24,940.59,Pick Up LRU: 'Limiter',,Sweep-Control-Circuit-(electrical),,Stage-1-Modulator-(electrical),1,1,1
+st12,Hi,1,4/28/21,20:45:44,21:01:27,21,1,27,942.84,Drop LRU: 'Limiter',,Sweep-Control-Circuit-(electrical),,Stage-1-Modulator-(electrical),1,1,1
+st12,Hi,1,4/28/21,20:45:44,21:01:28,21,1,28,944.64,Move to Server Box Table,,Sweep-Control-Circuit-(electrical),,Stage-1-Modulator-(electrical),1,1,1
+st12,Hi,1,4/28/21,20:45:44,21:01:32,21,1,32,948.26,Pick Up LRU: 'Limiter',,Sweep-Control-Circuit-(electrical),,Stage-1-Modulator-(electrical),1,1,1
+st12,Hi,1,4/28/21,20:45:44,21:01:34,21,1,34,950.34,Drop LRU: 'Limiter',,Sweep-Control-Circuit-(electrical),,Stage-1-Modulator-(electrical),1,1,1
+st12,Hi,1,4/28/21,20:45:44,21:01:38,21,1,38,954.47,Pick Up LRU: 'Limiter',,Sweep-Control-Circuit-(electrical),,Stage-1-Modulator-(electrical),1,1,1
+st12,Hi,1,4/28/21,20:45:44,21:01:39,21,1,39,955.67,Drop LRU: 'Limiter',,Sweep-Control-Circuit-(electrical),,Stage-1-Modulator-(electrical),1,1,1
+st12,Hi,1,4/28/21,20:45:44,21:01:40,21,1,40,956.68,Pick Up LRU: 'Limiter',,Sweep-Control-Circuit-(electrical),,Stage-1-Modulator-(electrical),1,1,1
+st12,Hi,1,4/28/21,20:45:44,21:01:49,21,1,49,965.39,Drop LRU: 'Limiter',,Sweep-Control-Circuit-(electrical),,Stage-1-Modulator-(electrical),1,1,1
+st12,Hi,1,4/28/21,20:45:44,21:01:51,21,1,51,967.59,Connect LRU: 'Limiter',,Sweep-Control-Circuit-(electrical),,Stage-1-Modulator-(electrical),1,1,1
+st12,Hi,1,4/28/21,20:45:44,21:02:03,21,2,3,979.44,Move drawer: 64.9% open,Synchronizer,Sweep-Control-Circuit-(electrical),,Stage-1-Modulator-(electrical),1,1,1
+st12,Hi,1,4/28/21,20:45:44,21:02:05,21,2,5,981.36,Move drawer: 17.8% open,Synchronizer,Sweep-Control-Circuit-(electrical),,Stage-1-Modulator-(electrical),1,1,1
+st12,Hi,1,4/28/21,20:45:44,21:02:07,21,2,7,983.5,Move drawer: -1.6% open,Synchronizer,Sweep-Control-Circuit-(electrical),,Stage-1-Modulator-(electrical),1,1,1
+st12,Hi,1,4/28/21,20:45:44,21:02:11,21,2,11,987.06,Move drawer: 62.1% open,Transmitter,Sweep-Control-Circuit-(electrical),,Stage-1-Modulator-(electrical),1,1,1
+st12,Hi,1,4/28/21,20:45:44,21:02:12,21,2,12,987.73,Click on: 'Receiver Transmission Line',,Sweep-Control-Circuit-(electrical),,Stage-1-Modulator-(electrical),1,1,1
+st12,Hi,1,4/28/21,20:45:44,21:02:13,21,2,13,989.48,Cancel disconnect: 'Receiver Transmission Line',,Sweep-Control-Circuit-(electrical),,Stage-1-Modulator-(electrical),1,1,1
+st12,Hi,1,4/28/21,20:45:44,21:02:15,21,2,15,991.18,Move drawer: 99.4% open,Transmitter,Sweep-Control-Circuit-(electrical),,Stage-1-Modulator-(electrical),1,1,1
+st12,Hi,1,4/28/21,20:45:44,21:02:22,21,2,22,998.68,Move drawer: 99.9% open,Transmitter,Sweep-Control-Circuit-(electrical),,Stage-1-Modulator-(electrical),1,1,1
+st12,Hi,1,4/28/21,20:45:44,21:02:25,21,2,25,1001.08,Move drawer: 95.4% open,Transmitter,Sweep-Control-Circuit-(electrical),,Stage-1-Modulator-(electrical),1,1,1
+st12,Hi,1,4/28/21,20:45:44,21:02:26,21,2,26,1002.16,Move drawer: 95.5% open,Transmitter,Sweep-Control-Circuit-(electrical),,Stage-1-Modulator-(electrical),1,1,1
+st12,Hi,1,4/28/21,20:45:44,21:02:27,21,2,27,1003.26,Move drawer: 95.4% open,Transmitter,Sweep-Control-Circuit-(electrical),,Stage-1-Modulator-(electrical),1,1,1
+st12,Hi,1,4/28/21,20:45:44,21:02:28,21,2,28,1003.83,Move drawer: 95.4% open,Transmitter,Sweep-Control-Circuit-(electrical),,Stage-1-Modulator-(electrical),1,1,1
+st12,Hi,1,4/28/21,20:45:44,21:02:28,21,2,28,1004.1,Move drawer: 95.4% open,Transmitter,Sweep-Control-Circuit-(electrical),,Stage-1-Modulator-(electrical),1,1,1
+st12,Hi,1,4/28/21,20:45:44,21:02:29,21,2,29,1004.76,Move drawer: 95.4% open,Transmitter,Sweep-Control-Circuit-(electrical),,Stage-1-Modulator-(electrical),1,1,1
+st12,Hi,1,4/28/21,20:45:44,21:02:29,21,2,29,1005.53,Click on: 'Stage 1 Modulator [SPARE]',,Sweep-Control-Circuit-(electrical),,Stage-1-Modulator-(electrical),1,1,1
+st12,Hi,1,4/28/21,20:45:44,21:02:31,21,2,31,1007.06,Cancel disconnect: 'Stage 1 Modulator [SPARE]',,Sweep-Control-Circuit-(electrical),,Stage-1-Modulator-(electrical),1,1,1
+st12,Hi,1,4/28/21,20:45:44,21:02:54,21,2,54,1030.58,Move drawer: 97.1% open,Transmitter,Sweep-Control-Circuit-(electrical),,Stage-1-Modulator-(electrical),1,1,1
+st12,Hi,1,4/28/21,20:45:44,21:03:29,21,3,29,1065.66,Move drawer: 95.4% open,Transmitter,Sweep-Control-Circuit-(electrical),,Stage-1-Modulator-(electrical),1,1,1
+st12,Hi,1,4/28/21,20:45:44,21:03:34,21,3,34,1069.94,Submit?,,Sweep-Control-Circuit-(electrical),,Stage-1-Modulator-(electrical),1,1,1
+st12,Hi,1,4/28/21,20:45:44,21:03:36,21,3,36,1071.91,Move drawer: 95.4% open,Transmitter,Sweep-Control-Circuit-(electrical),,Stage-1-Modulator-(electrical),1,1,1
+st12,Hi,1,4/28/21,20:45:44,21:03:39,21,3,39,1075.23,Submit Confirm,,Sweep-Control-Circuit-(electrical),,Stage-1-Modulator-(electrical),1,1,1
+st12,Hi,2,4/28/21,21:03:44,21:03:44,21,3,44,0,Make electrical flaw: AFC Mixer,,AFC-Mixer-(electrical),,,0,1,0
+st12,Hi,2,4/28/21,21:03:44,21:03:44,21,3,44,0,Start (High Fidelity Sim),,AFC-Mixer-(electrical),,,0,1,0
+st12,Hi,2,4/28/21,21:03:44,21:03:44,21,3,44,0.03,Leave Server Box Table,,AFC-Mixer-(electrical),,,0,1,0
+st12,Hi,2,4/28/21,21:03:44,21:03:51,21,3,51,7.51,Move to Server Box Table,,AFC-Mixer-(electrical),,,0,1,0
+st12,Hi,2,4/28/21,21:03:44,21:03:55,21,3,55,11.09,Swing front panel: 36.1% open,,AFC-Mixer-(electrical),,,0,1,0
+st12,Hi,2,4/28/21,21:03:44,21:04:08,21,4,8,24.2,Move drawer: 0% open,Transmitter,AFC-Mixer-(electrical),,,0,1,0
+st12,Hi,2,4/28/21,21:03:44,21:04:10,21,4,10,26.35,Move drawer: 68.5% open,Transmitter,AFC-Mixer-(electrical),,,0,1,0
+st12,Hi,2,4/28/21,21:03:44,21:04:13,21,4,13,28.86,Move drawer: 96.1% open,Transmitter,AFC-Mixer-(electrical),,,0,1,0
+st12,Hi,2,4/28/21,21:03:44,21:04:29,21,4,29,45.21,Move drawer: 95.4% open,Transmitter,AFC-Mixer-(electrical),,,0,1,0
+st12,Hi,2,4/28/21,21:03:44,21:04:31,21,4,31,47.3,Move drawer: 47.1% open,Transmitter,AFC-Mixer-(electrical),,,0,1,0
+st12,Hi,2,4/28/21,21:03:44,21:04:33,21,4,33,49.48,Move drawer: 0% open,Transmitter,AFC-Mixer-(electrical),,,0,1,0
+st12,Hi,2,4/28/21,21:03:44,21:04:37,21,4,37,53.43,Move drawer: 67.8% open,Tracker,AFC-Mixer-(electrical),,,0,1,0
+st12,Hi,2,4/28/21,21:03:44,21:04:48,21,4,48,64.26,Move drawer: 67.8% open,Tracker,AFC-Mixer-(electrical),,,0,1,0
+st12,Hi,2,4/28/21,21:03:44,21:04:50,21,4,50,66.1,Move drawer: 27.1% open,Tracker,AFC-Mixer-(electrical),,,0,1,0
+st12,Hi,2,4/28/21,21:03:44,21:04:52,21,4,52,68.35,Move drawer: -1.9% open,Tracker,AFC-Mixer-(electrical),,,0,1,0
+st12,Hi,2,4/28/21,21:03:44,21:04:55,21,4,55,71.12,Move drawer: 81.6% open,Processor,AFC-Mixer-(electrical),,,0,1,0
+st12,Hi,2,4/28/21,21:03:44,21:05:11,21,5,11,86.95,Click on: 'Video Amplifier',,AFC-Mixer-(electrical),,,0,1,0
+st12,Hi,2,4/28/21,21:03:44,21:05:13,21,5,13,89.16,Cancel disconnect: 'Video Amplifier',,AFC-Mixer-(electrical),,,0,1,0
+st12,Hi,2,4/28/21,21:03:44,21:05:28,21,5,28,104.5,Click on: 'Mixer Detector',,AFC-Mixer-(electrical),,,0,1,0
+st12,Hi,2,4/28/21,21:03:44,21:05:30,21,5,30,105.78,Cancel disconnect: 'Mixer Detector',,AFC-Mixer-(electrical),,,0,1,0
+st12,Hi,2,4/28/21,21:03:44,21:05:30,21,5,30,105.8,Move drawer: 81.6% open,Processor,AFC-Mixer-(electrical),,,0,1,0
+st12,Hi,2,4/28/21,21:03:44,21:05:48,21,5,48,124.41,Move drawer: 81.6% open,Processor,AFC-Mixer-(electrical),,,0,1,0
+st12,Hi,2,4/28/21,21:03:44,21:05:54,21,5,54,130.13,Move drawer: 81.6% open,Processor,AFC-Mixer-(electrical),,,0,1,0
+st12,Hi,2,4/28/21,21:03:44,21:05:56,21,5,56,132.1,Click on: 'Video Detector',,AFC-Mixer-(electrical),,,0,1,0
+st12,Hi,2,4/28/21,21:03:44,21:05:57,21,5,57,133.53,Disconnect LRU: 'Video Detector',,AFC-Mixer-(electrical),,,0,1,0
+st12,Hi,2,4/28/21,21:03:44,21:05:57,21,5,57,133.55,Move drawer: 81.6% open,Processor,AFC-Mixer-(electrical),,,0,1,0
+st12,Hi,2,4/28/21,21:03:44,21:05:59,21,5,59,135.53,Pick Up LRU: 'Video Detector',,AFC-Mixer-(electrical),,,0,1,0
+st12,Hi,2,4/28/21,21:03:44,21:06:09,21,6,9,145.56,Drop LRU: 'Video Detector',,AFC-Mixer-(electrical),,,0,1,0
+st12,Hi,2,4/28/21,21:03:44,21:06:12,21,6,12,148.05,Leave Server Box Table,,AFC-Mixer-(electrical),,,0,1,0
+st12,Hi,2,4/28/21,21:03:44,21:06:13,21,6,13,149.18,Move to Spare Parts Table,,AFC-Mixer-(electrical),,,0,1,0
+st12,Hi,2,4/28/21,21:03:44,21:06:26,21,6,26,162.1,Pick Up LRU: 'Video Detector [SPARE]',,AFC-Mixer-(electrical),,,0,1,0
+st12,Hi,2,4/28/21,21:03:44,21:06:28,21,6,28,164.34,Leave Spare Parts Table,,AFC-Mixer-(electrical),,,0,1,0
+st12,Hi,2,4/28/21,21:03:44,21:06:33,21,6,33,169.28,Drop LRU: 'Video Detector [SPARE]',,AFC-Mixer-(electrical),,,0,1,0
+st12,Hi,2,4/28/21,21:03:44,21:06:35,21,6,35,171.46,Move to Server Box Table,,AFC-Mixer-(electrical),,,0,1,0
+st12,Hi,2,4/28/21,21:03:44,21:06:41,21,6,41,177.13,Pick Up LRU: 'Video Detector [SPARE]',,AFC-Mixer-(electrical),,,0,1,0
+st12,Hi,2,4/28/21,21:03:44,21:06:44,21,6,44,180.15,Drop LRU: 'Video Detector [SPARE]',,AFC-Mixer-(electrical),,,0,1,0
+st12,Hi,2,4/28/21,21:03:44,21:06:46,21,6,46,181.61,Pick Up LRU: 'Video Detector [SPARE]',,AFC-Mixer-(electrical),,,0,1,0
+st12,Hi,2,4/28/21,21:03:44,21:06:47,21,6,47,183.21,Drop LRU: 'Video Detector [SPARE]',,AFC-Mixer-(electrical),,,0,1,0
+st12,Hi,2,4/28/21,21:03:44,21:06:48,21,6,48,183.76,Pick Up LRU: 'Video Detector [SPARE]',,AFC-Mixer-(electrical),,,0,1,0
+st12,Hi,2,4/28/21,21:03:44,21:06:56,21,6,56,192.11,Drop LRU: 'Video Detector [SPARE]',,AFC-Mixer-(electrical),,,0,1,0
+st12,Hi,2,4/28/21,21:03:44,21:06:57,21,6,57,193.33,Pick Up LRU: 'Video Detector [SPARE]',,AFC-Mixer-(electrical),,,0,1,0
+st12,Hi,2,4/28/21,21:03:44,21:07:02,21,7,2,197.72,Drop LRU: 'Video Detector [SPARE]',,AFC-Mixer-(electrical),,,0,1,0
+st12,Hi,2,4/28/21,21:03:44,21:07:03,21,7,3,199.01,Connect LRU: 'Video Detector [SPARE]',,AFC-Mixer-(electrical),,,0,1,0
+st12,Hi,2,4/28/21,21:03:44,21:07:05,21,7,5,201.13,Replaced unnecessarily Video Detector (electrical),,AFC-Mixer-(electrical),,Video-Detector-(electrical),1,1,1
+st12,Hi,2,4/28/21,21:03:44,21:07:18,21,7,18,213.77,Click on: 'AFC Mixer',,AFC-Mixer-(electrical),,Video-Detector-(electrical),1,1,1
+st12,Hi,2,4/28/21,21:03:44,21:07:19,21,7,19,215.5,Cancel disconnect: 'AFC Mixer',,AFC-Mixer-(electrical),,Video-Detector-(electrical),1,1,1
+st12,Hi,2,4/28/21,21:03:44,21:07:19,21,7,19,215.51,Move drawer: 81.6% open,Processor,AFC-Mixer-(electrical),,Video-Detector-(electrical),1,1,1
+st12,Hi,2,4/28/21,21:03:44,21:07:49,21,7,49,245.16,Click on: 'AFC Mixer',,AFC-Mixer-(electrical),,Video-Detector-(electrical),1,1,1
+st12,Hi,2,4/28/21,21:03:44,21:07:51,21,7,51,247.17,Disconnect LRU: 'AFC Mixer',,AFC-Mixer-(electrical),,Video-Detector-(electrical),1,1,1
+st12,Hi,2,4/28/21,21:03:44,21:07:53,21,7,53,248.86,Pick Up LRU: 'AFC Mixer',,AFC-Mixer-(electrical),,Video-Detector-(electrical),1,1,1
+st12,Hi,2,4/28/21,21:03:44,21:07:55,21,7,55,250.98,Drop LRU: 'AFC Mixer',,AFC-Mixer-(electrical),,Video-Detector-(electrical),1,1,1
+st12,Hi,2,4/28/21,21:03:44,21:07:55,21,7,55,251.3,Pick Up LRU: 'AFC Mixer',,AFC-Mixer-(electrical),,Video-Detector-(electrical),1,1,1
+st12,Hi,2,4/28/21,21:03:44,21:07:57,21,7,57,252.77,Drop LRU: 'AFC Mixer',,AFC-Mixer-(electrical),,Video-Detector-(electrical),1,1,1
+st12,Hi,2,4/28/21,21:03:44,21:07:58,21,7,58,254.51,Leave Server Box Table,,AFC-Mixer-(electrical),,Video-Detector-(electrical),1,1,1
+st12,Hi,2,4/28/21,21:03:44,21:07:59,21,7,59,254.76,Move to Spare Parts Table,,AFC-Mixer-(electrical),,Video-Detector-(electrical),1,1,1
+st12,Hi,2,4/28/21,21:03:44,21:08:09,21,8,9,265.21,Pick Up LRU: 'AFC Mixer [SPARE]',,AFC-Mixer-(electrical),,Video-Detector-(electrical),1,1,1
+st12,Hi,2,4/28/21,21:03:44,21:08:13,21,8,13,268.58,Drop LRU: 'AFC Mixer [SPARE]',,AFC-Mixer-(electrical),,Video-Detector-(electrical),1,1,1
+st12,Hi,2,4/28/21,21:03:44,21:08:13,21,8,13,269.16,Pick Up LRU: 'AFC Mixer [SPARE]',,AFC-Mixer-(electrical),,Video-Detector-(electrical),1,1,1
+st12,Hi,2,4/28/21,21:03:44,21:08:21,21,8,21,276.83,Drop LRU: 'AFC Mixer [SPARE]',,AFC-Mixer-(electrical),,Video-Detector-(electrical),1,1,1
+st12,Hi,2,4/28/21,21:03:44,21:08:22,21,8,22,278.18,Leave Spare Parts Table,,AFC-Mixer-(electrical),,Video-Detector-(electrical),1,1,1
+st12,Hi,2,4/28/21,21:03:44,21:08:24,21,8,24,280.55,Pick Up LRU: 'AFC Mixer [SPARE]',,AFC-Mixer-(electrical),,Video-Detector-(electrical),1,1,1
+st12,Hi,2,4/28/21,21:03:44,21:08:28,21,8,28,284.07,Drop LRU: 'AFC Mixer [SPARE]',,AFC-Mixer-(electrical),,Video-Detector-(electrical),1,1,1
+st12,Hi,2,4/28/21,21:03:44,21:08:31,21,8,31,287.07,Pick Up LRU: 'AFC Mixer [SPARE]',,AFC-Mixer-(electrical),,Video-Detector-(electrical),1,1,1
+st12,Hi,2,4/28/21,21:03:44,21:08:40,21,8,40,296.43,Move to Server Box Table,,AFC-Mixer-(electrical),,Video-Detector-(electrical),1,1,1
+st12,Hi,2,4/28/21,21:03:44,21:08:44,21,8,44,300.5,Drop LRU: 'AFC Mixer [SPARE]',,AFC-Mixer-(electrical),,Video-Detector-(electrical),1,1,1
+st12,Hi,2,4/28/21,21:03:44,21:08:47,21,8,47,302.88,Pick Up LRU: 'AFC Mixer [SPARE]',,AFC-Mixer-(electrical),,Video-Detector-(electrical),1,1,1
+st12,Hi,2,4/28/21,21:03:44,21:08:51,21,8,51,307.08,Drop LRU: 'AFC Mixer [SPARE]',,AFC-Mixer-(electrical),,Video-Detector-(electrical),1,1,1
+st12,Hi,2,4/28/21,21:03:44,21:08:52,21,8,52,308.45,Pick Up LRU: 'AFC Mixer [SPARE]',,AFC-Mixer-(electrical),,Video-Detector-(electrical),1,1,1
+st12,Hi,2,4/28/21,21:03:44,21:08:59,21,8,59,315.45,Drop LRU: 'AFC Mixer [SPARE]',,AFC-Mixer-(electrical),,Video-Detector-(electrical),1,1,1
+st12,Hi,2,4/28/21,21:03:44,21:09:02,21,9,2,317.83,Leave Server Box Table,,AFC-Mixer-(electrical),,Video-Detector-(electrical),1,1,1
+st12,Hi,2,4/28/21,21:03:44,21:09:05,21,9,5,320.78,Move to Server Box Table,,AFC-Mixer-(electrical),,Video-Detector-(electrical),1,1,1
+st12,Hi,2,4/28/21,21:03:44,21:09:06,21,9,6,322.2,Leave Server Box Table,,AFC-Mixer-(electrical),,Video-Detector-(electrical),1,1,1
+st12,Hi,2,4/28/21,21:03:44,21:09:06,21,9,6,322.38,Move to Server Box Table,,AFC-Mixer-(electrical),,Video-Detector-(electrical),1,1,1
+st12,Hi,2,4/28/21,21:03:44,21:09:09,21,9,9,324.96,Leave Server Box Table,,AFC-Mixer-(electrical),,Video-Detector-(electrical),1,1,1
+st12,Hi,2,4/28/21,21:03:44,21:09:12,21,9,12,328.35,Move to Server Box Table,,AFC-Mixer-(electrical),,Video-Detector-(electrical),1,1,1
+st12,Hi,2,4/28/21,21:03:44,21:09:15,21,9,15,331.1,Pick Up LRU: 'AFC Mixer',,AFC-Mixer-(electrical),,Video-Detector-(electrical),1,1,1
+st12,Hi,2,4/28/21,21:03:44,21:09:16,21,9,16,332.2,Drop LRU: 'AFC Mixer',,AFC-Mixer-(electrical),,Video-Detector-(electrical),1,1,1
+st12,Hi,2,4/28/21,21:03:44,21:09:21,21,9,21,337.13,Submit?,,AFC-Mixer-(electrical),,Video-Detector-(electrical),1,1,1
+st12,Hi,2,4/28/21,21:03:44,21:09:21,21,9,21,337.15,Swing front panel: 99.2% open,,AFC-Mixer-(electrical),,Video-Detector-(electrical),1,1,1
+st12,Hi,2,4/28/21,21:03:44,21:09:23,21,9,23,339.23,Submit Confirm,,AFC-Mixer-(electrical),,Video-Detector-(electrical),1,1,1
+st12,Hi,3,4/28/21,21:09:25,21:09:25,21,9,25,0,Make electrical flaw: RF Amplifier 2,,RF-Amplifier-2-(electrical),,,0,1,0
+st12,Hi,3,4/28/21,21:09:25,21:09:25,21,9,25,0,Start (High Fidelity Sim),,RF-Amplifier-2-(electrical),,,0,1,0
+st12,Hi,3,4/28/21,21:09:25,21:09:25,21,9,25,0.04,Leave Server Box Table,,RF-Amplifier-2-(electrical),,,0,1,0
+st12,Hi,3,4/28/21,21:09:25,21:09:29,21,9,29,4.66,Move to Server Box Table,,RF-Amplifier-2-(electrical),,,0,1,0
+st12,Hi,3,4/28/21,21:09:25,21:09:37,21,9,37,12.6,Swing front panel: 22.4% open,,RF-Amplifier-2-(electrical),,,0,1,0
+st12,Hi,3,4/28/21,21:09:25,21:09:46,21,9,46,21.73,Move drawer: 99.8% open,Transmitter,RF-Amplifier-2-(electrical),,,0,1,0
+st12,Hi,3,4/28/21,21:09:25,21:10:00,21,10,0,35.61,Move drawer: 95.4% open,Transmitter,RF-Amplifier-2-(electrical),,,0,1,0
+st12,Hi,3,4/28/21,21:09:25,21:11:23,21,11,23,117.92,Click on: 'Frequency Synthesizer',,RF-Amplifier-2-(electrical),,,0,1,0
+st12,Hi,3,4/28/21,21:09:25,21:11:24,21,11,24,119.62,Cancel disconnect: 'Frequency Synthesizer',,RF-Amplifier-2-(electrical),,,0,1,0
+st12,Hi,3,4/28/21,21:09:25,21:11:24,21,11,24,119.63,Move drawer: 95.4% open,Transmitter,RF-Amplifier-2-(electrical),,,0,1,0
+st12,Hi,3,4/28/21,21:09:25,21:11:27,21,11,27,122.86,Click on: 'RF Amplifier 1',,RF-Amplifier-2-(electrical),,,0,1,0
+st12,Hi,3,4/28/21,21:09:25,21:11:29,21,11,29,124.82,Disconnect LRU: 'RF Amplifier 1',,RF-Amplifier-2-(electrical),,,0,1,0
+st12,Hi,3,4/28/21,21:09:25,21:11:32,21,11,32,127.51,Pick Up LRU: 'RF Amplifier 1',,RF-Amplifier-2-(electrical),,,0,1,0
+st12,Hi,3,4/28/21,21:09:25,21:11:33,21,11,33,128.71,Drop LRU: 'RF Amplifier 1',,RF-Amplifier-2-(electrical),,,0,1,0
+st12,Hi,3,4/28/21,21:09:25,21:11:36,21,11,36,131.65,Cancel connect: 'RF Amplifier 1',,RF-Amplifier-2-(electrical),,,0,1,0
+st12,Hi,3,4/28/21,21:09:25,21:11:36,21,11,36,131.67,Move drawer: 95.4% open,Transmitter,RF-Amplifier-2-(electrical),,,0,1,0
+st12,Hi,3,4/28/21,21:09:25,21:11:38,21,11,38,133.14,Pick Up LRU: 'RF Amplifier 1',,RF-Amplifier-2-(electrical),,,0,1,0
+st12,Hi,3,4/28/21,21:09:25,21:11:39,21,11,39,134.53,Drop LRU: 'RF Amplifier 1',,RF-Amplifier-2-(electrical),,,0,1,0
+st12,Hi,3,4/28/21,21:09:25,21:11:42,21,11,42,136.9,Leave Server Box Table,,RF-Amplifier-2-(electrical),,,0,1,0
+st12,Hi,3,4/28/21,21:09:25,21:11:42,21,11,42,137.55,Move to Spare Parts Table,,RF-Amplifier-2-(electrical),,,0,1,0
+st12,Hi,3,4/28/21,21:09:25,21:11:55,21,11,55,150.45,Pick Up LRU: 'RF Amplifier 1 [SPARE]',,RF-Amplifier-2-(electrical),,,0,1,0
+st12,Hi,3,4/28/21,21:09:25,21:12:06,21,12,6,161.22,Leave Spare Parts Table,,RF-Amplifier-2-(electrical),,,0,1,0
+st12,Hi,3,4/28/21,21:09:25,21:12:10,21,12,10,165.58,Drop LRU: 'RF Amplifier 1 [SPARE]',,RF-Amplifier-2-(electrical),,,0,1,0
+st12,Hi,3,4/28/21,21:09:25,21:12:13,21,12,13,167.9,Move to Server Box Table,,RF-Amplifier-2-(electrical),,,0,1,0
+st12,Hi,3,4/28/21,21:09:25,21:12:19,21,12,19,174.05,Pick Up LRU: 'RF Amplifier 1 [SPARE]',,RF-Amplifier-2-(electrical),,,0,1,0
+st12,Hi,3,4/28/21,21:09:25,21:12:19,21,12,19,174.88,Drop LRU: 'RF Amplifier 1 [SPARE]',,RF-Amplifier-2-(electrical),,,0,1,0
+st12,Hi,3,4/28/21,21:09:25,21:12:21,21,12,21,176.1,Pick Up LRU: 'RF Amplifier 1 [SPARE]',,RF-Amplifier-2-(electrical),,,0,1,0
+st12,Hi,3,4/28/21,21:09:25,21:12:21,21,12,21,176.86,Drop LRU: 'RF Amplifier 1 [SPARE]',,RF-Amplifier-2-(electrical),,,0,1,0
+st12,Hi,3,4/28/21,21:09:25,21:12:25,21,12,25,180.7,Pick Up LRU: 'RF Amplifier 1 [SPARE]',,RF-Amplifier-2-(electrical),,,0,1,0
+st12,Hi,3,4/28/21,21:09:25,21:12:35,21,12,35,190.82,Drop LRU: 'RF Amplifier 1 [SPARE]',,RF-Amplifier-2-(electrical),,,0,1,0
+st12,Hi,3,4/28/21,21:09:25,21:12:36,21,12,36,191.78,Pick Up LRU: 'RF Amplifier 1 [SPARE]',,RF-Amplifier-2-(electrical),,,0,1,0
+st12,Hi,3,4/28/21,21:09:25,21:12:37,21,12,37,192.82,Drop LRU: 'RF Amplifier 1 [SPARE]',,RF-Amplifier-2-(electrical),,,0,1,0
+st12,Hi,3,4/28/21,21:09:25,21:12:40,21,12,40,195.28,Connect LRU: 'RF Amplifier 1 [SPARE]',,RF-Amplifier-2-(electrical),,,0,1,0
+st12,Hi,3,4/28/21,21:09:25,21:12:43,21,12,43,198.05,Replaced unnecessarily RF Amplifier 1 (electrical),,RF-Amplifier-2-(electrical),,RF-Amplifier-1-(electrical),1,1,1
+st12,Hi,3,4/28/21,21:09:25,21:13:20,21,13,20,234.92,Move drawer: 95.4% open,Transmitter,RF-Amplifier-2-(electrical),,RF-Amplifier-1-(electrical),1,1,1
+st12,Hi,3,4/28/21,21:09:25,21:13:40,21,13,40,255.15,Move drawer: 100% open,Synchronizer,RF-Amplifier-2-(electrical),,RF-Amplifier-1-(electrical),1,1,1
+st12,Hi,3,4/28/21,21:09:25,21:13:43,21,13,43,258.17,Move drawer: 95.4% open,Synchronizer,RF-Amplifier-2-(electrical),,RF-Amplifier-1-(electrical),1,1,1
+st12,Hi,3,4/28/21,21:09:25,21:13:44,21,13,44,259.79,Move drawer: 96.8% open,Synchronizer,RF-Amplifier-2-(electrical),,RF-Amplifier-1-(electrical),1,1,1
+st12,Hi,3,4/28/21,21:09:25,21:13:45,21,13,45,260.62,Click on: 'Limiter',,RF-Amplifier-2-(electrical),,RF-Amplifier-1-(electrical),1,1,1
+st12,Hi,3,4/28/21,21:09:25,21:13:46,21,13,46,261.52,Disconnect LRU: 'Limiter',,RF-Amplifier-2-(electrical),,RF-Amplifier-1-(electrical),1,1,1
+st12,Hi,3,4/28/21,21:09:25,21:13:47,21,13,47,262.35,Pick Up LRU: 'Limiter',,RF-Amplifier-2-(electrical),,RF-Amplifier-1-(electrical),1,1,1
+st12,Hi,3,4/28/21,21:09:25,21:13:49,21,13,49,264.57,Drop LRU: 'Limiter',,RF-Amplifier-2-(electrical),,RF-Amplifier-1-(electrical),1,1,1
+st12,Hi,3,4/28/21,21:09:25,21:13:51,21,13,51,266.07,Cancel connect: 'Limiter',,RF-Amplifier-2-(electrical),,RF-Amplifier-1-(electrical),1,1,1
+st12,Hi,3,4/28/21,21:09:25,21:13:51,21,13,51,266.09,Move drawer: 95.4% open,Synchronizer,RF-Amplifier-2-(electrical),,RF-Amplifier-1-(electrical),1,1,1
+st12,Hi,3,4/28/21,21:09:25,21:13:52,21,13,52,267.72,Leave Server Box Table,,RF-Amplifier-2-(electrical),,RF-Amplifier-1-(electrical),1,1,1
+st12,Hi,3,4/28/21,21:09:25,21:13:53,21,13,53,268.16,Move to Spare Parts Table,,RF-Amplifier-2-(electrical),,RF-Amplifier-1-(electrical),1,1,1
+st12,Hi,3,4/28/21,21:09:25,21:14:01,21,14,1,276.3,Pick Up LRU: 'Limiter [SPARE]',,RF-Amplifier-2-(electrical),,RF-Amplifier-1-(electrical),1,1,1
+st12,Hi,3,4/28/21,21:09:25,21:14:05,21,14,5,280.18,Drop LRU: 'Limiter [SPARE]',,RF-Amplifier-2-(electrical),,RF-Amplifier-1-(electrical),1,1,1
+st12,Hi,3,4/28/21,21:09:25,21:14:08,21,14,8,283.19,Pick Up LRU: 'Limiter [SPARE]',,RF-Amplifier-2-(electrical),,RF-Amplifier-1-(electrical),1,1,1
+st12,Hi,3,4/28/21,21:09:25,21:14:12,21,14,12,286.89,Leave Spare Parts Table,,RF-Amplifier-2-(electrical),,RF-Amplifier-1-(electrical),1,1,1
+st12,Hi,3,4/28/21,21:09:25,21:14:13,21,14,13,288.52,Move to Server Box Table,,RF-Amplifier-2-(electrical),,RF-Amplifier-1-(electrical),1,1,1
+st12,Hi,3,4/28/21,21:09:25,21:14:23,21,14,23,298.45,Drop LRU: 'Limiter [SPARE]',,RF-Amplifier-2-(electrical),,RF-Amplifier-1-(electrical),1,1,1
+st12,Hi,3,4/28/21,21:09:25,21:14:26,21,14,26,301.65,Pick Up LRU: 'Limiter [SPARE]',,RF-Amplifier-2-(electrical),,RF-Amplifier-1-(electrical),1,1,1
+st12,Hi,3,4/28/21,21:09:25,21:14:32,21,14,32,307.38,Drop LRU: 'Limiter [SPARE]',,RF-Amplifier-2-(electrical),,RF-Amplifier-1-(electrical),1,1,1
+st12,Hi,3,4/28/21,21:09:25,21:14:38,21,14,38,313.02,Pick Up LRU: 'Limiter [SPARE]',,RF-Amplifier-2-(electrical),,RF-Amplifier-1-(electrical),1,1,1
+st12,Hi,3,4/28/21,21:09:25,21:14:48,21,14,48,323.42,Drop LRU: 'Limiter [SPARE]',,RF-Amplifier-2-(electrical),,RF-Amplifier-1-(electrical),1,1,1
+st12,Hi,3,4/28/21,21:09:25,21:14:50,21,14,50,325.49,Cancel connect: 'Limiter [SPARE]',,RF-Amplifier-2-(electrical),,RF-Amplifier-1-(electrical),1,1,1
+st12,Hi,3,4/28/21,21:09:25,21:14:50,21,14,50,325.5,Move drawer: 95.4% open,Transmitter,RF-Amplifier-2-(electrical),,RF-Amplifier-1-(electrical),1,1,1
+st12,Hi,3,4/28/21,21:09:25,21:14:51,21,14,51,326.4,Pick Up LRU: 'Limiter [SPARE]',,RF-Amplifier-2-(electrical),,RF-Amplifier-1-(electrical),1,1,1
+st12,Hi,3,4/28/21,21:09:25,21:14:52,21,14,52,327.62,Drop LRU: 'Limiter [SPARE]',,RF-Amplifier-2-(electrical),,RF-Amplifier-1-(electrical),1,1,1
+st12,Hi,3,4/28/21,21:09:25,21:14:54,21,14,54,329.09,Connect LRU: 'Limiter [SPARE]',,RF-Amplifier-2-(electrical),,RF-Amplifier-1-(electrical),1,1,1
+st12,Hi,3,4/28/21,21:09:25,21:14:54,21,14,54,329.11,Move drawer: 95.4% open,Transmitter,RF-Amplifier-2-(electrical),,RF-Amplifier-1-(electrical),1,1,1
+st12,Hi,3,4/28/21,21:09:25,21:14:56,21,14,56,330.92,Replaced unnecessarily Limiter (electrical),,RF-Amplifier-2-(electrical),,RF-Amplifier-1-(electrical) Limiter-(electrical),2,1,2
+st12,Hi,3,4/28/21,21:09:25,21:14:56,21,14,56,330.94,Move drawer: 95.4% open,Transmitter,RF-Amplifier-2-(electrical),,RF-Amplifier-1-(electrical) Limiter-(electrical),2,1,2
+st12,Hi,3,4/28/21,21:09:25,21:14:58,21,14,58,332.95,Move drawer: 52.6% open,Synchronizer,RF-Amplifier-2-(electrical),,RF-Amplifier-1-(electrical) Limiter-(electrical),2,1,2
+st12,Hi,3,4/28/21,21:09:25,21:15:00,21,15,0,335.12,Move drawer: -1.1% open,Synchronizer,RF-Amplifier-2-(electrical),,RF-Amplifier-1-(electrical) Limiter-(electrical),2,1,2
+st12,Hi,3,4/28/21,21:09:25,21:15:06,21,15,6,341.51,Click on: 'Stage 1 Modulator [SPARE]',,RF-Amplifier-2-(electrical),,RF-Amplifier-1-(electrical) Limiter-(electrical),2,1,2
+st12,Hi,3,4/28/21,21:09:25,21:15:08,21,15,8,343.87,Cancel disconnect: 'Stage 1 Modulator [SPARE]',,RF-Amplifier-2-(electrical),,RF-Amplifier-1-(electrical) Limiter-(electrical),2,1,2
+st12,Hi,3,4/28/21,21:09:25,21:15:09,21,15,9,343.89,Move drawer: 95.4% open,Transmitter,RF-Amplifier-2-(electrical),,RF-Amplifier-1-(electrical) Limiter-(electrical),2,1,2
+st12,Hi,3,4/28/21,21:09:25,21:15:38,21,15,38,373.19,Click on: 'Stage 3 Modulator',,RF-Amplifier-2-(electrical),,RF-Amplifier-1-(electrical) Limiter-(electrical),2,1,2
+st12,Hi,3,4/28/21,21:09:25,21:15:40,21,15,40,375.62,Cancel disconnect: 'Stage 3 Modulator',,RF-Amplifier-2-(electrical),,RF-Amplifier-1-(electrical) Limiter-(electrical),2,1,2
+st12,Hi,3,4/28/21,21:09:25,21:15:40,21,15,40,375.64,Move drawer: 95.4% open,Transmitter,RF-Amplifier-2-(electrical),,RF-Amplifier-1-(electrical) Limiter-(electrical),2,1,2
+st12,Hi,3,4/28/21,21:09:25,21:16:23,21,16,23,418.58,Click on: 'Frequency Synthesizer',,RF-Amplifier-2-(electrical),,RF-Amplifier-1-(electrical) Limiter-(electrical),2,1,2
+st12,Hi,3,4/28/21,21:09:25,21:16:25,21,16,25,420.56,Cancel disconnect: 'Frequency Synthesizer',,RF-Amplifier-2-(electrical),,RF-Amplifier-1-(electrical) Limiter-(electrical),2,1,2
+st12,Hi,3,4/28/21,21:09:25,21:16:25,21,16,25,420.57,Move drawer: 95.4% open,Transmitter,RF-Amplifier-2-(electrical),,RF-Amplifier-1-(electrical) Limiter-(electrical),2,1,2
+st12,Hi,3,4/28/21,21:09:25,21:16:56,21,16,56,451.84,Move drawer: 95.4% open,Transmitter,RF-Amplifier-2-(electrical),,RF-Amplifier-1-(electrical) Limiter-(electrical),2,1,2
+st12,Hi,3,4/28/21,21:09:25,21:16:58,21,16,58,453.65,Submit?,,RF-Amplifier-2-(electrical),,RF-Amplifier-1-(electrical) Limiter-(electrical),2,1,2
+st12,Hi,3,4/28/21,21:09:25,21:16:58,21,16,58,453.67,Swing front panel: 58.4% open,,RF-Amplifier-2-(electrical),,RF-Amplifier-1-(electrical) Limiter-(electrical),2,1,2
+st12,Hi,3,4/28/21,21:09:25,21:17:00,21,17,0,455.62,Submit Confirm,,RF-Amplifier-2-(electrical),,RF-Amplifier-1-(electrical) Limiter-(electrical),2,1,2
+st12,Hi,3,4/28/21,21:09:25,21:17:00,21,17,0,455.64,Move drawer: 95.4% open,Transmitter,RF-Amplifier-2-(electrical),,RF-Amplifier-1-(electrical) Limiter-(electrical),2,1,2
+st12,Hi,4,4/28/21,21:17:01,21:17:01,21,17,1,0,Make electrical flaw: Transmitter Waveguide,,Transmitter-Waveguide-(electrical),,,0,1,0
+st12,Hi,4,4/28/21,21:17:01,21:17:01,21,17,1,0,Start (High Fidelity Sim),,Transmitter-Waveguide-(electrical),,,0,1,0
+st12,Hi,4,4/28/21,21:17:01,21:17:01,21,17,1,0.01,Move drawer: 79.5% open,Transmitter,Transmitter-Waveguide-(electrical),,,0,1,0
+st12,Hi,4,4/28/21,21:17:01,21:17:02,21,17,2,0.04,Leave Server Box Table,,Transmitter-Waveguide-(electrical),,,0,1,0

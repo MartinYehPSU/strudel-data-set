@@ -1,0 +1,234 @@
+subject,subject_group,round,round_start_date_utc,round_start_time_utc,current_time_utc,current_hour24,current_minute,current_second,current_elapsed_seconds,event,ui_tab,active_faults,fixed_faults,fixed_nonfaults,ReplacedComponents,FaultsRemaining,ReplacedNonFaults
+ST3,HI,1,4/28/21,17:49:54,17:49:54,17,49,54,0.05,Make electrical flaw: Sweep Control Circuit,,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST3,HI,1,4/28/21,17:49:54,17:49:54,17,49,54,0.06,Start (High Fidelity Sim),,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST3,HI,1,4/28/21,17:49:54,17:51:08,17,51,8,73.63,Move to Server Box Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST3,HI,1,4/28/21,17:49:54,17:51:09,17,51,9,74.6,Leave Server Box Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST3,HI,1,4/28/21,17:49:54,17:51:11,17,51,11,77.42,Move to Spare Parts Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST3,HI,1,4/28/21,17:49:54,17:51:13,17,51,13,79.29,Leave Spare Parts Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST3,HI,1,4/28/21,17:49:54,17:51:14,17,51,14,80.24,Move to Server Box Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST3,HI,1,4/28/21,17:49:54,17:51:53,17,51,53,119.33,Leave Server Box Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST3,HI,1,4/28/21,17:49:54,17:51:54,17,51,54,120.06,Move to Spare Parts Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST3,HI,1,4/28/21,17:49:54,17:51:56,17,51,56,121.63,Leave Spare Parts Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST3,HI,1,4/28/21,17:49:54,17:51:59,17,51,59,124.57,Swing front panel: 0% open,,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST3,HI,1,4/28/21,17:49:54,17:51:59,17,51,59,124.79,Swing front panel: 0% open,,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST3,HI,1,4/28/21,17:49:54,17:51:59,17,51,59,125.4,Swing front panel: 0% open,,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST3,HI,1,4/28/21,17:49:54,17:52:01,17,52,1,126.61,Pick Up LRU: 'Video Amplifier [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST3,HI,1,4/28/21,17:49:54,17:52:01,17,52,1,126.74,Drop LRU: 'Video Amplifier [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST3,HI,1,4/28/21,17:49:54,17:52:01,17,52,1,127.17,Pick Up LRU: 'Video Amplifier [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST3,HI,1,4/28/21,17:49:54,17:52:03,17,52,3,128.76,Drop LRU: 'Video Amplifier [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST3,HI,1,4/28/21,17:49:54,17:52:13,17,52,13,139.24,Move to Spare Parts Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST3,HI,1,4/28/21,17:49:54,17:52:15,17,52,15,141.47,Leave Spare Parts Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST3,HI,1,4/28/21,17:49:54,17:52:18,17,52,18,143.52,Move to Spare Parts Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST3,HI,1,4/28/21,17:49:54,17:52:21,17,52,21,146.65,Pick Up LRU: 'Stage 2 Modulator [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST3,HI,1,4/28/21,17:49:54,17:52:23,17,52,23,149.17,Drop LRU: 'Stage 2 Modulator [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST3,HI,1,4/28/21,17:49:54,17:52:24,17,52,24,149.53,Pick Up LRU: 'Stage 2 Modulator [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST3,HI,1,4/28/21,17:49:54,17:52:24,17,52,24,149.7,Drop LRU: 'Stage 2 Modulator [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST3,HI,1,4/28/21,17:49:54,17:52:24,17,52,24,150.09,Pick Up LRU: 'Frequency Synthesizer [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST3,HI,1,4/28/21,17:49:54,17:52:25,17,52,25,150.57,Drop LRU: 'Frequency Synthesizer [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST3,HI,1,4/28/21,17:49:54,17:52:26,17,52,26,151.93,Pick Up LRU: 'RF Amplifier 1 [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST3,HI,1,4/28/21,17:49:54,17:52:29,17,52,29,154.69,Drop LRU: 'RF Amplifier 1 [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST3,HI,1,4/28/21,17:49:54,17:52:36,17,52,36,162.06,Pick Up LRU: 'Sweep Generator Circuit [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST3,HI,1,4/28/21,17:49:54,17:52:36,17,52,36,162.42,Drop LRU: 'Sweep Generator Circuit [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST3,HI,1,4/28/21,17:49:54,17:52:37,17,52,37,162.89,Pick Up LRU: 'Cathode Ray Tube [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST3,HI,1,4/28/21,17:49:54,17:52:39,17,52,39,164.88,Drop LRU: 'Cathode Ray Tube [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST3,HI,1,4/28/21,17:49:54,17:52:43,17,52,43,168.77,Pick Up LRU: 'RC Differentiator [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST3,HI,1,4/28/21,17:49:54,17:52:43,17,52,43,169.21,Drop LRU: 'RC Differentiator [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST3,HI,1,4/28/21,17:49:54,17:52:46,17,52,46,171.55,Pick Up LRU: 'Receiver Antenna [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST3,HI,1,4/28/21,17:49:54,17:52:46,17,52,46,172.09,Drop LRU: 'Receiver Antenna [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST3,HI,1,4/28/21,17:49:54,17:52:47,17,52,47,173.08,Pick Up LRU: 'Duplexer Bypass [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST3,HI,1,4/28/21,17:49:54,17:52:48,17,52,48,173.56,Drop LRU: 'Duplexer Bypass [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST3,HI,1,4/28/21,17:49:54,17:52:53,17,52,53,179.33,Pick Up LRU: 'Sine Wave Oscillator [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST3,HI,1,4/28/21,17:49:54,17:52:54,17,52,54,179.8,Drop LRU: 'Sine Wave Oscillator [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST3,HI,1,4/28/21,17:49:54,17:53:36,17,53,36,221.78,Leave Spare Parts Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST3,HI,1,4/28/21,17:49:54,17:53:37,17,53,37,223.14,Move to Server Box Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST3,HI,1,4/28/21,17:49:54,17:53:49,17,53,49,234.54,Swing front panel: 0% open,,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST3,HI,1,4/28/21,17:49:54,17:53:51,17,53,51,237.22,Swing front panel: 0.2% open,,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST3,HI,1,4/28/21,17:49:54,17:53:54,17,53,54,240,Leave Server Box Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST3,HI,1,4/28/21,17:49:54,17:53:58,17,53,58,244.22,Move to Server Box Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST3,HI,1,4/28/21,17:49:54,17:53:59,17,53,59,245,Leave Server Box Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST3,HI,1,4/28/21,17:49:54,17:54:01,17,54,1,246.9,Move to Spare Parts Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST3,HI,1,4/28/21,17:49:54,17:54:36,17,54,36,281.56,Leave Spare Parts Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST3,HI,1,4/28/21,17:49:54,17:54:38,17,54,38,284.28,Move to Spare Parts Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST3,HI,1,4/28/21,17:49:54,17:55:01,17,55,1,306.79,Leave Spare Parts Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST3,HI,1,4/28/21,17:49:54,17:55:02,17,55,2,308.44,Move to Server Box Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST3,HI,1,4/28/21,17:49:54,17:55:15,17,55,15,321.23,Swing front panel: 1.2% open,,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST3,HI,1,4/28/21,17:49:54,17:55:22,17,55,22,328.18,Swing front panel: 4.1% open,,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST3,HI,1,4/28/21,17:49:54,17:55:40,17,55,40,345.57,Swing front panel: 20.1% open,,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST3,HI,1,4/28/21,17:49:54,17:55:43,17,55,43,349.41,Swing front panel: 21.7% open,,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST3,HI,1,4/28/21,17:49:54,17:55:44,17,55,44,350.14,Swing front panel: 22.2% open,,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST3,HI,1,4/28/21,17:49:54,17:55:44,17,55,44,350.24,Swing front panel: 22.3% open,,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST3,HI,1,4/28/21,17:49:54,17:55:45,17,55,45,350.78,Swing front panel: 22.5% open,,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST3,HI,1,4/28/21,17:49:54,17:55:45,17,55,45,350.98,Swing front panel: 22.6% open,,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST3,HI,1,4/28/21,17:49:54,17:55:45,17,55,45,351.18,Swing front panel: 22.7% open,,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST3,HI,1,4/28/21,17:49:54,17:55:45,17,55,45,351.37,Swing front panel: 22.7% open,,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST3,HI,1,4/28/21,17:49:54,17:55:46,17,55,46,351.66,Swing front panel: 22.9% open,,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST3,HI,1,4/28/21,17:49:54,17:55:46,17,55,46,351.86,Swing front panel: 23% open,,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST3,HI,1,4/28/21,17:49:54,17:55:46,17,55,46,351.96,Swing front panel: 23.1% open,,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST3,HI,1,4/28/21,17:49:54,17:55:46,17,55,46,352.26,Swing front panel: 23.3% open,,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST3,HI,1,4/28/21,17:49:54,17:55:46,17,55,46,352.35,Swing front panel: 23.3% open,,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST3,HI,1,4/28/21,17:49:54,17:55:47,17,55,47,352.55,Swing front panel: 23.4% open,,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST3,HI,1,4/28/21,17:49:54,17:55:47,17,55,47,352.8,Swing front panel: 23.4% open,,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST3,HI,1,4/28/21,17:49:54,17:55:47,17,55,47,353,Swing front panel: 23.5% open,,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST3,HI,1,4/28/21,17:49:54,17:55:47,17,55,47,353.2,Swing front panel: 23.5% open,,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST3,HI,1,4/28/21,17:49:54,17:55:48,17,55,48,353.55,Swing front panel: 23.7% open,,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST3,HI,1,4/28/21,17:49:54,17:55:48,17,55,48,353.79,Swing front panel: 23.7% open,,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST3,HI,1,4/28/21,17:49:54,17:55:48,17,55,48,354.03,Swing front panel: 23.7% open,,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST3,HI,1,4/28/21,17:49:54,17:55:48,17,55,48,354.28,Swing front panel: 23.7% open,,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST3,HI,1,4/28/21,17:49:54,17:55:48,17,55,48,354.38,Swing front panel: 23.7% open,,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST3,HI,1,4/28/21,17:49:54,17:55:51,17,55,51,356.8,Swing front panel: 23.7% open,,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST3,HI,1,4/28/21,17:49:54,17:55:51,17,55,51,356.94,Swing front panel: 23.7% open,,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST3,HI,1,4/28/21,17:49:54,17:55:51,17,55,51,357.23,Swing front panel: 23.9% open,,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST3,HI,1,4/28/21,17:49:54,17:56:05,17,56,5,371.3,Swing front panel: 75.5% open,,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST3,HI,1,4/28/21,17:49:54,17:56:09,17,56,9,374.97,Move drawer: 87.6% open,Indicator,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST3,HI,1,4/28/21,17:49:54,17:56:16,17,56,16,382.09,Move drawer: 95.4% open,Indicator,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST3,HI,1,4/28/21,17:49:54,17:56:16,17,56,16,382.25,Click on: 'Sweep Generator Circuit',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST3,HI,1,4/28/21,17:49:54,17:56:22,17,56,22,387.94,Disconnect LRU: 'Sweep Generator Circuit',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST3,HI,1,4/28/21,17:49:54,17:56:24,17,56,24,390.2,Pick Up LRU: 'Sweep Generator Circuit',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST3,HI,1,4/28/21,17:49:54,17:56:25,17,56,25,391.13,Drop LRU: 'Sweep Generator Circuit',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST3,HI,1,4/28/21,17:49:54,17:56:27,17,56,27,393.21,Pick Up LRU: 'Sweep Generator Circuit',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST3,HI,1,4/28/21,17:49:54,17:56:28,17,56,28,394.16,Drop LRU: 'Sweep Generator Circuit',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST3,HI,1,4/28/21,17:49:54,17:57:44,17,57,44,470.34,Click on: 'Gate Circuit',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST3,HI,1,4/28/21,17:49:54,17:57:49,17,57,49,475.31,Cancel disconnect: 'Gate Circuit',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST3,HI,1,4/28/21,17:49:54,17:57:49,17,57,49,475.37,Swing front panel: 100% open,,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST3,HI,1,4/28/21,17:49:54,17:57:51,17,57,51,476.91,Move drawer: 82.6% open,Tracker,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST3,HI,1,4/28/21,17:49:54,17:57:53,17,57,53,478.82,Leave Server Box Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST3,HI,1,4/28/21,17:49:54,17:57:57,17,57,57,483.31,Move to Spare Parts Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST3,HI,1,4/28/21,17:49:54,17:58:22,17,58,22,508.1,Pick Up LRU: 'Mixer Detector [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST3,HI,1,4/28/21,17:49:54,17:58:26,17,58,26,512.02,Drop LRU: 'Mixer Detector [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST3,HI,1,4/28/21,17:49:54,17:58:40,17,58,40,526.33,Pick Up LRU: 'Video Detector [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST3,HI,1,4/28/21,17:49:54,17:58:41,17,58,41,526.8,Drop LRU: 'Video Detector [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST3,HI,1,4/28/21,17:49:54,17:58:43,17,58,43,528.84,Leave Spare Parts Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST3,HI,1,4/28/21,17:49:54,17:59:03,17,59,3,549.14,Move to Spare Parts Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST3,HI,1,4/28/21,17:49:54,17:59:05,17,59,5,551.14,Leave Spare Parts Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST3,HI,1,4/28/21,17:49:54,17:59:08,17,59,8,554.04,Move to Spare Parts Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST3,HI,1,4/28/21,17:49:54,17:59:10,17,59,10,555.89,Leave Spare Parts Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST3,HI,1,4/28/21,17:49:54,17:59:39,17,59,39,585.19,Move to Spare Parts Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST3,HI,1,4/28/21,17:49:54,18:00:19,18,0,19,625.46,Pick Up LRU: 'Sweep Generator Circuit [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST3,HI,1,4/28/21,17:49:54,18:00:26,18,0,26,632.02,Drop LRU: 'Sweep Generator Circuit [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST3,HI,1,4/28/21,17:49:54,18:00:27,18,0,27,633.15,Pick Up LRU: 'Intensity Gate Generator [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST3,HI,1,4/28/21,17:49:54,18:00:27,18,0,27,633.31,Drop LRU: 'Intensity Gate Generator [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST3,HI,1,4/28/21,17:49:54,18:00:28,18,0,28,633.83,Pick Up LRU: 'Intensity Gate Generator [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST3,HI,1,4/28/21,17:49:54,18:00:29,18,0,29,634.81,Drop LRU: 'Intensity Gate Generator [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST3,HI,1,4/28/21,17:49:54,18:00:29,18,0,29,635.49,Pick Up LRU: 'Intensity Gate Generator [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST3,HI,1,4/28/21,17:49:54,18:00:30,18,0,30,635.69,Drop LRU: 'Intensity Gate Generator [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST3,HI,1,4/28/21,17:49:54,18:00:31,18,0,31,637.5,Pick Up LRU: 'Intensity Gate Generator [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST3,HI,1,4/28/21,17:49:54,18:00:32,18,0,32,637.62,Drop LRU: 'Intensity Gate Generator [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST3,HI,1,4/28/21,17:49:54,18:00:32,18,0,32,637.7,Pick Up LRU: 'Intensity Gate Generator [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST3,HI,1,4/28/21,17:49:54,18:00:32,18,0,32,637.98,Drop LRU: 'Intensity Gate Generator [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST3,HI,1,4/28/21,17:49:54,18:00:32,18,0,32,638.34,Pick Up LRU: 'Intensity Gate Generator [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST3,HI,1,4/28/21,17:49:54,18:00:32,18,0,32,638.46,Drop LRU: 'Intensity Gate Generator [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST3,HI,1,4/28/21,17:49:54,18:00:34,18,0,34,640.35,Pick Up LRU: 'Stage 2 Modulator [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST3,HI,1,4/28/21,17:49:54,18:00:34,18,0,34,640.47,Drop LRU: 'Stage 2 Modulator [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST3,HI,1,4/28/21,17:49:54,18:00:35,18,0,35,640.59,Pick Up LRU: 'Stage 2 Modulator [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST3,HI,1,4/28/21,17:49:54,18:00:35,18,0,35,640.67,Drop LRU: 'Stage 2 Modulator [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST3,HI,1,4/28/21,17:49:54,18:00:35,18,0,35,640.76,Pick Up LRU: 'Stage 2 Modulator [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST3,HI,1,4/28/21,17:49:54,18:00:35,18,0,35,640.87,Drop LRU: 'Stage 2 Modulator [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST3,HI,1,4/28/21,17:49:54,18:00:35,18,0,35,641.12,Pick Up LRU: 'Stage 2 Modulator [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST3,HI,1,4/28/21,17:49:54,18:00:36,18,0,36,642.25,Drop LRU: 'Stage 2 Modulator [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST3,HI,1,4/28/21,17:49:54,18:00:37,18,0,37,643.43,Pick Up LRU: 'Intensity Gate Generator [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST3,HI,1,4/28/21,17:49:54,18:00:41,18,0,41,647.14,Drop LRU: 'Intensity Gate Generator [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST3,HI,1,4/28/21,17:49:54,18:00:43,18,0,43,648.66,Pick Up LRU: 'Intensity Gate Generator [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST3,HI,1,4/28/21,17:49:54,18:00:43,18,0,43,648.78,Drop LRU: 'Intensity Gate Generator [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST3,HI,1,4/28/21,17:49:54,18:00:43,18,0,43,648.82,Pick Up LRU: 'Intensity Gate Generator [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST3,HI,1,4/28/21,17:49:54,18:00:44,18,0,44,649.56,Drop LRU: 'Intensity Gate Generator [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST3,HI,1,4/28/21,17:49:54,18:00:44,18,0,44,650.29,Pick Up LRU: 'Intensity Gate Generator [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST3,HI,1,4/28/21,17:49:54,18:00:44,18,0,44,650.37,Drop LRU: 'Intensity Gate Generator [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST3,HI,1,4/28/21,17:49:54,18:01:19,18,1,19,684.54,Leave Spare Parts Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST3,HI,1,4/28/21,17:49:54,18:01:21,18,1,21,686.71,Move to Server Box Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST3,HI,1,4/28/21,17:49:54,18:01:30,18,1,30,696.26,Swing front panel: 100% open,,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST3,HI,1,4/28/21,17:49:54,18:01:41,18,1,41,707.4,Click on: 'Cathode Ray Tube',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST3,HI,1,4/28/21,17:49:54,18:01:44,18,1,44,709.8,Cancel disconnect: 'Cathode Ray Tube',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST3,HI,1,4/28/21,17:49:54,18:01:45,18,1,45,710.8,Move drawer: 95.4% open,Tracker,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST3,HI,1,4/28/21,17:49:54,18:01:45,18,1,45,710.99,Move drawer: 95.4% open,Tracker,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST3,HI,1,4/28/21,17:49:54,18:01:46,18,1,46,711.64,Move drawer: 58.5% open,Tracker,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST3,HI,1,4/28/21,17:49:54,18:01:48,18,1,48,713.92,Move drawer: 95.4% open,Indicator,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST3,HI,1,4/28/21,17:49:54,18:01:48,18,1,48,714.1,Move drawer: 95.4% open,Indicator,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST3,HI,1,4/28/21,17:49:54,18:01:49,18,1,49,714.59,Move drawer: 95.4% open,Indicator,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST3,HI,1,4/28/21,17:49:54,18:01:50,18,1,50,715.8,Move drawer: 90.3% open,Indicator,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST3,HI,1,4/28/21,17:49:54,18:01:53,18,1,53,719.03,Move drawer: -8.3% open,Tracker,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST3,HI,1,4/28/21,17:49:54,18:02:21,18,2,21,746.8,Swing front panel: 100% open,,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST3,HI,1,4/28/21,17:49:54,18:02:28,18,2,28,754.07,Leave Server Box Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST3,HI,1,4/28/21,17:49:54,18:03:19,18,3,19,804.56,Move to Spare Parts Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST3,HI,1,4/28/21,17:49:54,18:03:41,18,3,41,827.25,Pick Up LRU: 'Gate Circuit [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST3,HI,1,4/28/21,17:49:54,18:03:44,18,3,44,829.9,Drop LRU: 'Gate Circuit [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST3,HI,1,4/28/21,17:49:54,18:03:48,18,3,48,834.1,Pick Up LRU: 'Video Detector [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST3,HI,1,4/28/21,17:49:54,18:03:48,18,3,48,834.47,Drop LRU: 'Video Detector [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST3,HI,1,4/28/21,17:49:54,18:03:50,18,3,50,836.43,Pick Up LRU: 'Video Detector [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST3,HI,1,4/28/21,17:49:54,18:03:52,18,3,52,837.81,Drop LRU: 'Video Detector [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST3,HI,1,4/28/21,17:49:54,18:03:54,18,3,54,839.73,Leave Spare Parts Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST3,HI,1,4/28/21,17:49:54,18:03:55,18,3,55,841.3,Move to Server Box Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST3,HI,1,4/28/21,17:49:54,18:04:12,18,4,12,858.32,Leave Server Box Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST3,HI,1,4/28/21,17:49:54,18:04:25,18,4,25,871.3,Move to Spare Parts Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST3,HI,1,4/28/21,17:49:54,18:04:27,18,4,27,872.53,Leave Spare Parts Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST3,HI,1,4/28/21,17:49:54,18:04:31,18,4,31,876.97,Move to Spare Parts Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST3,HI,1,4/28/21,17:49:54,18:04:47,18,4,47,892.95,Leave Spare Parts Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST3,HI,1,4/28/21,17:49:54,18:04:56,18,4,56,901.82,Move to Spare Parts Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST3,HI,1,4/28/21,17:49:54,18:04:59,18,4,59,904.98,Leave Spare Parts Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST3,HI,1,4/28/21,17:49:54,18:05:01,18,5,1,907.13,Move to Spare Parts Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST3,HI,1,4/28/21,17:49:54,18:05:46,18,5,46,952.11,Leave Spare Parts Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST3,HI,1,4/28/21,17:49:54,18:05:47,18,5,47,952.58,Move to Spare Parts Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST3,HI,1,4/28/21,17:49:54,18:06:04,18,6,4,969.87,Pick Up LRU: 'RC Differentiator [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST3,HI,1,4/28/21,17:49:54,18:06:04,18,6,4,970.08,Drop LRU: 'RC Differentiator [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST3,HI,1,4/28/21,17:49:54,18:06:07,18,6,7,972.93,Pick Up LRU: 'Control Circuit [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST3,HI,1,4/28/21,17:49:54,18:06:07,18,6,7,973.13,Drop LRU: 'Control Circuit [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST3,HI,1,4/28/21,17:49:54,18:06:16,18,6,16,981.79,Pick Up LRU: 'Intensity Gate Generator [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST3,HI,1,4/28/21,17:49:54,18:06:16,18,6,16,982,Drop LRU: 'Intensity Gate Generator [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST3,HI,1,4/28/21,17:49:54,18:06:17,18,6,17,983.17,Pick Up LRU: 'Intensity Gate Generator [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST3,HI,1,4/28/21,17:49:54,18:06:17,18,6,17,983.31,Drop LRU: 'Intensity Gate Generator [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST3,HI,1,4/28/21,17:49:54,18:06:18,18,6,18,983.6,Pick Up LRU: 'Intensity Gate Generator [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST3,HI,1,4/28/21,17:49:54,18:06:18,18,6,18,984.3,Drop LRU: 'Intensity Gate Generator [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST3,HI,1,4/28/21,17:49:54,18:06:19,18,6,19,985.01,Pick Up LRU: 'Intensity Gate Generator [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST3,HI,1,4/28/21,17:49:54,18:06:22,18,6,22,988.43,Drop LRU: 'Intensity Gate Generator [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST3,HI,1,4/28/21,17:49:54,18:06:28,18,6,28,994,Leave Spare Parts Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST3,HI,1,4/28/21,17:49:54,18:06:51,18,6,51,1017.06,Pick Up LRU: 'Video Detector [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST3,HI,1,4/28/21,17:49:54,18:06:53,18,6,53,1019.45,Drop LRU: 'Video Detector [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST3,HI,1,4/28/21,17:49:54,18:06:55,18,6,55,1020.86,Pick Up LRU: 'Video Detector [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST3,HI,1,4/28/21,17:49:54,18:06:57,18,6,57,1022.96,Drop LRU: 'Video Detector [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST3,HI,1,4/28/21,17:49:54,18:07:04,18,7,4,1030.28,Pick Up LRU: 'Video Detector [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST3,HI,1,4/28/21,17:49:54,18:07:07,18,7,7,1032.58,Drop LRU: 'Video Detector [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST3,HI,1,4/28/21,17:49:54,18:07:09,18,7,9,1034.76,Move to Server Box Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST3,HI,1,4/28/21,17:49:54,18:07:14,18,7,14,1040.25,Pick Up LRU: 'Video Detector [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST3,HI,1,4/28/21,17:49:54,18:07:15,18,7,15,1041.3,Attempt to reconnect mismatched LRU: 'Video Detector [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST3,HI,1,4/28/21,17:49:54,18:07:15,18,7,15,1041.35,Attempt to reconnect mismatched LRU: 'Video Detector [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST3,HI,1,4/28/21,17:49:54,18:07:16,18,7,16,1042.28,Drop LRU: 'Video Detector [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST3,HI,1,4/28/21,17:49:54,18:07:17,18,7,17,1043.44,Pick Up LRU: 'Video Detector [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST3,HI,1,4/28/21,17:49:54,18:07:19,18,7,19,1044.91,Drop LRU: 'Video Detector [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST3,HI,1,4/28/21,17:49:54,18:07:25,18,7,25,1051.25,Pick Up LRU: 'Video Detector [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST3,HI,1,4/28/21,17:49:54,18:07:27,18,7,27,1052.85,Drop LRU: 'Video Detector [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST3,HI,1,4/28/21,17:49:54,18:07:46,18,7,46,1071.76,Leave Server Box Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST3,HI,1,4/28/21,17:49:54,18:08:32,18,8,32,1117.84,Move to Server Box Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST3,HI,1,4/28/21,17:49:54,18:08:38,18,8,38,1123.81,Leave Server Box Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST3,HI,1,4/28/21,17:49:54,18:08:51,18,8,51,1136.91,Move to Server Box Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST3,HI,1,4/28/21,17:49:54,18:08:51,18,8,51,1137.32,Leave Server Box Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST3,HI,1,4/28/21,17:49:54,18:09:01,18,9,1,1147.05,Move to Server Box Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST3,HI,1,4/28/21,17:49:54,18:09:27,18,9,27,1173.51,Leave Server Box Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST3,HI,1,4/28/21,17:49:54,18:10:16,18,10,16,1221.79,Move to Spare Parts Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST3,HI,1,4/28/21,17:49:54,18:10:18,18,10,18,1223.86,Leave Spare Parts Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST3,HI,1,4/28/21,17:49:54,18:10:40,18,10,40,1246.28,Move to Spare Parts Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST3,HI,1,4/28/21,17:49:54,18:10:42,18,10,42,1247.81,Leave Spare Parts Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST3,HI,1,4/28/21,17:49:54,18:10:42,18,10,42,1248.07,Move to Server Box Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST3,HI,1,4/28/21,17:49:54,18:10:43,18,10,43,1248.59,Leave Server Box Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST3,HI,1,4/28/21,17:49:54,18:11:05,18,11,5,1270.7,Move to Server Box Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST3,HI,1,4/28/21,17:49:54,18:11:24,18,11,24,1290.25,Leave Server Box Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST3,HI,1,4/28/21,17:49:54,18:12:19,18,12,19,1345.27,Move to Server Box Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST3,HI,1,4/28/21,17:49:54,18:12:20,18,12,20,1346.15,Leave Server Box Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST3,HI,1,4/28/21,17:49:54,18:12:31,18,12,31,1356.86,Move to Spare Parts Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST3,HI,1,4/28/21,17:49:54,18:12:33,18,12,33,1358.52,Leave Spare Parts Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST3,HI,1,4/28/21,17:49:54,18:12:33,18,12,33,1359.32,Move to Server Box Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST3,HI,1,4/28/21,17:49:54,18:12:39,18,12,39,1364.96,Leave Server Box Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST3,HI,1,4/28/21,17:49:54,18:13:11,18,13,11,1396.62,Move to Server Box Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST3,HI,1,4/28/21,17:49:54,18:13:13,18,13,13,1399.08,Leave Server Box Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST3,HI,1,4/28/21,17:49:54,18:14:03,18,14,3,1448.77,Pick Up LRU: 'Video Amplifier [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST3,HI,1,4/28/21,17:49:54,18:14:05,18,14,5,1450.61,Drop LRU: 'Video Amplifier [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST3,HI,1,4/28/21,17:49:54,18:14:39,18,14,39,1484.77,Move to Server Box Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST3,HI,1,4/28/21,17:49:54,18:14:39,18,14,39,1485.17,Leave Server Box Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST3,HI,1,4/28/21,17:49:54,18:14:42,18,14,42,1487.9,Pick Up LRU: 'AFC Frequency Discriminator [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST3,HI,1,4/28/21,17:49:54,18:14:42,18,14,42,1488.02,Drop LRU: 'AFC Frequency Discriminator [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST3,HI,1,4/28/21,17:49:54,18:16:44,18,16,44,1610.13,Move to Spare Parts Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST3,HI,1,4/28/21,17:49:54,18:16:46,18,16,46,1612.31,Leave Spare Parts Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST3,HI,1,4/28/21,17:49:54,18:16:49,18,16,49,1614.73,Move to Spare Parts Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST3,HI,1,4/28/21,17:49:54,18:18:11,18,18,11,1696.84,Submit?,,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST3,HI,1,4/28/21,17:49:54,18:18:16,18,18,16,1701.81,Submit Confirm,,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST3,HI,2,4/28/21,18:18:20,18:18:20,18,18,20,0,Make electrical flaw: AFC Mixer,,AFC-Mixer-(electrical),,,0,1,0
+ST3,HI,2,4/28/21,18:18:20,18:18:20,18,18,20,0,Start (High Fidelity Sim),,AFC-Mixer-(electrical),,,0,1,0
+ST3,HI,2,4/28/21,18:18:20,18:18:20,18,18,20,0.04,Leave Spare Parts Table,,AFC-Mixer-(electrical),,,0,1,0

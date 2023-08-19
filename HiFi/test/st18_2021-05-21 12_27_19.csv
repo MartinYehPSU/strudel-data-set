@@ -1,0 +1,399 @@
+subject,subject_group,round,round_start_date_utc,round_start_time_utc,current_time_utc,current_hour24,current_minute,current_second,current_elapsed_seconds,event,ui_tab,active_faults,fixed_faults,fixed_nonfaults,ReplacedComponents,FaultsRemaining,ReplacedNonFaults
+st18,HI,1,5/21/21,16:27:19,16:27:19,16,27,19,0.05,Make electrical flaw: Local Oscillator,,Local-Oscillator-(electrical),,,0,1,0
+st18,HI,1,5/21/21,16:27:19,16:27:19,16,27,19,0.05,Start (High Fidelity Sim),,Local-Oscillator-(electrical),,,0,1,0
+st18,HI,1,5/21/21,16:27:19,16:27:40,16,27,40,20.69,Move to Server Box Table,,Local-Oscillator-(electrical),,,0,1,0
+st18,HI,1,5/21/21,16:27:19,16:27:41,16,27,41,22.43,Swing front panel: 55.2% open,,Local-Oscillator-(electrical),,,0,1,0
+st18,HI,1,5/21/21,16:27:19,16:27:49,16,27,49,29.86,Move drawer: 95.4% open,Indicator,Local-Oscillator-(electrical),,,0,1,0
+st18,HI,1,5/21/21,16:27:19,16:27:55,16,27,55,36.03,Move drawer: 98.5% open,Synchronizer,Local-Oscillator-(electrical),,,0,1,0
+st18,HI,1,5/21/21,16:27:19,16:27:57,16,27,57,38.35,Move drawer: -5.6% open,Synchronizer,Local-Oscillator-(electrical),,,0,1,0
+st18,HI,1,5/21/21,16:27:19,16:28:00,16,28,0,40.83,Move drawer: 99.7% open,Tracker,Local-Oscillator-(electrical),,,0,1,0
+st18,HI,1,5/21/21,16:27:19,16:28:01,16,28,1,42.38,Move drawer: 2.1% open,Tracker,Local-Oscillator-(electrical),,,0,1,0
+st18,HI,1,5/21/21,16:27:19,16:28:04,16,28,4,45.03,Move drawer: 97.4% open,Transmitter,Local-Oscillator-(electrical),,,0,1,0
+st18,HI,1,5/21/21,16:27:19,16:28:12,16,28,12,52.69,Move drawer: -6.1% open,Transmitter,Local-Oscillator-(electrical),,,0,1,0
+st18,HI,1,5/21/21,16:27:19,16:28:15,16,28,15,56.39,Move drawer: 99.2% open,Processor,Local-Oscillator-(electrical),,,0,1,0
+st18,HI,1,5/21/21,16:27:19,16:28:21,16,28,21,62.39,Click on: 'Video Amplifier',,Local-Oscillator-(electrical),,,0,1,0
+st18,HI,1,5/21/21,16:27:19,16:28:23,16,28,23,64.11,Cancel disconnect: 'Video Amplifier',,Local-Oscillator-(electrical),,,0,1,0
+st18,HI,1,5/21/21,16:27:19,16:28:30,16,28,30,70.99,Click on: 'Video Amplifier',,Local-Oscillator-(electrical),,,0,1,0
+st18,HI,1,5/21/21,16:27:19,16:28:31,16,28,31,71.83,Cancel disconnect: 'Video Amplifier',,Local-Oscillator-(electrical),,,0,1,0
+st18,HI,1,5/21/21,16:27:19,16:28:34,16,28,34,74.67,Move drawer: 5.5% open,Processor,Local-Oscillator-(electrical),,,0,1,0
+st18,HI,1,5/21/21,16:27:19,16:28:37,16,28,37,77.69,Move drawer: 32.1% open,Indicator,Local-Oscillator-(electrical),,,0,1,0
+st18,HI,1,5/21/21,16:27:19,16:28:38,16,28,38,79.16,Move drawer: 2.5% open,Indicator,Local-Oscillator-(electrical),,,0,1,0
+st18,HI,1,5/21/21,16:27:19,16:28:40,16,28,40,80.57,Move drawer: 98.4% open,Processor,Local-Oscillator-(electrical),,,0,1,0
+st18,HI,1,5/21/21,16:27:19,16:29:16,16,29,16,116.96,Click on: 'Local Oscillator',,Local-Oscillator-(electrical),,,0,1,0
+st18,HI,1,5/21/21,16:27:19,16:29:17,16,29,17,118.22,Disconnect LRU: 'Local Oscillator',,Local-Oscillator-(electrical),,,0,1,0
+st18,HI,1,5/21/21,16:27:19,16:29:17,16,29,17,118.24,Move drawer: 95.4% open,Processor,Local-Oscillator-(electrical),,,0,1,0
+st18,HI,1,5/21/21,16:27:19,16:29:18,16,29,18,119.43,Pick Up LRU: 'Local Oscillator',,Local-Oscillator-(electrical),,,0,1,0
+st18,HI,1,5/21/21,16:27:19,16:29:19,16,29,19,119.88,Drop LRU: 'Local Oscillator',,Local-Oscillator-(electrical),,,0,1,0
+st18,HI,1,5/21/21,16:27:19,16:29:20,16,29,20,121.15,Leave Server Box Table,,Local-Oscillator-(electrical),,,0,1,0
+st18,HI,1,5/21/21,16:27:19,16:29:21,16,29,21,121.8,Move to Spare Parts Table,,Local-Oscillator-(electrical),,,0,1,0
+st18,HI,1,5/21/21,16:27:19,16:29:31,16,29,31,131.94,Pick Up LRU: 'Local Oscillator [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+st18,HI,1,5/21/21,16:27:19,16:29:32,16,29,32,133.03,Leave Spare Parts Table,,Local-Oscillator-(electrical),,,0,1,0
+st18,HI,1,5/21/21,16:27:19,16:29:33,16,29,33,134.38,Move to Server Box Table,,Local-Oscillator-(electrical),,,0,1,0
+st18,HI,1,5/21/21,16:27:19,16:29:36,16,29,36,136.65,Drop LRU: 'Local Oscillator [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+st18,HI,1,5/21/21,16:27:19,16:29:37,16,29,37,137.65,Connect LRU: 'Local Oscillator [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+st18,HI,1,5/21/21,16:27:19,16:29:37,16,29,37,138.35,Fixed Local Oscillator (electrical),,,Local-Oscillator-(electrical),,1,0,0
+st18,HI,1,5/21/21,16:27:19,16:29:41,16,29,41,142.36,Submit?,,,Local-Oscillator-(electrical),,1,0,0
+st18,HI,1,5/21/21,16:27:19,16:29:43,16,29,43,143.76,Submit Confirm,,,Local-Oscillator-(electrical),,1,0,0
+st18,HI,1,5/21/21,16:27:19,16:29:43,16,29,43,143.78,Move drawer: 95.5% open,Processor,,Local-Oscillator-(electrical),,1,0,0
+st18,HI,2,5/21/21,16:29:45,16:29:45,16,29,45,0,Make electrical flaw: Receiver Waveguide,,Receiver-Waveguide-(electrical),,,0,1,0
+st18,HI,2,5/21/21,16:29:45,16:29:45,16,29,45,0,Start (High Fidelity Sim),,Receiver-Waveguide-(electrical),,,0,1,0
+st18,HI,2,5/21/21,16:29:45,16:29:45,16,29,45,0.03,Move drawer: 44.4% open,Processor,Receiver-Waveguide-(electrical),,,0,1,0
+st18,HI,2,5/21/21,16:29:45,16:29:45,16,29,45,0.04,Leave Server Box Table,,Receiver-Waveguide-(electrical),,,0,1,0
+st18,HI,2,5/21/21,16:29:45,16:29:48,16,29,48,2.69,Move to Server Box Table,,Receiver-Waveguide-(electrical),,,0,1,0
+st18,HI,2,5/21/21,16:29:45,16:29:49,16,29,49,3.54,Swing front panel: 0.4% open,,Receiver-Waveguide-(electrical),,,0,1,0
+st18,HI,2,5/21/21,16:29:45,16:29:50,16,29,50,5.01,Swing front panel: 62.9% open,,Receiver-Waveguide-(electrical),,,0,1,0
+st18,HI,2,5/21/21,16:29:45,16:29:55,16,29,55,9.92,Move drawer: 68.7% open,Indicator,Receiver-Waveguide-(electrical),,,0,1,0
+st18,HI,2,5/21/21,16:29:45,16:29:58,16,29,58,12.74,Move drawer: -0.7% open,Indicator,Receiver-Waveguide-(electrical),,,0,1,0
+st18,HI,2,5/21/21,16:29:45,16:29:59,16,29,59,14.25,Move drawer: 57.1% open,Processor,Receiver-Waveguide-(electrical),,,0,1,0
+st18,HI,2,5/21/21,16:29:45,16:30:01,16,30,1,15.58,Move drawer: 98% open,Synchronizer,Receiver-Waveguide-(electrical),,,0,1,0
+st18,HI,2,5/21/21,16:29:45,16:30:02,16,30,2,16.87,Move drawer: 0% open,Synchronizer,Receiver-Waveguide-(electrical),,,0,1,0
+st18,HI,2,5/21/21,16:29:45,16:30:04,16,30,4,19.25,Move drawer: 95.4% open,Transmitter,Receiver-Waveguide-(electrical),,,0,1,0
+st18,HI,2,5/21/21,16:29:45,16:30:11,16,30,11,25.68,Move drawer: -6.9% open,Transmitter,Receiver-Waveguide-(electrical),,,0,1,0
+st18,HI,2,5/21/21,16:29:45,16:30:12,16,30,12,27.3,Move drawer: 98.4% open,Tracker,Receiver-Waveguide-(electrical),,,0,1,0
+st18,HI,2,5/21/21,16:29:45,16:30:15,16,30,15,30.08,Move drawer: -5.5% open,Tracker,Receiver-Waveguide-(electrical),,,0,1,0
+st18,HI,2,5/21/21,16:29:45,16:30:17,16,30,17,31.91,Move drawer: 72.7% open,Processor,Receiver-Waveguide-(electrical),,,0,1,0
+st18,HI,2,5/21/21,16:29:45,16:30:18,16,30,18,32.98,Move drawer: 82.1% open,Processor,Receiver-Waveguide-(electrical),,,0,1,0
+st18,HI,2,5/21/21,16:29:45,16:30:33,16,30,33,47.8,Click on: 'Video Amplifier',,Receiver-Waveguide-(electrical),,,0,1,0
+st18,HI,2,5/21/21,16:29:45,16:30:34,16,30,34,48.96,Cancel disconnect: 'Video Amplifier',,Receiver-Waveguide-(electrical),,,0,1,0
+st18,HI,2,5/21/21,16:29:45,16:30:38,16,30,38,52.88,Click on: 'Video Detector',,Receiver-Waveguide-(electrical),,,0,1,0
+st18,HI,2,5/21/21,16:29:45,16:30:39,16,30,39,53.7,Cancel disconnect: 'Video Detector',,Receiver-Waveguide-(electrical),,,0,1,0
+st18,HI,2,5/21/21,16:29:45,16:30:39,16,30,39,53.73,Move drawer: 82.1% open,Processor,Receiver-Waveguide-(electrical),,,0,1,0
+st18,HI,2,5/21/21,16:29:45,16:31:03,16,31,3,77.56,Move drawer: 99.3% open,Tracker,Receiver-Waveguide-(electrical),,,0,1,0
+st18,HI,2,5/21/21,16:29:45,16:31:27,16,31,27,101.57,Click on: 'Receiver Waveguide',,Receiver-Waveguide-(electrical),,,0,1,0
+st18,HI,2,5/21/21,16:29:45,16:31:27,16,31,27,102.36,Disconnect LRU: 'Receiver Waveguide',,Receiver-Waveguide-(electrical),,,0,1,0
+st18,HI,2,5/21/21,16:29:45,16:31:28,16,31,28,102.87,Pick Up LRU: 'Receiver Waveguide',,Receiver-Waveguide-(electrical),,,0,1,0
+st18,HI,2,5/21/21,16:29:45,16:31:29,16,31,29,104.43,Drop LRU: 'Receiver Waveguide',,Receiver-Waveguide-(electrical),,,0,1,0
+st18,HI,2,5/21/21,16:29:45,16:31:31,16,31,31,105.77,Pick Up LRU: 'Receiver Waveguide',,Receiver-Waveguide-(electrical),,,0,1,0
+st18,HI,2,5/21/21,16:29:45,16:31:32,16,31,32,107.02,Drop LRU: 'Receiver Waveguide',,Receiver-Waveguide-(electrical),,,0,1,0
+st18,HI,2,5/21/21,16:29:45,16:31:32,16,31,32,107.5,Pick Up LRU: 'Receiver Waveguide',,Receiver-Waveguide-(electrical),,,0,1,0
+st18,HI,2,5/21/21,16:29:45,16:31:34,16,31,34,108.65,Drop LRU: 'Receiver Waveguide',,Receiver-Waveguide-(electrical),,,0,1,0
+st18,HI,2,5/21/21,16:29:45,16:31:34,16,31,34,109.31,Pick Up LRU: 'Receiver Waveguide',,Receiver-Waveguide-(electrical),,,0,1,0
+st18,HI,2,5/21/21,16:29:45,16:31:35,16,31,35,110.48,Drop LRU: 'Receiver Waveguide',,Receiver-Waveguide-(electrical),,,0,1,0
+st18,HI,2,5/21/21,16:29:45,16:31:37,16,31,37,111.96,Leave Server Box Table,,Receiver-Waveguide-(electrical),,,0,1,0
+st18,HI,2,5/21/21,16:29:45,16:31:37,16,31,37,112.28,Move to Spare Parts Table,,Receiver-Waveguide-(electrical),,,0,1,0
+st18,HI,2,5/21/21,16:29:45,16:31:42,16,31,42,117.5,Pick Up LRU: 'Receiver Waveguide [SPARE]',,Receiver-Waveguide-(electrical),,,0,1,0
+st18,HI,2,5/21/21,16:29:45,16:31:44,16,31,44,118.58,Leave Spare Parts Table,,Receiver-Waveguide-(electrical),,,0,1,0
+st18,HI,2,5/21/21,16:29:45,16:31:44,16,31,44,118.91,Move to Server Box Table,,Receiver-Waveguide-(electrical),,,0,1,0
+st18,HI,2,5/21/21,16:29:45,16:31:46,16,31,46,120.62,Drop LRU: 'Receiver Waveguide [SPARE]',,Receiver-Waveguide-(electrical),,,0,1,0
+st18,HI,2,5/21/21,16:29:45,16:31:47,16,31,47,121.87,Connect LRU: 'Receiver Waveguide [SPARE]',,Receiver-Waveguide-(electrical),,,0,1,0
+st18,HI,2,5/21/21,16:29:45,16:31:47,16,31,47,122.33,Fixed Receiver Waveguide (electrical),,,Receiver-Waveguide-(electrical),,1,0,0
+st18,HI,2,5/21/21,16:29:45,16:31:49,16,31,49,124.4,Submit?,,,Receiver-Waveguide-(electrical),,1,0,0
+st18,HI,2,5/21/21,16:29:45,16:31:50,16,31,50,125.45,Submit Confirm,,,Receiver-Waveguide-(electrical),,1,0,0
+st18,HI,3,5/21/21,16:31:52,16:31:52,16,31,52,0,Make electrical flaw: Stage 3 Modulator,,Stage-3-Modulator-(electrical),,,0,1,0
+st18,HI,3,5/21/21,16:31:52,16:31:52,16,31,52,0,Start (High Fidelity Sim),,Stage-3-Modulator-(electrical),,,0,1,0
+st18,HI,3,5/21/21,16:31:52,16:31:52,16,31,52,0.04,Leave Server Box Table,,Stage-3-Modulator-(electrical),,,0,1,0
+st18,HI,3,5/21/21,16:31:52,16:31:55,16,31,55,3.56,Move to Server Box Table,,Stage-3-Modulator-(electrical),,,0,1,0
+st18,HI,3,5/21/21,16:31:52,16:31:56,16,31,56,4.65,Swing front panel: 54.9% open,,Stage-3-Modulator-(electrical),,,0,1,0
+st18,HI,3,5/21/21,16:31:52,16:32:00,16,32,0,8.34,Move drawer: 65.6% open,Indicator,Stage-3-Modulator-(electrical),,,0,1,0
+st18,HI,3,5/21/21,16:31:52,16:32:02,16,32,2,10.37,Move drawer: -5.3% open,Indicator,Stage-3-Modulator-(electrical),,,0,1,0
+st18,HI,3,5/21/21,16:31:52,16:32:04,16,32,4,12.26,Move drawer: -3.1% open,Indicator,Stage-3-Modulator-(electrical),,,0,1,0
+st18,HI,3,5/21/21,16:31:52,16:32:06,16,32,6,13.88,Move drawer: 80.7% open,Processor,Stage-3-Modulator-(electrical),,,0,1,0
+st18,HI,3,5/21/21,16:31:52,16:32:08,16,32,8,16.41,Move drawer: -4.3% open,Processor,Stage-3-Modulator-(electrical),,,0,1,0
+st18,HI,3,5/21/21,16:31:52,16:32:09,16,32,9,17.01,Click on: 'Control Circuit',,Stage-3-Modulator-(electrical),,,0,1,0
+st18,HI,3,5/21/21,16:31:52,16:32:10,16,32,10,18.07,Cancel disconnect: 'Control Circuit',,Stage-3-Modulator-(electrical),,,0,1,0
+st18,HI,3,5/21/21,16:31:52,16:32:10,16,32,10,18.09,Move drawer: 0% open,Processor,Stage-3-Modulator-(electrical),,,0,1,0
+st18,HI,3,5/21/21,16:31:52,16:32:11,16,32,11,19.28,Move drawer: 73.2% open,Tracker,Stage-3-Modulator-(electrical),,,0,1,0
+st18,HI,3,5/21/21,16:31:52,16:32:13,16,32,13,20.89,Move drawer: 77.1% open,Tracker,Stage-3-Modulator-(electrical),,,0,1,0
+st18,HI,3,5/21/21,16:31:52,16:32:42,16,32,42,50.41,Move drawer: 88.8% open,Transmitter,Stage-3-Modulator-(electrical),,,0,1,0
+st18,HI,3,5/21/21,16:31:52,16:32:47,16,32,47,55.68,Move drawer: -4.7% open,Transmitter,Stage-3-Modulator-(electrical),,,0,1,0
+st18,HI,3,5/21/21,16:31:52,16:32:53,16,32,53,61.69,Move drawer: 15.2% open,Synchronizer,Stage-3-Modulator-(electrical),,,0,1,0
+st18,HI,3,5/21/21,16:31:52,16:32:55,16,32,55,62.93,Move drawer: 1.5% open,Synchronizer,Stage-3-Modulator-(electrical),,,0,1,0
+st18,HI,3,5/21/21,16:31:52,16:32:58,16,32,58,66.68,Move drawer: 96% open,Transmitter,Stage-3-Modulator-(electrical),,,0,1,0
+st18,HI,3,5/21/21,16:31:52,16:33:07,16,33,7,74.82,Click on: 'Stage 3 Modulator',,Stage-3-Modulator-(electrical),,,0,1,0
+st18,HI,3,5/21/21,16:31:52,16:33:07,16,33,7,75.66,Cancel disconnect: 'Stage 3 Modulator',,Stage-3-Modulator-(electrical),,,0,1,0
+st18,HI,3,5/21/21,16:31:52,16:33:08,16,33,8,76.12,Click on: 'RF Amplifier 3',,Stage-3-Modulator-(electrical),,,0,1,0
+st18,HI,3,5/21/21,16:31:52,16:33:09,16,33,9,77.12,Cancel disconnect: 'RF Amplifier 3',,Stage-3-Modulator-(electrical),,,0,1,0
+st18,HI,3,5/21/21,16:31:52,16:33:12,16,33,12,80.4,Move drawer: -5.2% open,Transmitter,Stage-3-Modulator-(electrical),,,0,1,0
+st18,HI,3,5/21/21,16:31:52,16:33:13,16,33,13,81.76,Click on: 'Transmitter Transmission Line',,Stage-3-Modulator-(electrical),,,0,1,0
+st18,HI,3,5/21/21,16:31:52,16:33:14,16,33,14,82.29,Disconnect LRU: 'Transmitter Transmission Line',,Stage-3-Modulator-(electrical),,,0,1,0
+st18,HI,3,5/21/21,16:31:52,16:33:15,16,33,15,83.53,Pick Up LRU: 'Transmitter Transmission Line',,Stage-3-Modulator-(electrical),,,0,1,0
+st18,HI,3,5/21/21,16:31:52,16:33:16,16,33,16,84.71,Drop LRU: 'Transmitter Transmission Line',,Stage-3-Modulator-(electrical),,,0,1,0
+st18,HI,3,5/21/21,16:31:52,16:33:17,16,33,17,85.39,Leave Server Box Table,,Stage-3-Modulator-(electrical),,,0,1,0
+st18,HI,3,5/21/21,16:31:52,16:33:17,16,33,17,85.67,Move to Spare Parts Table,,Stage-3-Modulator-(electrical),,,0,1,0
+st18,HI,3,5/21/21,16:31:52,16:33:22,16,33,22,90.24,Leave Spare Parts Table,,Stage-3-Modulator-(electrical),,,0,1,0
+st18,HI,3,5/21/21,16:31:52,16:33:23,16,33,23,91.59,Pick Up LRU: 'Transmitter Transmission Line [SPARE]',,Stage-3-Modulator-(electrical),,,0,1,0
+st18,HI,3,5/21/21,16:31:52,16:33:24,16,33,24,92.79,Move to Server Box Table,,Stage-3-Modulator-(electrical),,,0,1,0
+st18,HI,3,5/21/21,16:31:52,16:33:26,16,33,26,94.59,Drop LRU: 'Transmitter Transmission Line [SPARE]',,Stage-3-Modulator-(electrical),,,0,1,0
+st18,HI,3,5/21/21,16:31:52,16:33:27,16,33,27,94.96,Pick Up LRU: 'Transmitter Transmission Line [SPARE]',,Stage-3-Modulator-(electrical),,,0,1,0
+st18,HI,3,5/21/21,16:31:52,16:33:27,16,33,27,95.7,Drop LRU: 'Transmitter Transmission Line [SPARE]',,Stage-3-Modulator-(electrical),,,0,1,0
+st18,HI,3,5/21/21,16:31:52,16:33:28,16,33,28,96.68,Connect LRU: 'Transmitter Transmission Line [SPARE]',,Stage-3-Modulator-(electrical),,,0,1,0
+st18,HI,3,5/21/21,16:31:52,16:33:29,16,33,29,97.56,Replaced unnecessarily Transmitter Transmission Line (electrical),,Stage-3-Modulator-(electrical),,Transmitter-Transmission-Line-(electrical),1,1,1
+st18,HI,3,5/21/21,16:31:52,16:33:36,16,33,36,104.7,Click on: 'Transmitter Transmission Line [SPARE]',,Stage-3-Modulator-(electrical),,Transmitter-Transmission-Line-(electrical),1,1,1
+st18,HI,3,5/21/21,16:31:52,16:33:37,16,33,37,105.79,Disconnect LRU: 'Transmitter Transmission Line [SPARE]',,Stage-3-Modulator-(electrical),,Transmitter-Transmission-Line-(electrical),1,1,1
+st18,HI,3,5/21/21,16:31:52,16:33:39,16,33,39,106.86,Cancel connect: 'Transmitter Transmission Line [SPARE]',,Stage-3-Modulator-(electrical),,Transmitter-Transmission-Line-(electrical),1,1,1
+st18,HI,3,5/21/21,16:31:52,16:33:40,16,33,40,108.69,Move drawer: 63.8% open,Tracker,Stage-3-Modulator-(electrical),,Transmitter-Transmission-Line-(electrical),1,1,1
+st18,HI,3,5/21/21,16:31:52,16:33:42,16,33,42,110.42,Move drawer: 61.3% open,Indicator,Stage-3-Modulator-(electrical),,Transmitter-Transmission-Line-(electrical),1,1,1
+st18,HI,3,5/21/21,16:31:52,16:33:43,16,33,43,111.68,Pick Up LRU: 'Transmitter Transmission Line [SPARE]',,Stage-3-Modulator-(electrical),,Transmitter-Transmission-Line-(electrical),1,1,1
+st18,HI,3,5/21/21,16:31:52,16:33:46,16,33,46,114.67,Drop LRU: 'Transmitter Transmission Line [SPARE]',,Stage-3-Modulator-(electrical),,Transmitter-Transmission-Line-(electrical),1,1,1
+st18,HI,3,5/21/21,16:31:52,16:33:47,16,33,47,115.76,Pick Up LRU: 'Transmitter Transmission Line',,Stage-3-Modulator-(electrical),,Transmitter-Transmission-Line-(electrical),1,1,1
+st18,HI,3,5/21/21,16:31:52,16:33:48,16,33,48,116.58,Drop LRU: 'Transmitter Transmission Line',,Stage-3-Modulator-(electrical),,Transmitter-Transmission-Line-(electrical),1,1,1
+st18,HI,3,5/21/21,16:31:52,16:33:49,16,33,49,117.54,Pick Up LRU: 'Transmitter Transmission Line',,Stage-3-Modulator-(electrical),,Transmitter-Transmission-Line-(electrical),1,1,1
+st18,HI,3,5/21/21,16:31:52,16:33:51,16,33,51,119.77,Drop LRU: 'Transmitter Transmission Line',,Stage-3-Modulator-(electrical),,Transmitter-Transmission-Line-(electrical),1,1,1
+st18,HI,3,5/21/21,16:31:52,16:33:52,16,33,52,120.52,Pick Up LRU: 'Transmitter Transmission Line',,Stage-3-Modulator-(electrical),,Transmitter-Transmission-Line-(electrical),1,1,1
+st18,HI,3,5/21/21,16:31:52,16:33:55,16,33,55,123.45,Drop LRU: 'Transmitter Transmission Line',,Stage-3-Modulator-(electrical),,Transmitter-Transmission-Line-(electrical),1,1,1
+st18,HI,3,5/21/21,16:31:52,16:33:56,16,33,56,124.71,Connect LRU: 'Transmitter Transmission Line',,Stage-3-Modulator-(electrical),,Transmitter-Transmission-Line-(electrical),1,1,1
+st18,HI,3,5/21/21,16:31:52,16:34:00,16,34,0,128.27,Move drawer: 4.8% open,Tracker,Stage-3-Modulator-(electrical),,Transmitter-Transmission-Line-(electrical),1,1,1
+st18,HI,3,5/21/21,16:31:52,16:34:01,16,34,1,129.66,Move drawer: -5% open,Indicator,Stage-3-Modulator-(electrical),,Transmitter-Transmission-Line-(electrical),1,1,1
+st18,HI,3,5/21/21,16:31:52,16:34:03,16,34,3,131.28,Move drawer: 95.4% open,Transmitter,Stage-3-Modulator-(electrical),,Transmitter-Transmission-Line-(electrical),1,1,1
+st18,HI,3,5/21/21,16:31:52,16:34:09,16,34,9,137.04,Move drawer: 95.7% open,Synchronizer,Stage-3-Modulator-(electrical),,Transmitter-Transmission-Line-(electrical),1,1,1
+st18,HI,3,5/21/21,16:31:52,16:34:10,16,34,10,138.3,Move drawer: 0% open,Synchronizer,Stage-3-Modulator-(electrical),,Transmitter-Transmission-Line-(electrical),1,1,1
+st18,HI,3,5/21/21,16:31:52,16:34:15,16,34,15,142.9,Leave Server Box Table,,Stage-3-Modulator-(electrical),,Transmitter-Transmission-Line-(electrical),1,1,1
+st18,HI,3,5/21/21,16:31:52,16:34:15,16,34,15,143.43,Move to Spare Parts Table,,Stage-3-Modulator-(electrical),,Transmitter-Transmission-Line-(electrical),1,1,1
+st18,HI,3,5/21/21,16:31:52,16:34:24,16,34,24,152.53,Pick Up LRU: 'RF Amplifier 3 [SPARE]',,Stage-3-Modulator-(electrical),,Transmitter-Transmission-Line-(electrical),1,1,1
+st18,HI,3,5/21/21,16:31:52,16:34:28,16,34,28,156.48,Leave Spare Parts Table,,Stage-3-Modulator-(electrical),,Transmitter-Transmission-Line-(electrical),1,1,1
+st18,HI,3,5/21/21,16:31:52,16:34:28,16,34,28,156.75,Move to Server Box Table,,Stage-3-Modulator-(electrical),,Transmitter-Transmission-Line-(electrical),1,1,1
+st18,HI,3,5/21/21,16:31:52,16:34:31,16,34,31,159.28,Drop LRU: 'RF Amplifier 3 [SPARE]',,Stage-3-Modulator-(electrical),,Transmitter-Transmission-Line-(electrical),1,1,1
+st18,HI,3,5/21/21,16:31:52,16:34:32,16,34,32,160.5,Click on: 'Stage 3 Modulator',,Stage-3-Modulator-(electrical),,Transmitter-Transmission-Line-(electrical),1,1,1
+st18,HI,3,5/21/21,16:31:52,16:34:33,16,34,33,161.43,Cancel disconnect: 'Stage 3 Modulator',,Stage-3-Modulator-(electrical),,Transmitter-Transmission-Line-(electrical),1,1,1
+st18,HI,3,5/21/21,16:31:52,16:34:34,16,34,34,161.9,Click on: 'RF Amplifier 3',,Stage-3-Modulator-(electrical),,Transmitter-Transmission-Line-(electrical),1,1,1
+st18,HI,3,5/21/21,16:31:52,16:34:35,16,34,35,163.13,Disconnect LRU: 'RF Amplifier 3',,Stage-3-Modulator-(electrical),,Transmitter-Transmission-Line-(electrical),1,1,1
+st18,HI,3,5/21/21,16:31:52,16:34:36,16,34,36,163.86,Pick Up LRU: 'RF Amplifier 3',,Stage-3-Modulator-(electrical),,Transmitter-Transmission-Line-(electrical),1,1,1
+st18,HI,3,5/21/21,16:31:52,16:34:37,16,34,37,165.8,Drop LRU: 'RF Amplifier 3',,Stage-3-Modulator-(electrical),,Transmitter-Transmission-Line-(electrical),1,1,1
+st18,HI,3,5/21/21,16:31:52,16:34:41,16,34,41,169.04,Pick Up LRU: 'RF Amplifier 3 [SPARE]',,Stage-3-Modulator-(electrical),,Transmitter-Transmission-Line-(electrical),1,1,1
+st18,HI,3,5/21/21,16:31:52,16:34:45,16,34,45,173.41,Drop LRU: 'RF Amplifier 3 [SPARE]',,Stage-3-Modulator-(electrical),,Transmitter-Transmission-Line-(electrical),1,1,1
+st18,HI,3,5/21/21,16:31:52,16:34:46,16,34,46,174.16,Connect LRU: 'RF Amplifier 3 [SPARE]',,Stage-3-Modulator-(electrical),,Transmitter-Transmission-Line-(electrical),1,1,1
+st18,HI,3,5/21/21,16:31:52,16:34:46,16,34,46,174.61,Replaced unnecessarily RF Amplifier 3 (electrical),,Stage-3-Modulator-(electrical),,Transmitter-Transmission-Line-(electrical) RF-Amplifier-3-(electrical),2,1,2
+st18,HI,3,5/21/21,16:31:52,16:34:50,16,34,50,178.68,Click on: 'RF Amplifier 3 [SPARE]',,Stage-3-Modulator-(electrical),,Transmitter-Transmission-Line-(electrical) RF-Amplifier-3-(electrical),2,1,2
+st18,HI,3,5/21/21,16:31:52,16:34:52,16,34,52,180.08,Disconnect LRU: 'RF Amplifier 3 [SPARE]',,Stage-3-Modulator-(electrical),,Transmitter-Transmission-Line-(electrical) RF-Amplifier-3-(electrical),2,1,2
+st18,HI,3,5/21/21,16:31:52,16:34:53,16,34,53,181.73,Cancel connect: 'RF Amplifier 3 [SPARE]',,Stage-3-Modulator-(electrical),,Transmitter-Transmission-Line-(electrical) RF-Amplifier-3-(electrical),2,1,2
+st18,HI,3,5/21/21,16:31:52,16:34:54,16,34,54,182.72,Pick Up LRU: 'RF Amplifier 3 [SPARE]',,Stage-3-Modulator-(electrical),,Transmitter-Transmission-Line-(electrical) RF-Amplifier-3-(electrical),2,1,2
+st18,HI,3,5/21/21,16:31:52,16:34:57,16,34,57,185.39,Drop LRU: 'RF Amplifier 3 [SPARE]',,Stage-3-Modulator-(electrical),,Transmitter-Transmission-Line-(electrical) RF-Amplifier-3-(electrical),2,1,2
+st18,HI,3,5/21/21,16:31:52,16:34:58,16,34,58,186.16,Pick Up LRU: 'RF Amplifier 3',,Stage-3-Modulator-(electrical),,Transmitter-Transmission-Line-(electrical) RF-Amplifier-3-(electrical),2,1,2
+st18,HI,3,5/21/21,16:31:52,16:35:01,16,35,1,189.52,Drop LRU: 'RF Amplifier 3',,Stage-3-Modulator-(electrical),,Transmitter-Transmission-Line-(electrical) RF-Amplifier-3-(electrical),2,1,2
+st18,HI,3,5/21/21,16:31:52,16:35:08,16,35,8,196.12,Move drawer: -2.7% open,Synchronizer,Stage-3-Modulator-(electrical),,Transmitter-Transmission-Line-(electrical) RF-Amplifier-3-(electrical),2,1,2
+st18,HI,3,5/21/21,16:31:52,16:35:10,16,35,10,198.06,Move drawer: -4.5% open,Transmitter,Stage-3-Modulator-(electrical),,Transmitter-Transmission-Line-(electrical) RF-Amplifier-3-(electrical),2,1,2
+st18,HI,3,5/21/21,16:31:52,16:35:13,16,35,13,201.31,Move drawer: 0.9% open,Tracker,Stage-3-Modulator-(electrical),,Transmitter-Transmission-Line-(electrical) RF-Amplifier-3-(electrical),2,1,2
+st18,HI,3,5/21/21,16:31:52,16:35:16,16,35,16,204.03,Move drawer: 0% open,Processor,Stage-3-Modulator-(electrical),,Transmitter-Transmission-Line-(electrical) RF-Amplifier-3-(electrical),2,1,2
+st18,HI,3,5/21/21,16:31:52,16:35:18,16,35,18,206.09,Move drawer: 99% open,Indicator,Stage-3-Modulator-(electrical),,Transmitter-Transmission-Line-(electrical) RF-Amplifier-3-(electrical),2,1,2
+st18,HI,3,5/21/21,16:31:52,16:35:23,16,35,23,211.51,Move drawer: 95.4% open,Transmitter,Stage-3-Modulator-(electrical),,Transmitter-Transmission-Line-(electrical) RF-Amplifier-3-(electrical),2,1,2
+st18,HI,3,5/21/21,16:31:52,16:35:27,16,35,27,215.02,Move drawer: 95.4% open,Tracker,Stage-3-Modulator-(electrical),,Transmitter-Transmission-Line-(electrical) RF-Amplifier-3-(electrical),2,1,2
+st18,HI,3,5/21/21,16:31:52,16:35:30,16,35,30,218.5,Move drawer: 95.4% open,Processor,Stage-3-Modulator-(electrical),,Transmitter-Transmission-Line-(electrical) RF-Amplifier-3-(electrical),2,1,2
+st18,HI,3,5/21/21,16:31:52,16:35:32,16,35,32,220.04,Move drawer: 92.4% open,Synchronizer,Stage-3-Modulator-(electrical),,Transmitter-Transmission-Line-(electrical) RF-Amplifier-3-(electrical),2,1,2
+st18,HI,3,5/21/21,16:31:52,16:35:33,16,35,33,221.72,Move drawer: -7.1% open,Synchronizer,Stage-3-Modulator-(electrical),,Transmitter-Transmission-Line-(electrical) RF-Amplifier-3-(electrical),2,1,2
+st18,HI,3,5/21/21,16:31:52,16:35:35,16,35,35,223.67,Move drawer: -7% open,Transmitter,Stage-3-Modulator-(electrical),,Transmitter-Transmission-Line-(electrical) RF-Amplifier-3-(electrical),2,1,2
+st18,HI,3,5/21/21,16:31:52,16:35:41,16,35,41,229.06,Move drawer: -14.2% open,Tracker,Stage-3-Modulator-(electrical),,Transmitter-Transmission-Line-(electrical) RF-Amplifier-3-(electrical),2,1,2
+st18,HI,3,5/21/21,16:31:52,16:35:43,16,35,43,231.39,Move drawer: -8.8% open,Processor,Stage-3-Modulator-(electrical),,Transmitter-Transmission-Line-(electrical) RF-Amplifier-3-(electrical),2,1,2
+st18,HI,3,5/21/21,16:31:52,16:35:45,16,35,45,233.4,Move drawer: 98% open,Indicator,Stage-3-Modulator-(electrical),,Transmitter-Transmission-Line-(electrical) RF-Amplifier-3-(electrical),2,1,2
+st18,HI,3,5/21/21,16:31:52,16:35:51,16,35,51,239.69,Move drawer: 77.8% open,Indicator,Stage-3-Modulator-(electrical),,Transmitter-Transmission-Line-(electrical) RF-Amplifier-3-(electrical),2,1,2
+st18,HI,3,5/21/21,16:31:52,16:35:53,16,35,53,241.71,Move drawer: 20.3% open,Indicator,Stage-3-Modulator-(electrical),,Transmitter-Transmission-Line-(electrical) RF-Amplifier-3-(electrical),2,1,2
+st18,HI,3,5/21/21,16:31:52,16:35:56,16,35,56,244.53,Move drawer: 93.3% open,Transmitter,Stage-3-Modulator-(electrical),,Transmitter-Transmission-Line-(electrical) RF-Amplifier-3-(electrical),2,1,2
+st18,HI,3,5/21/21,16:31:52,16:35:58,16,35,58,246.21,Pick Up LRU: 'RF Amplifier 3 [SPARE]',,Stage-3-Modulator-(electrical),,Transmitter-Transmission-Line-(electrical) RF-Amplifier-3-(electrical),2,1,2
+st18,HI,3,5/21/21,16:31:52,16:36:01,16,36,1,249.07,Drop LRU: 'RF Amplifier 3 [SPARE]',,Stage-3-Modulator-(electrical),,Transmitter-Transmission-Line-(electrical) RF-Amplifier-3-(electrical),2,1,2
+st18,HI,3,5/21/21,16:31:52,16:36:04,16,36,4,252.15,Pick Up LRU: 'RF Amplifier 3 [SPARE]',,Stage-3-Modulator-(electrical),,Transmitter-Transmission-Line-(electrical) RF-Amplifier-3-(electrical),2,1,2
+st18,HI,3,5/21/21,16:31:52,16:36:09,16,36,9,257.21,Drop LRU: 'RF Amplifier 3 [SPARE]',,Stage-3-Modulator-(electrical),,Transmitter-Transmission-Line-(electrical) RF-Amplifier-3-(electrical),2,1,2
+st18,HI,3,5/21/21,16:31:52,16:36:10,16,36,10,257.84,Move drawer: 5.8% open,Tracker,Stage-3-Modulator-(electrical),,Transmitter-Transmission-Line-(electrical) RF-Amplifier-3-(electrical),2,1,2
+st18,HI,3,5/21/21,16:31:52,16:36:11,16,36,11,258.9,Move drawer: 73.3% open,Transmitter,Stage-3-Modulator-(electrical),,Transmitter-Transmission-Line-(electrical) RF-Amplifier-3-(electrical),2,1,2
+st18,HI,3,5/21/21,16:31:52,16:36:17,16,36,17,265.63,Move drawer: 68.7% open,Transmitter,Stage-3-Modulator-(electrical),,Transmitter-Transmission-Line-(electrical) RF-Amplifier-3-(electrical),2,1,2
+st18,HI,3,5/21/21,16:31:52,16:36:19,16,36,19,266.82,Move drawer: 77.1% open,Transmitter,Stage-3-Modulator-(electrical),,Transmitter-Transmission-Line-(electrical) RF-Amplifier-3-(electrical),2,1,2
+st18,HI,3,5/21/21,16:31:52,16:36:23,16,36,23,270.83,Move drawer: -7.7% open,Tracker,Stage-3-Modulator-(electrical),,Transmitter-Transmission-Line-(electrical) RF-Amplifier-3-(electrical),2,1,2
+st18,HI,3,5/21/21,16:31:52,16:36:24,16,36,24,272.26,Move drawer: 1.7% open,Tracker,Stage-3-Modulator-(electrical),,Transmitter-Transmission-Line-(electrical) RF-Amplifier-3-(electrical),2,1,2
+st18,HI,3,5/21/21,16:31:52,16:36:27,16,36,27,274.94,Move drawer: 0% open,Transmitter,Stage-3-Modulator-(electrical),,Transmitter-Transmission-Line-(electrical) RF-Amplifier-3-(electrical),2,1,2
+st18,HI,3,5/21/21,16:31:52,16:36:29,16,36,29,276.98,Move drawer: 95.8% open,Tracker,Stage-3-Modulator-(electrical),,Transmitter-Transmission-Line-(electrical) RF-Amplifier-3-(electrical),2,1,2
+st18,HI,3,5/21/21,16:31:52,16:36:30,16,36,30,277.84,Move drawer: 0% open,Processor,Stage-3-Modulator-(electrical),,Transmitter-Transmission-Line-(electrical) RF-Amplifier-3-(electrical),2,1,2
+st18,HI,3,5/21/21,16:31:52,16:36:30,16,36,30,278.26,Click on: 'Video Detector',,Stage-3-Modulator-(electrical),,Transmitter-Transmission-Line-(electrical) RF-Amplifier-3-(electrical),2,1,2
+st18,HI,3,5/21/21,16:31:52,16:36:31,16,36,31,279.29,Cancel disconnect: 'Video Detector',,Stage-3-Modulator-(electrical),,Transmitter-Transmission-Line-(electrical) RF-Amplifier-3-(electrical),2,1,2
+st18,HI,3,5/21/21,16:31:52,16:36:33,16,36,33,281.23,Move drawer: 99.2% open,Tracker,Stage-3-Modulator-(electrical),,Transmitter-Transmission-Line-(electrical) RF-Amplifier-3-(electrical),2,1,2
+st18,HI,3,5/21/21,16:31:52,16:36:34,16,36,34,282.28,Click on: 'Video Detector',,Stage-3-Modulator-(electrical),,Transmitter-Transmission-Line-(electrical) RF-Amplifier-3-(electrical),2,1,2
+st18,HI,3,5/21/21,16:31:52,16:36:35,16,36,35,283.39,Cancel disconnect: 'Video Detector',,Stage-3-Modulator-(electrical),,Transmitter-Transmission-Line-(electrical) RF-Amplifier-3-(electrical),2,1,2
+st18,HI,3,5/21/21,16:31:52,16:36:36,16,36,36,284.6,Move drawer: -6.2% open,Tracker,Stage-3-Modulator-(electrical),,Transmitter-Transmission-Line-(electrical) RF-Amplifier-3-(electrical),2,1,2
+st18,HI,3,5/21/21,16:31:52,16:36:38,16,36,38,286.08,Move drawer: 97.9% open,Processor,Stage-3-Modulator-(electrical),,Transmitter-Transmission-Line-(electrical) RF-Amplifier-3-(electrical),2,1,2
+st18,HI,3,5/21/21,16:31:52,16:36:40,16,36,40,288.56,Move drawer: 89.6% open,Indicator,Stage-3-Modulator-(electrical),,Transmitter-Transmission-Line-(electrical) RF-Amplifier-3-(electrical),2,1,2
+st18,HI,3,5/21/21,16:31:52,16:36:43,16,36,43,291.24,Pick Up LRU: 'RF Amplifier 3 [SPARE]',,Stage-3-Modulator-(electrical),,Transmitter-Transmission-Line-(electrical) RF-Amplifier-3-(electrical),2,1,2
+st18,HI,3,5/21/21,16:31:52,16:36:44,16,36,44,291.95,Drop LRU: 'RF Amplifier 3 [SPARE]',,Stage-3-Modulator-(electrical),,Transmitter-Transmission-Line-(electrical) RF-Amplifier-3-(electrical),2,1,2
+st18,HI,3,5/21/21,16:31:52,16:36:44,16,36,44,291.96,Move drawer: 95.4% open,Processor,Stage-3-Modulator-(electrical),,Transmitter-Transmission-Line-(electrical) RF-Amplifier-3-(electrical),2,1,2
+st18,HI,3,5/21/21,16:31:52,16:36:45,16,36,45,293.61,Move drawer: 96.2% open,Processor,Stage-3-Modulator-(electrical),,Transmitter-Transmission-Line-(electrical) RF-Amplifier-3-(electrical),2,1,2
+st18,HI,3,5/21/21,16:31:52,16:36:49,16,36,49,297.29,Move drawer: 97.9% open,Processor,Stage-3-Modulator-(electrical),,Transmitter-Transmission-Line-(electrical) RF-Amplifier-3-(electrical),2,1,2
+st18,HI,3,5/21/21,16:31:52,16:36:54,16,36,54,302.19,Move drawer: 85.6% open,Tracker,Stage-3-Modulator-(electrical),,Transmitter-Transmission-Line-(electrical) RF-Amplifier-3-(electrical),2,1,2
+st18,HI,3,5/21/21,16:31:52,16:36:56,16,36,56,304.66,Move drawer: 96.4% open,Tracker,Stage-3-Modulator-(electrical),,Transmitter-Transmission-Line-(electrical) RF-Amplifier-3-(electrical),2,1,2
+st18,HI,3,5/21/21,16:31:52,16:36:57,16,36,57,305.24,Pick Up LRU: 'RF Amplifier 3 [SPARE]',,Stage-3-Modulator-(electrical),,Transmitter-Transmission-Line-(electrical) RF-Amplifier-3-(electrical),2,1,2
+st18,HI,3,5/21/21,16:31:52,16:37:03,16,37,3,311.36,Drop LRU: 'RF Amplifier 3 [SPARE]',,Stage-3-Modulator-(electrical),,Transmitter-Transmission-Line-(electrical) RF-Amplifier-3-(electrical),2,1,2
+st18,HI,3,5/21/21,16:31:52,16:37:04,16,37,4,312.71,Leave Server Box Table,,Stage-3-Modulator-(electrical),,Transmitter-Transmission-Line-(electrical) RF-Amplifier-3-(electrical),2,1,2
+st18,HI,3,5/21/21,16:31:52,16:37:05,16,37,5,313.39,Move to Server Box Table,,Stage-3-Modulator-(electrical),,Transmitter-Transmission-Line-(electrical) RF-Amplifier-3-(electrical),2,1,2
+st18,HI,3,5/21/21,16:31:52,16:37:07,16,37,7,315.06,Move drawer: 69.9% open,Transmitter,Stage-3-Modulator-(electrical),,Transmitter-Transmission-Line-(electrical) RF-Amplifier-3-(electrical),2,1,2
+st18,HI,3,5/21/21,16:31:52,16:37:07,16,37,7,315.8,Pick Up LRU: 'RF Amplifier 3 [SPARE]',,Stage-3-Modulator-(electrical),,Transmitter-Transmission-Line-(electrical) RF-Amplifier-3-(electrical),2,1,2
+st18,HI,3,5/21/21,16:31:52,16:37:15,16,37,15,322.85,Drop LRU: 'RF Amplifier 3 [SPARE]',,Stage-3-Modulator-(electrical),,Transmitter-Transmission-Line-(electrical) RF-Amplifier-3-(electrical),2,1,2
+st18,HI,3,5/21/21,16:31:52,16:37:16,16,37,16,324.75,Pick Up LRU: 'RF Amplifier 3 [SPARE]',,Stage-3-Modulator-(electrical),,Transmitter-Transmission-Line-(electrical) RF-Amplifier-3-(electrical),2,1,2
+st18,HI,3,5/21/21,16:31:52,16:37:17,16,37,17,324.99,Drop LRU: 'RF Amplifier 3 [SPARE]',,Stage-3-Modulator-(electrical),,Transmitter-Transmission-Line-(electrical) RF-Amplifier-3-(electrical),2,1,2
+st18,HI,3,5/21/21,16:31:52,16:37:17,16,37,17,325.77,Connect LRU: 'RF Amplifier 3 [SPARE]',,Stage-3-Modulator-(electrical),,Transmitter-Transmission-Line-(electrical) RF-Amplifier-3-(electrical),2,1,2
+st18,HI,3,5/21/21,16:31:52,16:37:18,16,37,18,326.62,Replaced unnecessarily RF Amplifier 3 (electrical),,Stage-3-Modulator-(electrical),,Transmitter-Transmission-Line-(electrical) RF-Amplifier-3-(electrical),2,1,2
+st18,HI,3,5/21/21,16:31:52,16:37:28,16,37,28,336.4,Leave Server Box Table,,Stage-3-Modulator-(electrical),,Transmitter-Transmission-Line-(electrical) RF-Amplifier-3-(electrical),2,1,2
+st18,HI,3,5/21/21,16:31:52,16:37:29,16,37,29,336.9,Move to Spare Parts Table,,Stage-3-Modulator-(electrical),,Transmitter-Transmission-Line-(electrical) RF-Amplifier-3-(electrical),2,1,2
+st18,HI,3,5/21/21,16:31:52,16:37:42,16,37,42,349.86,Pick Up LRU: 'RF Amplifier 1 [SPARE]',,Stage-3-Modulator-(electrical),,Transmitter-Transmission-Line-(electrical) RF-Amplifier-3-(electrical),2,1,2
+st18,HI,3,5/21/21,16:31:52,16:37:43,16,37,43,351.66,Leave Spare Parts Table,,Stage-3-Modulator-(electrical),,Transmitter-Transmission-Line-(electrical) RF-Amplifier-3-(electrical),2,1,2
+st18,HI,3,5/21/21,16:31:52,16:37:44,16,37,44,352.75,Move to Server Box Table,,Stage-3-Modulator-(electrical),,Transmitter-Transmission-Line-(electrical) RF-Amplifier-3-(electrical),2,1,2
+st18,HI,3,5/21/21,16:31:52,16:37:48,16,37,48,355.87,Drop LRU: 'RF Amplifier 1 [SPARE]',,Stage-3-Modulator-(electrical),,Transmitter-Transmission-Line-(electrical) RF-Amplifier-3-(electrical),2,1,2
+st18,HI,3,5/21/21,16:31:52,16:37:50,16,37,50,358.54,Click on: 'RF Amplifier 3 [SPARE]',,Stage-3-Modulator-(electrical),,Transmitter-Transmission-Line-(electrical) RF-Amplifier-3-(electrical),2,1,2
+st18,HI,3,5/21/21,16:31:52,16:37:51,16,37,51,359.35,Cancel disconnect: 'RF Amplifier 3 [SPARE]',,Stage-3-Modulator-(electrical),,Transmitter-Transmission-Line-(electrical) RF-Amplifier-3-(electrical),2,1,2
+st18,HI,3,5/21/21,16:31:52,16:37:51,16,37,51,359.37,Move drawer: 95.5% open,Transmitter,Stage-3-Modulator-(electrical),,Transmitter-Transmission-Line-(electrical) RF-Amplifier-3-(electrical),2,1,2
+st18,HI,3,5/21/21,16:31:52,16:37:52,16,37,52,360.13,Click on: 'RF Amplifier 1',,Stage-3-Modulator-(electrical),,Transmitter-Transmission-Line-(electrical) RF-Amplifier-3-(electrical),2,1,2
+st18,HI,3,5/21/21,16:31:52,16:37:52,16,37,52,360.78,Pick Up LRU: 'RF Amplifier 1 [SPARE]',,Stage-3-Modulator-(electrical),,Transmitter-Transmission-Line-(electrical) RF-Amplifier-3-(electrical),2,1,2
+st18,HI,3,5/21/21,16:31:52,16:37:53,16,37,53,360.84,Drop LRU: 'RF Amplifier 1 [SPARE]',,Stage-3-Modulator-(electrical),,Transmitter-Transmission-Line-(electrical) RF-Amplifier-3-(electrical),2,1,2
+st18,HI,3,5/21/21,16:31:52,16:37:53,16,37,53,360.85,Disconnect LRU: 'RF Amplifier 1',,Stage-3-Modulator-(electrical),,Transmitter-Transmission-Line-(electrical) RF-Amplifier-3-(electrical),2,1,2
+st18,HI,3,5/21/21,16:31:52,16:37:53,16,37,53,361.66,Pick Up LRU: 'RF Amplifier 1',,Stage-3-Modulator-(electrical),,Transmitter-Transmission-Line-(electrical) RF-Amplifier-3-(electrical),2,1,2
+st18,HI,3,5/21/21,16:31:52,16:37:55,16,37,55,363.24,Drop LRU: 'RF Amplifier 1',,Stage-3-Modulator-(electrical),,Transmitter-Transmission-Line-(electrical) RF-Amplifier-3-(electrical),2,1,2
+st18,HI,3,5/21/21,16:31:52,16:37:56,16,37,56,364.18,Cancel connect: 'RF Amplifier 1 [SPARE]',,Stage-3-Modulator-(electrical),,Transmitter-Transmission-Line-(electrical) RF-Amplifier-3-(electrical),2,1,2
+st18,HI,3,5/21/21,16:31:52,16:37:56,16,37,56,364.2,Swing front panel: 100% open,,Stage-3-Modulator-(electrical),,Transmitter-Transmission-Line-(electrical) RF-Amplifier-3-(electrical),2,1,2
+st18,HI,3,5/21/21,16:31:52,16:37:56,16,37,56,364.65,Pick Up LRU: 'RF Amplifier 1 [SPARE]',,Stage-3-Modulator-(electrical),,Transmitter-Transmission-Line-(electrical) RF-Amplifier-3-(electrical),2,1,2
+st18,HI,3,5/21/21,16:31:52,16:37:57,16,37,57,364.98,Drop LRU: 'RF Amplifier 1 [SPARE]',,Stage-3-Modulator-(electrical),,Transmitter-Transmission-Line-(electrical) RF-Amplifier-3-(electrical),2,1,2
+st18,HI,3,5/21/21,16:31:52,16:37:57,16,37,57,365.56,Pick Up LRU: 'RF Amplifier 1 [SPARE]',,Stage-3-Modulator-(electrical),,Transmitter-Transmission-Line-(electrical) RF-Amplifier-3-(electrical),2,1,2
+st18,HI,3,5/21/21,16:31:52,16:37:57,16,37,57,365.63,Drop LRU: 'RF Amplifier 1 [SPARE]',,Stage-3-Modulator-(electrical),,Transmitter-Transmission-Line-(electrical) RF-Amplifier-3-(electrical),2,1,2
+st18,HI,3,5/21/21,16:31:52,16:37:58,16,37,58,366.05,Pick Up LRU: 'RF Amplifier 1 [SPARE]',,Stage-3-Modulator-(electrical),,Transmitter-Transmission-Line-(electrical) RF-Amplifier-3-(electrical),2,1,2
+st18,HI,3,5/21/21,16:31:52,16:37:58,16,37,58,366.16,Drop LRU: 'RF Amplifier 1 [SPARE]',,Stage-3-Modulator-(electrical),,Transmitter-Transmission-Line-(electrical) RF-Amplifier-3-(electrical),2,1,2
+st18,HI,3,5/21/21,16:31:52,16:37:58,16,37,58,366.16,Connect LRU: 'RF Amplifier 1 [SPARE]',,Stage-3-Modulator-(electrical),,Transmitter-Transmission-Line-(electrical) RF-Amplifier-3-(electrical),2,1,2
+st18,HI,3,5/21/21,16:31:52,16:37:59,16,37,59,367.21,Move drawer: 95.4% open,Transmitter,Stage-3-Modulator-(electrical),,Transmitter-Transmission-Line-(electrical) RF-Amplifier-3-(electrical),2,1,2
+st18,HI,3,5/21/21,16:31:52,16:37:59,16,37,59,367.63,Replaced unnecessarily RF Amplifier 1 (electrical),,Stage-3-Modulator-(electrical),,Transmitter-Transmission-Line-(electrical) RF-Amplifier-3-(electrical) RF-Amplifier-1-(electrical),3,1,3
+st18,HI,3,5/21/21,16:31:52,16:38:01,16,38,1,369.41,Click on: 'RF Amplifier 1 [SPARE]',,Stage-3-Modulator-(electrical),,Transmitter-Transmission-Line-(electrical) RF-Amplifier-3-(electrical) RF-Amplifier-1-(electrical),3,1,3
+st18,HI,3,5/21/21,16:31:52,16:38:02,16,38,2,370.04,Disconnect LRU: 'RF Amplifier 1 [SPARE]',,Stage-3-Modulator-(electrical),,Transmitter-Transmission-Line-(electrical) RF-Amplifier-3-(electrical) RF-Amplifier-1-(electrical),3,1,3
+st18,HI,3,5/21/21,16:31:52,16:38:03,16,38,3,371.49,Cancel connect: 'RF Amplifier 1 [SPARE]',,Stage-3-Modulator-(electrical),,Transmitter-Transmission-Line-(electrical) RF-Amplifier-3-(electrical) RF-Amplifier-1-(electrical),3,1,3
+st18,HI,3,5/21/21,16:31:52,16:38:06,16,38,6,374.28,Move drawer: 96.7% open,Transmitter,Stage-3-Modulator-(electrical),,Transmitter-Transmission-Line-(electrical) RF-Amplifier-3-(electrical) RF-Amplifier-1-(electrical),3,1,3
+st18,HI,3,5/21/21,16:31:52,16:38:07,16,38,7,375.12,Pick Up LRU: 'RF Amplifier 1 [SPARE]',,Stage-3-Modulator-(electrical),,Transmitter-Transmission-Line-(electrical) RF-Amplifier-3-(electrical) RF-Amplifier-1-(electrical),3,1,3
+st18,HI,3,5/21/21,16:31:52,16:38:07,16,38,7,375.73,Drop LRU: 'RF Amplifier 1 [SPARE]',,Stage-3-Modulator-(electrical),,Transmitter-Transmission-Line-(electrical) RF-Amplifier-3-(electrical) RF-Amplifier-1-(electrical),3,1,3
+st18,HI,3,5/21/21,16:31:52,16:38:08,16,38,8,376.63,Pick Up LRU: 'RF Amplifier 1',,Stage-3-Modulator-(electrical),,Transmitter-Transmission-Line-(electrical) RF-Amplifier-3-(electrical) RF-Amplifier-1-(electrical),3,1,3
+st18,HI,3,5/21/21,16:31:52,16:38:09,16,38,9,377.65,Drop LRU: 'RF Amplifier 1',,Stage-3-Modulator-(electrical),,Transmitter-Transmission-Line-(electrical) RF-Amplifier-3-(electrical) RF-Amplifier-1-(electrical),3,1,3
+st18,HI,3,5/21/21,16:31:52,16:38:10,16,38,10,378.33,Pick Up LRU: 'RF Amplifier 1',,Stage-3-Modulator-(electrical),,Transmitter-Transmission-Line-(electrical) RF-Amplifier-3-(electrical) RF-Amplifier-1-(electrical),3,1,3
+st18,HI,3,5/21/21,16:31:52,16:38:13,16,38,13,381.74,Drop LRU: 'RF Amplifier 1',,Stage-3-Modulator-(electrical),,Transmitter-Transmission-Line-(electrical) RF-Amplifier-3-(electrical) RF-Amplifier-1-(electrical),3,1,3
+st18,HI,3,5/21/21,16:31:52,16:38:14,16,38,14,382.34,Connect LRU: 'RF Amplifier 1',,Stage-3-Modulator-(electrical),,Transmitter-Transmission-Line-(electrical) RF-Amplifier-3-(electrical) RF-Amplifier-1-(electrical),3,1,3
+st18,HI,3,5/21/21,16:31:52,16:38:16,16,38,16,384.58,Move drawer: 95.4% open,Transmitter,Stage-3-Modulator-(electrical),,Transmitter-Transmission-Line-(electrical) RF-Amplifier-3-(electrical) RF-Amplifier-1-(electrical),3,1,3
+st18,HI,3,5/21/21,16:31:52,16:38:17,16,38,17,384.84,Click on: 'Stage 3 Modulator',,Stage-3-Modulator-(electrical),,Transmitter-Transmission-Line-(electrical) RF-Amplifier-3-(electrical) RF-Amplifier-1-(electrical),3,1,3
+st18,HI,3,5/21/21,16:31:52,16:38:17,16,38,17,385.62,Cancel disconnect: 'Stage 3 Modulator',,Stage-3-Modulator-(electrical),,Transmitter-Transmission-Line-(electrical) RF-Amplifier-3-(electrical) RF-Amplifier-1-(electrical),3,1,3
+st18,HI,3,5/21/21,16:31:52,16:38:18,16,38,18,386.12,Click on: 'Stage 2 Modulator',,Stage-3-Modulator-(electrical),,Transmitter-Transmission-Line-(electrical) RF-Amplifier-3-(electrical) RF-Amplifier-1-(electrical),3,1,3
+st18,HI,3,5/21/21,16:31:52,16:38:18,16,38,18,386.76,Cancel disconnect: 'Stage 2 Modulator',,Stage-3-Modulator-(electrical),,Transmitter-Transmission-Line-(electrical) RF-Amplifier-3-(electrical) RF-Amplifier-1-(electrical),3,1,3
+st18,HI,3,5/21/21,16:31:52,16:38:18,16,38,18,386.79,Move drawer: 95.4% open,Transmitter,Stage-3-Modulator-(electrical),,Transmitter-Transmission-Line-(electrical) RF-Amplifier-3-(electrical) RF-Amplifier-1-(electrical),3,1,3
+st18,HI,3,5/21/21,16:31:52,16:38:20,16,38,20,388.36,Click on: 'RF Amplifier 2',,Stage-3-Modulator-(electrical),,Transmitter-Transmission-Line-(electrical) RF-Amplifier-3-(electrical) RF-Amplifier-1-(electrical),3,1,3
+st18,HI,3,5/21/21,16:31:52,16:38:21,16,38,21,388.89,Cancel disconnect: 'RF Amplifier 2',,Stage-3-Modulator-(electrical),,Transmitter-Transmission-Line-(electrical) RF-Amplifier-3-(electrical) RF-Amplifier-1-(electrical),3,1,3
+st18,HI,3,5/21/21,16:31:52,16:38:21,16,38,21,388.91,Swing front panel: 97.1% open,,Stage-3-Modulator-(electrical),,Transmitter-Transmission-Line-(electrical) RF-Amplifier-3-(electrical) RF-Amplifier-1-(electrical),3,1,3
+st18,HI,3,5/21/21,16:31:52,16:38:22,16,38,22,390.76,Move drawer: 95.4% open,Transmitter,Stage-3-Modulator-(electrical),,Transmitter-Transmission-Line-(electrical) RF-Amplifier-3-(electrical) RF-Amplifier-1-(electrical),3,1,3
+st18,HI,3,5/21/21,16:31:52,16:38:23,16,38,23,391.19,Move drawer: 95.4% open,Transmitter,Stage-3-Modulator-(electrical),,Transmitter-Transmission-Line-(electrical) RF-Amplifier-3-(electrical) RF-Amplifier-1-(electrical),3,1,3
+st18,HI,3,5/21/21,16:31:52,16:38:23,16,38,23,391.41,Click on: 'RF Amplifier 2',,Stage-3-Modulator-(electrical),,Transmitter-Transmission-Line-(electrical) RF-Amplifier-3-(electrical) RF-Amplifier-1-(electrical),3,1,3
+st18,HI,3,5/21/21,16:31:52,16:38:24,16,38,24,392.36,Disconnect LRU: 'RF Amplifier 2',,Stage-3-Modulator-(electrical),,Transmitter-Transmission-Line-(electrical) RF-Amplifier-3-(electrical) RF-Amplifier-1-(electrical),3,1,3
+st18,HI,3,5/21/21,16:31:52,16:38:25,16,38,25,393.53,Cancel connect: 'RF Amplifier 2',,Stage-3-Modulator-(electrical),,Transmitter-Transmission-Line-(electrical) RF-Amplifier-3-(electrical) RF-Amplifier-1-(electrical),3,1,3
+st18,HI,3,5/21/21,16:31:52,16:38:26,16,38,26,394.51,Pick Up LRU: 'RF Amplifier 2',,Stage-3-Modulator-(electrical),,Transmitter-Transmission-Line-(electrical) RF-Amplifier-3-(electrical) RF-Amplifier-1-(electrical),3,1,3
+st18,HI,3,5/21/21,16:31:52,16:38:28,16,38,28,396.23,Drop LRU: 'RF Amplifier 2',,Stage-3-Modulator-(electrical),,Transmitter-Transmission-Line-(electrical) RF-Amplifier-3-(electrical) RF-Amplifier-1-(electrical),3,1,3
+st18,HI,3,5/21/21,16:31:52,16:38:29,16,38,29,396.85,Leave Server Box Table,,Stage-3-Modulator-(electrical),,Transmitter-Transmission-Line-(electrical) RF-Amplifier-3-(electrical) RF-Amplifier-1-(electrical),3,1,3
+st18,HI,3,5/21/21,16:31:52,16:38:29,16,38,29,397.14,Move to Spare Parts Table,,Stage-3-Modulator-(electrical),,Transmitter-Transmission-Line-(electrical) RF-Amplifier-3-(electrical) RF-Amplifier-1-(electrical),3,1,3
+st18,HI,3,5/21/21,16:31:52,16:38:32,16,38,32,400.42,Pick Up LRU: 'RF Amplifier 2 [SPARE]',,Stage-3-Modulator-(electrical),,Transmitter-Transmission-Line-(electrical) RF-Amplifier-3-(electrical) RF-Amplifier-1-(electrical),3,1,3
+st18,HI,3,5/21/21,16:31:52,16:38:33,16,38,33,401.19,Leave Spare Parts Table,,Stage-3-Modulator-(electrical),,Transmitter-Transmission-Line-(electrical) RF-Amplifier-3-(electrical) RF-Amplifier-1-(electrical),3,1,3
+st18,HI,3,5/21/21,16:31:52,16:38:35,16,38,35,403.34,Move to Server Box Table,,Stage-3-Modulator-(electrical),,Transmitter-Transmission-Line-(electrical) RF-Amplifier-3-(electrical) RF-Amplifier-1-(electrical),3,1,3
+st18,HI,3,5/21/21,16:31:52,16:38:37,16,38,37,405.41,Drop LRU: 'RF Amplifier 2 [SPARE]',,Stage-3-Modulator-(electrical),,Transmitter-Transmission-Line-(electrical) RF-Amplifier-3-(electrical) RF-Amplifier-1-(electrical),3,1,3
+st18,HI,3,5/21/21,16:31:52,16:38:39,16,38,39,407.54,Pick Up LRU: 'RF Amplifier 2 [SPARE]',,Stage-3-Modulator-(electrical),,Transmitter-Transmission-Line-(electrical) RF-Amplifier-3-(electrical) RF-Amplifier-1-(electrical),3,1,3
+st18,HI,3,5/21/21,16:31:52,16:38:40,16,38,40,407.82,Drop LRU: 'RF Amplifier 2 [SPARE]',,Stage-3-Modulator-(electrical),,Transmitter-Transmission-Line-(electrical) RF-Amplifier-3-(electrical) RF-Amplifier-1-(electrical),3,1,3
+st18,HI,3,5/21/21,16:31:52,16:38:40,16,38,40,408.8,Connect LRU: 'RF Amplifier 2 [SPARE]',,Stage-3-Modulator-(electrical),,Transmitter-Transmission-Line-(electrical) RF-Amplifier-3-(electrical) RF-Amplifier-1-(electrical),3,1,3
+st18,HI,3,5/21/21,16:31:52,16:38:41,16,38,41,408.82,Move drawer: 95.5% open,Transmitter,Stage-3-Modulator-(electrical),,Transmitter-Transmission-Line-(electrical) RF-Amplifier-3-(electrical) RF-Amplifier-1-(electrical),3,1,3
+st18,HI,3,5/21/21,16:31:52,16:38:41,16,38,41,409.7,Cancel window: 'RF Amplifier 2',,Stage-3-Modulator-(electrical),,Transmitter-Transmission-Line-(electrical) RF-Amplifier-3-(electrical) RF-Amplifier-1-(electrical),3,1,3
+st18,HI,3,5/21/21,16:31:52,16:38:43,16,38,43,411.57,Click on: 'RF Amplifier 2 [SPARE]',,Stage-3-Modulator-(electrical),,Transmitter-Transmission-Line-(electrical) RF-Amplifier-3-(electrical) RF-Amplifier-1-(electrical),3,1,3
+st18,HI,3,5/21/21,16:31:52,16:38:44,16,38,44,412.2,Cancel disconnect: 'RF Amplifier 2 [SPARE]',,Stage-3-Modulator-(electrical),,Transmitter-Transmission-Line-(electrical) RF-Amplifier-3-(electrical) RF-Amplifier-1-(electrical),3,1,3
+st18,HI,3,5/21/21,16:31:52,16:38:45,16,38,45,413.35,Pick Up LRU: 'RF Amplifier 2',,Stage-3-Modulator-(electrical),,Transmitter-Transmission-Line-(electrical) RF-Amplifier-3-(electrical) RF-Amplifier-1-(electrical),3,1,3
+st18,HI,3,5/21/21,16:31:52,16:38:45,16,38,45,413.44,Drop LRU: 'RF Amplifier 2',,Stage-3-Modulator-(electrical),,Transmitter-Transmission-Line-(electrical) RF-Amplifier-3-(electrical) RF-Amplifier-1-(electrical),3,1,3
+st18,HI,3,5/21/21,16:31:52,16:38:46,16,38,46,414.1,Pick Up LRU: 'RF Amplifier 2',,Stage-3-Modulator-(electrical),,Transmitter-Transmission-Line-(electrical) RF-Amplifier-3-(electrical) RF-Amplifier-1-(electrical),3,1,3
+st18,HI,3,5/21/21,16:31:52,16:38:47,16,38,47,414.95,Drop LRU: 'RF Amplifier 2',,Stage-3-Modulator-(electrical),,Transmitter-Transmission-Line-(electrical) RF-Amplifier-3-(electrical) RF-Amplifier-1-(electrical),3,1,3
+st18,HI,3,5/21/21,16:31:52,16:38:51,16,38,51,419.78,Click on: 'RF Amplifier 3 [SPARE]',,Stage-3-Modulator-(electrical),,Transmitter-Transmission-Line-(electrical) RF-Amplifier-3-(electrical) RF-Amplifier-1-(electrical),3,1,3
+st18,HI,3,5/21/21,16:31:52,16:38:52,16,38,52,420.65,Cancel disconnect: 'RF Amplifier 3 [SPARE]',,Stage-3-Modulator-(electrical),,Transmitter-Transmission-Line-(electrical) RF-Amplifier-3-(electrical) RF-Amplifier-1-(electrical),3,1,3
+st18,HI,3,5/21/21,16:31:52,16:38:52,16,38,52,420.67,Move drawer: 95.4% open,Transmitter,Stage-3-Modulator-(electrical),,Transmitter-Transmission-Line-(electrical) RF-Amplifier-3-(electrical) RF-Amplifier-1-(electrical),3,1,3
+st18,HI,3,5/21/21,16:31:52,16:38:53,16,38,53,421.52,Click on: 'Stage 1 Modulator',,Stage-3-Modulator-(electrical),,Transmitter-Transmission-Line-(electrical) RF-Amplifier-3-(electrical) RF-Amplifier-1-(electrical),3,1,3
+st18,HI,3,5/21/21,16:31:52,16:38:54,16,38,54,422.38,Disconnect LRU: 'Stage 1 Modulator',,Stage-3-Modulator-(electrical),,Transmitter-Transmission-Line-(electrical) RF-Amplifier-3-(electrical) RF-Amplifier-1-(electrical),3,1,3
+st18,HI,3,5/21/21,16:31:52,16:38:55,16,38,55,423.25,Cancel connect: 'Stage 1 Modulator',,Stage-3-Modulator-(electrical),,Transmitter-Transmission-Line-(electrical) RF-Amplifier-3-(electrical) RF-Amplifier-1-(electrical),3,1,3
+st18,HI,3,5/21/21,16:31:52,16:38:59,16,38,59,426.85,Pick Up LRU: 'Stage 1 Modulator',,Stage-3-Modulator-(electrical),,Transmitter-Transmission-Line-(electrical) RF-Amplifier-3-(electrical) RF-Amplifier-1-(electrical),3,1,3
+st18,HI,3,5/21/21,16:31:52,16:39:00,16,39,0,428.67,Drop LRU: 'Stage 1 Modulator',,Stage-3-Modulator-(electrical),,Transmitter-Transmission-Line-(electrical) RF-Amplifier-3-(electrical) RF-Amplifier-1-(electrical),3,1,3
+st18,HI,3,5/21/21,16:31:52,16:39:01,16,39,1,429.43,Leave Server Box Table,,Stage-3-Modulator-(electrical),,Transmitter-Transmission-Line-(electrical) RF-Amplifier-3-(electrical) RF-Amplifier-1-(electrical),3,1,3
+st18,HI,3,5/21/21,16:31:52,16:39:01,16,39,1,429.73,Move to Spare Parts Table,,Stage-3-Modulator-(electrical),,Transmitter-Transmission-Line-(electrical) RF-Amplifier-3-(electrical) RF-Amplifier-1-(electrical),3,1,3
+st18,HI,3,5/21/21,16:31:52,16:39:18,16,39,18,446.21,Pick Up LRU: 'Stage 1 Modulator [SPARE]',,Stage-3-Modulator-(electrical),,Transmitter-Transmission-Line-(electrical) RF-Amplifier-3-(electrical) RF-Amplifier-1-(electrical),3,1,3
+st18,HI,3,5/21/21,16:31:52,16:39:19,16,39,19,447.33,Leave Spare Parts Table,,Stage-3-Modulator-(electrical),,Transmitter-Transmission-Line-(electrical) RF-Amplifier-3-(electrical) RF-Amplifier-1-(electrical),3,1,3
+st18,HI,3,5/21/21,16:31:52,16:39:19,16,39,19,447.62,Move to Server Box Table,,Stage-3-Modulator-(electrical),,Transmitter-Transmission-Line-(electrical) RF-Amplifier-3-(electrical) RF-Amplifier-1-(electrical),3,1,3
+st18,HI,3,5/21/21,16:31:52,16:39:20,16,39,20,448.25,Leave Server Box Table,,Stage-3-Modulator-(electrical),,Transmitter-Transmission-Line-(electrical) RF-Amplifier-3-(electrical) RF-Amplifier-1-(electrical),3,1,3
+st18,HI,3,5/21/21,16:31:52,16:39:21,16,39,21,448.93,Move to Server Box Table,,Stage-3-Modulator-(electrical),,Transmitter-Transmission-Line-(electrical) RF-Amplifier-3-(electrical) RF-Amplifier-1-(electrical),3,1,3
+st18,HI,3,5/21/21,16:31:52,16:39:22,16,39,22,450.06,Drop LRU: 'Stage 1 Modulator [SPARE]',,Stage-3-Modulator-(electrical),,Transmitter-Transmission-Line-(electrical) RF-Amplifier-3-(electrical) RF-Amplifier-1-(electrical),3,1,3
+st18,HI,3,5/21/21,16:31:52,16:39:23,16,39,23,451.23,Connect LRU: 'Stage 1 Modulator [SPARE]',,Stage-3-Modulator-(electrical),,Transmitter-Transmission-Line-(electrical) RF-Amplifier-3-(electrical) RF-Amplifier-1-(electrical),3,1,3
+st18,HI,3,5/21/21,16:31:52,16:39:25,16,39,25,453.19,Replaced unnecessarily Stage 1 Modulator (electrical),,Stage-3-Modulator-(electrical),,Transmitter-Transmission-Line-(electrical) RF-Amplifier-3-(electrical) RF-Amplifier-1-(electrical) Stage-1-Modulator-(electrical),4,1,4
+st18,HI,3,5/21/21,16:31:52,16:39:28,16,39,28,456.75,Click on: 'Stage 2 Modulator',,Stage-3-Modulator-(electrical),,Transmitter-Transmission-Line-(electrical) RF-Amplifier-3-(electrical) RF-Amplifier-1-(electrical) Stage-1-Modulator-(electrical),4,1,4
+st18,HI,3,5/21/21,16:31:52,16:39:29,16,39,29,457.57,Disconnect LRU: 'Stage 2 Modulator',,Stage-3-Modulator-(electrical),,Transmitter-Transmission-Line-(electrical) RF-Amplifier-3-(electrical) RF-Amplifier-1-(electrical) Stage-1-Modulator-(electrical),4,1,4
+st18,HI,3,5/21/21,16:31:52,16:39:29,16,39,29,457.6,Move drawer: 95.4% open,Transmitter,Stage-3-Modulator-(electrical),,Transmitter-Transmission-Line-(electrical) RF-Amplifier-3-(electrical) RF-Amplifier-1-(electrical) Stage-1-Modulator-(electrical),4,1,4
+st18,HI,3,5/21/21,16:31:52,16:39:31,16,39,31,459.42,Pick Up LRU: 'Stage 2 Modulator',,Stage-3-Modulator-(electrical),,Transmitter-Transmission-Line-(electrical) RF-Amplifier-3-(electrical) RF-Amplifier-1-(electrical) Stage-1-Modulator-(electrical),4,1,4
+st18,HI,3,5/21/21,16:31:52,16:39:31,16,39,31,459.5,Drop LRU: 'Stage 2 Modulator',,Stage-3-Modulator-(electrical),,Transmitter-Transmission-Line-(electrical) RF-Amplifier-3-(electrical) RF-Amplifier-1-(electrical) Stage-1-Modulator-(electrical),4,1,4
+st18,HI,3,5/21/21,16:31:52,16:39:31,16,39,31,459.5,Cancel connect: 'Stage 2 Modulator',,Stage-3-Modulator-(electrical),,Transmitter-Transmission-Line-(electrical) RF-Amplifier-3-(electrical) RF-Amplifier-1-(electrical) Stage-1-Modulator-(electrical),4,1,4
+st18,HI,3,5/21/21,16:31:52,16:39:32,16,39,32,460.15,Pick Up LRU: 'Stage 2 Modulator',,Stage-3-Modulator-(electrical),,Transmitter-Transmission-Line-(electrical) RF-Amplifier-3-(electrical) RF-Amplifier-1-(electrical) Stage-1-Modulator-(electrical),4,1,4
+st18,HI,3,5/21/21,16:31:52,16:39:32,16,39,32,460.23,Drop LRU: 'Stage 2 Modulator',,Stage-3-Modulator-(electrical),,Transmitter-Transmission-Line-(electrical) RF-Amplifier-3-(electrical) RF-Amplifier-1-(electrical) Stage-1-Modulator-(electrical),4,1,4
+st18,HI,3,5/21/21,16:31:52,16:39:32,16,39,32,460.69,Pick Up LRU: 'Stage 2 Modulator',,Stage-3-Modulator-(electrical),,Transmitter-Transmission-Line-(electrical) RF-Amplifier-3-(electrical) RF-Amplifier-1-(electrical) Stage-1-Modulator-(electrical),4,1,4
+st18,HI,3,5/21/21,16:31:52,16:39:32,16,39,32,460.74,Drop LRU: 'Stage 2 Modulator',,Stage-3-Modulator-(electrical),,Transmitter-Transmission-Line-(electrical) RF-Amplifier-3-(electrical) RF-Amplifier-1-(electrical) Stage-1-Modulator-(electrical),4,1,4
+st18,HI,3,5/21/21,16:31:52,16:39:32,16,39,32,460.75,Cancel connect: 'Stage 2 Modulator',,Stage-3-Modulator-(electrical),,Transmitter-Transmission-Line-(electrical) RF-Amplifier-3-(electrical) RF-Amplifier-1-(electrical) Stage-1-Modulator-(electrical),4,1,4
+st18,HI,3,5/21/21,16:31:52,16:39:33,16,39,33,461.1,Pick Up LRU: 'Stage 2 Modulator',,Stage-3-Modulator-(electrical),,Transmitter-Transmission-Line-(electrical) RF-Amplifier-3-(electrical) RF-Amplifier-1-(electrical) Stage-1-Modulator-(electrical),4,1,4
+st18,HI,3,5/21/21,16:31:52,16:39:34,16,39,34,461.86,Drop LRU: 'Stage 2 Modulator',,Stage-3-Modulator-(electrical),,Transmitter-Transmission-Line-(electrical) RF-Amplifier-3-(electrical) RF-Amplifier-1-(electrical) Stage-1-Modulator-(electrical),4,1,4
+st18,HI,3,5/21/21,16:31:52,16:39:34,16,39,34,462.5,Leave Server Box Table,,Stage-3-Modulator-(electrical),,Transmitter-Transmission-Line-(electrical) RF-Amplifier-3-(electrical) RF-Amplifier-1-(electrical) Stage-1-Modulator-(electrical),4,1,4
+st18,HI,3,5/21/21,16:31:52,16:39:34,16,39,34,462.77,Move to Spare Parts Table,,Stage-3-Modulator-(electrical),,Transmitter-Transmission-Line-(electrical) RF-Amplifier-3-(electrical) RF-Amplifier-1-(electrical) Stage-1-Modulator-(electrical),4,1,4
+st18,HI,3,5/21/21,16:31:52,16:39:43,16,39,43,471.41,Pick Up LRU: 'Stage 2 Modulator [SPARE]',,Stage-3-Modulator-(electrical),,Transmitter-Transmission-Line-(electrical) RF-Amplifier-3-(electrical) RF-Amplifier-1-(electrical) Stage-1-Modulator-(electrical),4,1,4
+st18,HI,3,5/21/21,16:31:52,16:39:44,16,39,44,472.11,Leave Spare Parts Table,,Stage-3-Modulator-(electrical),,Transmitter-Transmission-Line-(electrical) RF-Amplifier-3-(electrical) RF-Amplifier-1-(electrical) Stage-1-Modulator-(electrical),4,1,4
+st18,HI,3,5/21/21,16:31:52,16:39:46,16,39,46,473.85,Move to Server Box Table,,Stage-3-Modulator-(electrical),,Transmitter-Transmission-Line-(electrical) RF-Amplifier-3-(electrical) RF-Amplifier-1-(electrical) Stage-1-Modulator-(electrical),4,1,4
+st18,HI,3,5/21/21,16:31:52,16:39:47,16,39,47,475.08,Drop LRU: 'Stage 2 Modulator [SPARE]',,Stage-3-Modulator-(electrical),,Transmitter-Transmission-Line-(electrical) RF-Amplifier-3-(electrical) RF-Amplifier-1-(electrical) Stage-1-Modulator-(electrical),4,1,4
+st18,HI,3,5/21/21,16:31:52,16:39:48,16,39,48,475.87,Pick Up LRU: 'Stage 2 Modulator [SPARE]',,Stage-3-Modulator-(electrical),,Transmitter-Transmission-Line-(electrical) RF-Amplifier-3-(electrical) RF-Amplifier-1-(electrical) Stage-1-Modulator-(electrical),4,1,4
+st18,HI,3,5/21/21,16:31:52,16:39:51,16,39,51,479.14,Drop LRU: 'Stage 2 Modulator [SPARE]',,Stage-3-Modulator-(electrical),,Transmitter-Transmission-Line-(electrical) RF-Amplifier-3-(electrical) RF-Amplifier-1-(electrical) Stage-1-Modulator-(electrical),4,1,4
+st18,HI,3,5/21/21,16:31:52,16:39:51,16,39,51,479.78,Connect LRU: 'Stage 2 Modulator [SPARE]',,Stage-3-Modulator-(electrical),,Transmitter-Transmission-Line-(electrical) RF-Amplifier-3-(electrical) RF-Amplifier-1-(electrical) Stage-1-Modulator-(electrical),4,1,4
+st18,HI,3,5/21/21,16:31:52,16:39:53,16,39,53,480.93,Replaced unnecessarily Stage 2 Modulator (electrical),,Stage-3-Modulator-(electrical),,Transmitter-Transmission-Line-(electrical) RF-Amplifier-3-(electrical) RF-Amplifier-1-(electrical) Stage-1-Modulator-(electrical) Stage-2-Modulator-(electrical),5,1,5
+st18,HI,3,5/21/21,16:31:52,16:39:56,16,39,56,484.02,Click on: 'Stage 3 Modulator',,Stage-3-Modulator-(electrical),,Transmitter-Transmission-Line-(electrical) RF-Amplifier-3-(electrical) RF-Amplifier-1-(electrical) Stage-1-Modulator-(electrical) Stage-2-Modulator-(electrical),5,1,5
+st18,HI,3,5/21/21,16:31:52,16:39:57,16,39,57,484.88,Disconnect LRU: 'Stage 3 Modulator',,Stage-3-Modulator-(electrical),,Transmitter-Transmission-Line-(electrical) RF-Amplifier-3-(electrical) RF-Amplifier-1-(electrical) Stage-1-Modulator-(electrical) Stage-2-Modulator-(electrical),5,1,5
+st18,HI,3,5/21/21,16:31:52,16:39:58,16,39,58,486.53,Pick Up LRU: 'Stage 3 Modulator',,Stage-3-Modulator-(electrical),,Transmitter-Transmission-Line-(electrical) RF-Amplifier-3-(electrical) RF-Amplifier-1-(electrical) Stage-1-Modulator-(electrical) Stage-2-Modulator-(electrical),5,1,5
+st18,HI,3,5/21/21,16:31:52,16:39:59,16,39,59,487.14,Drop LRU: 'Stage 3 Modulator',,Stage-3-Modulator-(electrical),,Transmitter-Transmission-Line-(electrical) RF-Amplifier-3-(electrical) RF-Amplifier-1-(electrical) Stage-1-Modulator-(electrical) Stage-2-Modulator-(electrical),5,1,5
+st18,HI,3,5/21/21,16:31:52,16:40:00,16,40,0,487.84,Cancel connect: 'Stage 3 Modulator',,Stage-3-Modulator-(electrical),,Transmitter-Transmission-Line-(electrical) RF-Amplifier-3-(electrical) RF-Amplifier-1-(electrical) Stage-1-Modulator-(electrical) Stage-2-Modulator-(electrical),5,1,5
+st18,HI,3,5/21/21,16:31:52,16:40:00,16,40,0,487.87,Move drawer: 95.5% open,Processor,Stage-3-Modulator-(electrical),,Transmitter-Transmission-Line-(electrical) RF-Amplifier-3-(electrical) RF-Amplifier-1-(electrical) Stage-1-Modulator-(electrical) Stage-2-Modulator-(electrical),5,1,5
+st18,HI,3,5/21/21,16:31:52,16:40:02,16,40,2,490.29,Leave Server Box Table,,Stage-3-Modulator-(electrical),,Transmitter-Transmission-Line-(electrical) RF-Amplifier-3-(electrical) RF-Amplifier-1-(electrical) Stage-1-Modulator-(electrical) Stage-2-Modulator-(electrical),5,1,5
+st18,HI,3,5/21/21,16:31:52,16:40:02,16,40,2,490.59,Move to Spare Parts Table,,Stage-3-Modulator-(electrical),,Transmitter-Transmission-Line-(electrical) RF-Amplifier-3-(electrical) RF-Amplifier-1-(electrical) Stage-1-Modulator-(electrical) Stage-2-Modulator-(electrical),5,1,5
+st18,HI,3,5/21/21,16:31:52,16:40:08,16,40,8,496.3,Pick Up LRU: 'Stage 3 Modulator [SPARE]',,Stage-3-Modulator-(electrical),,Transmitter-Transmission-Line-(electrical) RF-Amplifier-3-(electrical) RF-Amplifier-1-(electrical) Stage-1-Modulator-(electrical) Stage-2-Modulator-(electrical),5,1,5
+st18,HI,3,5/21/21,16:31:52,16:40:09,16,40,9,496.97,Leave Spare Parts Table,,Stage-3-Modulator-(electrical),,Transmitter-Transmission-Line-(electrical) RF-Amplifier-3-(electrical) RF-Amplifier-1-(electrical) Stage-1-Modulator-(electrical) Stage-2-Modulator-(electrical),5,1,5
+st18,HI,3,5/21/21,16:31:52,16:40:10,16,40,10,497.85,Move to Server Box Table,,Stage-3-Modulator-(electrical),,Transmitter-Transmission-Line-(electrical) RF-Amplifier-3-(electrical) RF-Amplifier-1-(electrical) Stage-1-Modulator-(electrical) Stage-2-Modulator-(electrical),5,1,5
+st18,HI,3,5/21/21,16:31:52,16:40:10,16,40,10,497.91,Leave Server Box Table,,Stage-3-Modulator-(electrical),,Transmitter-Transmission-Line-(electrical) RF-Amplifier-3-(electrical) RF-Amplifier-1-(electrical) Stage-1-Modulator-(electrical) Stage-2-Modulator-(electrical),5,1,5
+st18,HI,3,5/21/21,16:31:52,16:40:10,16,40,10,498.37,Move to Server Box Table,,Stage-3-Modulator-(electrical),,Transmitter-Transmission-Line-(electrical) RF-Amplifier-3-(electrical) RF-Amplifier-1-(electrical) Stage-1-Modulator-(electrical) Stage-2-Modulator-(electrical),5,1,5
+st18,HI,3,5/21/21,16:31:52,16:40:11,16,40,11,499.53,Drop LRU: 'Stage 3 Modulator [SPARE]',,Stage-3-Modulator-(electrical),,Transmitter-Transmission-Line-(electrical) RF-Amplifier-3-(electrical) RF-Amplifier-1-(electrical) Stage-1-Modulator-(electrical) Stage-2-Modulator-(electrical),5,1,5
+st18,HI,3,5/21/21,16:31:52,16:40:12,16,40,12,500.39,Connect LRU: 'Stage 3 Modulator [SPARE]',,Stage-3-Modulator-(electrical),,Transmitter-Transmission-Line-(electrical) RF-Amplifier-3-(electrical) RF-Amplifier-1-(electrical) Stage-1-Modulator-(electrical) Stage-2-Modulator-(electrical),5,1,5
+st18,HI,3,5/21/21,16:31:52,16:40:13,16,40,13,501.11,Fixed Stage 3 Modulator (electrical),,,Stage-3-Modulator-(electrical),Transmitter-Transmission-Line-(electrical) RF-Amplifier-3-(electrical) RF-Amplifier-1-(electrical) Stage-1-Modulator-(electrical) Stage-2-Modulator-(electrical),6,0,5
+st18,HI,3,5/21/21,16:31:52,16:40:16,16,40,16,504.22,Click on: 'Stage 3 Modulator [SPARE]',,,Stage-3-Modulator-(electrical),Transmitter-Transmission-Line-(electrical) RF-Amplifier-3-(electrical) RF-Amplifier-1-(electrical) Stage-1-Modulator-(electrical) Stage-2-Modulator-(electrical),6,0,5
+st18,HI,3,5/21/21,16:31:52,16:40:17,16,40,17,505.07,Cancel disconnect: 'Stage 3 Modulator [SPARE]',,,Stage-3-Modulator-(electrical),Transmitter-Transmission-Line-(electrical) RF-Amplifier-3-(electrical) RF-Amplifier-1-(electrical) Stage-1-Modulator-(electrical) Stage-2-Modulator-(electrical),6,0,5
+st18,HI,3,5/21/21,16:31:52,16:40:17,16,40,17,505.09,Move drawer: 95.4% open,Transmitter,,Stage-3-Modulator-(electrical),Transmitter-Transmission-Line-(electrical) RF-Amplifier-3-(electrical) RF-Amplifier-1-(electrical) Stage-1-Modulator-(electrical) Stage-2-Modulator-(electrical),6,0,5
+st18,HI,3,5/21/21,16:31:52,16:40:20,16,40,20,508.39,Submit?,,,Stage-3-Modulator-(electrical),Transmitter-Transmission-Line-(electrical) RF-Amplifier-3-(electrical) RF-Amplifier-1-(electrical) Stage-1-Modulator-(electrical) Stage-2-Modulator-(electrical),6,0,5
+st18,HI,3,5/21/21,16:31:52,16:40:21,16,40,21,509.64,Submit Confirm,,,Stage-3-Modulator-(electrical),Transmitter-Transmission-Line-(electrical) RF-Amplifier-3-(electrical) RF-Amplifier-1-(electrical) Stage-1-Modulator-(electrical) Stage-2-Modulator-(electrical),6,0,5
+st18,HI,3,5/21/21,16:31:52,16:40:21,16,40,21,509.65,Move drawer: 95.4% open,Transmitter,,Stage-3-Modulator-(electrical),Transmitter-Transmission-Line-(electrical) RF-Amplifier-3-(electrical) RF-Amplifier-1-(electrical) Stage-1-Modulator-(electrical) Stage-2-Modulator-(electrical),6,0,5
+st18,HI,4,5/21/21,16:40:23,16:40:23,16,40,23,0,Make electrical flaw: Sine Wave Oscillator,,Sine-Wave-Oscillator-(electrical),,,0,1,0
+st18,HI,4,5/21/21,16:40:23,16:40:23,16,40,23,0,Start (High Fidelity Sim),,Sine-Wave-Oscillator-(electrical),,,0,1,0
+st18,HI,4,5/21/21,16:40:23,16:40:23,16,40,23,0.02,Leave Server Box Table,,Sine-Wave-Oscillator-(electrical),,,0,1,0
+st18,HI,4,5/21/21,16:40:23,16:40:23,16,40,23,0.02,Move drawer: -143.2% open,Transmitter,Sine-Wave-Oscillator-(electrical),,,0,1,0
+st18,HI,4,5/21/21,16:40:23,16:40:27,16,40,27,4.1,Move to Server Box Table,,Sine-Wave-Oscillator-(electrical),,,0,1,0
+st18,HI,4,5/21/21,16:40:23,16:40:28,16,40,28,4.61,Swing front panel: 61.3% open,,Sine-Wave-Oscillator-(electrical),,,0,1,0
+st18,HI,4,5/21/21,16:40:23,16:40:47,16,40,47,23.53,Move drawer: 96.7% open,Synchronizer,Sine-Wave-Oscillator-(electrical),,,0,1,0
+st18,HI,4,5/21/21,16:40:23,16:40:51,16,40,51,27.94,Move drawer: 11.4% open,Synchronizer,Sine-Wave-Oscillator-(electrical),,,0,1,0
+st18,HI,4,5/21/21,16:40:23,16:40:54,16,40,54,30.45,Move drawer: 62.9% open,Indicator,Sine-Wave-Oscillator-(electrical),,,0,1,0
+st18,HI,4,5/21/21,16:40:23,16:40:56,16,40,56,32.74,Move drawer: -3.1% open,Indicator,Sine-Wave-Oscillator-(electrical),,,0,1,0
+st18,HI,4,5/21/21,16:40:23,16:40:59,16,40,59,35.65,Move drawer: 94.3% open,Synchronizer,Sine-Wave-Oscillator-(electrical),,,0,1,0
+st18,HI,4,5/21/21,16:40:23,16:41:15,16,41,15,51.92,Click on: 'Sine Wave Oscillator',,Sine-Wave-Oscillator-(electrical),,,0,1,0
+st18,HI,4,5/21/21,16:40:23,16:41:16,16,41,16,53.25,Disconnect LRU: 'Sine Wave Oscillator',,Sine-Wave-Oscillator-(electrical),,,0,1,0
+st18,HI,4,5/21/21,16:40:23,16:41:16,16,41,16,53.27,Move drawer: 94.3% open,Synchronizer,Sine-Wave-Oscillator-(electrical),,,0,1,0
+st18,HI,4,5/21/21,16:40:23,16:41:19,16,41,19,55.73,Pick Up LRU: 'Sine Wave Oscillator',,Sine-Wave-Oscillator-(electrical),,,0,1,0
+st18,HI,4,5/21/21,16:40:23,16:41:21,16,41,21,58.2,Drop LRU: 'Sine Wave Oscillator',,Sine-Wave-Oscillator-(electrical),,,0,1,0
+st18,HI,4,5/21/21,16:40:23,16:41:22,16,41,22,59.37,Leave Server Box Table,,Sine-Wave-Oscillator-(electrical),,,0,1,0
+st18,HI,4,5/21/21,16:40:23,16:41:23,16,41,23,59.64,Move to Spare Parts Table,,Sine-Wave-Oscillator-(electrical),,,0,1,0
+st18,HI,4,5/21/21,16:40:23,16:41:32,16,41,32,69.06,Pick Up LRU: 'Sine Wave Oscillator [SPARE]',,Sine-Wave-Oscillator-(electrical),,,0,1,0
+st18,HI,4,5/21/21,16:40:23,16:41:33,16,41,33,69.86,Leave Spare Parts Table,,Sine-Wave-Oscillator-(electrical),,,0,1,0
+st18,HI,4,5/21/21,16:40:23,16:41:34,16,41,34,71.21,Move to Server Box Table,,Sine-Wave-Oscillator-(electrical),,,0,1,0
+st18,HI,4,5/21/21,16:40:23,16:41:36,16,41,36,73.38,Drop LRU: 'Sine Wave Oscillator [SPARE]',,Sine-Wave-Oscillator-(electrical),,,0,1,0
+st18,HI,4,5/21/21,16:40:23,16:41:37,16,41,37,74.04,Connect LRU: 'Sine Wave Oscillator [SPARE]',,Sine-Wave-Oscillator-(electrical),,,0,1,0
+st18,HI,4,5/21/21,16:40:23,16:41:39,16,41,39,75.78,Fixed Sine Wave Oscillator (electrical),,,Sine-Wave-Oscillator-(electrical),,1,0,0
+st18,HI,4,5/21/21,16:40:23,16:41:43,16,41,43,79.46,Submit?,,,Sine-Wave-Oscillator-(electrical),,1,0,0
+st18,HI,4,5/21/21,16:40:23,16:41:44,16,41,44,80.45,Submit Confirm,,,Sine-Wave-Oscillator-(electrical),,1,0,0
+st18,HI,4,5/21/21,16:40:23,16:41:44,16,41,44,80.46,Move drawer: 94.3% open,Synchronizer,,Sine-Wave-Oscillator-(electrical),,1,0,0
+st18,HI,5,5/21/21,16:41:45,16:41:45,16,41,45,0,Make electrical flaw: Cathode Ray Tube,,Cathode-Ray-Tube-(electrical),,,0,1,0
+st18,HI,5,5/21/21,16:41:45,16:41:45,16,41,45,0,Start (High Fidelity Sim),,Cathode-Ray-Tube-(electrical),,,0,1,0
+st18,HI,5,5/21/21,16:41:45,16:41:45,16,41,45,0.01,Move drawer: -2.6% open,Synchronizer,Cathode-Ray-Tube-(electrical),,,0,1,0
+st18,HI,5,5/21/21,16:41:45,16:41:45,16,41,45,0.04,Leave Server Box Table,,Cathode-Ray-Tube-(electrical),,,0,1,0
+st18,HI,5,5/21/21,16:41:45,16:41:48,16,41,48,2.56,Move to Server Box Table,,Cathode-Ray-Tube-(electrical),,,0,1,0
+st18,HI,5,5/21/21,16:41:45,16:41:49,16,41,49,4.06,Swing front panel: 58.8% open,,Cathode-Ray-Tube-(electrical),,,0,1,0
+st18,HI,5,5/21/21,16:41:45,16:41:54,16,41,54,8.64,Move drawer: 52.3% open,Indicator,Cathode-Ray-Tube-(electrical),,,0,1,0
+st18,HI,5,5/21/21,16:41:45,16:41:55,16,41,55,9.98,Move drawer: 81.8% open,Indicator,Cathode-Ray-Tube-(electrical),,,0,1,0
+st18,HI,5,5/21/21,16:41:45,16:41:58,16,41,58,12.63,Move drawer: -8.2% open,Indicator,Cathode-Ray-Tube-(electrical),,,0,1,0
+st18,HI,5,5/21/21,16:41:45,16:42:00,16,42,0,14.27,Move drawer: 81.2% open,Processor,Cathode-Ray-Tube-(electrical),,,0,1,0
+st18,HI,5,5/21/21,16:41:45,16:42:03,16,42,3,18.22,Move drawer: -3.8% open,Processor,Cathode-Ray-Tube-(electrical),,,0,1,0
+st18,HI,5,5/21/21,16:41:45,16:42:08,16,42,8,22.31,Move drawer: 6.2% open,Indicator,Cathode-Ray-Tube-(electrical),,,0,1,0
+st18,HI,5,5/21/21,16:41:45,16:42:09,16,42,9,23.91,Move drawer: 59.8% open,Processor,Cathode-Ray-Tube-(electrical),,,0,1,0
+st18,HI,5,5/21/21,16:41:45,16:42:14,16,42,14,28.59,Move drawer: -5.3% open,Processor,Cathode-Ray-Tube-(electrical),,,0,1,0
+st18,HI,5,5/21/21,16:41:45,16:42:17,16,42,17,32.21,Move drawer: 67.1% open,Indicator,Cathode-Ray-Tube-(electrical),,,0,1,0
+st18,HI,5,5/21/21,16:41:45,16:42:22,16,42,22,36.89,Move drawer: -7.3% open,Indicator,Cathode-Ray-Tube-(electrical),,,0,1,0
+st18,HI,5,5/21/21,16:41:45,16:42:24,16,42,24,38.99,Move drawer: 8.2% open,Transmitter,Cathode-Ray-Tube-(electrical),,,0,1,0
+st18,HI,5,5/21/21,16:41:45,16:42:26,16,42,26,40.36,Move drawer: 95% open,Synchronizer,Cathode-Ray-Tube-(electrical),,,0,1,0
+st18,HI,5,5/21/21,16:41:45,16:42:45,16,42,45,59.63,Submit?,,Cathode-Ray-Tube-(electrical),,,0,1,0
+st18,HI,5,5/21/21,16:41:45,16:42:47,16,42,47,61.6,Submit Confirm,,Cathode-Ray-Tube-(electrical),,,0,1,0
+st18,HI,5,5/21/21,16:41:45,16:42:47,16,42,47,61.63,Move drawer: 95% open,Synchronizer,Cathode-Ray-Tube-(electrical),,,0,1,0

@@ -1,0 +1,168 @@
+subject,subject_group,round,round_start_date_utc,round_start_time_utc,current_time_utc,current_hour24,current_minute,current_second,current_elapsed_seconds,event,ui_tab,active_faults,fixed_faults,fixed_nonfaults,ReplacedComponents,FaultsRemaining,ReplacedNonFaults
+st3,HI,1,4/28/21,18:33:23,18:33:23,18,33,23,0.05,Make electrical flaw: Local Oscillator,,Local-Oscillator-(electrical),,,0,1,0
+st3,HI,1,4/28/21,18:33:23,18:33:23,18,33,23,0.05,Start (High Fidelity Sim),,Local-Oscillator-(electrical),,,0,1,0
+st3,HI,1,4/28/21,18:33:23,18:33:39,18,33,39,16.26,Move to Server Box Table,,Local-Oscillator-(electrical),,,0,1,0
+st3,HI,1,4/28/21,18:33:23,18:33:42,18,33,42,18.87,Swing front panel: 0% open,,Local-Oscillator-(electrical),,,0,1,0
+st3,HI,1,4/28/21,18:33:23,18:33:43,18,33,43,20.01,Swing front panel: 70% open,,Local-Oscillator-(electrical),,,0,1,0
+st3,HI,1,4/28/21,18:33:23,18:33:46,18,33,46,22.72,Move drawer: 30.5% open,Tracker,Local-Oscillator-(electrical),,,0,1,0
+st3,HI,1,4/28/21,18:33:23,18:34:02,18,34,2,38.67,Move drawer: 56.5% open,Tracker,Local-Oscillator-(electrical),,,0,1,0
+st3,HI,1,4/28/21,18:33:23,18:34:09,18,34,9,46.22,Move drawer: 51.1% open,Tracker,Local-Oscillator-(electrical),,,0,1,0
+st3,HI,1,4/28/21,18:33:23,18:34:10,18,34,10,47.21,Move drawer: 0% open,Indicator,Local-Oscillator-(electrical),,,0,1,0
+st3,HI,1,4/28/21,18:33:23,18:34:11,18,34,11,47.5,Click on: 'Duplexer',,Local-Oscillator-(electrical),,,0,1,0
+st3,HI,1,4/28/21,18:33:23,18:34:12,18,34,12,49.02,Cancel disconnect: 'Duplexer',,Local-Oscillator-(electrical),,,0,1,0
+st3,HI,1,4/28/21,18:33:23,18:34:12,18,34,12,49.02,Move drawer: 0% open,Synchronizer,Local-Oscillator-(electrical),,,0,1,0
+st3,HI,1,4/28/21,18:33:23,18:34:14,18,34,14,50.87,Move drawer: -8% open,Tracker,Local-Oscillator-(electrical),,,0,1,0
+st3,HI,1,4/28/21,18:33:23,18:34:16,18,34,16,53.11,Move drawer: 94.2% open,Processor,Local-Oscillator-(electrical),,,0,1,0
+st3,HI,1,4/28/21,18:33:23,18:34:24,18,34,24,61.38,Move drawer: 22.4% open,Processor,Local-Oscillator-(electrical),,,0,1,0
+st3,HI,1,4/28/21,18:33:23,18:34:26,18,34,26,62.91,Move drawer: 22.4% open,Processor,Local-Oscillator-(electrical),,,0,1,0
+st3,HI,1,4/28/21,18:33:23,18:34:27,18,34,27,63.74,Click on: 'Local Oscillator',,Local-Oscillator-(electrical),,,0,1,0
+st3,HI,1,4/28/21,18:33:23,18:34:30,18,34,30,67.12,Cancel disconnect: 'Local Oscillator',,Local-Oscillator-(electrical),,,0,1,0
+st3,HI,1,4/28/21,18:33:23,18:34:33,18,34,33,70.19,Move drawer: 39.2% open,Processor,Local-Oscillator-(electrical),,,0,1,0
+st3,HI,1,4/28/21,18:33:23,18:34:35,18,34,35,72.32,Click on: 'Local Oscillator',,Local-Oscillator-(electrical),,,0,1,0
+st3,HI,1,4/28/21,18:33:23,18:34:40,18,34,40,76.61,Disconnect LRU: 'Local Oscillator',,Local-Oscillator-(electrical),,,0,1,0
+st3,HI,1,4/28/21,18:33:23,18:34:42,18,34,42,79.4,Click on: 'Control Circuit',,Local-Oscillator-(electrical),,,0,1,0
+st3,HI,1,4/28/21,18:33:23,18:34:44,18,34,44,80.9,Disconnect LRU: 'Control Circuit',,Local-Oscillator-(electrical),,,0,1,0
+st3,HI,1,4/28/21,18:33:23,18:34:54,18,34,54,90.47,Click on: 'Video Detector',,Local-Oscillator-(electrical),,,0,1,0
+st3,HI,1,4/28/21,18:33:23,18:34:55,18,34,55,92.39,Disconnect LRU: 'Video Detector',,Local-Oscillator-(electrical),,,0,1,0
+st3,HI,1,4/28/21,18:33:23,18:35:00,18,35,0,96.49,Leave Server Box Table,,Local-Oscillator-(electrical),,,0,1,0
+st3,HI,1,4/28/21,18:33:23,18:35:00,18,35,0,97.02,Move to Spare Parts Table,,Local-Oscillator-(electrical),,,0,1,0
+st3,HI,1,4/28/21,18:33:23,18:35:05,18,35,5,101.85,Leave Spare Parts Table,,Local-Oscillator-(electrical),,,0,1,0
+st3,HI,1,4/28/21,18:33:23,18:35:10,18,35,10,107.26,Pick Up LRU: 'Gate Circuit [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+st3,HI,1,4/28/21,18:33:23,18:35:10,18,35,10,107.37,Drop LRU: 'Gate Circuit [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+st3,HI,1,4/28/21,18:33:23,18:35:11,18,35,11,107.46,Pick Up LRU: 'Gate Circuit [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+st3,HI,1,4/28/21,18:33:23,18:35:11,18,35,11,107.53,Drop LRU: 'Gate Circuit [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+st3,HI,1,4/28/21,18:33:23,18:35:11,18,35,11,107.61,Pick Up LRU: 'Gate Circuit [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+st3,HI,1,4/28/21,18:33:23,18:35:12,18,35,12,108.81,Drop LRU: 'Gate Circuit [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+st3,HI,1,4/28/21,18:33:23,18:35:14,18,35,14,111.38,Move to Spare Parts Table,,Local-Oscillator-(electrical),,,0,1,0
+st3,HI,1,4/28/21,18:33:23,18:35:36,18,35,36,133,Leave Spare Parts Table,,Local-Oscillator-(electrical),,,0,1,0
+st3,HI,1,4/28/21,18:33:23,18:35:37,18,35,37,133.83,Move to Spare Parts Table,,Local-Oscillator-(electrical),,,0,1,0
+st3,HI,1,4/28/21,18:33:23,18:35:56,18,35,56,152.9,Pick Up LRU: 'Limiter [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+st3,HI,1,4/28/21,18:33:23,18:36:03,18,36,3,159.6,Leave Spare Parts Table,,Local-Oscillator-(electrical),,,0,1,0
+st3,HI,1,4/28/21,18:33:23,18:36:04,18,36,4,160.83,Move to Server Box Table,,Local-Oscillator-(electrical),,,0,1,0
+st3,HI,1,4/28/21,18:33:23,18:36:07,18,36,7,164.15,Drop LRU: 'Limiter [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+st3,HI,1,4/28/21,18:33:23,18:36:11,18,36,11,167.86,Move drawer: 77.5% open,Processor,Local-Oscillator-(electrical),,,0,1,0
+st3,HI,1,4/28/21,18:33:23,18:36:12,18,36,12,168.75,Pick Up LRU: 'Limiter [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+st3,HI,1,4/28/21,18:33:23,18:36:12,18,36,12,169.08,Attempt to reconnect mismatched LRU: 'Limiter [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+st3,HI,1,4/28/21,18:33:23,18:36:14,18,36,14,170.61,Drop LRU: 'Limiter [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+st3,HI,1,4/28/21,18:33:23,18:36:14,18,36,14,170.89,Attempt to reconnect mismatched LRU: 'Limiter [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+st3,HI,1,4/28/21,18:33:23,18:36:15,18,36,15,171.68,Click on: 'AFC Mixer',,Local-Oscillator-(electrical),,,0,1,0
+st3,HI,1,4/28/21,18:33:23,18:36:17,18,36,17,173.65,Cancel disconnect: 'AFC Mixer',,Local-Oscillator-(electrical),,,0,1,0
+st3,HI,1,4/28/21,18:33:23,18:36:18,18,36,18,174.85,Move drawer: 77% open,Processor,Local-Oscillator-(electrical),,,0,1,0
+st3,HI,1,4/28/21,18:33:23,18:36:18,18,36,18,174.91,Pick Up LRU: 'Limiter [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+st3,HI,1,4/28/21,18:33:23,18:36:18,18,36,18,175.04,Drop LRU: 'Limiter [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+st3,HI,1,4/28/21,18:33:23,18:36:18,18,36,18,175.27,Attempt to reconnect mismatched LRU: 'Limiter [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+st3,HI,1,4/28/21,18:33:23,18:36:32,18,36,32,188.91,Leave Server Box Table,,Local-Oscillator-(electrical),,,0,1,0
+st3,HI,1,4/28/21,18:33:23,18:36:33,18,36,33,189.56,Move to Spare Parts Table,,Local-Oscillator-(electrical),,,0,1,0
+st3,HI,1,4/28/21,18:33:23,18:37:18,18,37,18,234.57,Pick Up LRU: 'Frequency Synthesizer [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+st3,HI,1,4/28/21,18:33:23,18:37:19,18,37,19,236.09,Drop LRU: 'Frequency Synthesizer [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+st3,HI,1,4/28/21,18:33:23,18:37:23,18,37,23,239.66,Pick Up LRU: 'Frequency Synthesizer [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+st3,HI,1,4/28/21,18:33:23,18:37:23,18,37,23,239.96,Drop LRU: 'Frequency Synthesizer [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+st3,HI,1,4/28/21,18:33:23,18:37:54,18,37,54,271.28,Pick Up LRU: 'RC Differentiator [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+st3,HI,1,4/28/21,18:33:23,18:37:55,18,37,55,272.13,Drop LRU: 'RC Differentiator [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+st3,HI,1,4/28/21,18:33:23,18:38:01,18,38,1,278.23,Leave Spare Parts Table,,Local-Oscillator-(electrical),,,0,1,0
+st3,HI,1,4/28/21,18:33:23,18:38:02,18,38,2,278.81,Move to Server Box Table,,Local-Oscillator-(electrical),,,0,1,0
+st3,HI,1,4/28/21,18:33:23,18:38:06,18,38,6,282.96,Pick Up LRU: 'Control Circuit',,Local-Oscillator-(electrical),,,0,1,0
+st3,HI,1,4/28/21,18:33:23,18:38:08,18,38,8,284.81,Attempt to reconnect mismatched LRU: 'Control Circuit',,Local-Oscillator-(electrical),,,0,1,0
+st3,HI,1,4/28/21,18:33:23,18:38:08,18,38,8,285.18,Drop LRU: 'Control Circuit',,Local-Oscillator-(electrical),,,0,1,0
+st3,HI,1,4/28/21,18:33:23,18:38:12,18,38,12,288.47,Pick Up LRU: 'Control Circuit',,Local-Oscillator-(electrical),,,0,1,0
+st3,HI,1,4/28/21,18:33:23,18:38:12,18,38,12,288.72,Drop LRU: 'Control Circuit',,Local-Oscillator-(electrical),,,0,1,0
+st3,HI,1,4/28/21,18:33:23,18:38:12,18,38,12,288.92,Pick Up LRU: 'Control Circuit',,Local-Oscillator-(electrical),,,0,1,0
+st3,HI,1,4/28/21,18:33:23,18:38:12,18,38,12,288.96,Attempt to reconnect mismatched LRU: 'Control Circuit',,Local-Oscillator-(electrical),,,0,1,0
+st3,HI,1,4/28/21,18:33:23,18:38:12,18,38,12,289.01,Drop LRU: 'Control Circuit',,Local-Oscillator-(electrical),,,0,1,0
+st3,HI,1,4/28/21,18:33:23,18:38:12,18,38,12,289.15,Pick Up LRU: 'Control Circuit',,Local-Oscillator-(electrical),,,0,1,0
+st3,HI,1,4/28/21,18:33:23,18:38:12,18,38,12,289.29,Drop LRU: 'Control Circuit',,Local-Oscillator-(electrical),,,0,1,0
+st3,HI,1,4/28/21,18:33:23,18:38:13,18,38,13,289.58,Attempt to reconnect mismatched LRU: 'Control Circuit',,Local-Oscillator-(electrical),,,0,1,0
+st3,HI,1,4/28/21,18:33:23,18:38:58,18,38,58,334.91,Leave Server Box Table,,Local-Oscillator-(electrical),,,0,1,0
+st3,HI,1,4/28/21,18:33:23,18:38:59,18,38,59,335.55,Move to Spare Parts Table,,Local-Oscillator-(electrical),,,0,1,0
+st3,HI,1,4/28/21,18:33:23,18:39:42,18,39,42,378.9,Pick Up LRU: 'Cathode Ray Tube [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+st3,HI,1,4/28/21,18:33:23,18:39:45,18,39,45,382.39,Leave Spare Parts Table,,Local-Oscillator-(electrical),,,0,1,0
+st3,HI,1,4/28/21,18:33:23,18:39:47,18,39,47,383.82,Drop LRU: 'Cathode Ray Tube [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+st3,HI,1,4/28/21,18:33:23,18:39:50,18,39,50,386.73,Pick Up LRU: 'Cathode Ray Tube [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+st3,HI,1,4/28/21,18:33:23,18:39:50,18,39,50,386.87,Drop LRU: 'Cathode Ray Tube [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+st3,HI,1,4/28/21,18:33:23,18:39:50,18,39,50,387.39,Pick Up LRU: 'Cathode Ray Tube [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+st3,HI,1,4/28/21,18:33:23,18:39:51,18,39,51,387.47,Move to Server Box Table,,Local-Oscillator-(electrical),,,0,1,0
+st3,HI,1,4/28/21,18:33:23,18:39:51,18,39,51,388.09,Leave Server Box Table,,Local-Oscillator-(electrical),,,0,1,0
+st3,HI,1,4/28/21,18:33:23,18:39:51,18,39,51,388.23,Drop LRU: 'Cathode Ray Tube [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+st3,HI,1,4/28/21,18:33:23,18:39:54,18,39,54,390.83,Move to Server Box Table,,Local-Oscillator-(electrical),,,0,1,0
+st3,HI,1,4/28/21,18:33:23,18:40:04,18,40,4,400.6,Move drawer: 87% open,Tracker,Local-Oscillator-(electrical),,,0,1,0
+st3,HI,1,4/28/21,18:33:23,18:40:08,18,40,8,404.55,Move drawer: 95.1% open,Tracker,Local-Oscillator-(electrical),,,0,1,0
+st3,HI,1,4/28/21,18:33:23,18:41:07,18,41,7,463.76,Leave Server Box Table,,Local-Oscillator-(electrical),,,0,1,0
+st3,HI,1,4/28/21,18:33:23,18:41:18,18,41,18,475.08,Move to Server Box Table,,Local-Oscillator-(electrical),,,0,1,0
+st3,HI,1,4/28/21,18:33:23,18:41:26,18,41,26,482.41,Leave Server Box Table,,Local-Oscillator-(electrical),,,0,1,0
+st3,HI,1,4/28/21,18:33:23,18:41:27,18,41,27,483.75,Move to Spare Parts Table,,Local-Oscillator-(electrical),,,0,1,0
+st3,HI,1,4/28/21,18:33:23,18:41:27,18,41,27,484.36,Leave Spare Parts Table,,Local-Oscillator-(electrical),,,0,1,0
+st3,HI,1,4/28/21,18:33:23,18:41:33,18,41,33,489.86,Move to Spare Parts Table,,Local-Oscillator-(electrical),,,0,1,0
+st3,HI,1,4/28/21,18:33:23,18:41:35,18,41,35,491.61,Leave Spare Parts Table,,Local-Oscillator-(electrical),,,0,1,0
+st3,HI,1,4/28/21,18:33:23,18:41:54,18,41,54,510.54,Move to Spare Parts Table,,Local-Oscillator-(electrical),,,0,1,0
+st3,HI,1,4/28/21,18:33:23,18:41:55,18,41,55,512.39,Leave Spare Parts Table,,Local-Oscillator-(electrical),,,0,1,0
+st3,HI,1,4/28/21,18:33:23,18:41:57,18,41,57,514.21,Move to Server Box Table,,Local-Oscillator-(electrical),,,0,1,0
+st3,HI,1,4/28/21,18:33:23,18:41:59,18,41,59,516.06,Leave Server Box Table,,Local-Oscillator-(electrical),,,0,1,0
+st3,HI,1,4/28/21,18:33:23,18:42:00,18,42,0,516.52,Move to Server Box Table,,Local-Oscillator-(electrical),,,0,1,0
+st3,HI,1,4/28/21,18:33:23,18:42:00,18,42,0,516.86,Leave Server Box Table,,Local-Oscillator-(electrical),,,0,1,0
+st3,HI,1,4/28/21,18:33:23,18:42:01,18,42,1,517.61,Move to Server Box Table,,Local-Oscillator-(electrical),,,0,1,0
+st3,HI,1,4/28/21,18:33:23,18:42:24,18,42,24,541.06,Leave Server Box Table,,Local-Oscillator-(electrical),,,0,1,0
+st3,HI,1,4/28/21,18:33:23,18:42:25,18,42,25,541.61,Move to Server Box Table,,Local-Oscillator-(electrical),,,0,1,0
+st3,HI,1,4/28/21,18:33:23,18:42:25,18,42,25,542.1,Leave Server Box Table,,Local-Oscillator-(electrical),,,0,1,0
+st3,HI,1,4/28/21,18:33:23,18:42:26,18,42,26,543.39,Move to Spare Parts Table,,Local-Oscillator-(electrical),,,0,1,0
+st3,HI,1,4/28/21,18:33:23,18:42:27,18,42,27,543.73,Leave Spare Parts Table,,Local-Oscillator-(electrical),,,0,1,0
+st3,HI,1,4/28/21,18:33:23,18:42:27,18,42,27,544.33,Move to Spare Parts Table,,Local-Oscillator-(electrical),,,0,1,0
+st3,HI,1,4/28/21,18:33:23,18:42:49,18,42,49,566.2,Leave Spare Parts Table,,Local-Oscillator-(electrical),,,0,1,0
+st3,HI,1,4/28/21,18:33:23,18:42:50,18,42,50,567.01,Move to Spare Parts Table,,Local-Oscillator-(electrical),,,0,1,0
+st3,HI,1,4/28/21,18:33:23,18:42:51,18,42,51,567.58,Leave Spare Parts Table,,Local-Oscillator-(electrical),,,0,1,0
+st3,HI,1,4/28/21,18:33:23,18:42:51,18,42,51,568.03,Move to Spare Parts Table,,Local-Oscillator-(electrical),,,0,1,0
+st3,HI,1,4/28/21,18:33:23,18:43:21,18,43,21,597.77,Leave Spare Parts Table,,Local-Oscillator-(electrical),,,0,1,0
+st3,HI,1,4/28/21,18:33:23,18:43:23,18,43,23,599.86,Move to Server Box Table,,Local-Oscillator-(electrical),,,0,1,0
+st3,HI,1,4/28/21,18:33:23,18:43:36,18,43,36,612.97,Leave Server Box Table,,Local-Oscillator-(electrical),,,0,1,0
+st3,HI,1,4/28/21,18:33:23,18:43:37,18,43,37,613.87,Move to Spare Parts Table,,Local-Oscillator-(electrical),,,0,1,0
+st3,HI,1,4/28/21,18:33:23,18:44:12,18,44,12,649.39,Leave Spare Parts Table,,Local-Oscillator-(electrical),,,0,1,0
+st3,HI,1,4/28/21,18:33:23,18:44:13,18,44,13,649.97,Move to Spare Parts Table,,Local-Oscillator-(electrical),,,0,1,0
+st3,HI,1,4/28/21,18:33:23,18:44:14,18,44,14,650.5,Leave Spare Parts Table,,Local-Oscillator-(electrical),,,0,1,0
+st3,HI,1,4/28/21,18:33:23,18:44:14,18,44,14,650.71,Move to Spare Parts Table,,Local-Oscillator-(electrical),,,0,1,0
+st3,HI,1,4/28/21,18:33:23,18:44:15,18,44,15,651.82,Leave Spare Parts Table,,Local-Oscillator-(electrical),,,0,1,0
+st3,HI,1,4/28/21,18:33:23,18:44:16,18,44,16,653.25,Move to Server Box Table,,Local-Oscillator-(electrical),,,0,1,0
+st3,HI,1,4/28/21,18:33:23,18:44:24,18,44,24,660.64,Move drawer: 92.7% open,Tracker,Local-Oscillator-(electrical),,,0,1,0
+st3,HI,1,4/28/21,18:33:23,18:44:27,18,44,27,664.31,Move drawer: 92.7% open,Tracker,Local-Oscillator-(electrical),,,0,1,0
+st3,HI,1,4/28/21,18:33:23,18:44:28,18,44,28,664.55,Move drawer: 92.7% open,Tracker,Local-Oscillator-(electrical),,,0,1,0
+st3,HI,1,4/28/21,18:33:23,18:44:28,18,44,28,664.8,Move drawer: 92.9% open,Tracker,Local-Oscillator-(electrical),,,0,1,0
+st3,HI,1,4/28/21,18:33:23,18:44:35,18,44,35,671.55,Move drawer: 92.9% open,Tracker,Local-Oscillator-(electrical),,,0,1,0
+st3,HI,1,4/28/21,18:33:23,18:44:36,18,44,36,672.48,Move drawer: 92.8% open,Tracker,Local-Oscillator-(electrical),,,0,1,0
+st3,HI,1,4/28/21,18:33:23,18:44:37,18,44,37,673.56,Move drawer: 92.8% open,Tracker,Local-Oscillator-(electrical),,,0,1,0
+st3,HI,1,4/28/21,18:33:23,18:44:37,18,44,37,673.83,Move drawer: 92.8% open,Tracker,Local-Oscillator-(electrical),,,0,1,0
+st3,HI,1,4/28/21,18:33:23,18:44:37,18,44,37,674.03,Move drawer: 92.8% open,Tracker,Local-Oscillator-(electrical),,,0,1,0
+st3,HI,1,4/28/21,18:33:23,18:44:39,18,44,39,675.86,Attempt to reconnect mismatched LRU: 'Video Detector',,Local-Oscillator-(electrical),,,0,1,0
+st3,HI,1,4/28/21,18:33:23,18:44:39,18,44,39,675.92,Move drawer: -11% open,Processor,Local-Oscillator-(electrical),,,0,1,0
+st3,HI,1,4/28/21,18:33:23,18:44:42,18,44,42,678.6,Connect LRU: 'Video Detector',,Local-Oscillator-(electrical),,,0,1,0
+st3,HI,1,4/28/21,18:33:23,18:44:47,18,44,47,683.88,Move drawer: 92.8% open,Tracker,Local-Oscillator-(electrical),,,0,1,0
+st3,HI,1,4/28/21,18:33:23,18:44:48,18,44,48,684.49,Move drawer: 92.8% open,Tracker,Local-Oscillator-(electrical),,,0,1,0
+st3,HI,1,4/28/21,18:33:23,18:44:48,18,44,48,684.85,Move drawer: 92.8% open,Tracker,Local-Oscillator-(electrical),,,0,1,0
+st3,HI,1,4/28/21,18:33:23,18:44:48,18,44,48,685.36,Swing front panel: 100% open,,Local-Oscillator-(electrical),,,0,1,0
+st3,HI,1,4/28/21,18:33:23,18:44:50,18,44,50,687.39,Move drawer: 51.6% open,Tracker,Local-Oscillator-(electrical),,,0,1,0
+st3,HI,1,4/28/21,18:33:23,18:44:56,18,44,56,693.23,Move drawer: 14.9% open,Tracker,Local-Oscillator-(electrical),,,0,1,0
+st3,HI,1,4/28/21,18:33:23,18:45:01,18,45,1,697.42,Move drawer: 85.1% open,Processor,Local-Oscillator-(electrical),,,0,1,0
+st3,HI,1,4/28/21,18:33:23,18:45:02,18,45,2,699.17,Click on: 'Video Detector',,Local-Oscillator-(electrical),,,0,1,0
+st3,HI,1,4/28/21,18:33:23,18:45:04,18,45,4,700.8,Disconnect LRU: 'Video Detector',,Local-Oscillator-(electrical),,,0,1,0
+st3,HI,1,4/28/21,18:33:23,18:45:06,18,45,6,703.24,Connect LRU: 'Video Detector',,Local-Oscillator-(electrical),,,0,1,0
+st3,HI,1,4/28/21,18:33:23,18:45:13,18,45,13,709.64,Click on: 'Video Detector',,Local-Oscillator-(electrical),,,0,1,0
+st3,HI,1,4/28/21,18:33:23,18:45:15,18,45,15,711.83,Disconnect LRU: 'Video Detector',,Local-Oscillator-(electrical),,,0,1,0
+st3,HI,1,4/28/21,18:33:23,18:45:16,18,45,16,713.25,Cancel connect: 'Video Detector',,Local-Oscillator-(electrical),,,0,1,0
+st3,HI,1,4/28/21,18:33:23,18:45:16,18,45,16,713.25,Move drawer: 14.9% open,Tracker,Local-Oscillator-(electrical),,,0,1,0
+st3,HI,1,4/28/21,18:33:23,18:45:32,18,45,32,729.33,Move drawer: 98.9% open,Processor,Local-Oscillator-(electrical),,,0,1,0
+st3,HI,1,4/28/21,18:33:23,18:45:34,18,45,34,731.38,Move drawer: 95.4% open,Processor,Local-Oscillator-(electrical),,,0,1,0
+st3,HI,1,4/28/21,18:33:23,18:45:35,18,45,35,731.92,Move drawer: 95.4% open,Processor,Local-Oscillator-(electrical),,,0,1,0
+st3,HI,1,4/28/21,18:33:23,18:45:35,18,45,35,732.13,Move drawer: 95.4% open,Processor,Local-Oscillator-(electrical),,,0,1,0
+st3,HI,1,4/28/21,18:33:23,18:45:35,18,45,35,732.33,Move drawer: 95.4% open,Processor,Local-Oscillator-(electrical),,,0,1,0
+st3,HI,1,4/28/21,18:33:23,18:46:15,18,46,15,771.73,Leave Server Box Table,,Local-Oscillator-(electrical),,,0,1,0
+st3,HI,1,4/28/21,18:33:23,18:46:17,18,46,17,773.54,Move to Server Box Table,,Local-Oscillator-(electrical),,,0,1,0
+st3,HI,1,4/28/21,18:33:23,18:46:18,18,46,18,775.09,Leave Server Box Table,,Local-Oscillator-(electrical),,,0,1,0
+st3,HI,1,4/28/21,18:33:23,18:46:19,18,46,19,775.75,Move to Spare Parts Table,,Local-Oscillator-(electrical),,,0,1,0
+st3,HI,1,4/28/21,18:33:23,18:47:01,18,47,1,817.86,Leave Spare Parts Table,,Local-Oscillator-(electrical),,,0,1,0
+st3,HI,1,4/28/21,18:33:23,18:47:01,18,47,1,818.24,Move to Server Box Table,,Local-Oscillator-(electrical),,,0,1,0
+st3,HI,1,4/28/21,18:33:23,18:47:02,18,47,2,819.19,Leave Server Box Table,,Local-Oscillator-(electrical),,,0,1,0
+st3,HI,1,4/28/21,18:33:23,18:47:30,18,47,30,846.7,Move to Spare Parts Table,,Local-Oscillator-(electrical),,,0,1,0
+st3,HI,1,4/28/21,18:33:23,18:47:30,18,47,30,847.3,Leave Spare Parts Table,,Local-Oscillator-(electrical),,,0,1,0
+st3,HI,1,4/28/21,18:33:23,18:47:31,18,47,31,847.6,Move to Server Box Table,,Local-Oscillator-(electrical),,,0,1,0
+st3,HI,1,4/28/21,18:33:23,18:47:31,18,47,31,848.16,Leave Server Box Table,,Local-Oscillator-(electrical),,,0,1,0
+st3,HI,1,4/28/21,18:33:23,18:47:57,18,47,57,873.9,Submit?,,Local-Oscillator-(electrical),,,0,1,0
+st3,HI,1,4/28/21,18:33:23,18:47:59,18,47,59,876.15,Submit Confirm,,Local-Oscillator-(electrical),,,0,1,0
+st3,HI,2,4/28/21,18:48:00,18:48:00,18,48,0,0,Make electrical flaw: Receiver Waveguide,,Receiver-Waveguide-(electrical),,,0,1,0
+st3,HI,2,4/28/21,18:48:00,18:48:00,18,48,0,0,Start (High Fidelity Sim),,Receiver-Waveguide-(electrical),,,0,1,0

@@ -1,0 +1,203 @@
+subject,subject_group,round,round_start_date_utc,round_start_time_utc,current_time_utc,current_hour24,current_minute,current_second,current_elapsed_seconds,event,ui_tab,active_faults,fixed_faults,fixed_nonfaults,ReplacedComponents,FaultsRemaining,ReplacedNonFaults
+st49,LO,1,6/15/21,6:44:05,6:44:05,18,44,5,0.05,Make electrical flaw: AFC Amplifier,Front Panel,AFC-Amplifier-(electrical),,,0,1,0
+st49,LO,1,6/15/21,6:44:05,6:44:05,18,44,5,0.06,Start,Front Panel,AFC-Amplifier-(electrical),,,0,1,0
+st49,LO,1,6/15/21,6:44:05,6:44:05,18,44,5,0.06,Change tab,Front Panel,AFC-Amplifier-(electrical),,,0,1,0
+st49,LO,1,6/15/21,6:44:05,6:44:57,18,44,57,51.34,Change tab,Transmitter,AFC-Amplifier-(electrical),,,0,1,0
+st49,LO,1,6/15/21,6:44:05,6:45:11,18,45,11,65.23,Change tab,Indicator,AFC-Amplifier-(electrical),,,0,1,0
+st49,LO,1,6/15/21,6:44:05,6:45:12,18,45,12,66.48,Click node: 'Cathode Ray Tube',Indicator,AFC-Amplifier-(electrical),,,0,1,0
+st49,LO,1,6/15/21,6:44:05,6:45:13,18,45,13,68.13,Cancel window: 'Cathode Ray Tube',Indicator,AFC-Amplifier-(electrical),,,0,1,0
+st49,LO,1,6/15/21,6:44:05,6:45:17,18,45,17,71.38,Click node: 'Cathode Ray Tube',Indicator,AFC-Amplifier-(electrical),,,0,1,0
+st49,LO,1,6/15/21,6:44:05,6:45:18,18,45,18,72.55,Replaced unnecessarily Cathode Ray Tube (electrical),Indicator,AFC-Amplifier-(electrical),,Cathode-Ray-Tube-(electrical),1,1,1
+st49,LO,1,6/15/21,6:44:05,6:45:20,18,45,20,74.42,Change tab,Processor,AFC-Amplifier-(electrical),,Cathode-Ray-Tube-(electrical),1,1,1
+st49,LO,1,6/15/21,6:44:05,6:45:33,18,45,33,87.51,Change tab,Indicator,AFC-Amplifier-(electrical),,Cathode-Ray-Tube-(electrical),1,1,1
+st49,LO,1,6/15/21,6:44:05,6:45:37,18,45,37,91.58,Change tab,Processor,AFC-Amplifier-(electrical),,Cathode-Ray-Tube-(electrical),1,1,1
+st49,LO,1,6/15/21,6:44:05,6:46:19,18,46,19,134.16,Change tab,Tracker,AFC-Amplifier-(electrical),,Cathode-Ray-Tube-(electrical),1,1,1
+st49,LO,1,6/15/21,6:44:05,6:46:21,18,46,21,135.52,Change tab,Transmitter,AFC-Amplifier-(electrical),,Cathode-Ray-Tube-(electrical),1,1,1
+st49,LO,1,6/15/21,6:44:05,6:46:44,18,46,44,158.7,Change tab,Synchronizer,AFC-Amplifier-(electrical),,Cathode-Ray-Tube-(electrical),1,1,1
+st49,LO,1,6/15/21,6:44:05,6:46:46,18,46,46,160.5,Change tab,Transmitter,AFC-Amplifier-(electrical),,Cathode-Ray-Tube-(electrical),1,1,1
+st49,LO,1,6/15/21,6:44:05,6:47:32,18,47,32,207.19,Change tab,Synchronizer,AFC-Amplifier-(electrical),,Cathode-Ray-Tube-(electrical),1,1,1
+st49,LO,1,6/15/21,6:44:05,6:47:34,18,47,34,208.34,Change tab,Tracker,AFC-Amplifier-(electrical),,Cathode-Ray-Tube-(electrical),1,1,1
+st49,LO,1,6/15/21,6:44:05,6:47:35,18,47,35,209.34,Change tab,Processor,AFC-Amplifier-(electrical),,Cathode-Ray-Tube-(electrical),1,1,1
+st49,LO,1,6/15/21,6:44:05,6:47:42,18,47,42,217.08,Click node: 'AFC Amplifier',Processor,AFC-Amplifier-(electrical),,Cathode-Ray-Tube-(electrical),1,1,1
+st49,LO,1,6/15/21,6:44:05,6:47:44,18,47,44,218.56,Fixed AFC Amplifier (electrical),Processor,,AFC-Amplifier-(electrical),Cathode-Ray-Tube-(electrical),2,0,1
+st49,LO,1,6/15/21,6:44:05,6:47:46,18,47,46,220.88,Change tab,Indicator,,AFC-Amplifier-(electrical),Cathode-Ray-Tube-(electrical),2,0,1
+st49,LO,1,6/15/21,6:44:05,6:47:48,18,47,48,222.58,Change tab,Processor,,AFC-Amplifier-(electrical),Cathode-Ray-Tube-(electrical),2,0,1
+st49,LO,1,6/15/21,6:44:05,6:47:49,18,47,49,223.43,Change tab,Tracker,,AFC-Amplifier-(electrical),Cathode-Ray-Tube-(electrical),2,0,1
+st49,LO,1,6/15/21,6:44:05,6:47:49,18,47,49,223.95,Change tab,Transmitter,,AFC-Amplifier-(electrical),Cathode-Ray-Tube-(electrical),2,0,1
+st49,LO,1,6/15/21,6:44:05,6:47:52,18,47,52,226.92,Change tab,Front Panel,,AFC-Amplifier-(electrical),Cathode-Ray-Tube-(electrical),2,0,1
+st49,LO,1,6/15/21,6:44:05,6:47:54,18,47,54,228.57,Change tab,Transmitter,,AFC-Amplifier-(electrical),Cathode-Ray-Tube-(electrical),2,0,1
+st49,LO,1,6/15/21,6:44:05,6:48:39,18,48,39,273.82,Change tab,Front Panel,,AFC-Amplifier-(electrical),Cathode-Ray-Tube-(electrical),2,0,1
+st49,LO,1,6/15/21,6:44:05,6:48:42,18,48,42,277.05,Change tab,Front Panel,,AFC-Amplifier-(electrical),Cathode-Ray-Tube-(electrical),2,0,1
+st49,LO,1,6/15/21,6:44:05,6:48:43,18,48,43,277.54,Change tab,Front Panel,,AFC-Amplifier-(electrical),Cathode-Ray-Tube-(electrical),2,0,1
+st49,LO,1,6/15/21,6:44:05,6:48:43,18,48,43,278.19,Change tab,Synchronizer,,AFC-Amplifier-(electrical),Cathode-Ray-Tube-(electrical),2,0,1
+st49,LO,1,6/15/21,6:44:05,6:48:45,18,48,45,279.99,Change tab,Front Panel,,AFC-Amplifier-(electrical),Cathode-Ray-Tube-(electrical),2,0,1
+st49,LO,1,6/15/21,6:44:05,6:48:58,18,48,58,292.27,Change tab,Synchronizer,,AFC-Amplifier-(electrical),Cathode-Ray-Tube-(electrical),2,0,1
+st49,LO,1,6/15/21,6:44:05,6:49:00,18,49,0,294.38,Change tab,Transmitter,,AFC-Amplifier-(electrical),Cathode-Ray-Tube-(electrical),2,0,1
+st49,LO,1,6/15/21,6:44:05,6:49:05,18,49,5,299.76,Change tab,Front Panel,,AFC-Amplifier-(electrical),Cathode-Ray-Tube-(electrical),2,0,1
+st49,LO,1,6/15/21,6:44:05,6:49:08,18,49,8,303.11,Change tab,Processor,,AFC-Amplifier-(electrical),Cathode-Ray-Tube-(electrical),2,0,1
+st49,LO,1,6/15/21,6:44:05,6:49:09,18,49,9,304.12,Change tab,Indicator,,AFC-Amplifier-(electrical),Cathode-Ray-Tube-(electrical),2,0,1
+st49,LO,1,6/15/21,6:44:05,6:49:10,18,49,10,305.18,Change tab,Front Panel,,AFC-Amplifier-(electrical),Cathode-Ray-Tube-(electrical),2,0,1
+st49,LO,1,6/15/21,6:44:05,6:49:14,18,49,14,308.41,Submit?,Front Panel,,AFC-Amplifier-(electrical),Cathode-Ray-Tube-(electrical),2,0,1
+st49,LO,1,6/15/21,6:44:05,6:49:16,18,49,16,310.3,Submit Confirm,Front Panel,,AFC-Amplifier-(electrical),Cathode-Ray-Tube-(electrical),2,0,1
+st49,LO,2,6/15/21,6:49:20,6:49:20,18,49,20,0,Make electrical flaw: Sweep Generator Circuit,Front Panel,Sweep-Generator-Circuit-(electrical),,,0,1,0
+st49,LO,2,6/15/21,6:49:20,6:49:20,18,49,20,0,Start,Front Panel,Sweep-Generator-Circuit-(electrical),,,0,1,0
+st49,LO,2,6/15/21,6:49:20,6:49:27,18,49,27,7.38,Change tab,Indicator,Sweep-Generator-Circuit-(electrical),,,0,1,0
+st49,LO,2,6/15/21,6:49:20,6:49:39,18,49,39,19.57,Change tab,Processor,Sweep-Generator-Circuit-(electrical),,,0,1,0
+st49,LO,2,6/15/21,6:49:20,6:49:41,18,49,41,21.6,Change tab,Transmitter,Sweep-Generator-Circuit-(electrical),,,0,1,0
+st49,LO,2,6/15/21,6:49:20,6:49:42,18,49,42,22.52,Change tab,Tracker,Sweep-Generator-Circuit-(electrical),,,0,1,0
+st49,LO,2,6/15/21,6:49:20,6:49:43,18,49,43,23.75,Change tab,Front Panel,Sweep-Generator-Circuit-(electrical),,,0,1,0
+st49,LO,2,6/15/21,6:49:20,6:49:45,18,49,45,24.99,Change tab,Indicator,Sweep-Generator-Circuit-(electrical),,,0,1,0
+st49,LO,2,6/15/21,6:49:20,6:49:52,18,49,52,32.41,Click node: 'Sweep Generator Circuit',Indicator,Sweep-Generator-Circuit-(electrical),,,0,1,0
+st49,LO,2,6/15/21,6:49:20,6:49:53,18,49,53,33.77,Fixed Sweep Generator Circuit (electrical),Indicator,,Sweep-Generator-Circuit-(electrical),,1,0,0
+st49,LO,2,6/15/21,6:49:20,6:49:55,18,49,55,35.86,Change tab,Front Panel,,Sweep-Generator-Circuit-(electrical),,1,0,0
+st49,LO,2,6/15/21,6:49:20,6:49:57,18,49,57,37.15,Submit?,Front Panel,,Sweep-Generator-Circuit-(electrical),,1,0,0
+st49,LO,2,6/15/21,6:49:20,6:49:59,18,49,59,38.9,Submit Confirm,Front Panel,,Sweep-Generator-Circuit-(electrical),,1,0,0
+st49,LO,3,6/15/21,6:50:02,6:50:02,18,50,2,0,Make electrical flaw: Stage 2 Modulator,Front Panel,Stage-2-Modulator-(electrical),,,0,1,0
+st49,LO,3,6/15/21,6:50:02,6:50:02,18,50,2,0,Start,Front Panel,Stage-2-Modulator-(electrical),,,0,1,0
+st49,LO,3,6/15/21,6:50:02,6:50:09,18,50,9,6.71,Change tab,Transmitter,Stage-2-Modulator-(electrical),,,0,1,0
+st49,LO,3,6/15/21,6:50:02,6:50:27,18,50,27,24.99,Click node: 'Stage 2 Modulator',Transmitter,Stage-2-Modulator-(electrical),,,0,1,0
+st49,LO,3,6/15/21,6:50:02,6:50:28,18,50,28,26.25,Fixed Stage 2 Modulator (electrical),Transmitter,,Stage-2-Modulator-(electrical),,1,0,0
+st49,LO,3,6/15/21,6:50:02,6:50:30,18,50,30,28.12,Change tab,Front Panel,,Stage-2-Modulator-(electrical),,1,0,0
+st49,LO,3,6/15/21,6:50:02,6:50:35,18,50,35,33.06,Submit?,Front Panel,,Stage-2-Modulator-(electrical),,1,0,0
+st49,LO,3,6/15/21,6:50:02,6:50:36,18,50,36,34.18,Submit Confirm,Front Panel,,Stage-2-Modulator-(electrical),,1,0,0
+st49,LO,4,6/15/21,6:50:38,6:50:38,18,50,38,0,Make electrical flaw: Duplexer,Front Panel,Duplexer-(electrical),,,0,1,0
+st49,LO,4,6/15/21,6:50:38,6:50:38,18,50,38,0,Start,Front Panel,Duplexer-(electrical),,,0,1,0
+st49,LO,4,6/15/21,6:50:38,6:50:45,18,50,45,6.37,Change tab,Indicator,Duplexer-(electrical),,,0,1,0
+st49,LO,4,6/15/21,6:50:38,6:50:52,18,50,52,13.94,Change tab,Processor,Duplexer-(electrical),,,0,1,0
+st49,LO,4,6/15/21,6:50:38,6:51:24,18,51,24,46.1,Click node: 'Low Noise RF Amplifier',Processor,Duplexer-(electrical),,,0,1,0
+st49,LO,4,6/15/21,6:50:38,6:51:26,18,51,26,47.55,Replaced unnecessarily Low Noise RF Amplifier (electrical),Processor,Duplexer-(electrical),,Low-Noise-RF-Amplifier-(electrical),1,1,1
+st49,LO,4,6/15/21,6:50:38,6:51:33,18,51,33,54.26,Change tab,Tracker,Duplexer-(electrical),,Low-Noise-RF-Amplifier-(electrical),1,1,1
+st49,LO,4,6/15/21,6:50:38,6:51:46,18,51,46,68.03,Change tab,Front Panel,Duplexer-(electrical),,Low-Noise-RF-Amplifier-(electrical),1,1,1
+st49,LO,4,6/15/21,6:50:38,6:51:48,18,51,48,70.18,Change tab,Synchronizer,Duplexer-(electrical),,Low-Noise-RF-Amplifier-(electrical),1,1,1
+st49,LO,4,6/15/21,6:50:38,6:51:49,18,51,49,71.05,Change tab,Transmitter,Duplexer-(electrical),,Low-Noise-RF-Amplifier-(electrical),1,1,1
+st49,LO,4,6/15/21,6:50:38,6:51:51,18,51,51,72.59,Change tab,Tracker,Duplexer-(electrical),,Low-Noise-RF-Amplifier-(electrical),1,1,1
+st49,LO,4,6/15/21,6:50:38,6:51:55,18,51,55,76.47,Click node: 'Duplexer',Tracker,Duplexer-(electrical),,Low-Noise-RF-Amplifier-(electrical),1,1,1
+st49,LO,4,6/15/21,6:50:38,6:51:56,18,51,56,77.77,Fixed Duplexer (electrical),Tracker,,Duplexer-(electrical),Low-Noise-RF-Amplifier-(electrical),2,0,1
+st49,LO,4,6/15/21,6:50:38,6:51:57,18,51,57,79.17,Change tab,Indicator,,Duplexer-(electrical),Low-Noise-RF-Amplifier-(electrical),2,0,1
+st49,LO,4,6/15/21,6:50:38,6:51:58,18,51,58,80.01,Change tab,Processor,,Duplexer-(electrical),Low-Noise-RF-Amplifier-(electrical),2,0,1
+st49,LO,4,6/15/21,6:50:38,6:52:00,18,52,0,81.23,Change tab,Front Panel,,Duplexer-(electrical),Low-Noise-RF-Amplifier-(electrical),2,0,1
+st49,LO,4,6/15/21,6:50:38,6:52:01,18,52,1,83.16,Submit?,Front Panel,,Duplexer-(electrical),Low-Noise-RF-Amplifier-(electrical),2,0,1
+st49,LO,4,6/15/21,6:50:38,6:52:03,18,52,3,84.23,Submit Confirm,Front Panel,,Duplexer-(electrical),Low-Noise-RF-Amplifier-(electrical),2,0,1
+st49,LO,5,6/15/21,6:52:04,6:52:04,18,52,4,0,Make electrical flaw: Sweep Control Circuit,Front Panel,Sweep-Control-Circuit-(electrical),,,0,1,0
+st49,LO,5,6/15/21,6:52:04,6:52:04,18,52,4,0,Start,Front Panel,Sweep-Control-Circuit-(electrical),,,0,1,0
+st49,LO,5,6/15/21,6:52:04,6:52:08,18,52,8,3.57,Change tab,Transmitter,Sweep-Control-Circuit-(electrical),,,0,1,0
+st49,LO,5,6/15/21,6:52:04,6:52:13,18,52,13,8.47,Change tab,Indicator,Sweep-Control-Circuit-(electrical),,,0,1,0
+st49,LO,5,6/15/21,6:52:04,6:52:34,18,52,34,29.42,Click node: 'Sweep Control Circuit',Indicator,Sweep-Control-Circuit-(electrical),,,0,1,0
+st49,LO,5,6/15/21,6:52:04,6:52:35,18,52,35,30.36,Fixed Sweep Control Circuit (electrical),Indicator,,Sweep-Control-Circuit-(electrical),,1,0,0
+st49,LO,5,6/15/21,6:52:04,6:52:36,18,52,36,31.53,Change tab,Front Panel,,Sweep-Control-Circuit-(electrical),,1,0,0
+st49,LO,5,6/15/21,6:52:04,6:52:37,18,52,37,32.54,Submit?,Front Panel,,Sweep-Control-Circuit-(electrical),,1,0,0
+st49,LO,5,6/15/21,6:52:04,6:52:38,18,52,38,33.53,Submit Confirm,Front Panel,,Sweep-Control-Circuit-(electrical),,1,0,0
+st49,LO,6,6/15/21,6:52:39,6:52:39,18,52,39,0,Make electrical flaw: Receiver Transmission Line,Front Panel,Receiver-Transmission-Line-(electrical),,,0,1,0
+st49,LO,6,6/15/21,6:52:39,6:52:39,18,52,39,0,Start,Front Panel,Receiver-Transmission-Line-(electrical),,,0,1,0
+st49,LO,6,6/15/21,6:52:39,6:52:44,18,52,44,4.82,Change tab,Processor,Receiver-Transmission-Line-(electrical),,,0,1,0
+st49,LO,6,6/15/21,6:52:39,6:53:08,18,53,8,28.77,Click node: 'Low Noise RF Amplifier',Processor,Receiver-Transmission-Line-(electrical),,,0,1,0
+st49,LO,6,6/15/21,6:52:39,6:53:09,18,53,9,29.87,Replaced unnecessarily Low Noise RF Amplifier (electrical),Processor,Receiver-Transmission-Line-(electrical),,Low-Noise-RF-Amplifier-(electrical),1,1,1
+st49,LO,6,6/15/21,6:52:39,6:53:11,18,53,11,32.17,Change tab,Tracker,Receiver-Transmission-Line-(electrical),,Low-Noise-RF-Amplifier-(electrical),1,1,1
+st49,LO,6,6/15/21,6:52:39,6:53:22,18,53,22,43.35,Click node: 'Receiver Transmission Line',Tracker,Receiver-Transmission-Line-(electrical),,Low-Noise-RF-Amplifier-(electrical),1,1,1
+st49,LO,6,6/15/21,6:52:39,6:53:23,18,53,23,44.3,Fixed Receiver Transmission Line (electrical),Tracker,,Receiver-Transmission-Line-(electrical),Low-Noise-RF-Amplifier-(electrical),2,0,1
+st49,LO,6,6/15/21,6:52:39,6:53:24,18,53,24,45.28,Change tab,Indicator,,Receiver-Transmission-Line-(electrical),Low-Noise-RF-Amplifier-(electrical),2,0,1
+st49,LO,6,6/15/21,6:52:39,6:53:25,18,53,25,46.05,Change tab,Processor,,Receiver-Transmission-Line-(electrical),Low-Noise-RF-Amplifier-(electrical),2,0,1
+st49,LO,6,6/15/21,6:52:39,6:53:26,18,53,26,46.95,Change tab,Front Panel,,Receiver-Transmission-Line-(electrical),Low-Noise-RF-Amplifier-(electrical),2,0,1
+st49,LO,6,6/15/21,6:52:39,6:53:27,18,53,27,47.9,Submit?,Front Panel,,Receiver-Transmission-Line-(electrical),Low-Noise-RF-Amplifier-(electrical),2,0,1
+st49,LO,6,6/15/21,6:52:39,6:53:28,18,53,28,48.83,Submit Confirm,Front Panel,,Receiver-Transmission-Line-(electrical),Low-Noise-RF-Amplifier-(electrical),2,0,1
+st49,LO,7,6/15/21,6:53:29,6:53:29,18,53,29,0,Make electrical flaw: Overdriven Amplifier,Front Panel,Overdriven-Amplifier-(electrical),,,0,1,0
+st49,LO,7,6/15/21,6:53:29,6:53:29,18,53,29,0,Start,Front Panel,Overdriven-Amplifier-(electrical),,,0,1,0
+st49,LO,7,6/15/21,6:53:29,6:53:41,18,53,41,12.18,Change tab,Transmitter,Overdriven-Amplifier-(electrical),,,0,1,0
+st49,LO,7,6/15/21,6:53:29,6:53:46,18,53,46,17.3,Change tab,Synchronizer,Overdriven-Amplifier-(electrical),,,0,1,0
+st49,LO,7,6/15/21,6:53:29,6:54:01,18,54,1,32.13,Click node: 'Overdriven Amplifier',Synchronizer,Overdriven-Amplifier-(electrical),,,0,1,0
+st49,LO,7,6/15/21,6:53:29,6:54:02,18,54,2,33.16,Fixed Overdriven Amplifier (electrical),Synchronizer,,Overdriven-Amplifier-(electrical),,1,0,0
+st49,LO,7,6/15/21,6:53:29,6:54:03,18,54,3,34.46,Change tab,Front Panel,,Overdriven-Amplifier-(electrical),,1,0,0
+st49,LO,7,6/15/21,6:53:29,6:54:05,18,54,5,35.98,Change tab,Transmitter,,Overdriven-Amplifier-(electrical),,1,0,0
+st49,LO,7,6/15/21,6:53:29,6:54:07,18,54,7,37.6,Change tab,Front Panel,,Overdriven-Amplifier-(electrical),,1,0,0
+st49,LO,7,6/15/21,6:53:29,6:54:08,18,54,8,38.58,Submit?,Front Panel,,Overdriven-Amplifier-(electrical),,1,0,0
+st49,LO,7,6/15/21,6:53:29,6:54:08,18,54,8,39.43,Submit Confirm,Front Panel,,Overdriven-Amplifier-(electrical),,1,0,0
+st49,LO,8,6/15/21,6:54:10,6:54:10,18,54,10,0,Make electrical flaw: RF Amplifier 1,Front Panel,RF-Amplifier-1-(electrical),,,0,1,0
+st49,LO,8,6/15/21,6:54:10,6:54:10,18,54,10,0,Start,Front Panel,RF-Amplifier-1-(electrical),,,0,1,0
+st49,LO,8,6/15/21,6:54:10,6:54:17,18,54,17,7.94,Change tab,Transmitter,RF-Amplifier-1-(electrical),,,0,1,0
+st49,LO,8,6/15/21,6:54:10,6:54:21,18,54,21,11.74,Change tab,Tracker,RF-Amplifier-1-(electrical),,,0,1,0
+st49,LO,8,6/15/21,6:54:10,6:54:27,18,54,27,17.3,Change tab,Front Panel,RF-Amplifier-1-(electrical),,,0,1,0
+st49,LO,8,6/15/21,6:54:10,6:54:29,18,54,29,19.63,Change tab,Transmitter,RF-Amplifier-1-(electrical),,,0,1,0
+st49,LO,8,6/15/21,6:54:10,6:54:34,18,54,34,24.18,Change tab,Synchronizer,RF-Amplifier-1-(electrical),,,0,1,0
+st49,LO,8,6/15/21,6:54:10,6:54:36,18,54,36,26.34,Change tab,Tracker,RF-Amplifier-1-(electrical),,,0,1,0
+st49,LO,8,6/15/21,6:54:10,6:55:04,18,55,4,54.32,Change tab,Front Panel,RF-Amplifier-1-(electrical),,,0,1,0
+st49,LO,8,6/15/21,6:54:10,6:55:05,18,55,5,55.77,Change tab,Transmitter,RF-Amplifier-1-(electrical),,,0,1,0
+st49,LO,8,6/15/21,6:54:10,6:55:09,18,55,9,59.31,Change tab,Tracker,RF-Amplifier-1-(electrical),,,0,1,0
+st49,LO,8,6/15/21,6:54:10,6:55:18,18,55,18,68.67,Click node: 'Transmitter Antenna',Tracker,RF-Amplifier-1-(electrical),,,0,1,0
+st49,LO,8,6/15/21,6:54:10,6:55:19,18,55,19,69.67,Replaced unnecessarily Transmitter Antenna (electrical),Tracker,RF-Amplifier-1-(electrical),,Transmitter-Antenna-(electrical),1,1,1
+st49,LO,8,6/15/21,6:54:10,6:55:29,18,55,29,79.79,Change tab,Transmitter,RF-Amplifier-1-(electrical),,Transmitter-Antenna-(electrical),1,1,1
+st49,LO,8,6/15/21,6:54:10,6:55:49,18,55,49,99.01,Click node: 'RF Amplifier 1',Transmitter,RF-Amplifier-1-(electrical),,Transmitter-Antenna-(electrical),1,1,1
+st49,LO,8,6/15/21,6:54:10,6:55:50,18,55,50,100.01,Fixed RF Amplifier 1 (electrical),Transmitter,,RF-Amplifier-1-(electrical),Transmitter-Antenna-(electrical),2,0,1
+st49,LO,8,6/15/21,6:54:10,6:55:51,18,55,51,101.68,Change tab,Front Panel,,RF-Amplifier-1-(electrical),Transmitter-Antenna-(electrical),2,0,1
+st49,LO,8,6/15/21,6:54:10,6:55:53,18,55,53,103.11,Submit?,Front Panel,,RF-Amplifier-1-(electrical),Transmitter-Antenna-(electrical),2,0,1
+st49,LO,8,6/15/21,6:54:10,6:55:54,18,55,54,104.06,Submit Confirm,Front Panel,,RF-Amplifier-1-(electrical),Transmitter-Antenna-(electrical),2,0,1
+st49,LO,9,6/15/21,6:55:55,6:55:55,18,55,55,0,Make electrical flaw: Video Amplifier,Front Panel,Video-Amplifier-(electrical),,,0,1,0
+st49,LO,9,6/15/21,6:55:55,6:55:55,18,55,55,0,Start,Front Panel,Video-Amplifier-(electrical),,,0,1,0
+st49,LO,9,6/15/21,6:55:55,6:55:58,18,55,58,2.92,Change tab,Transmitter,Video-Amplifier-(electrical),,,0,1,0
+st49,LO,9,6/15/21,6:55:55,6:56:04,18,56,4,9.77,Change tab,Indicator,Video-Amplifier-(electrical),,,0,1,0
+st49,LO,9,6/15/21,6:55:55,6:56:11,18,56,11,16.34,Click node: 'Cathode Ray Tube',Indicator,Video-Amplifier-(electrical),,,0,1,0
+st49,LO,9,6/15/21,6:55:55,6:56:12,18,56,12,17.09,Replaced unnecessarily Cathode Ray Tube (electrical),Indicator,Video-Amplifier-(electrical),,Cathode-Ray-Tube-(electrical),1,1,1
+st49,LO,9,6/15/21,6:55:55,6:56:15,18,56,15,20.6,Change tab,Front Panel,Video-Amplifier-(electrical),,Cathode-Ray-Tube-(electrical),1,1,1
+st49,LO,9,6/15/21,6:55:55,6:56:16,18,56,16,20.97,Change tab,Front Panel,Video-Amplifier-(electrical),,Cathode-Ray-Tube-(electrical),1,1,1
+st49,LO,9,6/15/21,6:55:55,6:56:20,18,56,20,25.19,Change tab,Indicator,Video-Amplifier-(electrical),,Cathode-Ray-Tube-(electrical),1,1,1
+st49,LO,9,6/15/21,6:55:55,6:56:35,18,56,35,40.08,Change tab,Front Panel,Video-Amplifier-(electrical),,Cathode-Ray-Tube-(electrical),1,1,1
+st49,LO,9,6/15/21,6:55:55,6:56:40,18,56,40,45.65,Change tab,Synchronizer,Video-Amplifier-(electrical),,Cathode-Ray-Tube-(electrical),1,1,1
+st49,LO,9,6/15/21,6:55:55,6:56:42,18,56,42,47.3,Change tab,Transmitter,Video-Amplifier-(electrical),,Cathode-Ray-Tube-(electrical),1,1,1
+st49,LO,9,6/15/21,6:55:55,6:56:50,18,56,50,55.59,Change tab,Tracker,Video-Amplifier-(electrical),,Cathode-Ray-Tube-(electrical),1,1,1
+st49,LO,9,6/15/21,6:55:55,6:56:53,18,56,53,58.54,Change tab,Processor,Video-Amplifier-(electrical),,Cathode-Ray-Tube-(electrical),1,1,1
+st49,LO,9,6/15/21,6:55:55,6:56:58,18,56,58,63.23,Click node: 'Video Amplifier',Processor,Video-Amplifier-(electrical),,Cathode-Ray-Tube-(electrical),1,1,1
+st49,LO,9,6/15/21,6:55:55,6:56:59,18,56,59,64.08,Fixed Video Amplifier (electrical),Processor,,Video-Amplifier-(electrical),Cathode-Ray-Tube-(electrical),2,0,1
+st49,LO,9,6/15/21,6:55:55,6:57:00,18,57,0,65.17,Change tab,Indicator,,Video-Amplifier-(electrical),Cathode-Ray-Tube-(electrical),2,0,1
+st49,LO,9,6/15/21,6:55:55,6:57:01,18,57,1,66.17,Change tab,Front Panel,,Video-Amplifier-(electrical),Cathode-Ray-Tube-(electrical),2,0,1
+st49,LO,9,6/15/21,6:55:55,6:57:02,18,57,2,67.37,Submit?,Front Panel,,Video-Amplifier-(electrical),Cathode-Ray-Tube-(electrical),2,0,1
+st49,LO,9,6/15/21,6:55:55,6:57:03,18,57,3,68.3,Submit Confirm,Front Panel,,Video-Amplifier-(electrical),Cathode-Ray-Tube-(electrical),2,0,1
+st49,LO,10,6/15/21,6:57:04,6:57:04,18,57,4,0,Make electrical flaw: Stage 1 Modulator,Front Panel,Stage-1-Modulator-(electrical),,,0,1,0
+st49,LO,10,6/15/21,6:57:04,6:57:04,18,57,4,0,Start,Front Panel,Stage-1-Modulator-(electrical),,,0,1,0
+st49,LO,10,6/15/21,6:57:04,6:57:11,18,57,11,7.52,Change tab,Transmitter,Stage-1-Modulator-(electrical),,,0,1,0
+st49,LO,10,6/15/21,6:57:04,6:57:19,18,57,19,15.51,Change tab,Front Panel,Stage-1-Modulator-(electrical),,,0,1,0
+st49,LO,10,6/15/21,6:57:04,6:57:21,18,57,21,17.43,Change tab,Synchronizer,Stage-1-Modulator-(electrical),,,0,1,0
+st49,LO,10,6/15/21,6:57:04,6:57:23,18,57,23,18.6,Change tab,Transmitter,Stage-1-Modulator-(electrical),,,0,1,0
+st49,LO,10,6/15/21,6:57:04,6:57:27,18,57,27,22.82,Change tab,Tracker,Stage-1-Modulator-(electrical),,,0,1,0
+st49,LO,10,6/15/21,6:57:04,6:57:28,18,57,28,23.79,Change tab,Processor,Stage-1-Modulator-(electrical),,,0,1,0
+st49,LO,10,6/15/21,6:57:04,6:57:29,18,57,29,24.87,Change tab,Indicator,Stage-1-Modulator-(electrical),,,0,1,0
+st49,LO,10,6/15/21,6:57:04,6:57:30,18,57,30,25.97,Change tab,Processor,Stage-1-Modulator-(electrical),,,0,1,0
+st49,LO,10,6/15/21,6:57:04,6:57:31,18,57,31,26.92,Change tab,Tracker,Stage-1-Modulator-(electrical),,,0,1,0
+st49,LO,10,6/15/21,6:57:04,6:57:32,18,57,32,28.47,Change tab,Transmitter,Stage-1-Modulator-(electrical),,,0,1,0
+st49,LO,10,6/15/21,6:57:04,6:57:37,18,57,37,33.28,Change tab,Synchronizer,Stage-1-Modulator-(electrical),,,0,1,0
+st49,LO,10,6/15/21,6:57:04,6:57:38,18,57,38,34.48,Change tab,Front Panel,Stage-1-Modulator-(electrical),,,0,1,0
+st49,LO,10,6/15/21,6:57:04,6:57:40,18,57,40,36.21,Submit?,Front Panel,Stage-1-Modulator-(electrical),,,0,1,0
+st49,LO,10,6/15/21,6:57:04,6:57:41,18,57,41,37.23,Submit Confirm,Front Panel,Stage-1-Modulator-(electrical),,,0,1,0
+st49,LO,11,6/15/21,6:57:44,6:57:44,18,57,44,0,Make electrical flaw: Local Oscillator,Front Panel,Local-Oscillator-(electrical),,,0,1,0
+st49,LO,11,6/15/21,6:57:44,6:57:44,18,57,44,0,Start,Front Panel,Local-Oscillator-(electrical),,,0,1,0
+st49,LO,11,6/15/21,6:57:44,6:57:49,18,57,49,5.59,Change tab,Indicator,Local-Oscillator-(electrical),,,0,1,0
+st49,LO,11,6/15/21,6:57:44,6:57:57,18,57,57,12.84,Change tab,Processor,Local-Oscillator-(electrical),,,0,1,0
+st49,LO,11,6/15/21,6:57:44,6:58:10,18,58,10,26.29,Click node: 'Local Oscillator',Processor,Local-Oscillator-(electrical),,,0,1,0
+st49,LO,11,6/15/21,6:57:44,6:58:11,18,58,11,27.49,Fixed Local Oscillator (electrical),Processor,,Local-Oscillator-(electrical),,1,0,0
+st49,LO,11,6/15/21,6:57:44,6:58:12,18,58,12,28.59,Change tab,Indicator,,Local-Oscillator-(electrical),,1,0,0
+st49,LO,11,6/15/21,6:57:44,6:58:13,18,58,13,29.61,Change tab,Front Panel,,Local-Oscillator-(electrical),,1,0,0
+st49,LO,11,6/15/21,6:57:44,6:58:15,18,58,15,31.01,Change tab,Transmitter,,Local-Oscillator-(electrical),,1,0,0
+st49,LO,11,6/15/21,6:57:44,6:58:18,18,58,18,33.75,Change tab,Front Panel,,Local-Oscillator-(electrical),,1,0,0
+st49,LO,11,6/15/21,6:57:44,6:58:19,18,58,19,34.86,Submit?,Front Panel,,Local-Oscillator-(electrical),,1,0,0
+st49,LO,11,6/15/21,6:57:44,6:58:19,18,58,19,35.71,Submit Confirm,Front Panel,,Local-Oscillator-(electrical),,1,0,0
+st49,LO,12,6/15/21,6:58:20,6:58:20,18,58,20,0,Make electrical flaw: Transmitter Transmission Line,Front Panel,Transmitter-Transmission-Line-(electrical),,,0,1,0
+st49,LO,12,6/15/21,6:58:20,6:58:20,18,58,20,0,Start,Front Panel,Transmitter-Transmission-Line-(electrical),,,0,1,0
+st49,LO,12,6/15/21,6:58:20,6:58:24,18,58,24,3.3,Change tab,Tracker,Transmitter-Transmission-Line-(electrical),,,0,1,0
+st49,LO,12,6/15/21,6:58:20,6:58:37,18,58,37,16.31,Change tab,Transmitter,Transmitter-Transmission-Line-(electrical),,,0,1,0
+st49,LO,12,6/15/21,6:58:20,6:58:39,18,58,39,19.06,Change tab,Synchronizer,Transmitter-Transmission-Line-(electrical),,,0,1,0
+st49,LO,12,6/15/21,6:58:20,6:58:41,18,58,41,20.4,Change tab,Transmitter,Transmitter-Transmission-Line-(electrical),,,0,1,0
+st49,LO,12,6/15/21,6:58:20,6:58:41,18,58,41,21.09,Change tab,Tracker,Transmitter-Transmission-Line-(electrical),,,0,1,0
+st49,LO,12,6/15/21,6:58:20,6:58:48,18,58,48,27.29,Change tab,Tracker,Transmitter-Transmission-Line-(electrical),,,0,1,0
+st49,LO,12,6/15/21,6:58:20,6:58:54,18,58,54,33.18,Click node: 'Transmitter Transmission Line',Tracker,Transmitter-Transmission-Line-(electrical),,,0,1,0
+st49,LO,12,6/15/21,6:58:20,6:58:55,18,58,55,34.13,Fixed Transmitter Transmission Line (electrical),Tracker,,Transmitter-Transmission-Line-(electrical),,1,0,0
+st49,LO,12,6/15/21,6:58:20,6:58:56,18,58,56,35.63,Change tab,Front Panel,,Transmitter-Transmission-Line-(electrical),,1,0,0
+st49,LO,12,6/15/21,6:58:20,6:58:57,18,58,57,36.7,Submit?,Front Panel,,Transmitter-Transmission-Line-(electrical),,1,0,0
+st49,LO,12,6/15/21,6:58:20,6:58:58,18,58,58,37.65,Submit Confirm,Front Panel,,Transmitter-Transmission-Line-(electrical),,1,0,0
+st49,LO,13,6/15/21,6:58:59,6:58:59,18,58,59,0,Make electrical flaw: Receiver Antenna,Front Panel,Receiver-Antenna-(electrical),,,0,1,0
+st49,LO,13,6/15/21,6:58:59,6:58:59,18,58,59,0,Start,Front Panel,Receiver-Antenna-(electrical),,,0,1,0
+st49,LO,13,6/15/21,6:58:59,6:59:03,18,59,3,3.84,Change tab,Synchronizer,Receiver-Antenna-(electrical),,,0,1,0
+st49,LO,13,6/15/21,6:58:59,6:59:04,18,59,4,4.94,Change tab,Transmitter,Receiver-Antenna-(electrical),,,0,1,0
+st49,LO,13,6/15/21,6:58:59,6:59:07,18,59,7,7.52,Change tab,Tracker,Receiver-Antenna-(electrical),,,0,1,0
+st49,LO,13,6/15/21,6:58:59,6:59:48,18,59,48,48.6,Submit?,Tracker,Receiver-Antenna-(electrical),,,0,1,0
+st49,LO,13,6/15/21,6:58:59,6:59:49,18,59,49,49.64,Submit Confirm,Tracker,Receiver-Antenna-(electrical),,,0,1,0
+st49,LO,14,6/15/21,6:59:50,6:59:50,18,59,50,0,Change tab,Front Panel,,,,0,0,0
+st49,LO,14,6/15/21,6:59:50,6:59:50,18,59,50,0,Make electrical flaw: AFC Frequency Discriminator,Front Panel,AFC-Frequency-Discriminator-(electrical),,,0,1,0
+st49,LO,14,6/15/21,6:59:50,6:59:50,18,59,50,0,Start,Front Panel,AFC-Frequency-Discriminator-(electrical),,,0,1,0

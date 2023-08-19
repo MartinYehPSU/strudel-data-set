@@ -1,0 +1,210 @@
+subject,subject_group,round,round_start_date_utc,round_start_time_utc,current_time_utc,current_hour24,current_minute,current_second,current_elapsed_seconds,event,ui_tab,active_faults,fixed_faults,fixed_nonfaults,ReplacedComponents,FaultsRemaining,ReplacedNonFaults
+st59,LO,1,9/15/21,20:22:08,20:22:08,20,22,8,0.04,Make electrical flaw: Local Oscillator,,Local-Oscillator-(electrical),,,0,1,0
+st59,LO,1,9/15/21,20:22:08,20:22:08,20,22,8,0.04,Start (High Fidelity Sim),,Local-Oscillator-(electrical),,,0,1,0
+st59,LO,1,9/15/21,20:22:08,20:22:40,20,22,40,31.67,Move to Server Box Table,,Local-Oscillator-(electrical),,,0,1,0
+st59,LO,1,9/15/21,20:22:08,20:22:47,20,22,47,38.59,Swing front panel: 35% open,,Local-Oscillator-(electrical),,,0,1,0
+st59,LO,1,9/15/21,20:22:08,20:22:50,20,22,50,41.62,Move drawer: 95.4% open,Synchronizer,Local-Oscillator-(electrical),,,0,1,0
+st59,LO,1,9/15/21,20:22:08,20:22:52,20,22,52,44.14,Move drawer: 0% open,Synchronizer,Local-Oscillator-(electrical),,,0,1,0
+st59,LO,1,9/15/21,20:22:08,20:22:59,20,22,59,50.58,Move drawer: 38.2% open,Indicator,Local-Oscillator-(electrical),,,0,1,0
+st59,LO,1,9/15/21,20:22:08,20:23:00,20,23,0,51.73,Move drawer: -7.8% open,Indicator,Local-Oscillator-(electrical),,,0,1,0
+st59,LO,1,9/15/21,20:22:08,20:23:02,20,23,2,54.08,Move drawer: 54.9% open,Processor,Local-Oscillator-(electrical),,,0,1,0
+st59,LO,1,9/15/21,20:22:08,20:23:11,20,23,11,63.03,Move drawer: 62.9% open,Processor,Local-Oscillator-(electrical),,,0,1,0
+st59,LO,1,9/15/21,20:22:08,20:23:36,20,23,36,88.21,Click on: 'Local Oscillator',,Local-Oscillator-(electrical),,,0,1,0
+st59,LO,1,9/15/21,20:22:08,20:23:37,20,23,37,89.46,Disconnect LRU: 'Local Oscillator',,Local-Oscillator-(electrical),,,0,1,0
+st59,LO,1,9/15/21,20:22:08,20:23:38,20,23,38,90.55,Pick Up LRU: 'Local Oscillator',,Local-Oscillator-(electrical),,,0,1,0
+st59,LO,1,9/15/21,20:22:08,20:23:40,20,23,40,91.86,Drop LRU: 'Local Oscillator',,Local-Oscillator-(electrical),,,0,1,0
+st59,LO,1,9/15/21,20:22:08,20:23:45,20,23,45,96.64,Leave Server Box Table,,Local-Oscillator-(electrical),,,0,1,0
+st59,LO,1,9/15/21,20:22:08,20:23:45,20,23,45,97.54,Move to Spare Parts Table,,Local-Oscillator-(electrical),,,0,1,0
+st59,LO,1,9/15/21,20:22:08,20:23:59,20,23,59,110.65,Pick Up LRU: 'Local Oscillator [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+st59,LO,1,9/15/21,20:22:08,20:24:04,20,24,4,115.76,Leave Spare Parts Table,,Local-Oscillator-(electrical),,,0,1,0
+st59,LO,1,9/15/21,20:22:08,20:24:04,20,24,4,116.38,Drop LRU: 'Local Oscillator [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+st59,LO,1,9/15/21,20:22:08,20:24:06,20,24,6,117.64,Move to Spare Parts Table,,Local-Oscillator-(electrical),,,0,1,0
+st59,LO,1,9/15/21,20:22:08,20:24:07,20,24,7,119.2,Pick Up LRU: 'Local Oscillator [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+st59,LO,1,9/15/21,20:22:08,20:24:12,20,24,12,123.82,Leave Spare Parts Table,,Local-Oscillator-(electrical),,,0,1,0
+st59,LO,1,9/15/21,20:22:08,20:24:14,20,24,14,125.68,Move to Server Box Table,,Local-Oscillator-(electrical),,,0,1,0
+st59,LO,1,9/15/21,20:22:08,20:24:20,20,24,20,132.55,Drop LRU: 'Local Oscillator [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+st59,LO,1,9/15/21,20:22:08,20:24:22,20,24,22,133.88,Connect LRU: 'Local Oscillator [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+st59,LO,1,9/15/21,20:22:08,20:24:23,20,24,23,134.67,Fixed Local Oscillator (electrical),,,Local-Oscillator-(electrical),,1,0,0
+st59,LO,1,9/15/21,20:22:08,20:24:26,20,24,26,138.29,Move drawer: 6.6% open,Processor,,Local-Oscillator-(electrical),,1,0,0
+st59,LO,1,9/15/21,20:22:08,20:24:32,20,24,32,144.29,Submit?,,,Local-Oscillator-(electrical),,1,0,0
+st59,LO,1,9/15/21,20:22:08,20:24:34,20,24,34,145.68,Submit Confirm,,,Local-Oscillator-(electrical),,1,0,0
+st59,LO,1,9/15/21,20:22:08,20:24:34,20,24,34,145.69,Move drawer: 0% open,Indicator,,Local-Oscillator-(electrical),,1,0,0
+st59,LO,2,9/15/21,20:24:35,20:24:35,20,24,35,0,Make electrical flaw: Receiver Waveguide,,Receiver-Waveguide-(electrical),,,0,1,0
+st59,LO,2,9/15/21,20:24:35,20:24:35,20,24,35,0,Start (High Fidelity Sim),,Receiver-Waveguide-(electrical),,,0,1,0
+st59,LO,2,9/15/21,20:24:35,20:24:35,20,24,35,0.01,Move drawer: -85.4% open,Indicator,Receiver-Waveguide-(electrical),,,0,1,0
+st59,LO,2,9/15/21,20:24:35,20:24:35,20,24,35,0.03,Leave Server Box Table,,Receiver-Waveguide-(electrical),,,0,1,0
+st59,LO,2,9/15/21,20:24:35,20:24:40,20,24,40,5.37,Move to Server Box Table,,Receiver-Waveguide-(electrical),,,0,1,0
+st59,LO,2,9/15/21,20:24:35,20:24:46,20,24,46,11.47,Swing front panel: 11.2% open,,Receiver-Waveguide-(electrical),,,0,1,0
+st59,LO,2,9/15/21,20:24:35,20:24:50,20,24,50,15.63,Move drawer: 51.8% open,Processor,Receiver-Waveguide-(electrical),,,0,1,0
+st59,LO,2,9/15/21,20:24:35,20:24:52,20,24,52,17.73,Move drawer: 97.7% open,Processor,Receiver-Waveguide-(electrical),,,0,1,0
+st59,LO,2,9/15/21,20:24:35,20:25:14,20,25,14,39.78,Click on: 'Low Noise RF Amplifier',,Receiver-Waveguide-(electrical),,,0,1,0
+st59,LO,2,9/15/21,20:24:35,20:25:17,20,25,17,41.92,Disconnect LRU: 'Low Noise RF Amplifier',,Receiver-Waveguide-(electrical),,,0,1,0
+st59,LO,2,9/15/21,20:24:35,20:25:17,20,25,17,41.93,Move drawer: 95.4% open,Processor,Receiver-Waveguide-(electrical),,,0,1,0
+st59,LO,2,9/15/21,20:24:35,20:25:18,20,25,18,43,Pick Up LRU: 'Low Noise RF Amplifier',,Receiver-Waveguide-(electrical),,,0,1,0
+st59,LO,2,9/15/21,20:24:35,20:25:19,20,25,19,44.45,Drop LRU: 'Low Noise RF Amplifier',,Receiver-Waveguide-(electrical),,,0,1,0
+st59,LO,2,9/15/21,20:24:35,20:25:23,20,25,23,48.87,Leave Server Box Table,,Receiver-Waveguide-(electrical),,,0,1,0
+st59,LO,2,9/15/21,20:24:35,20:25:26,20,25,26,50.99,Move to Spare Parts Table,,Receiver-Waveguide-(electrical),,,0,1,0
+st59,LO,2,9/15/21,20:24:35,20:25:42,20,25,42,67,Pick Up LRU: 'Low Noise RF Amplifier [SPARE]',,Receiver-Waveguide-(electrical),,,0,1,0
+st59,LO,2,9/15/21,20:24:35,20:25:44,20,25,44,69.14,Drop LRU: 'Low Noise RF Amplifier [SPARE]',,Receiver-Waveguide-(electrical),,,0,1,0
+st59,LO,2,9/15/21,20:24:35,20:25:46,20,25,46,71.83,Pick Up LRU: 'Low Noise RF Amplifier [SPARE]',,Receiver-Waveguide-(electrical),,,0,1,0
+st59,LO,2,9/15/21,20:24:35,20:25:52,20,25,52,77.69,Leave Spare Parts Table,,Receiver-Waveguide-(electrical),,,0,1,0
+st59,LO,2,9/15/21,20:24:35,20:25:54,20,25,54,79.38,Move to Server Box Table,,Receiver-Waveguide-(electrical),,,0,1,0
+st59,LO,2,9/15/21,20:24:35,20:26:04,20,26,4,89.45,Drop LRU: 'Low Noise RF Amplifier [SPARE]',,Receiver-Waveguide-(electrical),,,0,1,0
+st59,LO,2,9/15/21,20:24:35,20:26:07,20,26,7,92.52,Pick Up LRU: 'Low Noise RF Amplifier [SPARE]',,Receiver-Waveguide-(electrical),,,0,1,0
+st59,LO,2,9/15/21,20:24:35,20:26:11,20,26,11,96.58,Drop LRU: 'Low Noise RF Amplifier [SPARE]',,Receiver-Waveguide-(electrical),,,0,1,0
+st59,LO,2,9/15/21,20:24:35,20:26:13,20,26,13,98.63,Pick Up LRU: 'Low Noise RF Amplifier [SPARE]',,Receiver-Waveguide-(electrical),,,0,1,0
+st59,LO,2,9/15/21,20:24:35,20:26:20,20,26,20,105.88,Drop LRU: 'Low Noise RF Amplifier [SPARE]',,Receiver-Waveguide-(electrical),,,0,1,0
+st59,LO,2,9/15/21,20:24:35,20:26:25,20,26,25,109.9,Pick Up LRU: 'Low Noise RF Amplifier [SPARE]',,Receiver-Waveguide-(electrical),,,0,1,0
+st59,LO,2,9/15/21,20:24:35,20:26:26,20,26,26,111.87,Drop LRU: 'Low Noise RF Amplifier [SPARE]',,Receiver-Waveguide-(electrical),,,0,1,0
+st59,LO,2,9/15/21,20:24:35,20:26:27,20,26,27,112.19,Pick Up LRU: 'Low Noise RF Amplifier [SPARE]',,Receiver-Waveguide-(electrical),,,0,1,0
+st59,LO,2,9/15/21,20:24:35,20:26:38,20,26,38,123.03,Drop LRU: 'Low Noise RF Amplifier [SPARE]',,Receiver-Waveguide-(electrical),,,0,1,0
+st59,LO,2,9/15/21,20:24:35,20:26:39,20,26,39,124.43,Connect LRU: 'Low Noise RF Amplifier [SPARE]',,Receiver-Waveguide-(electrical),,,0,1,0
+st59,LO,2,9/15/21,20:24:35,20:26:40,20,26,40,125.4,Replaced unnecessarily Low Noise RF Amplifier (electrical),,Receiver-Waveguide-(electrical),,Low-Noise-RF-Amplifier-(electrical),1,1,1
+st59,LO,2,9/15/21,20:24:35,20:26:45,20,26,45,130.01,Pick Up LRU: 'Low Noise RF Amplifier',,Receiver-Waveguide-(electrical),,Low-Noise-RF-Amplifier-(electrical),1,1,1
+st59,LO,2,9/15/21,20:24:35,20:26:45,20,26,45,130.81,Drop LRU: 'Low Noise RF Amplifier',,Receiver-Waveguide-(electrical),,Low-Noise-RF-Amplifier-(electrical),1,1,1
+st59,LO,2,9/15/21,20:24:35,20:26:46,20,26,46,131.67,Pick Up LRU: 'Low Noise RF Amplifier',,Receiver-Waveguide-(electrical),,Low-Noise-RF-Amplifier-(electrical),1,1,1
+st59,LO,2,9/15/21,20:24:35,20:26:47,20,26,47,132.24,Drop LRU: 'Low Noise RF Amplifier',,Receiver-Waveguide-(electrical),,Low-Noise-RF-Amplifier-(electrical),1,1,1
+st59,LO,2,9/15/21,20:24:35,20:27:09,20,27,9,154.59,Click on: 'Video Detector',,Receiver-Waveguide-(electrical),,Low-Noise-RF-Amplifier-(electrical),1,1,1
+st59,LO,2,9/15/21,20:24:35,20:27:11,20,27,11,156.14,Disconnect LRU: 'Video Detector',,Receiver-Waveguide-(electrical),,Low-Noise-RF-Amplifier-(electrical),1,1,1
+st59,LO,2,9/15/21,20:24:35,20:27:11,20,27,11,156.16,Move drawer: 95.5% open,Processor,Receiver-Waveguide-(electrical),,Low-Noise-RF-Amplifier-(electrical),1,1,1
+st59,LO,2,9/15/21,20:24:35,20:27:12,20,27,12,157.45,Connect LRU: 'Video Detector',,Receiver-Waveguide-(electrical),,Low-Noise-RF-Amplifier-(electrical),1,1,1
+st59,LO,2,9/15/21,20:24:35,20:27:12,20,27,12,157.46,Move drawer: 95.4% open,Processor,Receiver-Waveguide-(electrical),,Low-Noise-RF-Amplifier-(electrical),1,1,1
+st59,LO,2,9/15/21,20:24:35,20:27:13,20,27,13,158.45,Click on: 'Video Detector',,Receiver-Waveguide-(electrical),,Low-Noise-RF-Amplifier-(electrical),1,1,1
+st59,LO,2,9/15/21,20:24:35,20:27:14,20,27,14,159.75,Disconnect LRU: 'Video Detector',,Receiver-Waveguide-(electrical),,Low-Noise-RF-Amplifier-(electrical),1,1,1
+st59,LO,2,9/15/21,20:24:35,20:27:16,20,27,16,161.26,Connect LRU: 'Video Detector',,Receiver-Waveguide-(electrical),,Low-Noise-RF-Amplifier-(electrical),1,1,1
+st59,LO,2,9/15/21,20:24:35,20:27:16,20,27,16,161.28,Move drawer: 95.4% open,Processor,Receiver-Waveguide-(electrical),,Low-Noise-RF-Amplifier-(electrical),1,1,1
+st59,LO,2,9/15/21,20:24:35,20:27:17,20,27,17,162.27,Click on: 'Video Detector',,Receiver-Waveguide-(electrical),,Low-Noise-RF-Amplifier-(electrical),1,1,1
+st59,LO,2,9/15/21,20:24:35,20:27:19,20,27,19,164.43,Disconnect LRU: 'Video Detector',,Receiver-Waveguide-(electrical),,Low-Noise-RF-Amplifier-(electrical),1,1,1
+st59,LO,2,9/15/21,20:24:35,20:27:19,20,27,19,164.45,Move drawer: 95.4% open,Processor,Receiver-Waveguide-(electrical),,Low-Noise-RF-Amplifier-(electrical),1,1,1
+st59,LO,2,9/15/21,20:24:35,20:27:21,20,27,21,166.77,Cancel connect: 'Video Detector',,Receiver-Waveguide-(electrical),,Low-Noise-RF-Amplifier-(electrical),1,1,1
+st59,LO,2,9/15/21,20:24:35,20:27:22,20,27,22,167.39,Pick Up LRU: 'Video Detector',,Receiver-Waveguide-(electrical),,Low-Noise-RF-Amplifier-(electrical),1,1,1
+st59,LO,2,9/15/21,20:24:35,20:27:23,20,27,23,168.3,Drop LRU: 'Video Detector',,Receiver-Waveguide-(electrical),,Low-Noise-RF-Amplifier-(electrical),1,1,1
+st59,LO,2,9/15/21,20:24:35,20:27:25,20,27,25,170.09,Cancel connect: 'Video Detector',,Receiver-Waveguide-(electrical),,Low-Noise-RF-Amplifier-(electrical),1,1,1
+st59,LO,2,9/15/21,20:24:35,20:27:25,20,27,25,170.11,Move drawer: 95.5% open,Processor,Receiver-Waveguide-(electrical),,Low-Noise-RF-Amplifier-(electrical),1,1,1
+st59,LO,2,9/15/21,20:24:35,20:27:26,20,27,26,170.91,Pick Up LRU: 'Video Detector',,Receiver-Waveguide-(electrical),,Low-Noise-RF-Amplifier-(electrical),1,1,1
+st59,LO,2,9/15/21,20:24:35,20:27:26,20,27,26,171.84,Drop LRU: 'Video Detector',,Receiver-Waveguide-(electrical),,Low-Noise-RF-Amplifier-(electrical),1,1,1
+st59,LO,2,9/15/21,20:24:35,20:27:28,20,27,28,173.08,Cancel connect: 'Video Detector',,Receiver-Waveguide-(electrical),,Low-Noise-RF-Amplifier-(electrical),1,1,1
+st59,LO,2,9/15/21,20:24:35,20:27:29,20,27,29,174.01,Pick Up LRU: 'Video Detector',,Receiver-Waveguide-(electrical),,Low-Noise-RF-Amplifier-(electrical),1,1,1
+st59,LO,2,9/15/21,20:24:35,20:27:30,20,27,30,175.31,Drop LRU: 'Video Detector',,Receiver-Waveguide-(electrical),,Low-Noise-RF-Amplifier-(electrical),1,1,1
+st59,LO,2,9/15/21,20:24:35,20:27:32,20,27,32,177.29,Leave Server Box Table,,Receiver-Waveguide-(electrical),,Low-Noise-RF-Amplifier-(electrical),1,1,1
+st59,LO,2,9/15/21,20:24:35,20:27:33,20,27,33,178.83,Move to Spare Parts Table,,Receiver-Waveguide-(electrical),,Low-Noise-RF-Amplifier-(electrical),1,1,1
+st59,LO,2,9/15/21,20:24:35,20:27:35,20,27,35,180.61,Leave Spare Parts Table,,Receiver-Waveguide-(electrical),,Low-Noise-RF-Amplifier-(electrical),1,1,1
+st59,LO,2,9/15/21,20:24:35,20:27:37,20,27,37,182.05,Move to Spare Parts Table,,Receiver-Waveguide-(electrical),,Low-Noise-RF-Amplifier-(electrical),1,1,1
+st59,LO,2,9/15/21,20:24:35,20:27:59,20,27,59,204.45,Pick Up LRU: 'Video Detector [SPARE]',,Receiver-Waveguide-(electrical),,Low-Noise-RF-Amplifier-(electrical),1,1,1
+st59,LO,2,9/15/21,20:24:35,20:28:03,20,28,3,208.65,Drop LRU: 'Video Detector [SPARE]',,Receiver-Waveguide-(electrical),,Low-Noise-RF-Amplifier-(electrical),1,1,1
+st59,LO,2,9/15/21,20:24:35,20:28:05,20,28,5,210.27,Pick Up LRU: 'Video Detector [SPARE]',,Receiver-Waveguide-(electrical),,Low-Noise-RF-Amplifier-(electrical),1,1,1
+st59,LO,2,9/15/21,20:24:35,20:28:06,20,28,6,211.09,Leave Spare Parts Table,,Receiver-Waveguide-(electrical),,Low-Noise-RF-Amplifier-(electrical),1,1,1
+st59,LO,2,9/15/21,20:24:35,20:28:07,20,28,7,212.32,Move to Server Box Table,,Receiver-Waveguide-(electrical),,Low-Noise-RF-Amplifier-(electrical),1,1,1
+st59,LO,2,9/15/21,20:24:35,20:28:16,20,28,16,220.93,Drop LRU: 'Video Detector [SPARE]',,Receiver-Waveguide-(electrical),,Low-Noise-RF-Amplifier-(electrical),1,1,1
+st59,LO,2,9/15/21,20:24:35,20:28:18,20,28,18,223.67,Pick Up LRU: 'Video Detector [SPARE]',,Receiver-Waveguide-(electrical),,Low-Noise-RF-Amplifier-(electrical),1,1,1
+st59,LO,2,9/15/21,20:24:35,20:28:23,20,28,23,228.04,Drop LRU: 'Video Detector [SPARE]',,Receiver-Waveguide-(electrical),,Low-Noise-RF-Amplifier-(electrical),1,1,1
+st59,LO,2,9/15/21,20:24:35,20:28:25,20,28,25,230.24,Pick Up LRU: 'Video Detector [SPARE]',,Receiver-Waveguide-(electrical),,Low-Noise-RF-Amplifier-(electrical),1,1,1
+st59,LO,2,9/15/21,20:24:35,20:28:27,20,28,27,232.37,Drop LRU: 'Video Detector [SPARE]',,Receiver-Waveguide-(electrical),,Low-Noise-RF-Amplifier-(electrical),1,1,1
+st59,LO,2,9/15/21,20:24:35,20:28:29,20,28,29,234.01,Pick Up LRU: 'Video Detector [SPARE]',,Receiver-Waveguide-(electrical),,Low-Noise-RF-Amplifier-(electrical),1,1,1
+st59,LO,2,9/15/21,20:24:35,20:28:34,20,28,34,239.43,Drop LRU: 'Video Detector [SPARE]',,Receiver-Waveguide-(electrical),,Low-Noise-RF-Amplifier-(electrical),1,1,1
+st59,LO,2,9/15/21,20:24:35,20:28:35,20,28,35,240.81,Connect LRU: 'Video Detector [SPARE]',,Receiver-Waveguide-(electrical),,Low-Noise-RF-Amplifier-(electrical),1,1,1
+st59,LO,2,9/15/21,20:24:35,20:28:36,20,28,36,241.86,Replaced unnecessarily Video Detector (electrical),,Receiver-Waveguide-(electrical),,Low-Noise-RF-Amplifier-(electrical) Video-Detector-(electrical),2,1,2
+st59,LO,2,9/15/21,20:24:35,20:28:44,20,28,44,249.27,Move drawer: 99.3% open,Tracker,Receiver-Waveguide-(electrical),,Low-Noise-RF-Amplifier-(electrical) Video-Detector-(electrical),2,1,2
+st59,LO,2,9/15/21,20:24:35,20:28:58,20,28,58,263.77,Click on: 'Duplexer Bypass',,Receiver-Waveguide-(electrical),,Low-Noise-RF-Amplifier-(electrical) Video-Detector-(electrical),2,1,2
+st59,LO,2,9/15/21,20:24:35,20:28:59,20,28,59,264.8,Disconnect LRU: 'Duplexer Bypass',,Receiver-Waveguide-(electrical),,Low-Noise-RF-Amplifier-(electrical) Video-Detector-(electrical),2,1,2
+st59,LO,2,9/15/21,20:24:35,20:29:01,20,29,1,266.07,Pick Up LRU: 'Duplexer Bypass',,Receiver-Waveguide-(electrical),,Low-Noise-RF-Amplifier-(electrical) Video-Detector-(electrical),2,1,2
+st59,LO,2,9/15/21,20:24:35,20:29:02,20,29,2,267.82,Drop LRU: 'Duplexer Bypass',,Receiver-Waveguide-(electrical),,Low-Noise-RF-Amplifier-(electrical) Video-Detector-(electrical),2,1,2
+st59,LO,2,9/15/21,20:24:35,20:29:03,20,29,3,268.42,Pick Up LRU: 'Duplexer Bypass',,Receiver-Waveguide-(electrical),,Low-Noise-RF-Amplifier-(electrical) Video-Detector-(electrical),2,1,2
+st59,LO,2,9/15/21,20:24:35,20:29:03,20,29,3,268.55,Drop LRU: 'Duplexer Bypass',,Receiver-Waveguide-(electrical),,Low-Noise-RF-Amplifier-(electrical) Video-Detector-(electrical),2,1,2
+st59,LO,2,9/15/21,20:24:35,20:29:03,20,29,3,268.55,Cancel connect: 'Duplexer Bypass',,Receiver-Waveguide-(electrical),,Low-Noise-RF-Amplifier-(electrical) Video-Detector-(electrical),2,1,2
+st59,LO,2,9/15/21,20:24:35,20:29:05,20,29,5,270.37,Cancel connect: 'Duplexer Bypass',,Receiver-Waveguide-(electrical),,Low-Noise-RF-Amplifier-(electrical) Video-Detector-(electrical),2,1,2
+st59,LO,2,9/15/21,20:24:35,20:29:05,20,29,5,270.39,Move drawer: 95.5% open,Tracker,Receiver-Waveguide-(electrical),,Low-Noise-RF-Amplifier-(electrical) Video-Detector-(electrical),2,1,2
+st59,LO,2,9/15/21,20:24:35,20:29:06,20,29,6,271.12,Pick Up LRU: 'Duplexer Bypass',,Receiver-Waveguide-(electrical),,Low-Noise-RF-Amplifier-(electrical) Video-Detector-(electrical),2,1,2
+st59,LO,2,9/15/21,20:24:35,20:29:07,20,29,7,272.14,Drop LRU: 'Duplexer Bypass',,Receiver-Waveguide-(electrical),,Low-Noise-RF-Amplifier-(electrical) Video-Detector-(electrical),2,1,2
+st59,LO,2,9/15/21,20:24:35,20:29:08,20,29,8,273.74,Leave Server Box Table,,Receiver-Waveguide-(electrical),,Low-Noise-RF-Amplifier-(electrical) Video-Detector-(electrical),2,1,2
+st59,LO,2,9/15/21,20:24:35,20:29:10,20,29,10,275.36,Move to Spare Parts Table,,Receiver-Waveguide-(electrical),,Low-Noise-RF-Amplifier-(electrical) Video-Detector-(electrical),2,1,2
+st59,LO,2,9/15/21,20:24:35,20:29:11,20,29,11,276.31,Leave Spare Parts Table,,Receiver-Waveguide-(electrical),,Low-Noise-RF-Amplifier-(electrical) Video-Detector-(electrical),2,1,2
+st59,LO,2,9/15/21,20:24:35,20:29:13,20,29,13,277.91,Move to Spare Parts Table,,Receiver-Waveguide-(electrical),,Low-Noise-RF-Amplifier-(electrical) Video-Detector-(electrical),2,1,2
+st59,LO,2,9/15/21,20:24:35,20:29:19,20,29,19,284.48,Pick Up LRU: 'Duplexer Bypass [SPARE]',,Receiver-Waveguide-(electrical),,Low-Noise-RF-Amplifier-(electrical) Video-Detector-(electrical),2,1,2
+st59,LO,2,9/15/21,20:24:35,20:29:22,20,29,22,287.82,Leave Spare Parts Table,,Receiver-Waveguide-(electrical),,Low-Noise-RF-Amplifier-(electrical) Video-Detector-(electrical),2,1,2
+st59,LO,2,9/15/21,20:24:35,20:29:24,20,29,24,289.27,Move to Server Box Table,,Receiver-Waveguide-(electrical),,Low-Noise-RF-Amplifier-(electrical) Video-Detector-(electrical),2,1,2
+st59,LO,2,9/15/21,20:24:35,20:29:27,20,29,27,292.47,Drop LRU: 'Duplexer Bypass [SPARE]',,Receiver-Waveguide-(electrical),,Low-Noise-RF-Amplifier-(electrical) Video-Detector-(electrical),2,1,2
+st59,LO,2,9/15/21,20:24:35,20:29:28,20,29,28,293.77,Connect LRU: 'Duplexer Bypass [SPARE]',,Receiver-Waveguide-(electrical),,Low-Noise-RF-Amplifier-(electrical) Video-Detector-(electrical),2,1,2
+st59,LO,2,9/15/21,20:24:35,20:29:29,20,29,29,294.61,Replaced unnecessarily Duplexer Bypass (electrical),,Receiver-Waveguide-(electrical),,Low-Noise-RF-Amplifier-(electrical) Video-Detector-(electrical) Duplexer-Bypass-(electrical),3,1,3
+st59,LO,2,9/15/21,20:24:35,20:29:51,20,29,51,315.96,Move drawer: 36.5% open,Tracker,Receiver-Waveguide-(electrical),,Low-Noise-RF-Amplifier-(electrical) Video-Detector-(electrical) Duplexer-Bypass-(electrical),3,1,3
+st59,LO,2,9/15/21,20:24:35,20:29:52,20,29,52,317.65,Pick Up LRU: 'Duplexer Bypass',,Receiver-Waveguide-(electrical),,Low-Noise-RF-Amplifier-(electrical) Video-Detector-(electrical) Duplexer-Bypass-(electrical),3,1,3
+st59,LO,2,9/15/21,20:24:35,20:29:53,20,29,53,318.09,Drop LRU: 'Duplexer Bypass',,Receiver-Waveguide-(electrical),,Low-Noise-RF-Amplifier-(electrical) Video-Detector-(electrical) Duplexer-Bypass-(electrical),3,1,3
+st59,LO,2,9/15/21,20:24:35,20:29:55,20,29,55,320.83,Move drawer: -1.6% open,Tracker,Receiver-Waveguide-(electrical),,Low-Noise-RF-Amplifier-(electrical) Video-Detector-(electrical) Duplexer-Bypass-(electrical),3,1,3
+st59,LO,2,9/15/21,20:24:35,20:30:00,20,30,0,325.87,Click on: 'Mixer Detector',,Receiver-Waveguide-(electrical),,Low-Noise-RF-Amplifier-(electrical) Video-Detector-(electrical) Duplexer-Bypass-(electrical),3,1,3
+st59,LO,2,9/15/21,20:24:35,20:30:02,20,30,2,327.52,Disconnect LRU: 'Mixer Detector',,Receiver-Waveguide-(electrical),,Low-Noise-RF-Amplifier-(electrical) Video-Detector-(electrical) Duplexer-Bypass-(electrical),3,1,3
+st59,LO,2,9/15/21,20:24:35,20:30:02,20,30,2,327.54,Move drawer: 95.4% open,Processor,Receiver-Waveguide-(electrical),,Low-Noise-RF-Amplifier-(electrical) Video-Detector-(electrical) Duplexer-Bypass-(electrical),3,1,3
+st59,LO,2,9/15/21,20:24:35,20:30:04,20,30,4,329.67,Connect LRU: 'Mixer Detector',,Receiver-Waveguide-(electrical),,Low-Noise-RF-Amplifier-(electrical) Video-Detector-(electrical) Duplexer-Bypass-(electrical),3,1,3
+st59,LO,2,9/15/21,20:24:35,20:30:04,20,30,4,329.69,Move drawer: 95.4% open,Processor,Receiver-Waveguide-(electrical),,Low-Noise-RF-Amplifier-(electrical) Video-Detector-(electrical) Duplexer-Bypass-(electrical),3,1,3
+st59,LO,2,9/15/21,20:24:35,20:30:06,20,30,6,331.19,Click on: 'Mixer Detector',,Receiver-Waveguide-(electrical),,Low-Noise-RF-Amplifier-(electrical) Video-Detector-(electrical) Duplexer-Bypass-(electrical),3,1,3
+st59,LO,2,9/15/21,20:24:35,20:30:07,20,30,7,332.12,Move drawer: 95.4% open,Processor,Receiver-Waveguide-(electrical),,Low-Noise-RF-Amplifier-(electrical) Video-Detector-(electrical) Duplexer-Bypass-(electrical),3,1,3
+st59,LO,2,9/15/21,20:24:35,20:30:08,20,30,8,333.38,Disconnect LRU: 'Mixer Detector',,Receiver-Waveguide-(electrical),,Low-Noise-RF-Amplifier-(electrical) Video-Detector-(electrical) Duplexer-Bypass-(electrical),3,1,3
+st59,LO,2,9/15/21,20:24:35,20:30:10,20,30,10,335.81,Cancel connect: 'Mixer Detector',,Receiver-Waveguide-(electrical),,Low-Noise-RF-Amplifier-(electrical) Video-Detector-(electrical) Duplexer-Bypass-(electrical),3,1,3
+st59,LO,2,9/15/21,20:24:35,20:30:12,20,30,12,336.94,Pick Up LRU: 'Mixer Detector',,Receiver-Waveguide-(electrical),,Low-Noise-RF-Amplifier-(electrical) Video-Detector-(electrical) Duplexer-Bypass-(electrical),3,1,3
+st59,LO,2,9/15/21,20:24:35,20:30:12,20,30,12,337.59,Drop LRU: 'Mixer Detector',,Receiver-Waveguide-(electrical),,Low-Noise-RF-Amplifier-(electrical) Video-Detector-(electrical) Duplexer-Bypass-(electrical),3,1,3
+st59,LO,2,9/15/21,20:24:35,20:30:14,20,30,14,339.81,Leave Server Box Table,,Receiver-Waveguide-(electrical),,Low-Noise-RF-Amplifier-(electrical) Video-Detector-(electrical) Duplexer-Bypass-(electrical),3,1,3
+st59,LO,2,9/15/21,20:24:35,20:30:15,20,30,15,340.4,Move to Spare Parts Table,,Receiver-Waveguide-(electrical),,Low-Noise-RF-Amplifier-(electrical) Video-Detector-(electrical) Duplexer-Bypass-(electrical),3,1,3
+st59,LO,2,9/15/21,20:24:35,20:30:26,20,30,26,351.19,Pick Up LRU: 'Mixer Detector [SPARE]',,Receiver-Waveguide-(electrical),,Low-Noise-RF-Amplifier-(electrical) Video-Detector-(electrical) Duplexer-Bypass-(electrical),3,1,3
+st59,LO,2,9/15/21,20:24:35,20:30:28,20,30,28,353.84,Leave Spare Parts Table,,Receiver-Waveguide-(electrical),,Low-Noise-RF-Amplifier-(electrical) Video-Detector-(electrical) Duplexer-Bypass-(electrical),3,1,3
+st59,LO,2,9/15/21,20:24:35,20:30:30,20,30,30,355.63,Move to Server Box Table,,Receiver-Waveguide-(electrical),,Low-Noise-RF-Amplifier-(electrical) Video-Detector-(electrical) Duplexer-Bypass-(electrical),3,1,3
+st59,LO,2,9/15/21,20:24:35,20:30:35,20,30,35,359.93,Drop LRU: 'Mixer Detector [SPARE]',,Receiver-Waveguide-(electrical),,Low-Noise-RF-Amplifier-(electrical) Video-Detector-(electrical) Duplexer-Bypass-(electrical),3,1,3
+st59,LO,2,9/15/21,20:24:35,20:30:36,20,30,36,360.93,Connect LRU: 'Mixer Detector [SPARE]',,Receiver-Waveguide-(electrical),,Low-Noise-RF-Amplifier-(electrical) Video-Detector-(electrical) Duplexer-Bypass-(electrical),3,1,3
+st59,LO,2,9/15/21,20:24:35,20:30:36,20,30,36,361.67,Replaced unnecessarily Mixer Detector (electrical),,Receiver-Waveguide-(electrical),,Low-Noise-RF-Amplifier-(electrical) Video-Detector-(electrical) Duplexer-Bypass-(electrical) Mixer-Detector-(electrical),4,1,4
+st59,LO,2,9/15/21,20:24:35,20:30:46,20,30,46,371.49,Move drawer: 0% open,Transmitter,Receiver-Waveguide-(electrical),,Low-Noise-RF-Amplifier-(electrical) Video-Detector-(electrical) Duplexer-Bypass-(electrical) Mixer-Detector-(electrical),4,1,4
+st59,LO,2,9/15/21,20:24:35,20:30:47,20,30,47,372.46,Move drawer: 32.5% open,Transmitter,Receiver-Waveguide-(electrical),,Low-Noise-RF-Amplifier-(electrical) Video-Detector-(electrical) Duplexer-Bypass-(electrical) Mixer-Detector-(electrical),4,1,4
+st59,LO,2,9/15/21,20:24:35,20:30:49,20,30,49,374.84,Move drawer: 86.1% open,Transmitter,Receiver-Waveguide-(electrical),,Low-Noise-RF-Amplifier-(electrical) Video-Detector-(electrical) Duplexer-Bypass-(electrical) Mixer-Detector-(electrical),4,1,4
+st59,LO,2,9/15/21,20:24:35,20:30:52,20,30,52,377.09,Move drawer: 0% open,Transmitter,Receiver-Waveguide-(electrical),,Low-Noise-RF-Amplifier-(electrical) Video-Detector-(electrical) Duplexer-Bypass-(electrical) Mixer-Detector-(electrical),4,1,4
+st59,LO,2,9/15/21,20:24:35,20:30:54,20,30,54,379.8,Move drawer: 13.8% open,Processor,Receiver-Waveguide-(electrical),,Low-Noise-RF-Amplifier-(electrical) Video-Detector-(electrical) Duplexer-Bypass-(electrical) Mixer-Detector-(electrical),4,1,4
+st59,LO,2,9/15/21,20:24:35,20:30:58,20,30,58,383.02,Move drawer: 95.4% open,Processor,Receiver-Waveguide-(electrical),,Low-Noise-RF-Amplifier-(electrical) Video-Detector-(electrical) Duplexer-Bypass-(electrical) Mixer-Detector-(electrical),4,1,4
+st59,LO,2,9/15/21,20:24:35,20:31:01,20,31,1,386.17,Click on: 'Video Amplifier',,Receiver-Waveguide-(electrical),,Low-Noise-RF-Amplifier-(electrical) Video-Detector-(electrical) Duplexer-Bypass-(electrical) Mixer-Detector-(electrical),4,1,4
+st59,LO,2,9/15/21,20:24:35,20:31:04,20,31,4,389.25,Disconnect LRU: 'Video Amplifier',,Receiver-Waveguide-(electrical),,Low-Noise-RF-Amplifier-(electrical) Video-Detector-(electrical) Duplexer-Bypass-(electrical) Mixer-Detector-(electrical),4,1,4
+st59,LO,2,9/15/21,20:24:35,20:31:05,20,31,5,390.47,Pick Up LRU: 'Video Amplifier',,Receiver-Waveguide-(electrical),,Low-Noise-RF-Amplifier-(electrical) Video-Detector-(electrical) Duplexer-Bypass-(electrical) Mixer-Detector-(electrical),4,1,4
+st59,LO,2,9/15/21,20:24:35,20:31:06,20,31,6,390.92,Drop LRU: 'Video Amplifier',,Receiver-Waveguide-(electrical),,Low-Noise-RF-Amplifier-(electrical) Video-Detector-(electrical) Duplexer-Bypass-(electrical) Mixer-Detector-(electrical),4,1,4
+st59,LO,2,9/15/21,20:24:35,20:31:08,20,31,8,393.58,Cancel connect: 'Video Amplifier',,Receiver-Waveguide-(electrical),,Low-Noise-RF-Amplifier-(electrical) Video-Detector-(electrical) Duplexer-Bypass-(electrical) Mixer-Detector-(electrical),4,1,4
+st59,LO,2,9/15/21,20:24:35,20:31:09,20,31,9,394.86,Leave Server Box Table,,Receiver-Waveguide-(electrical),,Low-Noise-RF-Amplifier-(electrical) Video-Detector-(electrical) Duplexer-Bypass-(electrical) Mixer-Detector-(electrical),4,1,4
+st59,LO,2,9/15/21,20:24:35,20:31:10,20,31,10,395.73,Move to Spare Parts Table,,Receiver-Waveguide-(electrical),,Low-Noise-RF-Amplifier-(electrical) Video-Detector-(electrical) Duplexer-Bypass-(electrical) Mixer-Detector-(electrical),4,1,4
+st59,LO,2,9/15/21,20:24:35,20:31:21,20,31,21,406.54,Pick Up LRU: 'Video Amplifier [SPARE]',,Receiver-Waveguide-(electrical),,Low-Noise-RF-Amplifier-(electrical) Video-Detector-(electrical) Duplexer-Bypass-(electrical) Mixer-Detector-(electrical),4,1,4
+st59,LO,2,9/15/21,20:24:35,20:31:25,20,31,25,410.81,Leave Spare Parts Table,,Receiver-Waveguide-(electrical),,Low-Noise-RF-Amplifier-(electrical) Video-Detector-(electrical) Duplexer-Bypass-(electrical) Mixer-Detector-(electrical),4,1,4
+st59,LO,2,9/15/21,20:24:35,20:31:27,20,31,27,412.06,Move to Server Box Table,,Receiver-Waveguide-(electrical),,Low-Noise-RF-Amplifier-(electrical) Video-Detector-(electrical) Duplexer-Bypass-(electrical) Mixer-Detector-(electrical),4,1,4
+st59,LO,2,9/15/21,20:24:35,20:31:31,20,31,31,416.21,Drop LRU: 'Video Amplifier [SPARE]',,Receiver-Waveguide-(electrical),,Low-Noise-RF-Amplifier-(electrical) Video-Detector-(electrical) Duplexer-Bypass-(electrical) Mixer-Detector-(electrical),4,1,4
+st59,LO,2,9/15/21,20:24:35,20:31:32,20,31,32,417.08,Pick Up LRU: 'Video Amplifier [SPARE]',,Receiver-Waveguide-(electrical),,Low-Noise-RF-Amplifier-(electrical) Video-Detector-(electrical) Duplexer-Bypass-(electrical) Mixer-Detector-(electrical),4,1,4
+st59,LO,2,9/15/21,20:24:35,20:31:32,20,31,32,417.66,Drop LRU: 'Video Amplifier [SPARE]',,Receiver-Waveguide-(electrical),,Low-Noise-RF-Amplifier-(electrical) Video-Detector-(electrical) Duplexer-Bypass-(electrical) Mixer-Detector-(electrical),4,1,4
+st59,LO,2,9/15/21,20:24:35,20:31:34,20,31,34,419.18,Connect LRU: 'Video Amplifier [SPARE]',,Receiver-Waveguide-(electrical),,Low-Noise-RF-Amplifier-(electrical) Video-Detector-(electrical) Duplexer-Bypass-(electrical) Mixer-Detector-(electrical),4,1,4
+st59,LO,2,9/15/21,20:24:35,20:31:35,20,31,35,420.46,Replaced unnecessarily Video Amplifier (electrical),,Receiver-Waveguide-(electrical),,Low-Noise-RF-Amplifier-(electrical) Video-Detector-(electrical) Duplexer-Bypass-(electrical) Mixer-Detector-(electrical) Video-Amplifier-(electrical),5,1,5
+st59,LO,2,9/15/21,20:24:35,20:31:42,20,31,42,426.97,Click on: 'IF Amplifier',,Receiver-Waveguide-(electrical),,Low-Noise-RF-Amplifier-(electrical) Video-Detector-(electrical) Duplexer-Bypass-(electrical) Mixer-Detector-(electrical) Video-Amplifier-(electrical),5,1,5
+st59,LO,2,9/15/21,20:24:35,20:31:43,20,31,43,428.37,Disconnect LRU: 'IF Amplifier',,Receiver-Waveguide-(electrical),,Low-Noise-RF-Amplifier-(electrical) Video-Detector-(electrical) Duplexer-Bypass-(electrical) Mixer-Detector-(electrical) Video-Amplifier-(electrical),5,1,5
+st59,LO,2,9/15/21,20:24:35,20:31:44,20,31,44,428.99,Pick Up LRU: 'IF Amplifier',,Receiver-Waveguide-(electrical),,Low-Noise-RF-Amplifier-(electrical) Video-Detector-(electrical) Duplexer-Bypass-(electrical) Mixer-Detector-(electrical) Video-Amplifier-(electrical),5,1,5
+st59,LO,2,9/15/21,20:24:35,20:31:44,20,31,44,429.05,Drop LRU: 'IF Amplifier',,Receiver-Waveguide-(electrical),,Low-Noise-RF-Amplifier-(electrical) Video-Detector-(electrical) Duplexer-Bypass-(electrical) Mixer-Detector-(electrical) Video-Amplifier-(electrical),5,1,5
+st59,LO,2,9/15/21,20:24:35,20:31:44,20,31,44,429.66,Pick Up LRU: 'IF Amplifier',,Receiver-Waveguide-(electrical),,Low-Noise-RF-Amplifier-(electrical) Video-Detector-(electrical) Duplexer-Bypass-(electrical) Mixer-Detector-(electrical) Video-Amplifier-(electrical),5,1,5
+st59,LO,2,9/15/21,20:24:35,20:31:44,20,31,44,429.72,Drop LRU: 'IF Amplifier',,Receiver-Waveguide-(electrical),,Low-Noise-RF-Amplifier-(electrical) Video-Detector-(electrical) Duplexer-Bypass-(electrical) Mixer-Detector-(electrical) Video-Amplifier-(electrical),5,1,5
+st59,LO,2,9/15/21,20:24:35,20:31:44,20,31,44,429.72,Connect LRU: 'IF Amplifier',,Receiver-Waveguide-(electrical),,Low-Noise-RF-Amplifier-(electrical) Video-Detector-(electrical) Duplexer-Bypass-(electrical) Mixer-Detector-(electrical) Video-Amplifier-(electrical),5,1,5
+st59,LO,2,9/15/21,20:24:35,20:31:45,20,31,45,430.21,Click on: 'IF Amplifier',,Receiver-Waveguide-(electrical),,Low-Noise-RF-Amplifier-(electrical) Video-Detector-(electrical) Duplexer-Bypass-(electrical) Mixer-Detector-(electrical) Video-Amplifier-(electrical),5,1,5
+st59,LO,2,9/15/21,20:24:35,20:31:46,20,31,46,431.37,Disconnect LRU: 'IF Amplifier',,Receiver-Waveguide-(electrical),,Low-Noise-RF-Amplifier-(electrical) Video-Detector-(electrical) Duplexer-Bypass-(electrical) Mixer-Detector-(electrical) Video-Amplifier-(electrical),5,1,5
+st59,LO,2,9/15/21,20:24:35,20:31:48,20,31,48,433.39,Cancel connect: 'IF Amplifier',,Receiver-Waveguide-(electrical),,Low-Noise-RF-Amplifier-(electrical) Video-Detector-(electrical) Duplexer-Bypass-(electrical) Mixer-Detector-(electrical) Video-Amplifier-(electrical),5,1,5
+st59,LO,2,9/15/21,20:24:35,20:31:49,20,31,49,434.04,Click on: 'Control Circuit',,Receiver-Waveguide-(electrical),,Low-Noise-RF-Amplifier-(electrical) Video-Detector-(electrical) Duplexer-Bypass-(electrical) Mixer-Detector-(electrical) Video-Amplifier-(electrical),5,1,5
+st59,LO,2,9/15/21,20:24:35,20:31:50,20,31,50,435.43,Cancel disconnect: 'Control Circuit',,Receiver-Waveguide-(electrical),,Low-Noise-RF-Amplifier-(electrical) Video-Detector-(electrical) Duplexer-Bypass-(electrical) Mixer-Detector-(electrical) Video-Amplifier-(electrical),5,1,5
+st59,LO,2,9/15/21,20:24:35,20:31:51,20,31,51,436.51,Pick Up LRU: 'IF Amplifier',,Receiver-Waveguide-(electrical),,Low-Noise-RF-Amplifier-(electrical) Video-Detector-(electrical) Duplexer-Bypass-(electrical) Mixer-Detector-(electrical) Video-Amplifier-(electrical),5,1,5
+st59,LO,2,9/15/21,20:24:35,20:31:51,20,31,51,436.79,Drop LRU: 'IF Amplifier',,Receiver-Waveguide-(electrical),,Low-Noise-RF-Amplifier-(electrical) Video-Detector-(electrical) Duplexer-Bypass-(electrical) Mixer-Detector-(electrical) Video-Amplifier-(electrical),5,1,5
+st59,LO,2,9/15/21,20:24:35,20:31:53,20,31,53,438.73,Leave Server Box Table,,Receiver-Waveguide-(electrical),,Low-Noise-RF-Amplifier-(electrical) Video-Detector-(electrical) Duplexer-Bypass-(electrical) Mixer-Detector-(electrical) Video-Amplifier-(electrical),5,1,5
+st59,LO,2,9/15/21,20:24:35,20:31:54,20,31,54,439.06,Move to Spare Parts Table,,Receiver-Waveguide-(electrical),,Low-Noise-RF-Amplifier-(electrical) Video-Detector-(electrical) Duplexer-Bypass-(electrical) Mixer-Detector-(electrical) Video-Amplifier-(electrical),5,1,5
+st59,LO,2,9/15/21,20:24:35,20:32:01,20,32,1,446.62,Leave Spare Parts Table,,Receiver-Waveguide-(electrical),,Low-Noise-RF-Amplifier-(electrical) Video-Detector-(electrical) Duplexer-Bypass-(electrical) Mixer-Detector-(electrical) Video-Amplifier-(electrical),5,1,5
+st59,LO,2,9/15/21,20:24:35,20:32:03,20,32,3,448.15,Move to Spare Parts Table,,Receiver-Waveguide-(electrical),,Low-Noise-RF-Amplifier-(electrical) Video-Detector-(electrical) Duplexer-Bypass-(electrical) Mixer-Detector-(electrical) Video-Amplifier-(electrical),5,1,5
+st59,LO,2,9/15/21,20:24:35,20:32:08,20,32,8,453.64,Pick Up LRU: 'IF Amplifier [SPARE]',,Receiver-Waveguide-(electrical),,Low-Noise-RF-Amplifier-(electrical) Video-Detector-(electrical) Duplexer-Bypass-(electrical) Mixer-Detector-(electrical) Video-Amplifier-(electrical),5,1,5
+st59,LO,2,9/15/21,20:24:35,20:32:11,20,32,11,456.16,Leave Spare Parts Table,,Receiver-Waveguide-(electrical),,Low-Noise-RF-Amplifier-(electrical) Video-Detector-(electrical) Duplexer-Bypass-(electrical) Mixer-Detector-(electrical) Video-Amplifier-(electrical),5,1,5
+st59,LO,2,9/15/21,20:24:35,20:32:12,20,32,12,456.91,Drop LRU: 'IF Amplifier [SPARE]',,Receiver-Waveguide-(electrical),,Low-Noise-RF-Amplifier-(electrical) Video-Detector-(electrical) Duplexer-Bypass-(electrical) Mixer-Detector-(electrical) Video-Amplifier-(electrical),5,1,5
+st59,LO,2,9/15/21,20:24:35,20:32:12,20,32,12,457.38,Move to Spare Parts Table,,Receiver-Waveguide-(electrical),,Low-Noise-RF-Amplifier-(electrical) Video-Detector-(electrical) Duplexer-Bypass-(electrical) Mixer-Detector-(electrical) Video-Amplifier-(electrical),5,1,5
+st59,LO,2,9/15/21,20:24:35,20:32:14,20,32,14,459.23,Pick Up LRU: 'IF Amplifier [SPARE]',,Receiver-Waveguide-(electrical),,Low-Noise-RF-Amplifier-(electrical) Video-Detector-(electrical) Duplexer-Bypass-(electrical) Mixer-Detector-(electrical) Video-Amplifier-(electrical),5,1,5
+st59,LO,2,9/15/21,20:24:35,20:32:16,20,32,16,461.35,Leave Spare Parts Table,,Receiver-Waveguide-(electrical),,Low-Noise-RF-Amplifier-(electrical) Video-Detector-(electrical) Duplexer-Bypass-(electrical) Mixer-Detector-(electrical) Video-Amplifier-(electrical),5,1,5
+st59,LO,2,9/15/21,20:24:35,20:32:17,20,32,17,462.65,Drop LRU: 'IF Amplifier [SPARE]',,Receiver-Waveguide-(electrical),,Low-Noise-RF-Amplifier-(electrical) Video-Detector-(electrical) Duplexer-Bypass-(electrical) Mixer-Detector-(electrical) Video-Amplifier-(electrical),5,1,5
+st59,LO,2,9/15/21,20:24:35,20:32:20,20,32,20,464.97,Pick Up LRU: 'IF Amplifier [SPARE]',,Receiver-Waveguide-(electrical),,Low-Noise-RF-Amplifier-(electrical) Video-Detector-(electrical) Duplexer-Bypass-(electrical) Mixer-Detector-(electrical) Video-Amplifier-(electrical),5,1,5
+st59,LO,2,9/15/21,20:24:35,20:32:22,20,32,22,467.07,Move to Server Box Table,,Receiver-Waveguide-(electrical),,Low-Noise-RF-Amplifier-(electrical) Video-Detector-(electrical) Duplexer-Bypass-(electrical) Mixer-Detector-(electrical) Video-Amplifier-(electrical),5,1,5
+st59,LO,2,9/15/21,20:24:35,20:32:27,20,32,27,472.51,Drop LRU: 'IF Amplifier [SPARE]',,Receiver-Waveguide-(electrical),,Low-Noise-RF-Amplifier-(electrical) Video-Detector-(electrical) Duplexer-Bypass-(electrical) Mixer-Detector-(electrical) Video-Amplifier-(electrical),5,1,5
+st59,LO,2,9/15/21,20:24:35,20:32:28,20,32,28,473.51,Pick Up LRU: 'IF Amplifier [SPARE]',,Receiver-Waveguide-(electrical),,Low-Noise-RF-Amplifier-(electrical) Video-Detector-(electrical) Duplexer-Bypass-(electrical) Mixer-Detector-(electrical) Video-Amplifier-(electrical),5,1,5
+st59,LO,2,9/15/21,20:24:35,20:32:33,20,32,33,478.51,Drop LRU: 'IF Amplifier [SPARE]',,Receiver-Waveguide-(electrical),,Low-Noise-RF-Amplifier-(electrical) Video-Detector-(electrical) Duplexer-Bypass-(electrical) Mixer-Detector-(electrical) Video-Amplifier-(electrical),5,1,5
+st59,LO,2,9/15/21,20:24:35,20:32:34,20,32,34,479.55,Connect LRU: 'IF Amplifier [SPARE]',,Receiver-Waveguide-(electrical),,Low-Noise-RF-Amplifier-(electrical) Video-Detector-(electrical) Duplexer-Bypass-(electrical) Mixer-Detector-(electrical) Video-Amplifier-(electrical),5,1,5
+st59,LO,2,9/15/21,20:24:35,20:32:35,20,32,35,480.37,Replaced unnecessarily IF Amplifier (electrical),,Receiver-Waveguide-(electrical),,Low-Noise-RF-Amplifier-(electrical) Video-Detector-(electrical) Duplexer-Bypass-(electrical) Mixer-Detector-(electrical) Video-Amplifier-(electrical) IF-Amplifier-(electrical),6,1,6
+st59,LO,2,9/15/21,20:24:35,20:32:40,20,32,40,485.12,Submit?,,Receiver-Waveguide-(electrical),,Low-Noise-RF-Amplifier-(electrical) Video-Detector-(electrical) Duplexer-Bypass-(electrical) Mixer-Detector-(electrical) Video-Amplifier-(electrical) IF-Amplifier-(electrical),6,1,6
+st59,LO,2,9/15/21,20:24:35,20:32:40,20,32,40,485.14,Swing front panel: 100% open,,Receiver-Waveguide-(electrical),,Low-Noise-RF-Amplifier-(electrical) Video-Detector-(electrical) Duplexer-Bypass-(electrical) Mixer-Detector-(electrical) Video-Amplifier-(electrical) IF-Amplifier-(electrical),6,1,6
+st59,LO,2,9/15/21,20:24:35,20:32:42,20,32,42,487.07,Submit Confirm,,Receiver-Waveguide-(electrical),,Low-Noise-RF-Amplifier-(electrical) Video-Detector-(electrical) Duplexer-Bypass-(electrical) Mixer-Detector-(electrical) Video-Amplifier-(electrical) IF-Amplifier-(electrical),6,1,6
+st59,LO,3,9/15/21,20:32:43,20:32:43,20,32,43,0,Make electrical flaw: Stage 3 Modulator,,Stage-3-Modulator-(electrical),,,0,1,0
+st59,LO,3,9/15/21,20:32:43,20:32:43,20,32,43,0,Start (High Fidelity Sim),,Stage-3-Modulator-(electrical),,,0,1,0
+st59,LO,3,9/15/21,20:32:43,20:32:43,20,32,43,0.03,Leave Server Box Table,,Stage-3-Modulator-(electrical),,,0,1,0

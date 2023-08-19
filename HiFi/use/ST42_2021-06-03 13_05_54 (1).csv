@@ -1,0 +1,444 @@
+subject,subject_group,round,round_start_date_utc,round_start_time_utc,current_time_utc,current_hour24,current_minute,current_second,current_elapsed_seconds,event,ui_tab,active_faults,fixed_faults,fixed_nonfaults,ReplacedComponents,FaultsRemaining,ReplacedNonFaults
+ST42,HI,1,6/3/21,17:05:54,17:05:54,17,5,54,0.11,Make electrical flaw: Sweep Control Circuit,,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:05:54,17,5,54,0.13,Start (High Fidelity Sim),,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:06:59,17,6,59,64.85,Swing front panel: 0% open,,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:07:23,17,7,23,88.6,Move to Spare Parts Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:07:34,17,7,34,99.63,Leave Spare Parts Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:07:36,17,7,36,101.63,Move to Spare Parts Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:08:26,17,8,26,151.9,Leave Spare Parts Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:08:34,17,8,34,160.23,Move to Spare Parts Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:08:43,17,8,43,169.17,Pick Up LRU: 'Frequency Synthesizer [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:08:43,17,8,43,169.27,Drop LRU: 'Frequency Synthesizer [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:08:52,17,8,52,178.15,Leave Spare Parts Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:08:55,17,8,55,181.25,Move to Server Box Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:09:00,17,9,0,185.72,Swing front panel: 0% open,,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:09:36,17,9,36,222.1,Leave Server Box Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:09:37,17,9,37,222.62,Move to Spare Parts Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:09:42,17,9,42,227.9,Pick Up LRU: 'Adjuster [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:09:42,17,9,42,228.38,Drop LRU: 'Adjuster [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:10:35,17,10,35,280.59,Leave Spare Parts Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:10:43,17,10,43,288.56,Move to Spare Parts Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:10:59,17,10,59,304.75,Pick Up LRU: 'Video Detector [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:10:59,17,10,59,304.96,Drop LRU: 'Video Detector [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:11:05,17,11,5,311.39,Pick Up LRU: 'Sine Wave Oscillator [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:11:06,17,11,6,311.54,Drop LRU: 'Sine Wave Oscillator [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:11:39,17,11,39,344.96,Leave Spare Parts Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:11:42,17,11,42,347.79,Move to Spare Parts Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:11:55,17,11,55,361.21,Pick Up LRU: 'Control Circuit [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:11:58,17,11,58,363.93,Drop LRU: 'Control Circuit [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:11:59,17,11,59,364.62,Pick Up LRU: 'Control Circuit [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:11:59,17,11,59,364.71,Drop LRU: 'Control Circuit [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:12:04,17,12,4,370.33,Pick Up LRU: 'Control Circuit [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:12:09,17,12,9,374.96,Drop LRU: 'Control Circuit [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:12:23,17,12,23,388.46,Leave Spare Parts Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:12:24,17,12,24,389.54,Move to Spare Parts Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:13:12,17,13,12,438.12,Pick Up LRU: 'Cathode Ray Tube [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:13:15,17,13,15,441.12,Drop LRU: 'Cathode Ray Tube [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:13:35,17,13,35,461.12,Pick Up LRU: 'RF Amplifier 2 [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:13:37,17,13,37,462.92,Drop LRU: 'RF Amplifier 2 [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:13:39,17,13,39,465.17,Pick Up LRU: 'RF Amplifier 2 [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:13:40,17,13,40,465.81,Drop LRU: 'RF Amplifier 2 [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:13:42,17,13,42,468.14,Pick Up LRU: 'RF Amplifier 2 [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:13:43,17,13,43,468.92,Drop LRU: 'RF Amplifier 2 [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:13:52,17,13,52,477.66,Pick Up LRU: 'RF Amplifier 2 [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:13:53,17,13,53,479.22,Drop LRU: 'RF Amplifier 2 [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:13:55,17,13,55,481.12,Pick Up LRU: 'RF Amplifier 2 [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:13:56,17,13,56,482.07,Drop LRU: 'RF Amplifier 2 [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:14:10,17,14,10,495.73,Pick Up LRU: 'RF Amplifier 1 [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:14:11,17,14,11,496.92,Drop LRU: 'RF Amplifier 1 [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:14:12,17,14,12,498.18,Pick Up LRU: 'RF Amplifier 1 [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:14:14,17,14,14,499.79,Drop LRU: 'RF Amplifier 1 [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:14:15,17,14,15,500.76,Pick Up LRU: 'RF Amplifier 1 [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:14:16,17,14,16,501.44,Drop LRU: 'RF Amplifier 1 [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:14:37,17,14,37,522.64,Pick Up LRU: 'RF Amplifier 1 [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:14:38,17,14,38,523.52,Drop LRU: 'RF Amplifier 1 [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:15:16,17,15,16,562.36,Pick Up LRU: 'Sweep Control Circuit [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:15:18,17,15,18,564.26,Drop LRU: 'Sweep Control Circuit [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:15:25,17,15,25,571.32,Pick Up LRU: 'Gate Circuit [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:15:26,17,15,26,571.42,Drop LRU: 'Gate Circuit [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:15:26,17,15,26,571.94,Pick Up LRU: 'Gate Circuit [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:15:27,17,15,27,573.22,Drop LRU: 'Gate Circuit [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:15:28,17,15,28,573.84,Pick Up LRU: 'Gate Circuit [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:15:28,17,15,28,573.9,Drop LRU: 'Gate Circuit [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:15:28,17,15,28,574.32,Pick Up LRU: 'Gate Circuit [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:15:28,17,15,28,574.37,Drop LRU: 'Gate Circuit [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:15:29,17,15,29,574.48,Pick Up LRU: 'Gate Circuit [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:15:30,17,15,30,575.87,Drop LRU: 'Gate Circuit [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:15:37,17,15,37,583.06,Pick Up LRU: 'Gate Circuit [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:15:40,17,15,40,585.97,Drop LRU: 'Gate Circuit [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:15:41,17,15,41,586.77,Pick Up LRU: 'Gate Circuit [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:15:42,17,15,42,588,Drop LRU: 'Gate Circuit [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:15:44,17,15,44,589.44,Pick Up LRU: 'Gate Circuit [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:15:44,17,15,44,589.68,Drop LRU: 'Gate Circuit [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:15:44,17,15,44,589.82,Pick Up LRU: 'Gate Circuit [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:15:44,17,15,44,589.9,Drop LRU: 'Gate Circuit [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:15:45,17,15,45,590.44,Pick Up LRU: 'Gate Circuit [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:15:45,17,15,45,591.34,Drop LRU: 'Gate Circuit [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:15:49,17,15,49,595.13,Pick Up LRU: 'Stage 1 Modulator [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:15:52,17,15,52,597.88,Drop LRU: 'Stage 1 Modulator [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:16:07,17,16,7,612.55,Pick Up LRU: 'Cathode Ray Tube [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:16:07,17,16,7,612.7,Drop LRU: 'Cathode Ray Tube [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:16:14,17,16,14,619.54,Pick Up LRU: 'Stage 1 Modulator [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:16:15,17,16,15,621.04,Drop LRU: 'Stage 1 Modulator [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:16:17,17,16,17,623.13,Pick Up LRU: 'Stage 2 Modulator [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:16:18,17,16,18,623.75,Drop LRU: 'Stage 2 Modulator [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:16:20,17,16,20,625.52,Pick Up LRU: 'Frequency Synthesizer [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:16:20,17,16,20,626.28,Drop LRU: 'Frequency Synthesizer [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:16:23,17,16,23,629.17,Pick Up LRU: 'Cathode Ray Tube [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:16:25,17,16,25,630.5,Drop LRU: 'Cathode Ray Tube [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:16:26,17,16,26,631.77,Pick Up LRU: 'Cathode Ray Tube [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:16:26,17,16,26,632.35,Drop LRU: 'Cathode Ray Tube [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:16:28,17,16,28,634.3,Pick Up LRU: 'Cathode Ray Tube [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:16:29,17,16,29,635.25,Drop LRU: 'Cathode Ray Tube [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:16:33,17,16,33,638.84,Pick Up LRU: 'Intensity Gate Generator [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:16:34,17,16,34,640.27,Drop LRU: 'Intensity Gate Generator [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:17:18,17,17,18,683.53,Pick Up LRU: 'Intensity Gate Generator [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:17:18,17,17,18,683.68,Drop LRU: 'Intensity Gate Generator [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:17:24,17,17,24,690.12,Pick Up LRU: 'Intensity Gate Generator [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:17:25,17,17,25,690.78,Drop LRU: 'Intensity Gate Generator [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:17:32,17,17,32,697.93,Pick Up LRU: 'Intensity Gate Generator [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:17:33,17,17,33,699.25,Drop LRU: 'Intensity Gate Generator [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:17:35,17,17,35,701.06,Pick Up LRU: 'Cathode Ray Tube [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:17:36,17,17,36,702.16,Drop LRU: 'Cathode Ray Tube [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:17:37,17,17,37,702.96,Pick Up LRU: 'Cathode Ray Tube [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:17:37,17,17,37,703.18,Drop LRU: 'Cathode Ray Tube [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:17:43,17,17,43,708.6,Pick Up LRU: 'Cathode Ray Tube [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:17:45,17,17,45,710.88,Drop LRU: 'Cathode Ray Tube [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:17:47,17,17,47,712.5,Pick Up LRU: 'Cathode Ray Tube [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:17:48,17,17,48,714.25,Drop LRU: 'Cathode Ray Tube [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:17:50,17,17,50,715.65,Pick Up LRU: 'Cathode Ray Tube [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:17:52,17,17,52,717.93,Drop LRU: 'Cathode Ray Tube [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:17:53,17,17,53,718.53,Pick Up LRU: 'Cathode Ray Tube [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:17:54,17,17,54,719.63,Drop LRU: 'Cathode Ray Tube [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:18:10,17,18,10,736.1,Leave Spare Parts Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:18:11,17,18,11,737.02,Move to Spare Parts Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:19:00,17,19,0,785.59,Leave Spare Parts Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:19:15,17,19,15,801.26,Move to Spare Parts Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:19:42,17,19,42,827.81,Leave Spare Parts Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:19:46,17,19,46,831.69,Move to Spare Parts Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:19:49,17,19,49,834.71,Leave Spare Parts Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:19:56,17,19,56,841.83,Move to Spare Parts Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:19:57,17,19,57,842.86,Leave Spare Parts Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:20:16,17,20,16,861.59,Move to Server Box Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:20:16,17,20,16,862.11,Leave Server Box Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:20:19,17,20,19,864.68,Move to Spare Parts Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:20:43,17,20,43,888.59,Leave Spare Parts Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:20:52,17,20,52,897.79,Move to Spare Parts Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:21:08,17,21,8,914.31,Pick Up LRU: 'Mixer Detector [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:21:09,17,21,9,914.98,Drop LRU: 'Mixer Detector [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:21:12,17,21,12,917.99,Pick Up LRU: 'Mixer Detector [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:21:15,17,21,15,921.26,Drop LRU: 'Mixer Detector [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:21:31,17,21,31,936.49,Pick Up LRU: 'Frequency Synthesizer [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:21:31,17,21,31,937.31,Drop LRU: 'Frequency Synthesizer [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:21:33,17,21,33,939.31,Pick Up LRU: 'Low Noise RF Amplifier [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:21:34,17,21,34,940.09,Drop LRU: 'Low Noise RF Amplifier [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:21:40,17,21,40,945.62,Pick Up LRU: 'RC Differentiator [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:21:42,17,21,42,947.76,Drop LRU: 'RC Differentiator [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:21:47,17,21,47,952.61,Pick Up LRU: 'Cathode Ray Tube [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:21:48,17,21,48,954.37,Drop LRU: 'Cathode Ray Tube [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:22:00,17,22,0,966.26,Pick Up LRU: 'IF Amplifier [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:22:01,17,22,1,967.06,Drop LRU: 'IF Amplifier [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:22:02,17,22,2,967.7,Pick Up LRU: 'IF Amplifier [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:22:02,17,22,2,967.8,Drop LRU: 'IF Amplifier [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:22:02,17,22,2,968.2,Pick Up LRU: 'IF Amplifier [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:22:02,17,22,2,968.29,Drop LRU: 'IF Amplifier [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:22:02,17,22,2,968.38,Pick Up LRU: 'IF Amplifier [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:22:08,17,22,8,974.26,Drop LRU: 'IF Amplifier [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:22:09,17,22,9,974.51,Pick Up LRU: 'IF Amplifier [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:22:10,17,22,10,975.97,Drop LRU: 'IF Amplifier [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:22:11,17,22,11,976.74,Pick Up LRU: 'IF Amplifier [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:22:12,17,22,12,978.21,Drop LRU: 'IF Amplifier [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:22:14,17,22,14,979.42,Pick Up LRU: 'IF Amplifier [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:22:15,17,22,15,980.79,Drop LRU: 'IF Amplifier [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:22:16,17,22,16,982.19,Pick Up LRU: 'Control Circuit [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:22:19,17,22,19,985.04,Drop LRU: 'Control Circuit [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:22:22,17,22,22,988.09,Pick Up LRU: 'Low Noise RF Amplifier [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:22:22,17,22,22,988.27,Drop LRU: 'Low Noise RF Amplifier [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:22:32,17,22,32,998.29,Pick Up LRU: 'Control Circuit [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:22:37,17,22,37,1003.26,Drop LRU: 'Control Circuit [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:22:51,17,22,51,1016.84,Pick Up LRU: 'Cathode Ray Tube [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:22:54,17,22,54,1019.71,Drop LRU: 'Cathode Ray Tube [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:22:57,17,22,57,1022.91,Pick Up LRU: 'Cathode Ray Tube [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:22:58,17,22,58,1023.69,Drop LRU: 'Cathode Ray Tube [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:22:58,17,22,58,1023.74,Pick Up LRU: 'Cathode Ray Tube [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:22:59,17,22,59,1024.89,Drop LRU: 'Cathode Ray Tube [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:23:00,17,23,0,1026.32,Pick Up LRU: 'Mixer Detector [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:23:01,17,23,1,1027.11,Drop LRU: 'Mixer Detector [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:23:03,17,23,3,1029.36,Pick Up LRU: 'Cathode Ray Tube [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:23:04,17,23,4,1029.95,Drop LRU: 'Cathode Ray Tube [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:23:06,17,23,6,1032.1,Pick Up LRU: 'Cathode Ray Tube [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:23:08,17,23,8,1033.67,Drop LRU: 'Cathode Ray Tube [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:23:10,17,23,10,1035.56,Pick Up LRU: 'Cathode Ray Tube [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:23:10,17,23,10,1036.34,Drop LRU: 'Cathode Ray Tube [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:23:12,17,23,12,1037.92,Pick Up LRU: 'Cathode Ray Tube [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:23:12,17,23,12,1038.01,Drop LRU: 'Cathode Ray Tube [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:23:13,17,23,13,1038.69,Pick Up LRU: 'Cathode Ray Tube [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:23:13,17,23,13,1038.82,Drop LRU: 'Cathode Ray Tube [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:23:26,17,23,26,1051.82,Pick Up LRU: 'Cathode Ray Tube [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:23:30,17,23,30,1055.48,Drop LRU: 'Cathode Ray Tube [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:23:30,17,23,30,1056.32,Pick Up LRU: 'Cathode Ray Tube [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:23:31,17,23,31,1056.43,Drop LRU: 'Cathode Ray Tube [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:23:31,17,23,31,1056.87,Pick Up LRU: 'Cathode Ray Tube [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:23:33,17,23,33,1058.62,Drop LRU: 'Cathode Ray Tube [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:23:37,17,23,37,1063.04,Pick Up LRU: 'Sweep Generator Circuit [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:23:38,17,23,38,1063.64,Drop LRU: 'Sweep Generator Circuit [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:23:47,17,23,47,1072.52,Leave Spare Parts Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:23:48,17,23,48,1073.52,Move to Spare Parts Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:23:50,17,23,50,1075.64,Pick Up LRU: 'Overdriven Amplifier [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:23:50,17,23,50,1075.75,Drop LRU: 'Overdriven Amplifier [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:23:50,17,23,50,1076.29,Pick Up LRU: 'Overdriven Amplifier [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:24:03,17,24,3,1088.92,Drop LRU: 'Overdriven Amplifier [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:24:05,17,24,5,1090.52,Pick Up LRU: 'Stage 3 Modulator [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:24:10,17,24,10,1096.26,Drop LRU: 'Stage 3 Modulator [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:24:12,17,24,12,1097.9,Pick Up LRU: 'Stage 3 Modulator [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:24:13,17,24,13,1098.94,Drop LRU: 'Stage 3 Modulator [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:24:17,17,24,17,1103.07,Pick Up LRU: 'Frequency Synthesizer [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:24:18,17,24,18,1104,Drop LRU: 'Frequency Synthesizer [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:24:20,17,24,20,1105.56,Pick Up LRU: 'Stage 3 Modulator [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:24:20,17,24,20,1106.35,Drop LRU: 'Stage 3 Modulator [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:24:24,17,24,24,1110.14,Pick Up LRU: 'Sweep Generator Circuit [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:24:32,17,24,32,1117.52,Drop LRU: 'Sweep Generator Circuit [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:24:33,17,24,33,1118.9,Pick Up LRU: 'Sweep Generator Circuit [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:24:34,17,24,34,1120.29,Drop LRU: 'Sweep Generator Circuit [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:24:36,17,24,36,1122.06,Pick Up LRU: 'Cathode Ray Tube [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:24:39,17,24,39,1125.07,Drop LRU: 'Cathode Ray Tube [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:24:40,17,24,40,1126.29,Pick Up LRU: 'Cathode Ray Tube [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:24:40,17,24,40,1126.35,Drop LRU: 'Cathode Ray Tube [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:24:41,17,24,41,1127.14,Pick Up LRU: 'Cathode Ray Tube [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:24:43,17,24,43,1129.35,Drop LRU: 'Cathode Ray Tube [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:24:45,17,24,45,1131.06,Pick Up LRU: 'Cathode Ray Tube [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:24:46,17,24,46,1131.82,Drop LRU: 'Cathode Ray Tube [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:24:52,17,24,52,1138.3,Pick Up LRU: 'Video Amplifier [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:24:54,17,24,54,1139.74,Drop LRU: 'Video Amplifier [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:24:55,17,24,55,1140.82,Pick Up LRU: 'Video Amplifier [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:24:57,17,24,57,1142.87,Drop LRU: 'Video Amplifier [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:24:58,17,24,58,1143.57,Pick Up LRU: 'Video Amplifier [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:25:00,17,25,0,1146.37,Drop LRU: 'Video Amplifier [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:25:02,17,25,2,1147.84,Pick Up LRU: 'Mixer Detector [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:25:03,17,25,3,1148.87,Drop LRU: 'Mixer Detector [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:25:04,17,25,4,1150.14,Pick Up LRU: 'Mixer Detector [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:25:05,17,25,5,1150.65,Drop LRU: 'Mixer Detector [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:25:09,17,25,9,1154.89,Pick Up LRU: 'RC Differentiator [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:25:16,17,25,16,1161.52,Drop LRU: 'RC Differentiator [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:25:18,17,25,18,1164.28,Pick Up LRU: 'RC Differentiator [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:25:19,17,25,19,1164.89,Drop LRU: 'RC Differentiator [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:25:20,17,25,20,1166.02,Pick Up LRU: 'Local Oscillator [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:25:21,17,25,21,1167,Drop LRU: 'Local Oscillator [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:25:22,17,25,22,1167.65,Pick Up LRU: 'Local Oscillator [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:25:27,17,25,27,1172.42,Drop LRU: 'Local Oscillator [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:25:28,17,25,28,1173.7,Pick Up LRU: 'Overdriven Amplifier [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:25:29,17,25,29,1174.97,Drop LRU: 'Overdriven Amplifier [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:25:30,17,25,30,1175.99,Pick Up LRU: 'Overdriven Amplifier [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:25:31,17,25,31,1177.05,Drop LRU: 'Overdriven Amplifier [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:25:32,17,25,32,1177.92,Pick Up LRU: 'Overdriven Amplifier [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:25:37,17,25,37,1183.25,Drop LRU: 'Overdriven Amplifier [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:25:41,17,25,41,1187.08,Leave Spare Parts Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:25:46,17,25,46,1191.9,Move to Spare Parts Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:25:48,17,25,48,1194.2,Pick Up LRU: 'Transmitter Antenna [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:25:52,17,25,52,1197.73,Drop LRU: 'Transmitter Antenna [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:25:53,17,25,53,1199.32,Pick Up LRU: 'Duplexer [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:25:56,17,25,56,1201.65,Drop LRU: 'Duplexer [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:25:59,17,25,59,1204.59,Pick Up LRU: 'Receiver Antenna [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:26:01,17,26,1,1206.57,Drop LRU: 'Receiver Antenna [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:26:02,17,26,2,1208.05,Pick Up LRU: 'Receiver Waveguide [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:26:07,17,26,7,1212.58,Drop LRU: 'Receiver Waveguide [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:26:12,17,26,12,1218.35,Pick Up LRU: 'Low Noise RF Amplifier [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:26:17,17,26,17,1222.62,Drop LRU: 'Low Noise RF Amplifier [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:26:18,17,26,18,1224,Pick Up LRU: 'Sine Wave Oscillator [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:26:20,17,26,20,1225.87,Drop LRU: 'Sine Wave Oscillator [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:26:22,17,26,22,1227.62,Pick Up LRU: 'Sweep Control Circuit [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:26:23,17,26,23,1228.87,Drop LRU: 'Sweep Control Circuit [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:26:24,17,26,24,1229.83,Pick Up LRU: 'Sweep Control Circuit [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:26:25,17,26,25,1231.2,Drop LRU: 'Sweep Control Circuit [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:26:26,17,26,26,1232.28,Pick Up LRU: 'Sweep Control Circuit [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:26:29,17,26,29,1234.63,Drop LRU: 'Sweep Control Circuit [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:26:32,17,26,32,1237.63,Pick Up LRU: 'Sweep Control Circuit [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:26:32,17,26,32,1238.28,Drop LRU: 'Sweep Control Circuit [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:27:07,17,27,7,1272.96,Pick Up LRU: 'RF Amplifier 3 [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:27:07,17,27,7,1273.17,Pick Up LRU: 'RF Amplifier 3 [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:27:07,17,27,7,1273.38,Drop LRU: 'RF Amplifier 3 [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:27:08,17,27,8,1274.03,Pick Up LRU: 'RF Amplifier 3 [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:27:09,17,27,9,1275.02,Drop LRU: 'RF Amplifier 3 [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:27:10,17,27,10,1275.58,Pick Up LRU: 'RF Amplifier 3 [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:27:10,17,27,10,1275.76,Drop LRU: 'RF Amplifier 3 [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:27:12,17,27,12,1278.26,Pick Up LRU: 'RF Amplifier 3 [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:27:13,17,27,13,1279.37,Drop LRU: 'RF Amplifier 3 [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:27:17,17,27,17,1282.55,Pick Up LRU: 'RF Amplifier 3 [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:27:17,17,27,17,1283.28,Drop LRU: 'RF Amplifier 3 [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:27:31,17,27,31,1296.61,Leave Spare Parts Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:27:32,17,27,32,1297.51,Move to Server Box Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:27:46,17,27,46,1311.93,Leave Server Box Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:27:47,17,27,47,1312.7,Move to Spare Parts Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:28:01,17,28,1,1326.85,Pick Up LRU: 'Intensity Gate Generator [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:28:03,17,28,3,1328.8,Drop LRU: 'Intensity Gate Generator [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:28:05,17,28,5,1331.18,Pick Up LRU: 'Intensity Gate Generator [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:28:06,17,28,6,1332.11,Drop LRU: 'Intensity Gate Generator [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:28:15,17,28,15,1341.37,Pick Up LRU: 'Intensity Gate Generator [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:28:20,17,28,20,1346.25,Drop LRU: 'Intensity Gate Generator [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:28:23,17,28,23,1348.45,Pick Up LRU: 'Sweep Generator Circuit [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:28:24,17,28,24,1349.56,Drop LRU: 'Sweep Generator Circuit [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:28:26,17,28,26,1351.98,Pick Up LRU: 'Sweep Generator Circuit [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:28:27,17,28,27,1352.96,Drop LRU: 'Sweep Generator Circuit [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:28:32,17,28,32,1358.16,Pick Up LRU: 'Intensity Gate Generator [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:28:33,17,28,33,1359.2,Drop LRU: 'Intensity Gate Generator [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:28:42,17,28,42,1367.85,Pick Up LRU: 'Video Amplifier [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:28:43,17,28,43,1368.56,Drop LRU: 'Video Amplifier [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:28:44,17,28,44,1370.1,Pick Up LRU: 'Cathode Ray Tube [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:28:45,17,28,45,1370.98,Drop LRU: 'Cathode Ray Tube [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:29:03,17,29,3,1389.28,Pick Up LRU: 'Sine Wave Oscillator [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:29:07,17,29,7,1393.08,Drop LRU: 'Sine Wave Oscillator [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:29:07,17,29,7,1393.14,Pick Up LRU: 'Sine Wave Oscillator [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:29:07,17,29,7,1393.36,Drop LRU: 'Sine Wave Oscillator [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:29:10,17,29,10,1395.43,Pick Up LRU: 'Overdriven Amplifier [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:29:15,17,29,15,1400.91,Drop LRU: 'Overdriven Amplifier [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:29:17,17,29,17,1402.56,Pick Up LRU: 'Overdriven Amplifier [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:29:21,17,29,21,1406.78,Drop LRU: 'Overdriven Amplifier [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:29:24,17,29,24,1410.18,Pick Up LRU: 'Overdriven Amplifier [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:29:27,17,29,27,1413.23,Drop LRU: 'Overdriven Amplifier [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:29:29,17,29,29,1414.88,Pick Up LRU: 'Overdriven Amplifier [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:29:30,17,29,30,1415.66,Drop LRU: 'Overdriven Amplifier [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:29:30,17,29,30,1416.21,Pick Up LRU: 'Overdriven Amplifier [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:29:30,17,29,30,1416.28,Drop LRU: 'Overdriven Amplifier [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:29:31,17,29,31,1416.69,Pick Up LRU: 'Overdriven Amplifier [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:29:32,17,29,32,1417.5,Drop LRU: 'Overdriven Amplifier [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:29:33,17,29,33,1419.24,Pick Up LRU: 'Control Circuit [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:29:34,17,29,34,1420.13,Drop LRU: 'Control Circuit [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:29:39,17,29,39,1425.25,Pick Up LRU: 'IF Amplifier [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:29:44,17,29,44,1430.36,Drop LRU: 'IF Amplifier [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:29:47,17,29,47,1432.93,Pick Up LRU: 'Overdriven Amplifier [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:29:47,17,29,47,1433.08,Drop LRU: 'Overdriven Amplifier [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:29:48,17,29,48,1434.04,Pick Up LRU: 'Overdriven Amplifier [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:29:48,17,29,48,1434.26,Drop LRU: 'Overdriven Amplifier [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:29:50,17,29,50,1436.03,Pick Up LRU: 'Overdriven Amplifier [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:29:51,17,29,51,1436.59,Drop LRU: 'Overdriven Amplifier [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:29:53,17,29,53,1438.66,Pick Up LRU: 'Overdriven Amplifier [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:29:56,17,29,56,1441.66,Drop LRU: 'Overdriven Amplifier [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:29:57,17,29,57,1442.41,Pick Up LRU: 'Overdriven Amplifier [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:29:58,17,29,58,1444.13,Drop LRU: 'Overdriven Amplifier [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:29:59,17,29,59,1444.66,Pick Up LRU: 'Overdriven Amplifier [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:30:02,17,30,2,1447.73,Drop LRU: 'Overdriven Amplifier [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:30:02,17,30,2,1448.14,Pick Up LRU: 'Overdriven Amplifier [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:30:06,17,30,6,1451.41,Drop LRU: 'Overdriven Amplifier [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:30:08,17,30,8,1453.99,Pick Up LRU: 'Overdriven Amplifier [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:30:09,17,30,9,1455.04,Drop LRU: 'Overdriven Amplifier [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:30:12,17,30,12,1457.79,Pick Up LRU: 'Overdriven Amplifier [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:30:15,17,30,15,1460.54,Drop LRU: 'Overdriven Amplifier [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:30:15,17,30,15,1461.03,Pick Up LRU: 'Sweep Control Circuit [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:30:15,17,30,15,1461.18,Drop LRU: 'Sweep Control Circuit [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:30:18,17,30,18,1463.55,Pick Up LRU: 'Overdriven Amplifier [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:30:24,17,30,24,1469.78,Drop LRU: 'Overdriven Amplifier [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:30:26,17,30,26,1472.19,Pick Up LRU: 'Overdriven Amplifier [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:30:32,17,30,32,1477.56,Drop LRU: 'Overdriven Amplifier [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:30:38,17,30,38,1484.34,Pick Up LRU: 'Overdriven Amplifier [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:30:43,17,30,43,1489.19,Drop LRU: 'Overdriven Amplifier [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:30:45,17,30,45,1490.83,Pick Up LRU: 'Overdriven Amplifier [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:30:46,17,30,46,1492.19,Drop LRU: 'Overdriven Amplifier [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:30:50,17,30,50,1495.42,Pick Up LRU: 'Overdriven Amplifier [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:30:52,17,30,52,1497.56,Drop LRU: 'Overdriven Amplifier [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:30:53,17,30,53,1498.78,Pick Up LRU: 'Control Circuit [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:30:54,17,30,54,1499.73,Drop LRU: 'Control Circuit [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:31:03,17,31,3,1509.19,Pick Up LRU: 'IF Amplifier [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:31:04,17,31,4,1509.84,Drop LRU: 'IF Amplifier [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:31:07,17,31,7,1512.48,Pick Up LRU: 'Control Circuit [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:31:11,17,31,11,1516.59,Drop LRU: 'Control Circuit [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:31:11,17,31,11,1516.89,Pick Up LRU: 'Control Circuit [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:31:16,17,31,16,1521.92,Drop LRU: 'Control Circuit [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:31:18,17,31,18,1523.82,Pick Up LRU: 'Control Circuit [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:31:20,17,31,20,1526.29,Drop LRU: 'Control Circuit [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:31:22,17,31,22,1527.41,Pick Up LRU: 'Control Circuit [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:31:25,17,31,25,1531.29,Drop LRU: 'Control Circuit [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:31:27,17,31,27,1532.94,Pick Up LRU: 'Control Circuit [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:31:33,17,31,33,1538.78,Drop LRU: 'Control Circuit [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:31:36,17,31,36,1541.59,Pick Up LRU: 'Overdriven Amplifier [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:31:38,17,31,38,1544.26,Drop LRU: 'Overdriven Amplifier [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:31:40,17,31,40,1545.84,Pick Up LRU: 'Overdriven Amplifier [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:31:41,17,31,41,1546.62,Drop LRU: 'Overdriven Amplifier [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:31:42,17,31,42,1548.33,Pick Up LRU: 'Overdriven Amplifier [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:31:45,17,31,45,1550.59,Drop LRU: 'Overdriven Amplifier [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:31:46,17,31,46,1551.44,Pick Up LRU: 'Overdriven Amplifier [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:31:47,17,31,47,1552.62,Drop LRU: 'Overdriven Amplifier [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:31:47,17,31,47,1553.36,Pick Up LRU: 'Overdriven Amplifier [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:31:49,17,31,49,1554.76,Drop LRU: 'Overdriven Amplifier [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:31:50,17,31,50,1555.72,Pick Up LRU: 'Overdriven Amplifier [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:31:51,17,31,51,1557.02,Drop LRU: 'Overdriven Amplifier [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:31:52,17,31,52,1557.56,Pick Up LRU: 'Overdriven Amplifier [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:31:54,17,31,54,1559.61,Drop LRU: 'Overdriven Amplifier [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:32:14,17,32,14,1580.39,Pick Up LRU: 'Overdriven Amplifier [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:32:17,17,32,17,1583.27,Drop LRU: 'Overdriven Amplifier [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:32:19,17,32,19,1584.76,Pick Up LRU: 'Sweep Control Circuit [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:32:20,17,32,20,1585.94,Drop LRU: 'Sweep Control Circuit [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:32:21,17,32,21,1586.77,Pick Up LRU: 'Sweep Control Circuit [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:32:21,17,32,21,1586.94,Drop LRU: 'Sweep Control Circuit [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:32:21,17,32,21,1587.07,Pick Up LRU: 'Sweep Control Circuit [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:32:25,17,32,25,1590.46,Drop LRU: 'Sweep Control Circuit [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:32:26,17,32,26,1591.82,Pick Up LRU: 'Sine Wave Oscillator [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:32:27,17,32,27,1592.76,Drop LRU: 'Sine Wave Oscillator [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:32:28,17,32,28,1593.71,Pick Up LRU: 'Sweep Control Circuit [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:32:31,17,32,31,1597.36,Drop LRU: 'Sweep Control Circuit [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:32:33,17,32,33,1598.84,Pick Up LRU: 'Sweep Control Circuit [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:32:34,17,32,34,1599.87,Drop LRU: 'Sweep Control Circuit [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:32:39,17,32,39,1605.24,Leave Spare Parts Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:32:41,17,32,41,1606.62,Move to Spare Parts Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:32:47,17,32,47,1613.31,Pick Up LRU: 'Mixer Detector [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:32:48,17,32,48,1614.09,Drop LRU: 'Mixer Detector [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:32:50,17,32,50,1615.79,Pick Up LRU: 'Stage 1 Modulator [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:32:50,17,32,50,1616.34,Drop LRU: 'Stage 1 Modulator [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:32:52,17,32,52,1617.77,Pick Up LRU: 'Video Amplifier [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:32:52,17,32,52,1618.37,Drop LRU: 'Video Amplifier [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:33:00,17,33,0,1625.49,Pick Up LRU: 'Sweep Generator Circuit [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:33:01,17,33,1,1626.76,Drop LRU: 'Sweep Generator Circuit [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:33:02,17,33,2,1627.93,Pick Up LRU: 'Sweep Generator Circuit [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:33:03,17,33,3,1628.67,Drop LRU: 'Sweep Generator Circuit [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:33:08,17,33,8,1633.47,Pick Up LRU: 'Cathode Ray Tube [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:33:09,17,33,9,1635.14,Drop LRU: 'Cathode Ray Tube [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:33:10,17,33,10,1635.97,Pick Up LRU: 'Cathode Ray Tube [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:33:11,17,33,11,1636.62,Drop LRU: 'Cathode Ray Tube [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:33:12,17,33,12,1638.17,Pick Up LRU: 'Intensity Gate Generator [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:33:13,17,33,13,1639.32,Drop LRU: 'Intensity Gate Generator [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:33:29,17,33,29,1655.02,Pick Up LRU: 'Sweep Control Circuit [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:33:30,17,33,30,1655.74,Drop LRU: 'Sweep Control Circuit [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:33:31,17,33,31,1656.67,Pick Up LRU: 'Sweep Control Circuit [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:33:35,17,33,35,1661.05,Drop LRU: 'Sweep Control Circuit [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:33:39,17,33,39,1665.29,Pick Up LRU: 'Sweep Control Circuit [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:33:41,17,33,41,1666.5,Drop LRU: 'Sweep Control Circuit [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:33:43,17,33,43,1668.57,Pick Up LRU: 'Sweep Control Circuit [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:33:43,17,33,43,1668.82,Drop LRU: 'Sweep Control Circuit [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:33:44,17,33,44,1669.6,Pick Up LRU: 'Sweep Control Circuit [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:33:44,17,33,44,1669.81,Drop LRU: 'Sweep Control Circuit [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:33:44,17,33,44,1669.99,Pick Up LRU: 'Sweep Control Circuit [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:33:45,17,33,45,1670.72,Drop LRU: 'Sweep Control Circuit [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:33:46,17,33,46,1671.84,Pick Up LRU: 'Sweep Control Circuit [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:33:47,17,33,47,1673.07,Drop LRU: 'Sweep Control Circuit [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:33:48,17,33,48,1673.75,Pick Up LRU: 'Sweep Control Circuit [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:33:50,17,33,50,1676.39,Drop LRU: 'Sweep Control Circuit [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:33:51,17,33,51,1677.22,Pick Up LRU: 'Sweep Control Circuit [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:33:52,17,33,52,1677.67,Drop LRU: 'Sweep Control Circuit [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:34:03,17,34,3,1689.12,Pick Up LRU: 'Sweep Control Circuit [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:34:09,17,34,9,1695.12,Drop LRU: 'Sweep Control Circuit [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:34:11,17,34,11,1697.22,Pick Up LRU: 'Sweep Control Circuit [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:34:12,17,34,12,1698.22,Drop LRU: 'Sweep Control Circuit [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:34:16,17,34,16,1701.6,Leave Spare Parts Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:34:16,17,34,16,1701.63,Move to Spare Parts Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:34:29,17,34,29,1714.57,Pick Up LRU: 'Cathode Ray Tube [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:34:30,17,34,30,1715.45,Drop LRU: 'Cathode Ray Tube [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:34:32,17,34,32,1717.51,Pick Up LRU: 'Intensity Gate Generator [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:34:33,17,34,33,1719.15,Drop LRU: 'Intensity Gate Generator [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:34:35,17,34,35,1720.49,Pick Up LRU: 'Sweep Generator Circuit [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:34:35,17,34,35,1721.24,Drop LRU: 'Sweep Generator Circuit [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:35:23,17,35,23,1769.38,Pick Up LRU: 'AFC Frequency Discriminator [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:35:24,17,35,24,1770.25,Drop LRU: 'AFC Frequency Discriminator [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:35:26,17,35,26,1771.88,Pick Up LRU: 'AFC Amplifier [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:35:27,17,35,27,1772.7,Drop LRU: 'AFC Amplifier [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:35:28,17,35,28,1773.83,Pick Up LRU: 'RC Differentiator [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:35:29,17,35,29,1774.65,Drop LRU: 'RC Differentiator [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:35:30,17,35,30,1776.32,Pick Up LRU: 'Local Oscillator [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:35:31,17,35,31,1777.33,Drop LRU: 'Local Oscillator [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:35:34,17,35,34,1779.85,Pick Up LRU: 'AFC Mixer [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:35:35,17,35,35,1780.7,Drop LRU: 'AFC Mixer [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:36:31,17,36,31,1836.71,Leave Spare Parts Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:36:31,17,36,31,1837.38,Move to Server Box Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:36:35,17,36,35,1840.43,Leave Server Box Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:36:35,17,36,35,1841.01,Move to Spare Parts Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:36:38,17,36,38,1843.78,Leave Spare Parts Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:36:40,17,36,40,1846.12,Move to Spare Parts Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,17:05:54,17:36:54,17,36,54,1859.58,Leave Spare Parts Table,,Sweep-Control-Circuit-(electrical),,,0,1,0

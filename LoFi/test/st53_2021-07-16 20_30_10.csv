@@ -1,0 +1,224 @@
+subject,subject_group,round,round_start_date_utc,round_start_time_utc,current_time_utc,current_hour24,current_minute,current_second,current_elapsed_seconds,event,ui_tab,active_faults,fixed_faults,fixed_nonfaults,ReplacedComponents,FaultsRemaining,ReplacedNonFaults
+st53,LO,1,7/17/21,0:30:10,0:30:10,0,30,10,0.07,Make electrical flaw: Local Oscillator,,Local-Oscillator-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:30:10,0:30:10,0,30,10,0.08,Start (High Fidelity Sim),,Local-Oscillator-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:30:10,0:30:35,0,30,35,25.38,Move to Spare Parts Table,,Local-Oscillator-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:30:10,0:30:36,0,30,36,26.5,Leave Spare Parts Table,,Local-Oscillator-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:30:10,0:30:36,0,30,36,26.86,Move to Server Box Table,,Local-Oscillator-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:30:10,0:30:41,0,30,41,31.41,Swing front panel: 30.6% open,,Local-Oscillator-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:30:10,0:30:49,0,30,49,39.01,Swing front panel: 98.4% open,,Local-Oscillator-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:30:10,0:30:50,0,30,50,40.63,Swing front panel: 100% open,,Local-Oscillator-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:30:10,0:30:56,0,30,56,46.5,Move drawer: 98.5% open,Transmitter,Local-Oscillator-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:30:10,0:31:53,0,31,53,103.17,Leave Server Box Table,,Local-Oscillator-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:30:10,0:31:53,0,31,53,103.47,Move to Spare Parts Table,,Local-Oscillator-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:30:10,0:32:07,0,32,7,117.37,Pick Up LRU: 'Frequency Synthesizer [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:30:10,0:32:09,0,32,9,119.12,Leave Spare Parts Table,,Local-Oscillator-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:30:10,0:32:11,0,32,11,121.15,Move to Spare Parts Table,,Local-Oscillator-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:30:10,0:32:12,0,32,12,122.59,Drop LRU: 'Frequency Synthesizer [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:30:10,0:32:20,0,32,20,130.13,Pick Up LRU: 'Frequency Synthesizer [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:30:10,0:32:24,0,32,24,134.05,Drop LRU: 'Frequency Synthesizer [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:30:10,0:32:26,0,32,26,136.58,Leave Spare Parts Table,,Local-Oscillator-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:30:10,0:32:54,0,32,54,163.98,Pick Up LRU: 'Frequency Synthesizer [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:30:10,0:32:58,0,32,58,168.33,Move to Server Box Table,,Local-Oscillator-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:30:10,0:33:00,0,33,0,170.03,Leave Server Box Table,,Local-Oscillator-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:30:10,0:33:03,0,33,3,172.96,Move to Server Box Table,,Local-Oscillator-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:30:10,0:33:08,0,33,8,178.8,Drop LRU: 'Frequency Synthesizer [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:30:10,0:33:13,0,33,13,183.38,Click on: 'Frequency Synthesizer',,Local-Oscillator-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:30:10,0:33:14,0,33,14,184.46,Disconnect LRU: 'Frequency Synthesizer',,Local-Oscillator-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:30:10,0:33:14,0,33,14,184.48,Move drawer: 95.4% open,Transmitter,Local-Oscillator-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:30:10,0:33:16,0,33,16,186.29,Pick Up LRU: 'Frequency Synthesizer',,Local-Oscillator-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:30:10,0:33:21,0,33,21,191.83,Drop LRU: 'Frequency Synthesizer',,Local-Oscillator-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:30:10,0:33:27,0,33,27,197.46,Pick Up LRU: 'Frequency Synthesizer [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:30:10,0:33:41,0,33,41,211.81,Drop LRU: 'Frequency Synthesizer [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:30:10,0:33:42,0,33,42,212.68,Connect LRU: 'Frequency Synthesizer [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+st53,LO,1,7/17/21,0:30:10,0:33:43,0,33,43,213.58,Replaced unnecessarily Frequency Synthesizer (electrical),,Local-Oscillator-(electrical),,Frequency-Synthesizer-(electrical),1,1,1
+st53,LO,1,7/17/21,0:30:10,0:33:45,0,33,45,215.59,Leave Server Box Table,,Local-Oscillator-(electrical),,Frequency-Synthesizer-(electrical),1,1,1
+st53,LO,1,7/17/21,0:30:10,0:33:46,0,33,46,216.07,Move to Spare Parts Table,,Local-Oscillator-(electrical),,Frequency-Synthesizer-(electrical),1,1,1
+st53,LO,1,7/17/21,0:30:10,0:33:47,0,33,47,217.09,Leave Spare Parts Table,,Local-Oscillator-(electrical),,Frequency-Synthesizer-(electrical),1,1,1
+st53,LO,1,7/17/21,0:30:10,0:33:47,0,33,47,217.44,Move to Server Box Table,,Local-Oscillator-(electrical),,Frequency-Synthesizer-(electrical),1,1,1
+st53,LO,1,7/17/21,0:30:10,0:34:09,0,34,9,239.48,Click on: 'Transmitter Transmission Line',,Local-Oscillator-(electrical),,Frequency-Synthesizer-(electrical),1,1,1
+st53,LO,1,7/17/21,0:30:10,0:34:11,0,34,11,241.01,Cancel disconnect: 'Transmitter Transmission Line',,Local-Oscillator-(electrical),,Frequency-Synthesizer-(electrical),1,1,1
+st53,LO,1,7/17/21,0:30:10,0:34:12,0,34,12,242.68,Move drawer: 20.9% open,Transmitter,Local-Oscillator-(electrical),,Frequency-Synthesizer-(electrical),1,1,1
+st53,LO,1,7/17/21,0:30:10,0:34:15,0,34,15,244.91,Move drawer: 95.4% open,Synchronizer,Local-Oscillator-(electrical),,Frequency-Synthesizer-(electrical),1,1,1
+st53,LO,1,7/17/21,0:30:10,0:34:16,0,34,16,246.26,Click on: 'Limiter',,Local-Oscillator-(electrical),,Frequency-Synthesizer-(electrical),1,1,1
+st53,LO,1,7/17/21,0:30:10,0:34:17,0,34,17,246.89,Disconnect LRU: 'Limiter',,Local-Oscillator-(electrical),,Frequency-Synthesizer-(electrical),1,1,1
+st53,LO,1,7/17/21,0:30:10,0:34:21,0,34,21,251.16,Move drawer: 94.2% open,Synchronizer,Local-Oscillator-(electrical),,Frequency-Synthesizer-(electrical),1,1,1
+st53,LO,1,7/17/21,0:30:10,0:34:23,0,34,23,253.62,Pick Up LRU: 'Limiter',,Local-Oscillator-(electrical),,Frequency-Synthesizer-(electrical),1,1,1
+st53,LO,1,7/17/21,0:30:10,0:34:25,0,34,25,255.09,Drop LRU: 'Limiter',,Local-Oscillator-(electrical),,Frequency-Synthesizer-(electrical),1,1,1
+st53,LO,1,7/17/21,0:30:10,0:34:26,0,34,26,256.11,Pick Up LRU: 'Limiter',,Local-Oscillator-(electrical),,Frequency-Synthesizer-(electrical),1,1,1
+st53,LO,1,7/17/21,0:30:10,0:34:27,0,34,27,257.62,Drop LRU: 'Limiter',,Local-Oscillator-(electrical),,Frequency-Synthesizer-(electrical),1,1,1
+st53,LO,1,7/17/21,0:30:10,0:34:28,0,34,28,258.85,Leave Server Box Table,,Local-Oscillator-(electrical),,Frequency-Synthesizer-(electrical),1,1,1
+st53,LO,1,7/17/21,0:30:10,0:34:29,0,34,29,259.12,Move to Spare Parts Table,,Local-Oscillator-(electrical),,Frequency-Synthesizer-(electrical),1,1,1
+st53,LO,1,7/17/21,0:30:10,0:34:54,0,34,54,284.38,Pick Up LRU: 'Limiter [SPARE]',,Local-Oscillator-(electrical),,Frequency-Synthesizer-(electrical),1,1,1
+st53,LO,1,7/17/21,0:30:10,0:34:58,0,34,58,288.18,Drop LRU: 'Limiter [SPARE]',,Local-Oscillator-(electrical),,Frequency-Synthesizer-(electrical),1,1,1
+st53,LO,1,7/17/21,0:30:10,0:35:03,0,35,3,293.8,Leave Spare Parts Table,,Local-Oscillator-(electrical),,Frequency-Synthesizer-(electrical),1,1,1
+st53,LO,1,7/17/21,0:30:10,0:35:06,0,35,6,296.1,Pick Up LRU: 'Limiter [SPARE]',,Local-Oscillator-(electrical),,Frequency-Synthesizer-(electrical),1,1,1
+st53,LO,1,7/17/21,0:30:10,0:35:07,0,35,7,297.21,Drop LRU: 'Limiter [SPARE]',,Local-Oscillator-(electrical),,Frequency-Synthesizer-(electrical),1,1,1
+st53,LO,1,7/17/21,0:30:10,0:35:08,0,35,8,298.4,Pick Up LRU: 'Limiter [SPARE]',,Local-Oscillator-(electrical),,Frequency-Synthesizer-(electrical),1,1,1
+st53,LO,1,7/17/21,0:30:10,0:35:15,0,35,15,305.83,Move to Server Box Table,,Local-Oscillator-(electrical),,Frequency-Synthesizer-(electrical),1,1,1
+st53,LO,1,7/17/21,0:30:10,0:35:16,0,35,16,306.65,Drop LRU: 'Limiter [SPARE]',,Local-Oscillator-(electrical),,Frequency-Synthesizer-(electrical),1,1,1
+st53,LO,1,7/17/21,0:30:10,0:35:17,0,35,17,307.68,Leave Server Box Table,,Local-Oscillator-(electrical),,Frequency-Synthesizer-(electrical),1,1,1
+st53,LO,1,7/17/21,0:30:10,0:35:25,0,35,25,314.88,Pick Up LRU: 'Limiter [SPARE]',,Local-Oscillator-(electrical),,Frequency-Synthesizer-(electrical),1,1,1
+st53,LO,1,7/17/21,0:30:10,0:35:27,0,35,27,317.06,Move to Server Box Table,,Local-Oscillator-(electrical),,Frequency-Synthesizer-(electrical),1,1,1
+st53,LO,1,7/17/21,0:30:10,0:35:40,0,35,40,330.58,Drop LRU: 'Limiter [SPARE]',,Local-Oscillator-(electrical),,Frequency-Synthesizer-(electrical),1,1,1
+st53,LO,1,7/17/21,0:30:10,0:35:41,0,35,41,331.53,Connect LRU: 'Limiter [SPARE]',,Local-Oscillator-(electrical),,Frequency-Synthesizer-(electrical),1,1,1
+st53,LO,1,7/17/21,0:30:10,0:35:42,0,35,42,332.43,Replaced unnecessarily Limiter (electrical),,Local-Oscillator-(electrical),,Frequency-Synthesizer-(electrical) Limiter-(electrical),2,1,2
+st53,LO,1,7/17/21,0:30:10,0:35:45,0,35,45,334.94,Move drawer: 95.5% open,Synchronizer,Local-Oscillator-(electrical),,Frequency-Synthesizer-(electrical) Limiter-(electrical),2,1,2
+st53,LO,1,7/17/21,0:30:10,0:35:47,0,35,47,337.56,Move drawer: 41.1% open,Synchronizer,Local-Oscillator-(electrical),,Frequency-Synthesizer-(electrical) Limiter-(electrical),2,1,2
+st53,LO,1,7/17/21,0:30:10,0:35:49,0,35,49,338.98,Move drawer: 22.2% open,Synchronizer,Local-Oscillator-(electrical),,Frequency-Synthesizer-(electrical) Limiter-(electrical),2,1,2
+st53,LO,1,7/17/21,0:30:10,0:35:53,0,35,53,343.36,Move drawer: -4.7% open,Tracker,Local-Oscillator-(electrical),,Frequency-Synthesizer-(electrical) Limiter-(electrical),2,1,2
+st53,LO,1,7/17/21,0:30:10,0:35:56,0,35,56,345.88,Move drawer: 98.2% open,Transmitter,Local-Oscillator-(electrical),,Frequency-Synthesizer-(electrical) Limiter-(electrical),2,1,2
+st53,LO,1,7/17/21,0:30:10,0:35:58,0,35,58,348.21,Move drawer: 95.4% open,Transmitter,Local-Oscillator-(electrical),,Frequency-Synthesizer-(electrical) Limiter-(electrical),2,1,2
+st53,LO,1,7/17/21,0:30:10,0:35:58,0,35,58,348.76,Move drawer: 95.4% open,Transmitter,Local-Oscillator-(electrical),,Frequency-Synthesizer-(electrical) Limiter-(electrical),2,1,2
+st53,LO,1,7/17/21,0:30:10,0:35:59,0,35,59,349.13,Move drawer: 95.4% open,Transmitter,Local-Oscillator-(electrical),,Frequency-Synthesizer-(electrical) Limiter-(electrical),2,1,2
+st53,LO,1,7/17/21,0:30:10,0:36:01,0,36,1,351.66,Leave Server Box Table,,Local-Oscillator-(electrical),,Frequency-Synthesizer-(electrical) Limiter-(electrical),2,1,2
+st53,LO,1,7/17/21,0:30:10,0:36:02,0,36,2,351.97,Move to Spare Parts Table,,Local-Oscillator-(electrical),,Frequency-Synthesizer-(electrical) Limiter-(electrical),2,1,2
+st53,LO,1,7/17/21,0:30:10,0:36:29,0,36,29,378.95,Leave Spare Parts Table,,Local-Oscillator-(electrical),,Frequency-Synthesizer-(electrical) Limiter-(electrical),2,1,2
+st53,LO,1,7/17/21,0:30:10,0:36:29,0,36,29,379.24,Move to Server Box Table,,Local-Oscillator-(electrical),,Frequency-Synthesizer-(electrical) Limiter-(electrical),2,1,2
+st53,LO,1,7/17/21,0:30:10,0:36:32,0,36,32,382.42,Move drawer: 36% open,Transmitter,Local-Oscillator-(electrical),,Frequency-Synthesizer-(electrical) Limiter-(electrical),2,1,2
+st53,LO,1,7/17/21,0:30:10,0:36:35,0,36,35,385.64,Move drawer: 67.9% open,Indicator,Local-Oscillator-(electrical),,Frequency-Synthesizer-(electrical) Limiter-(electrical),2,1,2
+st53,LO,1,7/17/21,0:30:10,0:36:37,0,36,37,386.94,Move drawer: 76.9% open,Indicator,Local-Oscillator-(electrical),,Frequency-Synthesizer-(electrical) Limiter-(electrical),2,1,2
+st53,LO,1,7/17/21,0:30:10,0:36:38,0,36,38,388.14,Click on: 'Cathode Ray Tube',,Local-Oscillator-(electrical),,Frequency-Synthesizer-(electrical) Limiter-(electrical),2,1,2
+st53,LO,1,7/17/21,0:30:10,0:36:39,0,36,39,389.42,Disconnect LRU: 'Cathode Ray Tube',,Local-Oscillator-(electrical),,Frequency-Synthesizer-(electrical) Limiter-(electrical),2,1,2
+st53,LO,1,7/17/21,0:30:10,0:36:39,0,36,39,389.44,Move drawer: 76.9% open,Indicator,Local-Oscillator-(electrical),,Frequency-Synthesizer-(electrical) Limiter-(electrical),2,1,2
+st53,LO,1,7/17/21,0:30:10,0:37:10,0,37,10,420.87,Click on: 'Intensity Gate Generator',,Local-Oscillator-(electrical),,Frequency-Synthesizer-(electrical) Limiter-(electrical),2,1,2
+st53,LO,1,7/17/21,0:30:10,0:37:11,0,37,11,421.85,Move drawer: 76.9% open,Indicator,Local-Oscillator-(electrical),,Frequency-Synthesizer-(electrical) Limiter-(electrical),2,1,2
+st53,LO,1,7/17/21,0:30:10,0:37:12,0,37,12,422.44,Disconnect LRU: 'Intensity Gate Generator',,Local-Oscillator-(electrical),,Frequency-Synthesizer-(electrical) Limiter-(electrical),2,1,2
+st53,LO,1,7/17/21,0:30:10,0:37:12,0,37,12,422.45,Move drawer: 76.9% open,Indicator,Local-Oscillator-(electrical),,Frequency-Synthesizer-(electrical) Limiter-(electrical),2,1,2
+st53,LO,1,7/17/21,0:30:10,0:37:13,0,37,13,423.12,Pick Up LRU: 'Cathode Ray Tube',,Local-Oscillator-(electrical),,Frequency-Synthesizer-(electrical) Limiter-(electrical),2,1,2
+st53,LO,1,7/17/21,0:30:10,0:37:13,0,37,13,423.2,Drop LRU: 'Cathode Ray Tube',,Local-Oscillator-(electrical),,Frequency-Synthesizer-(electrical) Limiter-(electrical),2,1,2
+st53,LO,1,7/17/21,0:30:10,0:37:14,0,37,14,424.45,Pick Up LRU: 'Cathode Ray Tube',,Local-Oscillator-(electrical),,Frequency-Synthesizer-(electrical) Limiter-(electrical),2,1,2
+st53,LO,1,7/17/21,0:30:10,0:37:14,0,37,14,424.57,Drop LRU: 'Cathode Ray Tube',,Local-Oscillator-(electrical),,Frequency-Synthesizer-(electrical) Limiter-(electrical),2,1,2
+st53,LO,1,7/17/21,0:30:10,0:37:15,0,37,15,425.67,Connect LRU: 'Cathode Ray Tube',,Local-Oscillator-(electrical),,Frequency-Synthesizer-(electrical) Limiter-(electrical),2,1,2
+st53,LO,1,7/17/21,0:30:10,0:37:15,0,37,15,425.68,Move drawer: 76.9% open,Indicator,Local-Oscillator-(electrical),,Frequency-Synthesizer-(electrical) Limiter-(electrical),2,1,2
+st53,LO,1,7/17/21,0:30:10,0:37:19,0,37,19,428.9,Leave Server Box Table,,Local-Oscillator-(electrical),,Frequency-Synthesizer-(electrical) Limiter-(electrical),2,1,2
+st53,LO,1,7/17/21,0:30:10,0:37:19,0,37,19,429.3,Move to Spare Parts Table,,Local-Oscillator-(electrical),,Frequency-Synthesizer-(electrical) Limiter-(electrical),2,1,2
+st53,LO,1,7/17/21,0:30:10,0:37:25,0,37,25,435.22,Pick Up LRU: 'Sine Wave Oscillator [SPARE]',,Local-Oscillator-(electrical),,Frequency-Synthesizer-(electrical) Limiter-(electrical),2,1,2
+st53,LO,1,7/17/21,0:30:10,0:37:30,0,37,30,440.15,Leave Spare Parts Table,,Local-Oscillator-(electrical),,Frequency-Synthesizer-(electrical) Limiter-(electrical),2,1,2
+st53,LO,1,7/17/21,0:30:10,0:37:32,0,37,32,441.93,Move to Server Box Table,,Local-Oscillator-(electrical),,Frequency-Synthesizer-(electrical) Limiter-(electrical),2,1,2
+st53,LO,1,7/17/21,0:30:10,0:37:37,0,37,37,447.16,Drop LRU: 'Sine Wave Oscillator [SPARE]',,Local-Oscillator-(electrical),,Frequency-Synthesizer-(electrical) Limiter-(electrical),2,1,2
+st53,LO,1,7/17/21,0:30:10,0:38:01,0,38,1,471.43,Pick Up LRU: 'Sine Wave Oscillator [SPARE]',,Local-Oscillator-(electrical),,Frequency-Synthesizer-(electrical) Limiter-(electrical),2,1,2
+st53,LO,1,7/17/21,0:30:10,0:38:01,0,38,1,471.56,Drop LRU: 'Sine Wave Oscillator [SPARE]',,Local-Oscillator-(electrical),,Frequency-Synthesizer-(electrical) Limiter-(electrical),2,1,2
+st53,LO,1,7/17/21,0:30:10,0:38:02,0,38,2,472.18,Pick Up LRU: 'Sine Wave Oscillator [SPARE]',,Local-Oscillator-(electrical),,Frequency-Synthesizer-(electrical) Limiter-(electrical),2,1,2
+st53,LO,1,7/17/21,0:30:10,0:38:02,0,38,2,472.58,Drop LRU: 'Sine Wave Oscillator [SPARE]',,Local-Oscillator-(electrical),,Frequency-Synthesizer-(electrical) Limiter-(electrical),2,1,2
+st53,LO,1,7/17/21,0:30:10,0:38:03,0,38,3,473,Pick Up LRU: 'Sine Wave Oscillator [SPARE]',,Local-Oscillator-(electrical),,Frequency-Synthesizer-(electrical) Limiter-(electrical),2,1,2
+st53,LO,1,7/17/21,0:30:10,0:38:09,0,38,9,479.66,Drop LRU: 'Sine Wave Oscillator [SPARE]',,Local-Oscillator-(electrical),,Frequency-Synthesizer-(electrical) Limiter-(electrical),2,1,2
+st53,LO,1,7/17/21,0:30:10,0:38:11,0,38,11,481.1,Pick Up LRU: 'Sine Wave Oscillator [SPARE]',,Local-Oscillator-(electrical),,Frequency-Synthesizer-(electrical) Limiter-(electrical),2,1,2
+st53,LO,1,7/17/21,0:30:10,0:38:23,0,38,23,493.13,Drop LRU: 'Sine Wave Oscillator [SPARE]',,Local-Oscillator-(electrical),,Frequency-Synthesizer-(electrical) Limiter-(electrical),2,1,2
+st53,LO,1,7/17/21,0:30:10,0:38:26,0,38,26,496,Pick Up LRU: 'Sine Wave Oscillator [SPARE]',,Local-Oscillator-(electrical),,Frequency-Synthesizer-(electrical) Limiter-(electrical),2,1,2
+st53,LO,1,7/17/21,0:30:10,0:38:31,0,38,31,501.11,Drop LRU: 'Sine Wave Oscillator [SPARE]',,Local-Oscillator-(electrical),,Frequency-Synthesizer-(electrical) Limiter-(electrical),2,1,2
+st53,LO,1,7/17/21,0:30:10,0:38:37,0,38,37,506.89,Pick Up LRU: 'Sine Wave Oscillator [SPARE]',,Local-Oscillator-(electrical),,Frequency-Synthesizer-(electrical) Limiter-(electrical),2,1,2
+st53,LO,1,7/17/21,0:30:10,0:38:44,0,38,44,514.66,Drop LRU: 'Sine Wave Oscillator [SPARE]',,Local-Oscillator-(electrical),,Frequency-Synthesizer-(electrical) Limiter-(electrical),2,1,2
+st53,LO,1,7/17/21,0:30:10,0:38:47,0,38,47,516.99,Leave Server Box Table,,Local-Oscillator-(electrical),,Frequency-Synthesizer-(electrical) Limiter-(electrical),2,1,2
+st53,LO,1,7/17/21,0:30:10,0:38:47,0,38,47,517.29,Move to Spare Parts Table,,Local-Oscillator-(electrical),,Frequency-Synthesizer-(electrical) Limiter-(electrical),2,1,2
+st53,LO,1,7/17/21,0:30:10,0:39:03,0,39,3,533.74,Pick Up LRU: 'Intensity Gate Generator [SPARE]',,Local-Oscillator-(electrical),,Frequency-Synthesizer-(electrical) Limiter-(electrical),2,1,2
+st53,LO,1,7/17/21,0:30:10,0:39:06,0,39,6,536.17,Leave Spare Parts Table,,Local-Oscillator-(electrical),,Frequency-Synthesizer-(electrical) Limiter-(electrical),2,1,2
+st53,LO,1,7/17/21,0:30:10,0:39:08,0,39,8,537.92,Move to Spare Parts Table,,Local-Oscillator-(electrical),,Frequency-Synthesizer-(electrical) Limiter-(electrical),2,1,2
+st53,LO,1,7/17/21,0:30:10,0:39:09,0,39,9,539.34,Leave Spare Parts Table,,Local-Oscillator-(electrical),,Frequency-Synthesizer-(electrical) Limiter-(electrical),2,1,2
+st53,LO,1,7/17/21,0:30:10,0:39:11,0,39,11,541.24,Move to Server Box Table,,Local-Oscillator-(electrical),,Frequency-Synthesizer-(electrical) Limiter-(electrical),2,1,2
+st53,LO,1,7/17/21,0:30:10,0:39:16,0,39,16,546.22,Drop LRU: 'Intensity Gate Generator [SPARE]',,Local-Oscillator-(electrical),,Frequency-Synthesizer-(electrical) Limiter-(electrical),2,1,2
+st53,LO,1,7/17/21,0:30:10,0:39:18,0,39,18,548.61,Pick Up LRU: 'Intensity Gate Generator [SPARE]',,Local-Oscillator-(electrical),,Frequency-Synthesizer-(electrical) Limiter-(electrical),2,1,2
+st53,LO,1,7/17/21,0:30:10,0:39:35,0,39,35,565.3,Drop LRU: 'Intensity Gate Generator [SPARE]',,Local-Oscillator-(electrical),,Frequency-Synthesizer-(electrical) Limiter-(electrical),2,1,2
+st53,LO,1,7/17/21,0:30:10,0:39:41,0,39,41,571.39,Pick Up LRU: 'Intensity Gate Generator [SPARE]',,Local-Oscillator-(electrical),,Frequency-Synthesizer-(electrical) Limiter-(electrical),2,1,2
+st53,LO,1,7/17/21,0:30:10,0:39:55,0,39,55,585.2,Drop LRU: 'Intensity Gate Generator [SPARE]',,Local-Oscillator-(electrical),,Frequency-Synthesizer-(electrical) Limiter-(electrical),2,1,2
+st53,LO,1,7/17/21,0:30:10,0:39:58,0,39,58,588.43,Pick Up LRU: 'Intensity Gate Generator',,Local-Oscillator-(electrical),,Frequency-Synthesizer-(electrical) Limiter-(electrical),2,1,2
+st53,LO,1,7/17/21,0:30:10,0:39:58,0,39,58,588.52,Drop LRU: 'Intensity Gate Generator',,Local-Oscillator-(electrical),,Frequency-Synthesizer-(electrical) Limiter-(electrical),2,1,2
+st53,LO,1,7/17/21,0:30:10,0:39:59,0,39,59,589.12,Pick Up LRU: 'Intensity Gate Generator',,Local-Oscillator-(electrical),,Frequency-Synthesizer-(electrical) Limiter-(electrical),2,1,2
+st53,LO,1,7/17/21,0:30:10,0:40:00,0,40,0,589.97,Drop LRU: 'Intensity Gate Generator',,Local-Oscillator-(electrical),,Frequency-Synthesizer-(electrical) Limiter-(electrical),2,1,2
+st53,LO,1,7/17/21,0:30:10,0:40:01,0,40,1,591.7,Pick Up LRU: 'Intensity Gate Generator',,Local-Oscillator-(electrical),,Frequency-Synthesizer-(electrical) Limiter-(electrical),2,1,2
+st53,LO,1,7/17/21,0:30:10,0:40:07,0,40,7,597.12,Drop LRU: 'Intensity Gate Generator',,Local-Oscillator-(electrical),,Frequency-Synthesizer-(electrical) Limiter-(electrical),2,1,2
+st53,LO,1,7/17/21,0:30:10,0:40:07,0,40,7,597.85,Pick Up LRU: 'Intensity Gate Generator [SPARE]',,Local-Oscillator-(electrical),,Frequency-Synthesizer-(electrical) Limiter-(electrical),2,1,2
+st53,LO,1,7/17/21,0:30:10,0:40:19,0,40,19,609.53,Drop LRU: 'Intensity Gate Generator [SPARE]',,Local-Oscillator-(electrical),,Frequency-Synthesizer-(electrical) Limiter-(electrical),2,1,2
+st53,LO,1,7/17/21,0:30:10,0:40:20,0,40,20,610.72,Connect LRU: 'Intensity Gate Generator [SPARE]',,Local-Oscillator-(electrical),,Frequency-Synthesizer-(electrical) Limiter-(electrical),2,1,2
+st53,LO,1,7/17/21,0:30:10,0:40:22,0,40,22,612.63,Replaced unnecessarily Intensity Gate Generator (electrical),,Local-Oscillator-(electrical),,Frequency-Synthesizer-(electrical) Limiter-(electrical) Intensity-Gate-Generator-(electrical),3,1,3
+st53,LO,1,7/17/21,0:30:10,0:40:26,0,40,26,616.38,Click on: 'Intensity Gate Generator [SPARE]',,Local-Oscillator-(electrical),,Frequency-Synthesizer-(electrical) Limiter-(electrical) Intensity-Gate-Generator-(electrical),3,1,3
+st53,LO,1,7/17/21,0:30:10,0:40:28,0,40,28,618.25,Cancel disconnect: 'Intensity Gate Generator [SPARE]',,Local-Oscillator-(electrical),,Frequency-Synthesizer-(electrical) Limiter-(electrical) Intensity-Gate-Generator-(electrical),3,1,3
+st53,LO,1,7/17/21,0:30:10,0:40:29,0,40,29,619.83,Move drawer: 47.5% open,Indicator,Local-Oscillator-(electrical),,Frequency-Synthesizer-(electrical) Limiter-(electrical) Intensity-Gate-Generator-(electrical),3,1,3
+st53,LO,1,7/17/21,0:30:10,0:40:31,0,40,31,621.43,Move drawer: 2.5% open,Indicator,Local-Oscillator-(electrical),,Frequency-Synthesizer-(electrical) Limiter-(electrical) Intensity-Gate-Generator-(electrical),3,1,3
+st53,LO,1,7/17/21,0:30:10,0:40:41,0,40,41,631.08,Move drawer: 87.2% open,Synchronizer,Local-Oscillator-(electrical),,Frequency-Synthesizer-(electrical) Limiter-(electrical) Intensity-Gate-Generator-(electrical),3,1,3
+st53,LO,1,7/17/21,0:30:10,0:40:45,0,40,45,635.31,Click on: 'Sine Wave Oscillator',,Local-Oscillator-(electrical),,Frequency-Synthesizer-(electrical) Limiter-(electrical) Intensity-Gate-Generator-(electrical),3,1,3
+st53,LO,1,7/17/21,0:30:10,0:40:46,0,40,46,636.23,Disconnect LRU: 'Sine Wave Oscillator',,Local-Oscillator-(electrical),,Frequency-Synthesizer-(electrical) Limiter-(electrical) Intensity-Gate-Generator-(electrical),3,1,3
+st53,LO,1,7/17/21,0:30:10,0:40:47,0,40,47,637.4,Pick Up LRU: 'Sine Wave Oscillator',,Local-Oscillator-(electrical),,Frequency-Synthesizer-(electrical) Limiter-(electrical) Intensity-Gate-Generator-(electrical),3,1,3
+st53,LO,1,7/17/21,0:30:10,0:40:49,0,40,49,639.16,Drop LRU: 'Sine Wave Oscillator',,Local-Oscillator-(electrical),,Frequency-Synthesizer-(electrical) Limiter-(electrical) Intensity-Gate-Generator-(electrical),3,1,3
+st53,LO,1,7/17/21,0:30:10,0:40:52,0,40,52,642.28,Leave Server Box Table,,Local-Oscillator-(electrical),,Frequency-Synthesizer-(electrical) Limiter-(electrical) Intensity-Gate-Generator-(electrical),3,1,3
+st53,LO,1,7/17/21,0:30:10,0:40:54,0,40,54,644.76,Pick Up LRU: 'Sine Wave Oscillator [SPARE]',,Local-Oscillator-(electrical),,Frequency-Synthesizer-(electrical) Limiter-(electrical) Intensity-Gate-Generator-(electrical),3,1,3
+st53,LO,1,7/17/21,0:30:10,0:41:00,0,41,0,650.58,Move to Server Box Table,,Local-Oscillator-(electrical),,Frequency-Synthesizer-(electrical) Limiter-(electrical) Intensity-Gate-Generator-(electrical),3,1,3
+st53,LO,1,7/17/21,0:30:10,0:41:06,0,41,6,655.96,Drop LRU: 'Sine Wave Oscillator [SPARE]',,Local-Oscillator-(electrical),,Frequency-Synthesizer-(electrical) Limiter-(electrical) Intensity-Gate-Generator-(electrical),3,1,3
+st53,LO,1,7/17/21,0:30:10,0:41:07,0,41,7,657.18,Connect LRU: 'Sine Wave Oscillator [SPARE]',,Local-Oscillator-(electrical),,Frequency-Synthesizer-(electrical) Limiter-(electrical) Intensity-Gate-Generator-(electrical),3,1,3
+st53,LO,1,7/17/21,0:30:10,0:41:07,0,41,7,657.74,Replaced unnecessarily Sine Wave Oscillator (electrical),,Local-Oscillator-(electrical),,Frequency-Synthesizer-(electrical) Limiter-(electrical) Intensity-Gate-Generator-(electrical) Sine-Wave-Oscillator-(electrical),4,1,4
+st53,LO,1,7/17/21,0:30:10,0:41:09,0,41,9,659.76,Move drawer: 53.9% open,Synchronizer,Local-Oscillator-(electrical),,Frequency-Synthesizer-(electrical) Limiter-(electrical) Intensity-Gate-Generator-(electrical) Sine-Wave-Oscillator-(electrical),4,1,4
+st53,LO,1,7/17/21,0:30:10,0:41:11,0,41,11,661.54,Move drawer: 23.6% open,Synchronizer,Local-Oscillator-(electrical),,Frequency-Synthesizer-(electrical) Limiter-(electrical) Intensity-Gate-Generator-(electrical) Sine-Wave-Oscillator-(electrical),4,1,4
+st53,LO,1,7/17/21,0:30:10,0:41:12,0,41,12,662.16,Move drawer: 9% open,Synchronizer,Local-Oscillator-(electrical),,Frequency-Synthesizer-(electrical) Limiter-(electrical) Intensity-Gate-Generator-(electrical) Sine-Wave-Oscillator-(electrical),4,1,4
+st53,LO,1,7/17/21,0:30:10,0:41:16,0,41,16,666.24,Move drawer: 0% open,Transmitter,Local-Oscillator-(electrical),,Frequency-Synthesizer-(electrical) Limiter-(electrical) Intensity-Gate-Generator-(electrical) Sine-Wave-Oscillator-(electrical),4,1,4
+st53,LO,1,7/17/21,0:30:10,0:41:20,0,41,20,670.28,Move drawer: -8.1% open,Tracker,Local-Oscillator-(electrical),,Frequency-Synthesizer-(electrical) Limiter-(electrical) Intensity-Gate-Generator-(electrical) Sine-Wave-Oscillator-(electrical),4,1,4
+st53,LO,1,7/17/21,0:30:10,0:41:22,0,41,22,672.29,Move drawer: 98.2% open,Indicator,Local-Oscillator-(electrical),,Frequency-Synthesizer-(electrical) Limiter-(electrical) Intensity-Gate-Generator-(electrical) Sine-Wave-Oscillator-(electrical),4,1,4
+st53,LO,1,7/17/21,0:30:10,0:41:27,0,41,27,677.19,Move drawer: -6.8% open,Indicator,Local-Oscillator-(electrical),,Frequency-Synthesizer-(electrical) Limiter-(electrical) Intensity-Gate-Generator-(electrical) Sine-Wave-Oscillator-(electrical),4,1,4
+st53,LO,1,7/17/21,0:30:10,0:41:32,0,41,32,682.33,Move drawer: 91.5% open,Processor,Local-Oscillator-(electrical),,Frequency-Synthesizer-(electrical) Limiter-(electrical) Intensity-Gate-Generator-(electrical) Sine-Wave-Oscillator-(electrical),4,1,4
+st53,LO,1,7/17/21,0:30:10,0:42:15,0,42,15,725.85,Click on: 'Video Detector',,Local-Oscillator-(electrical),,Frequency-Synthesizer-(electrical) Limiter-(electrical) Intensity-Gate-Generator-(electrical) Sine-Wave-Oscillator-(electrical),4,1,4
+st53,LO,1,7/17/21,0:30:10,0:42:16,0,42,16,726.79,Disconnect LRU: 'Video Detector',,Local-Oscillator-(electrical),,Frequency-Synthesizer-(electrical) Limiter-(electrical) Intensity-Gate-Generator-(electrical) Sine-Wave-Oscillator-(electrical),4,1,4
+st53,LO,1,7/17/21,0:30:10,0:42:16,0,42,16,726.8,Move drawer: 91.5% open,Processor,Local-Oscillator-(electrical),,Frequency-Synthesizer-(electrical) Limiter-(electrical) Intensity-Gate-Generator-(electrical) Sine-Wave-Oscillator-(electrical),4,1,4
+st53,LO,1,7/17/21,0:30:10,0:42:17,0,42,17,727.59,Pick Up LRU: 'Video Detector',,Local-Oscillator-(electrical),,Frequency-Synthesizer-(electrical) Limiter-(electrical) Intensity-Gate-Generator-(electrical) Sine-Wave-Oscillator-(electrical),4,1,4
+st53,LO,1,7/17/21,0:30:10,0:42:19,0,42,19,729.67,Drop LRU: 'Video Detector',,Local-Oscillator-(electrical),,Frequency-Synthesizer-(electrical) Limiter-(electrical) Intensity-Gate-Generator-(electrical) Sine-Wave-Oscillator-(electrical),4,1,4
+st53,LO,1,7/17/21,0:30:10,0:42:21,0,42,21,731.19,Pick Up LRU: 'Video Detector',,Local-Oscillator-(electrical),,Frequency-Synthesizer-(electrical) Limiter-(electrical) Intensity-Gate-Generator-(electrical) Sine-Wave-Oscillator-(electrical),4,1,4
+st53,LO,1,7/17/21,0:30:10,0:42:22,0,42,22,732.7,Drop LRU: 'Video Detector',,Local-Oscillator-(electrical),,Frequency-Synthesizer-(electrical) Limiter-(electrical) Intensity-Gate-Generator-(electrical) Sine-Wave-Oscillator-(electrical),4,1,4
+st53,LO,1,7/17/21,0:30:10,0:42:24,0,42,24,734.34,Leave Server Box Table,,Local-Oscillator-(electrical),,Frequency-Synthesizer-(electrical) Limiter-(electrical) Intensity-Gate-Generator-(electrical) Sine-Wave-Oscillator-(electrical),4,1,4
+st53,LO,1,7/17/21,0:30:10,0:42:24,0,42,24,734.6,Move to Spare Parts Table,,Local-Oscillator-(electrical),,Frequency-Synthesizer-(electrical) Limiter-(electrical) Intensity-Gate-Generator-(electrical) Sine-Wave-Oscillator-(electrical),4,1,4
+st53,LO,1,7/17/21,0:30:10,0:42:33,0,42,33,743.37,Pick Up LRU: 'Video Detector [SPARE]',,Local-Oscillator-(electrical),,Frequency-Synthesizer-(electrical) Limiter-(electrical) Intensity-Gate-Generator-(electrical) Sine-Wave-Oscillator-(electrical),4,1,4
+st53,LO,1,7/17/21,0:30:10,0:42:35,0,42,35,745.17,Drop LRU: 'Video Detector [SPARE]',,Local-Oscillator-(electrical),,Frequency-Synthesizer-(electrical) Limiter-(electrical) Intensity-Gate-Generator-(electrical) Sine-Wave-Oscillator-(electrical),4,1,4
+st53,LO,1,7/17/21,0:30:10,0:42:42,0,42,42,752.32,Pick Up LRU: 'Video Detector [SPARE]',,Local-Oscillator-(electrical),,Frequency-Synthesizer-(electrical) Limiter-(electrical) Intensity-Gate-Generator-(electrical) Sine-Wave-Oscillator-(electrical),4,1,4
+st53,LO,1,7/17/21,0:30:10,0:42:45,0,42,45,755.47,Leave Spare Parts Table,,Local-Oscillator-(electrical),,Frequency-Synthesizer-(electrical) Limiter-(electrical) Intensity-Gate-Generator-(electrical) Sine-Wave-Oscillator-(electrical),4,1,4
+st53,LO,1,7/17/21,0:30:10,0:42:46,0,42,46,756.72,Move to Server Box Table,,Local-Oscillator-(electrical),,Frequency-Synthesizer-(electrical) Limiter-(electrical) Intensity-Gate-Generator-(electrical) Sine-Wave-Oscillator-(electrical),4,1,4
+st53,LO,1,7/17/21,0:30:10,0:42:47,0,42,47,757.73,Drop LRU: 'Video Detector [SPARE]',,Local-Oscillator-(electrical),,Frequency-Synthesizer-(electrical) Limiter-(electrical) Intensity-Gate-Generator-(electrical) Sine-Wave-Oscillator-(electrical),4,1,4
+st53,LO,1,7/17/21,0:30:10,0:42:52,0,42,52,762.42,Move drawer: 0% open,Transmitter,Local-Oscillator-(electrical),,Frequency-Synthesizer-(electrical) Limiter-(electrical) Intensity-Gate-Generator-(electrical) Sine-Wave-Oscillator-(electrical),4,1,4
+st53,LO,1,7/17/21,0:30:10,0:42:54,0,42,54,764.82,Pick Up LRU: 'Video Detector [SPARE]',,Local-Oscillator-(electrical),,Frequency-Synthesizer-(electrical) Limiter-(electrical) Intensity-Gate-Generator-(electrical) Sine-Wave-Oscillator-(electrical),4,1,4
+st53,LO,1,7/17/21,0:30:10,0:43:01,0,43,1,771.1,Drop LRU: 'Video Detector [SPARE]',,Local-Oscillator-(electrical),,Frequency-Synthesizer-(electrical) Limiter-(electrical) Intensity-Gate-Generator-(electrical) Sine-Wave-Oscillator-(electrical),4,1,4
+st53,LO,1,7/17/21,0:30:10,0:43:03,0,43,3,773.48,Move drawer: 94.8% open,Processor,Local-Oscillator-(electrical),,Frequency-Synthesizer-(electrical) Limiter-(electrical) Intensity-Gate-Generator-(electrical) Sine-Wave-Oscillator-(electrical),4,1,4
+st53,LO,1,7/17/21,0:30:10,0:43:04,0,43,4,774.72,Move drawer: 98.2% open,Processor,Local-Oscillator-(electrical),,Frequency-Synthesizer-(electrical) Limiter-(electrical) Intensity-Gate-Generator-(electrical) Sine-Wave-Oscillator-(electrical),4,1,4
+st53,LO,1,7/17/21,0:30:10,0:43:11,0,43,11,780.92,Move drawer: 69.4% open,Processor,Local-Oscillator-(electrical),,Frequency-Synthesizer-(electrical) Limiter-(electrical) Intensity-Gate-Generator-(electrical) Sine-Wave-Oscillator-(electrical),4,1,4
+st53,LO,1,7/17/21,0:30:10,0:43:32,0,43,32,802.03,Move drawer: 57.5% open,Processor,Local-Oscillator-(electrical),,Frequency-Synthesizer-(electrical) Limiter-(electrical) Intensity-Gate-Generator-(electrical) Sine-Wave-Oscillator-(electrical),4,1,4
+st53,LO,1,7/17/21,0:30:10,0:43:33,0,43,33,803.45,Move drawer: 0% open,Processor,Local-Oscillator-(electrical),,Frequency-Synthesizer-(electrical) Limiter-(electrical) Intensity-Gate-Generator-(electrical) Sine-Wave-Oscillator-(electrical),4,1,4
+st53,LO,1,7/17/21,0:30:10,0:43:35,0,43,35,805.78,Move drawer: 91.8% open,Indicator,Local-Oscillator-(electrical),,Frequency-Synthesizer-(electrical) Limiter-(electrical) Intensity-Gate-Generator-(electrical) Sine-Wave-Oscillator-(electrical),4,1,4
+st53,LO,1,7/17/21,0:30:10,0:43:44,0,43,44,813.93,Move drawer: 91.8% open,Indicator,Local-Oscillator-(electrical),,Frequency-Synthesizer-(electrical) Limiter-(electrical) Intensity-Gate-Generator-(electrical) Sine-Wave-Oscillator-(electrical),4,1,4
+st53,LO,1,7/17/21,0:30:10,0:43:45,0,43,45,815.08,Move drawer: 81.2% open,Indicator,Local-Oscillator-(electrical),,Frequency-Synthesizer-(electrical) Limiter-(electrical) Intensity-Gate-Generator-(electrical) Sine-Wave-Oscillator-(electrical),4,1,4
+st53,LO,1,7/17/21,0:30:10,0:43:47,0,43,47,817,Move drawer: -6.7% open,Indicator,Local-Oscillator-(electrical),,Frequency-Synthesizer-(electrical) Limiter-(electrical) Intensity-Gate-Generator-(electrical) Sine-Wave-Oscillator-(electrical),4,1,4
+st53,LO,1,7/17/21,0:30:10,0:43:48,0,43,48,818.56,Move drawer: 0% open,Indicator,Local-Oscillator-(electrical),,Frequency-Synthesizer-(electrical) Limiter-(electrical) Intensity-Gate-Generator-(electrical) Sine-Wave-Oscillator-(electrical),4,1,4
+st53,LO,1,7/17/21,0:30:10,0:43:49,0,43,49,819,Move drawer: 0% open,Indicator,Local-Oscillator-(electrical),,Frequency-Synthesizer-(electrical) Limiter-(electrical) Intensity-Gate-Generator-(electrical) Sine-Wave-Oscillator-(electrical),4,1,4
+st53,LO,1,7/17/21,0:30:10,0:43:51,0,43,51,821.01,Move drawer: -4.6% open,Indicator,Local-Oscillator-(electrical),,Frequency-Synthesizer-(electrical) Limiter-(electrical) Intensity-Gate-Generator-(electrical) Sine-Wave-Oscillator-(electrical),4,1,4
+st53,LO,1,7/17/21,0:30:10,0:43:53,0,43,53,823.41,Move drawer: -17.3% open,Indicator,Local-Oscillator-(electrical),,Frequency-Synthesizer-(electrical) Limiter-(electrical) Intensity-Gate-Generator-(electrical) Sine-Wave-Oscillator-(electrical),4,1,4
+st53,LO,1,7/17/21,0:30:10,0:43:57,0,43,57,827.33,Move drawer: 97.7% open,Processor,Local-Oscillator-(electrical),,Frequency-Synthesizer-(electrical) Limiter-(electrical) Intensity-Gate-Generator-(electrical) Sine-Wave-Oscillator-(electrical),4,1,4
+st53,LO,1,7/17/21,0:30:10,0:44:00,0,44,0,830.53,Move drawer: 96.7% open,Tracker,Local-Oscillator-(electrical),,Frequency-Synthesizer-(electrical) Limiter-(electrical) Intensity-Gate-Generator-(electrical) Sine-Wave-Oscillator-(electrical),4,1,4
+st53,LO,1,7/17/21,0:30:10,0:44:02,0,44,2,832.39,Pick Up LRU: 'Sine Wave Oscillator',,Local-Oscillator-(electrical),,Frequency-Synthesizer-(electrical) Limiter-(electrical) Intensity-Gate-Generator-(electrical) Sine-Wave-Oscillator-(electrical),4,1,4
+st53,LO,1,7/17/21,0:30:10,0:44:02,0,44,2,832.46,Drop LRU: 'Sine Wave Oscillator',,Local-Oscillator-(electrical),,Frequency-Synthesizer-(electrical) Limiter-(electrical) Intensity-Gate-Generator-(electrical) Sine-Wave-Oscillator-(electrical),4,1,4
+st53,LO,1,7/17/21,0:30:10,0:44:03,0,44,3,833.68,Pick Up LRU: 'Sine Wave Oscillator',,Local-Oscillator-(electrical),,Frequency-Synthesizer-(electrical) Limiter-(electrical) Intensity-Gate-Generator-(electrical) Sine-Wave-Oscillator-(electrical),4,1,4
+st53,LO,1,7/17/21,0:30:10,0:44:07,0,44,7,836.89,Drop LRU: 'Sine Wave Oscillator',,Local-Oscillator-(electrical),,Frequency-Synthesizer-(electrical) Limiter-(electrical) Intensity-Gate-Generator-(electrical) Sine-Wave-Oscillator-(electrical),4,1,4
+st53,LO,1,7/17/21,0:30:10,0:44:10,0,44,10,839.93,Pick Up LRU: 'Intensity Gate Generator',,Local-Oscillator-(electrical),,Frequency-Synthesizer-(electrical) Limiter-(electrical) Intensity-Gate-Generator-(electrical) Sine-Wave-Oscillator-(electrical),4,1,4
+st53,LO,1,7/17/21,0:30:10,0:44:22,0,44,22,852.54,Drop LRU: 'Intensity Gate Generator',,Local-Oscillator-(electrical),,Frequency-Synthesizer-(electrical) Limiter-(electrical) Intensity-Gate-Generator-(electrical) Sine-Wave-Oscillator-(electrical),4,1,4
+st53,LO,1,7/17/21,0:30:10,0:44:24,0,44,24,854.41,Move drawer: 19.6% open,Tracker,Local-Oscillator-(electrical),,Frequency-Synthesizer-(electrical) Limiter-(electrical) Intensity-Gate-Generator-(electrical) Sine-Wave-Oscillator-(electrical),4,1,4
+st53,LO,1,7/17/21,0:30:10,0:44:25,0,44,25,855.82,Pick Up LRU: 'Intensity Gate Generator',,Local-Oscillator-(electrical),,Frequency-Synthesizer-(electrical) Limiter-(electrical) Intensity-Gate-Generator-(electrical) Sine-Wave-Oscillator-(electrical),4,1,4
+st53,LO,1,7/17/21,0:30:10,0:44:27,0,44,27,857.54,Drop LRU: 'Intensity Gate Generator',,Local-Oscillator-(electrical),,Frequency-Synthesizer-(electrical) Limiter-(electrical) Intensity-Gate-Generator-(electrical) Sine-Wave-Oscillator-(electrical),4,1,4
+st53,LO,1,7/17/21,0:30:10,0:44:28,0,44,28,858.11,Pick Up LRU: 'Intensity Gate Generator',,Local-Oscillator-(electrical),,Frequency-Synthesizer-(electrical) Limiter-(electrical) Intensity-Gate-Generator-(electrical) Sine-Wave-Oscillator-(electrical),4,1,4
+st53,LO,1,7/17/21,0:30:10,0:44:33,0,44,33,863.47,Attempt to reconnect mismatched LRU: 'Intensity Gate Generator',,Local-Oscillator-(electrical),,Frequency-Synthesizer-(electrical) Limiter-(electrical) Intensity-Gate-Generator-(electrical) Sine-Wave-Oscillator-(electrical),4,1,4
+st53,LO,1,7/17/21,0:30:10,0:44:34,0,44,34,864.26,Attempt to reconnect mismatched LRU: 'Intensity Gate Generator',,Local-Oscillator-(electrical),,Frequency-Synthesizer-(electrical) Limiter-(electrical) Intensity-Gate-Generator-(electrical) Sine-Wave-Oscillator-(electrical),4,1,4
+st53,LO,1,7/17/21,0:30:10,0:44:34,0,44,34,864.62,Drop LRU: 'Intensity Gate Generator',,Local-Oscillator-(electrical),,Frequency-Synthesizer-(electrical) Limiter-(electrical) Intensity-Gate-Generator-(electrical) Sine-Wave-Oscillator-(electrical),4,1,4
+st53,LO,1,7/17/21,0:30:10,0:44:35,0,44,35,865.31,Pick Up LRU: 'Intensity Gate Generator',,Local-Oscillator-(electrical),,Frequency-Synthesizer-(electrical) Limiter-(electrical) Intensity-Gate-Generator-(electrical) Sine-Wave-Oscillator-(electrical),4,1,4
+st53,LO,1,7/17/21,0:30:10,0:44:36,0,44,36,866.11,Attempt to reconnect mismatched LRU: 'Intensity Gate Generator',,Local-Oscillator-(electrical),,Frequency-Synthesizer-(electrical) Limiter-(electrical) Intensity-Gate-Generator-(electrical) Sine-Wave-Oscillator-(electrical),4,1,4
+st53,LO,1,7/17/21,0:30:10,0:44:37,0,44,37,867.59,Drop LRU: 'Intensity Gate Generator',,Local-Oscillator-(electrical),,Frequency-Synthesizer-(electrical) Limiter-(electrical) Intensity-Gate-Generator-(electrical) Sine-Wave-Oscillator-(electrical),4,1,4
+st53,LO,1,7/17/21,0:30:10,0:44:47,0,44,47,877.1,Pick Up LRU: 'Intensity Gate Generator',,Local-Oscillator-(electrical),,Frequency-Synthesizer-(electrical) Limiter-(electrical) Intensity-Gate-Generator-(electrical) Sine-Wave-Oscillator-(electrical),4,1,4
+st53,LO,1,7/17/21,0:30:10,0:44:49,0,44,49,879.71,Drop LRU: 'Intensity Gate Generator',,Local-Oscillator-(electrical),,Frequency-Synthesizer-(electrical) Limiter-(electrical) Intensity-Gate-Generator-(electrical) Sine-Wave-Oscillator-(electrical),4,1,4
+st53,LO,1,7/17/21,0:30:10,0:44:50,0,44,50,880.64,Leave Server Box Table,,Local-Oscillator-(electrical),,Frequency-Synthesizer-(electrical) Limiter-(electrical) Intensity-Gate-Generator-(electrical) Sine-Wave-Oscillator-(electrical),4,1,4
+st53,LO,1,7/17/21,0:30:10,0:44:57,0,44,57,887.81,Pick Up LRU: 'Sine Wave Oscillator',,Local-Oscillator-(electrical),,Frequency-Synthesizer-(electrical) Limiter-(electrical) Intensity-Gate-Generator-(electrical) Sine-Wave-Oscillator-(electrical),4,1,4
+st53,LO,1,7/17/21,0:30:10,0:45:01,0,45,1,891.77,Move to Server Box Table,,Local-Oscillator-(electrical),,Frequency-Synthesizer-(electrical) Limiter-(electrical) Intensity-Gate-Generator-(electrical) Sine-Wave-Oscillator-(electrical),4,1,4
+st53,LO,1,7/17/21,0:30:10,0:45:02,0,45,2,892.09,Drop LRU: 'Sine Wave Oscillator',,Local-Oscillator-(electrical),,Frequency-Synthesizer-(electrical) Limiter-(electrical) Intensity-Gate-Generator-(electrical) Sine-Wave-Oscillator-(electrical),4,1,4
+st53,LO,1,7/17/21,0:30:10,0:45:03,0,45,3,893.62,Leave Server Box Table,,Local-Oscillator-(electrical),,Frequency-Synthesizer-(electrical) Limiter-(electrical) Intensity-Gate-Generator-(electrical) Sine-Wave-Oscillator-(electrical),4,1,4
+st53,LO,1,7/17/21,0:30:10,0:45:04,0,45,4,894.29,Pick Up LRU: 'Video Detector',,Local-Oscillator-(electrical),,Frequency-Synthesizer-(electrical) Limiter-(electrical) Intensity-Gate-Generator-(electrical) Sine-Wave-Oscillator-(electrical),4,1,4
+st53,LO,1,7/17/21,0:30:10,0:45:08,0,45,8,898.12,Move to Server Box Table,,Local-Oscillator-(electrical),,Frequency-Synthesizer-(electrical) Limiter-(electrical) Intensity-Gate-Generator-(electrical) Sine-Wave-Oscillator-(electrical),4,1,4
+st53,LO,1,7/17/21,0:30:10,0:45:09,0,45,9,899.79,Leave Server Box Table,,Local-Oscillator-(electrical),,Frequency-Synthesizer-(electrical) Limiter-(electrical) Intensity-Gate-Generator-(electrical) Sine-Wave-Oscillator-(electrical),4,1,4
+st53,LO,1,7/17/21,0:30:10,0:45:10,0,45,10,900.02,Drop LRU: 'Video Detector',,Local-Oscillator-(electrical),,Frequency-Synthesizer-(electrical) Limiter-(electrical) Intensity-Gate-Generator-(electrical) Sine-Wave-Oscillator-(electrical),4,1,4
+st53,LO,1,7/17/21,0:30:10,0:45:16,0,45,16,906.54,Pick Up LRU: 'Video Detector',,Local-Oscillator-(electrical),,Frequency-Synthesizer-(electrical) Limiter-(electrical) Intensity-Gate-Generator-(electrical) Sine-Wave-Oscillator-(electrical),4,1,4
+st53,LO,1,7/17/21,0:30:10,0:45:23,0,45,23,913.67,Move to Server Box Table,,Local-Oscillator-(electrical),,Frequency-Synthesizer-(electrical) Limiter-(electrical) Intensity-Gate-Generator-(electrical) Sine-Wave-Oscillator-(electrical),4,1,4
+st53,LO,1,7/17/21,0:30:10,0:45:25,0,45,25,915.42,Drop LRU: 'Video Detector',,Local-Oscillator-(electrical),,Frequency-Synthesizer-(electrical) Limiter-(electrical) Intensity-Gate-Generator-(electrical) Sine-Wave-Oscillator-(electrical),4,1,4
+st53,LO,1,7/17/21,0:30:10,0:45:26,0,45,26,916.32,Connect LRU: 'Video Detector',,Local-Oscillator-(electrical),,Frequency-Synthesizer-(electrical) Limiter-(electrical) Intensity-Gate-Generator-(electrical) Sine-Wave-Oscillator-(electrical),4,1,4
+st53,LO,1,7/17/21,0:30:10,0:45:28,0,45,28,918.37,Submit?,,Local-Oscillator-(electrical),,Frequency-Synthesizer-(electrical) Limiter-(electrical) Intensity-Gate-Generator-(electrical) Sine-Wave-Oscillator-(electrical),4,1,4
+st53,LO,1,7/17/21,0:30:10,0:45:29,0,45,29,919.79,Submit Confirm,,Local-Oscillator-(electrical),,Frequency-Synthesizer-(electrical) Limiter-(electrical) Intensity-Gate-Generator-(electrical) Sine-Wave-Oscillator-(electrical),4,1,4
+st53,LO,2,7/17/21,0:45:34,0:45:34,0,45,34,0,Make electrical flaw: Receiver Waveguide,,Receiver-Waveguide-(electrical),,,0,1,0
+st53,LO,2,7/17/21,0:45:34,0:45:34,0,45,34,0,Start (High Fidelity Sim),,Receiver-Waveguide-(electrical),,,0,1,0
+st53,LO,2,7/17/21,0:45:34,0:45:34,0,45,34,0.03,Leave Server Box Table,,Receiver-Waveguide-(electrical),,,0,1,0

@@ -1,0 +1,125 @@
+subject,subject_group,round,round_start_date_utc,round_start_time_utc,current_time_utc,current_hour24,current_minute,current_second,current_elapsed_seconds,event,ui_tab,active_faults,fixed_faults,fixed_nonfaults,ReplacedComponents,FaultsRemaining,ReplacedNonFaults
+st61,LO,1,10/15/21,17:33:04,17:33:04,17,33,4,0.05,Make electrical flaw: Local Oscillator,,Local-Oscillator-(electrical),,,0,1,0
+st61,LO,1,10/15/21,17:33:04,17:33:04,17,33,4,0.05,Start (High Fidelity Sim),,Local-Oscillator-(electrical),,,0,1,0
+st61,LO,1,10/15/21,17:33:04,17:33:51,17,33,51,46.38,Move to Server Box Table,,Local-Oscillator-(electrical),,,0,1,0
+st61,LO,1,10/15/21,17:33:04,17:34:29,17,34,29,84.75,Swing front panel: 50.2% open,,Local-Oscillator-(electrical),,,0,1,0
+st61,LO,1,10/15/21,17:33:04,17:34:47,17,34,47,102.16,Move drawer: 54.8% open,Tracker,Local-Oscillator-(electrical),,,0,1,0
+st61,LO,1,10/15/21,17:33:04,17:34:55,17,34,55,110.88,Move drawer: 1.9% open,Tracker,Local-Oscillator-(electrical),,,0,1,0
+st61,LO,1,10/15/21,17:33:04,17:35:00,17,35,0,115.78,Move drawer: 31.4% open,Processor,Local-Oscillator-(electrical),,,0,1,0
+st61,LO,1,10/15/21,17:33:04,17:35:41,17,35,41,156.22,Leave Server Box Table,,Local-Oscillator-(electrical),,,0,1,0
+st61,LO,1,10/15/21,17:33:04,17:35:41,17,35,41,156.6,Move to Spare Parts Table,,Local-Oscillator-(electrical),,,0,1,0
+st61,LO,1,10/15/21,17:33:04,17:36:15,17,36,15,190.84,Pick Up LRU: 'Control Circuit [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+st61,LO,1,10/15/21,17:33:04,17:36:19,17,36,19,194.34,Drop LRU: 'Control Circuit [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+st61,LO,1,10/15/21,17:33:04,17:36:36,17,36,36,211.17,Pick Up LRU: 'Control Circuit [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+st61,LO,1,10/15/21,17:33:04,17:36:36,17,36,36,211.22,Drop LRU: 'Control Circuit [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+st61,LO,1,10/15/21,17:33:04,17:36:36,17,36,36,211.83,Pick Up LRU: 'Control Circuit [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+st61,LO,1,10/15/21,17:33:04,17:36:39,17,36,39,214.3,Leave Spare Parts Table,,Local-Oscillator-(electrical),,,0,1,0
+st61,LO,1,10/15/21,17:33:04,17:36:39,17,36,39,214.6,Move to Server Box Table,,Local-Oscillator-(electrical),,,0,1,0
+st61,LO,1,10/15/21,17:33:04,17:36:42,17,36,42,217.37,Drop LRU: 'Control Circuit [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+st61,LO,1,10/15/21,17:33:04,17:36:43,17,36,43,218.9,Leave Server Box Table,,Local-Oscillator-(electrical),,,0,1,0
+st61,LO,1,10/15/21,17:33:04,17:36:44,17,36,44,219.38,Move to Spare Parts Table,,Local-Oscillator-(electrical),,,0,1,0
+st61,LO,1,10/15/21,17:33:04,17:37:14,17,37,14,249.47,Leave Spare Parts Table,,Local-Oscillator-(electrical),,,0,1,0
+st61,LO,1,10/15/21,17:33:04,17:37:17,17,37,17,252.27,Move to Spare Parts Table,,Local-Oscillator-(electrical),,,0,1,0
+st61,LO,1,10/15/21,17:33:04,17:37:20,17,37,20,255.28,Pick Up LRU: 'Control Circuit [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+st61,LO,1,10/15/21,17:33:04,17:37:23,17,37,23,258.65,Leave Spare Parts Table,,Local-Oscillator-(electrical),,,0,1,0
+st61,LO,1,10/15/21,17:33:04,17:37:24,17,37,24,259.88,Move to Server Box Table,,Local-Oscillator-(electrical),,,0,1,0
+st61,LO,1,10/15/21,17:33:04,17:37:28,17,37,28,264.08,Drop LRU: 'Control Circuit [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+st61,LO,1,10/15/21,17:33:04,17:37:30,17,37,30,266.13,Pick Up LRU: 'Control Circuit [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+st61,LO,1,10/15/21,17:33:04,17:37:32,17,37,32,267.58,Drop LRU: 'Control Circuit [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+st61,LO,1,10/15/21,17:33:04,17:37:36,17,37,36,271.18,Pick Up LRU: 'Control Circuit [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+st61,LO,1,10/15/21,17:33:04,17:37:51,17,37,51,287.07,Drop LRU: 'Control Circuit [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+st61,LO,1,10/15/21,17:33:04,17:37:55,17,37,55,291.09,Click on: 'Control Circuit',,Local-Oscillator-(electrical),,,0,1,0
+st61,LO,1,10/15/21,17:33:04,17:37:58,17,37,58,293.47,Cancel disconnect: 'Control Circuit',,Local-Oscillator-(electrical),,,0,1,0
+st61,LO,1,10/15/21,17:33:04,17:37:58,17,37,58,293.49,Move drawer: 31.4% open,Processor,Local-Oscillator-(electrical),,,0,1,0
+st61,LO,1,10/15/21,17:33:04,17:37:59,17,37,59,294.81,Click on: 'Control Circuit',,Local-Oscillator-(electrical),,,0,1,0
+st61,LO,1,10/15/21,17:33:04,17:38:00,17,38,0,295.99,Disconnect LRU: 'Control Circuit',,Local-Oscillator-(electrical),,,0,1,0
+st61,LO,1,10/15/21,17:33:04,17:38:00,17,38,0,296,Move drawer: 31.4% open,Processor,Local-Oscillator-(electrical),,,0,1,0
+st61,LO,1,10/15/21,17:33:04,17:38:02,17,38,2,297.49,Pick Up LRU: 'Control Circuit',,Local-Oscillator-(electrical),,,0,1,0
+st61,LO,1,10/15/21,17:33:04,17:38:12,17,38,12,307.18,Drop LRU: 'Control Circuit',,Local-Oscillator-(electrical),,,0,1,0
+st61,LO,1,10/15/21,17:33:04,17:38:13,17,38,13,308.24,Cancel connect: 'Control Circuit',,Local-Oscillator-(electrical),,,0,1,0
+st61,LO,1,10/15/21,17:33:04,17:38:14,17,38,14,309.22,Pick Up LRU: 'Control Circuit',,Local-Oscillator-(electrical),,,0,1,0
+st61,LO,1,10/15/21,17:33:04,17:38:15,17,38,15,311.07,Drop LRU: 'Control Circuit',,Local-Oscillator-(electrical),,,0,1,0
+st61,LO,1,10/15/21,17:33:04,17:38:17,17,38,17,312.6,Cancel connect: 'Control Circuit',,Local-Oscillator-(electrical),,,0,1,0
+st61,LO,1,10/15/21,17:33:04,17:38:17,17,38,17,312.62,Move drawer: 31.4% open,Processor,Local-Oscillator-(electrical),,,0,1,0
+st61,LO,1,10/15/21,17:33:04,17:38:25,17,38,25,320.95,Leave Server Box Table,,Local-Oscillator-(electrical),,,0,1,0
+st61,LO,1,10/15/21,17:33:04,17:38:30,17,38,30,325.84,Pick Up LRU: 'Control Circuit [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+st61,LO,1,10/15/21,17:33:04,17:38:37,17,38,37,332.71,Move to Server Box Table,,Local-Oscillator-(electrical),,,0,1,0
+st61,LO,1,10/15/21,17:33:04,17:38:39,17,38,39,334.54,Drop LRU: 'Control Circuit [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+st61,LO,1,10/15/21,17:33:04,17:38:43,17,38,43,338.34,Leave Server Box Table,,Local-Oscillator-(electrical),,,0,1,0
+st61,LO,1,10/15/21,17:33:04,17:38:52,17,38,52,347.85,Move to Server Box Table,,Local-Oscillator-(electrical),,,0,1,0
+st61,LO,1,10/15/21,17:33:04,17:38:59,17,38,59,354.63,Leave Server Box Table,,Local-Oscillator-(electrical),,,0,1,0
+st61,LO,1,10/15/21,17:33:04,17:39:10,17,39,10,365.9,Move to Spare Parts Table,,Local-Oscillator-(electrical),,,0,1,0
+st61,LO,1,10/15/21,17:33:04,17:39:17,17,39,17,372.21,Leave Spare Parts Table,,Local-Oscillator-(electrical),,,0,1,0
+st61,LO,1,10/15/21,17:33:04,17:39:17,17,39,17,372.49,Move to Server Box Table,,Local-Oscillator-(electrical),,,0,1,0
+st61,LO,1,10/15/21,17:33:04,17:39:20,17,39,20,375.66,Leave Server Box Table,,Local-Oscillator-(electrical),,,0,1,0
+st61,LO,1,10/15/21,17:33:04,17:39:37,17,39,37,392.67,Move to Spare Parts Table,,Local-Oscillator-(electrical),,,0,1,0
+st61,LO,1,10/15/21,17:33:04,17:39:37,17,39,37,393.04,Leave Spare Parts Table,,Local-Oscillator-(electrical),,,0,1,0
+st61,LO,1,10/15/21,17:33:04,17:39:38,17,39,38,394.04,Move to Spare Parts Table,,Local-Oscillator-(electrical),,,0,1,0
+st61,LO,1,10/15/21,17:33:04,17:39:39,17,39,39,394.35,Leave Spare Parts Table,,Local-Oscillator-(electrical),,,0,1,0
+st61,LO,1,10/15/21,17:33:04,17:40:01,17,40,1,416.38,Move to Server Box Table,,Local-Oscillator-(electrical),,,0,1,0
+st61,LO,1,10/15/21,17:33:04,17:40:04,17,40,4,419.46,Leave Server Box Table,,Local-Oscillator-(electrical),,,0,1,0
+st61,LO,1,10/15/21,17:33:04,17:40:05,17,40,5,420.98,Move to Server Box Table,,Local-Oscillator-(electrical),,,0,1,0
+st61,LO,1,10/15/21,17:33:04,17:40:08,17,40,8,423.61,Leave Server Box Table,,Local-Oscillator-(electrical),,,0,1,0
+st61,LO,1,10/15/21,17:33:04,17:40:11,17,40,11,426.66,Move to Server Box Table,,Local-Oscillator-(electrical),,,0,1,0
+st61,LO,1,10/15/21,17:33:04,17:40:24,17,40,24,439.29,Pick Up LRU: 'Control Circuit',,Local-Oscillator-(electrical),,,0,1,0
+st61,LO,1,10/15/21,17:33:04,17:40:26,17,40,26,441.95,Drop LRU: 'Control Circuit',,Local-Oscillator-(electrical),,,0,1,0
+st61,LO,1,10/15/21,17:33:04,17:40:33,17,40,33,448.9,Leave Server Box Table,,Local-Oscillator-(electrical),,,0,1,0
+st61,LO,1,10/15/21,17:33:04,17:40:45,17,40,45,460.95,Move to Server Box Table,,Local-Oscillator-(electrical),,,0,1,0
+st61,LO,1,10/15/21,17:33:04,17:41:09,17,41,9,484.47,Move drawer: 90.1% open,Processor,Local-Oscillator-(electrical),,,0,1,0
+st61,LO,1,10/15/21,17:33:04,17:41:26,17,41,26,502.02,Leave Server Box Table,,Local-Oscillator-(electrical),,,0,1,0
+st61,LO,1,10/15/21,17:33:04,17:41:27,17,41,27,502.33,Move to Spare Parts Table,,Local-Oscillator-(electrical),,,0,1,0
+st61,LO,1,10/15/21,17:33:04,17:41:55,17,41,55,530.48,Pick Up LRU: 'Local Oscillator [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+st61,LO,1,10/15/21,17:33:04,17:42:13,17,42,13,548.53,Drop LRU: 'Local Oscillator [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+st61,LO,1,10/15/21,17:33:04,17:42:16,17,42,16,551.47,Pick Up LRU: 'Local Oscillator [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+st61,LO,1,10/15/21,17:33:04,17:42:35,17,42,35,570.66,Drop LRU: 'Local Oscillator [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+st61,LO,1,10/15/21,17:33:04,17:42:54,17,42,54,589.92,Pick Up LRU: 'Local Oscillator [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+st61,LO,1,10/15/21,17:33:04,17:43:03,17,43,3,598.77,Drop LRU: 'Local Oscillator [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+st61,LO,1,10/15/21,17:33:04,17:43:05,17,43,5,600.72,Pick Up LRU: 'Local Oscillator [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+st61,LO,1,10/15/21,17:33:04,17:43:06,17,43,6,601.17,Drop LRU: 'Local Oscillator [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+st61,LO,1,10/15/21,17:33:04,17:43:06,17,43,6,601.23,Pick Up LRU: 'Local Oscillator [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+st61,LO,1,10/15/21,17:33:04,17:43:13,17,43,13,608.33,Drop LRU: 'Local Oscillator [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+st61,LO,1,10/15/21,17:33:04,17:43:41,17,43,41,636.97,Leave Spare Parts Table,,Local-Oscillator-(electrical),,,0,1,0
+st61,LO,1,10/15/21,17:33:04,17:43:51,17,43,51,646.38,Pick Up LRU: 'Local Oscillator [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+st61,LO,1,10/15/21,17:33:04,17:43:54,17,43,54,649.2,Drop LRU: 'Local Oscillator [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+st61,LO,1,10/15/21,17:33:04,17:43:57,17,43,57,652.5,Move to Server Box Table,,Local-Oscillator-(electrical),,,0,1,0
+st61,LO,1,10/15/21,17:33:04,17:44:05,17,44,5,660.16,Click on: 'Local Oscillator',,Local-Oscillator-(electrical),,,0,1,0
+st61,LO,1,10/15/21,17:33:04,17:44:06,17,44,6,661.62,Disconnect LRU: 'Local Oscillator',,Local-Oscillator-(electrical),,,0,1,0
+st61,LO,1,10/15/21,17:33:04,17:44:06,17,44,6,661.62,Move drawer: 90.1% open,Processor,Local-Oscillator-(electrical),,,0,1,0
+st61,LO,1,10/15/21,17:33:04,17:44:07,17,44,7,662.73,Pick Up LRU: 'Local Oscillator',,Local-Oscillator-(electrical),,,0,1,0
+st61,LO,1,10/15/21,17:33:04,17:44:08,17,44,8,663.66,Drop LRU: 'Local Oscillator',,Local-Oscillator-(electrical),,,0,1,0
+st61,LO,1,10/15/21,17:33:04,17:44:13,17,44,13,668.33,Pick Up LRU: 'Local Oscillator [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+st61,LO,1,10/15/21,17:33:04,17:44:28,17,44,28,683.76,Drop LRU: 'Local Oscillator [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+st61,LO,1,10/15/21,17:33:04,17:44:37,17,44,37,692.22,Pick Up LRU: 'Local Oscillator',,Local-Oscillator-(electrical),,,0,1,0
+st61,LO,1,10/15/21,17:33:04,17:44:38,17,44,38,693.75,Drop LRU: 'Local Oscillator',,Local-Oscillator-(electrical),,,0,1,0
+st61,LO,1,10/15/21,17:33:04,17:44:43,17,44,43,698.67,Pick Up LRU: 'Local Oscillator',,Local-Oscillator-(electrical),,,0,1,0
+st61,LO,1,10/15/21,17:33:04,17:44:50,17,44,50,706.05,Drop LRU: 'Local Oscillator',,Local-Oscillator-(electrical),,,0,1,0
+st61,LO,1,10/15/21,17:33:04,17:44:52,17,44,52,707.48,Pick Up LRU: 'Local Oscillator',,Local-Oscillator-(electrical),,,0,1,0
+st61,LO,1,10/15/21,17:33:04,17:44:53,17,44,53,708.71,Drop LRU: 'Local Oscillator',,Local-Oscillator-(electrical),,,0,1,0
+st61,LO,1,10/15/21,17:33:04,17:44:54,17,44,54,709.71,Pick Up LRU: 'Local Oscillator',,Local-Oscillator-(electrical),,,0,1,0
+st61,LO,1,10/15/21,17:33:04,17:45:02,17,45,2,717.53,Drop LRU: 'Local Oscillator',,Local-Oscillator-(electrical),,,0,1,0
+st61,LO,1,10/15/21,17:33:04,17:45:06,17,45,6,721.48,Leave Server Box Table,,Local-Oscillator-(electrical),,,0,1,0
+st61,LO,1,10/15/21,17:33:04,17:45:24,17,45,24,739.79,Pick Up LRU: 'Local Oscillator',,Local-Oscillator-(electrical),,,0,1,0
+st61,LO,1,10/15/21,17:33:04,17:45:34,17,45,34,749.77,Drop LRU: 'Local Oscillator',,Local-Oscillator-(electrical),,,0,1,0
+st61,LO,1,10/15/21,17:33:04,17:45:36,17,45,36,752.12,Move to Server Box Table,,Local-Oscillator-(electrical),,,0,1,0
+st61,LO,1,10/15/21,17:33:04,17:45:41,17,45,41,756.75,Pick Up LRU: 'Local Oscillator',,Local-Oscillator-(electrical),,,0,1,0
+st61,LO,1,10/15/21,17:33:04,17:45:43,17,45,43,758.36,Drop LRU: 'Local Oscillator',,Local-Oscillator-(electrical),,,0,1,0
+st61,LO,1,10/15/21,17:33:04,17:45:45,17,45,45,760.58,Connect LRU: 'Local Oscillator',,Local-Oscillator-(electrical),,,0,1,0
+st61,LO,1,10/15/21,17:33:04,17:46:21,17,46,21,796.47,Submit?,,Local-Oscillator-(electrical),,,0,1,0
+st61,LO,1,10/15/21,17:33:04,17:46:22,17,46,22,797.65,Submit Confirm,,Local-Oscillator-(electrical),,,0,1,0
+st61,LO,2,10/15/21,17:46:24,17:46:24,17,46,24,0,Make electrical flaw: Receiver Waveguide,,Receiver-Waveguide-(electrical),,,0,1,0
+st61,LO,2,10/15/21,17:46:24,17:46:24,17,46,24,0,Start (High Fidelity Sim),,Receiver-Waveguide-(electrical),,,0,1,0
+st61,LO,2,10/15/21,17:46:24,17:46:24,17,46,24,0.02,Leave Server Box Table,,Receiver-Waveguide-(electrical),,,0,1,0
+st61,LO,2,10/15/21,17:46:24,17:46:30,17,46,30,5.77,Move to Server Box Table,,Receiver-Waveguide-(electrical),,,0,1,0
+st61,LO,2,10/15/21,17:46:24,17:46:39,17,46,39,14.78,Swing front panel: 50.2% open,,Receiver-Waveguide-(electrical),,,0,1,0
+st61,LO,2,10/15/21,17:46:24,17:46:49,17,46,49,25.37,Move drawer: -4.5% open,Processor,Receiver-Waveguide-(electrical),,,0,1,0
+st61,LO,2,10/15/21,17:46:24,17:47:18,17,47,18,54.06,Move drawer: 0% open,Synchronizer,Receiver-Waveguide-(electrical),,,0,1,0
+st61,LO,2,10/15/21,17:46:24,17:47:19,17,47,19,54.81,Move drawer: 0% open,Synchronizer,Receiver-Waveguide-(electrical),,,0,1,0
+st61,LO,2,10/15/21,17:46:24,17:47:20,17,47,20,56.24,Move drawer: 95.4% open,Synchronizer,Receiver-Waveguide-(electrical),,,0,1,0
+st61,LO,2,10/15/21,17:46:24,17:47:23,17,47,23,58.84,Move drawer: 17.6% open,Synchronizer,Receiver-Waveguide-(electrical),,,0,1,0
+st61,LO,2,10/15/21,17:46:24,17:47:35,17,47,35,71.52,Move drawer: 96.7% open,Processor,Receiver-Waveguide-(electrical),,,0,1,0
+st61,LO,2,10/15/21,17:46:24,17:48:34,17,48,34,130.48,Submit?,,Receiver-Waveguide-(electrical),,,0,1,0
+st61,LO,2,10/15/21,17:46:24,17:48:36,17,48,36,131.71,Submit Confirm,,Receiver-Waveguide-(electrical),,,0,1,0
+st61,LO,2,10/15/21,17:46:24,17:48:36,17,48,36,131.73,Move drawer: 95.4% open,Processor,Receiver-Waveguide-(electrical),,,0,1,0
+st61,LO,3,10/15/21,17:48:37,17:48:37,17,48,37,0,Make electrical flaw: Stage 3 Modulator,,Stage-3-Modulator-(electrical),,,0,1,0
+st61,LO,3,10/15/21,17:48:37,17:48:37,17,48,37,0,Start (High Fidelity Sim),,Stage-3-Modulator-(electrical),,,0,1,0
+st61,LO,3,10/15/21,17:48:37,17:48:37,17,48,37,0.03,Leave Server Box Table,,Stage-3-Modulator-(electrical),,,0,1,0

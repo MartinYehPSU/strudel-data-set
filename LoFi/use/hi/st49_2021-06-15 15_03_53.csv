@@ -1,0 +1,185 @@
+subject,subject_group,round,round_start_date_utc,round_start_time_utc,current_time_utc,current_hour24,current_minute,current_second,current_elapsed_seconds,event,ui_tab,active_faults,fixed_faults,fixed_nonfaults,ReplacedComponents,FaultsRemaining,ReplacedNonFaults
+st49,LO,1,6/15/21,19:03:53,19:03:53,19,3,53,0.05,Make electrical flaw: Sweep Control Circuit,,Sweep-Control-Circuit-(electrical),,,0,1,0
+st49,LO,1,6/15/21,19:03:53,19:03:53,19,3,53,0.05,Start (High Fidelity Sim),,Sweep-Control-Circuit-(electrical),,,0,1,0
+st49,LO,1,6/15/21,19:03:53,19:04:29,19,4,29,36.73,Move to Server Box Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+st49,LO,1,6/15/21,19:03:53,19:04:34,19,4,34,41.21,Swing front panel: 6.8% open,,Sweep-Control-Circuit-(electrical),,,0,1,0
+st49,LO,1,6/15/21,19:03:53,19:04:36,19,4,36,43.47,Swing front panel: 0% open,,Sweep-Control-Circuit-(electrical),,,0,1,0
+st49,LO,1,6/15/21,19:03:53,19:04:37,19,4,37,44.45,Swing front panel: 0% open,,Sweep-Control-Circuit-(electrical),,,0,1,0
+st49,LO,1,6/15/21,19:03:53,19:04:41,19,4,41,48.16,Swing front panel: 0% open,,Sweep-Control-Circuit-(electrical),,,0,1,0
+st49,LO,1,6/15/21,19:03:53,19:04:49,19,4,49,55.88,Swing front panel: 0% open,,Sweep-Control-Circuit-(electrical),,,0,1,0
+st49,LO,1,6/15/21,19:03:53,19:04:56,19,4,56,63.57,Swing front panel: 83.7% open,,Sweep-Control-Circuit-(electrical),,,0,1,0
+st49,LO,1,6/15/21,19:03:53,19:04:59,19,4,59,66.22,Click on: 'Frequency Synthesizer',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st49,LO,1,6/15/21,19:03:53,19:05:01,19,5,1,68.37,Cancel disconnect: 'Frequency Synthesizer',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st49,LO,1,6/15/21,19:03:53,19:05:01,19,5,1,68.39,Swing front panel: 100% open,,Sweep-Control-Circuit-(electrical),,,0,1,0
+st49,LO,1,6/15/21,19:03:53,19:05:08,19,5,8,75.28,Move drawer: 0.5% open,Synchronizer,Sweep-Control-Circuit-(electrical),,,0,1,0
+st49,LO,1,6/15/21,19:03:53,19:05:19,19,5,19,86.05,Move drawer: 0% open,Indicator,Sweep-Control-Circuit-(electrical),,,0,1,0
+st49,LO,1,6/15/21,19:03:53,19:05:22,19,5,22,89.15,Move drawer: 72.7% open,Indicator,Sweep-Control-Circuit-(electrical),,,0,1,0
+st49,LO,1,6/15/21,19:03:53,19:05:54,19,5,54,121.23,Move drawer: 0% open,Tracker,Sweep-Control-Circuit-(electrical),,,0,1,0
+st49,LO,1,6/15/21,19:03:53,19:06:39,19,6,39,166.18,Move drawer: 95.4% open,Processor,Sweep-Control-Circuit-(electrical),,,0,1,0
+st49,LO,1,6/15/21,19:03:53,19:06:47,19,6,47,174.02,Move drawer: 0% open,Processor,Sweep-Control-Circuit-(electrical),,,0,1,0
+st49,LO,1,6/15/21,19:03:53,19:08:16,19,8,16,263.77,Click on: 'Sweep Control Circuit',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st49,LO,1,6/15/21,19:03:53,19:08:19,19,8,19,266.29,Disconnect LRU: 'Sweep Control Circuit',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st49,LO,1,6/15/21,19:03:53,19:08:22,19,8,22,269.46,Leave Server Box Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+st49,LO,1,6/15/21,19:03:53,19:08:23,19,8,23,270.64,Move to Spare Parts Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+st49,LO,1,6/15/21,19:03:53,19:08:34,19,8,34,281.03,Leave Spare Parts Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+st49,LO,1,6/15/21,19:03:53,19:08:35,19,8,35,281.83,Move to Spare Parts Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+st49,LO,1,6/15/21,19:03:53,19:08:56,19,8,56,303.46,Pick Up LRU: 'Sweep Control Circuit [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st49,LO,1,6/15/21,19:03:53,19:09:01,19,9,1,308.45,Leave Spare Parts Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+st49,LO,1,6/15/21,19:03:53,19:09:03,19,9,3,310.09,Move to Server Box Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+st49,LO,1,6/15/21,19:03:53,19:09:05,19,9,5,312.02,Drop LRU: 'Sweep Control Circuit [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st49,LO,1,6/15/21,19:03:53,19:09:08,19,9,8,314.86,Pick Up LRU: 'Sweep Control Circuit',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st49,LO,1,6/15/21,19:03:53,19:09:10,19,9,10,316.82,Drop LRU: 'Sweep Control Circuit',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st49,LO,1,6/15/21,19:03:53,19:09:11,19,9,11,317.86,Pick Up LRU: 'Sweep Control Circuit [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st49,LO,1,6/15/21,19:03:53,19:09:12,19,9,12,319.44,Drop LRU: 'Sweep Control Circuit [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st49,LO,1,6/15/21,19:03:53,19:09:13,19,9,13,320.13,Pick Up LRU: 'Sweep Control Circuit [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st49,LO,1,6/15/21,19:03:53,19:09:15,19,9,15,322.21,Drop LRU: 'Sweep Control Circuit [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st49,LO,1,6/15/21,19:03:53,19:09:16,19,9,16,322.93,Pick Up LRU: 'Sweep Control Circuit [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st49,LO,1,6/15/21,19:03:53,19:09:19,19,9,19,325.9,Drop LRU: 'Sweep Control Circuit [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st49,LO,1,6/15/21,19:03:53,19:09:19,19,9,19,326.63,Connect LRU: 'Sweep Control Circuit [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st49,LO,1,6/15/21,19:03:53,19:09:20,19,9,20,327.76,Fixed Sweep Control Circuit (electrical),,,Sweep-Control-Circuit-(electrical),,1,0,0
+st49,LO,1,6/15/21,19:03:53,19:09:20,19,9,20,327.77,Move drawer: 72.7% open,Indicator,,Sweep-Control-Circuit-(electrical),,1,0,0
+st49,LO,1,6/15/21,19:03:53,19:09:33,19,9,33,340.69,Move drawer: 0% open,Transmitter,,Sweep-Control-Circuit-(electrical),,1,0,0
+st49,LO,1,6/15/21,19:03:53,19:09:41,19,9,41,348.28,Submit?,,,Sweep-Control-Circuit-(electrical),,1,0,0
+st49,LO,1,6/15/21,19:03:53,19:09:43,19,9,43,349.9,Submit Confirm,,,Sweep-Control-Circuit-(electrical),,1,0,0
+st49,LO,2,6/15/21,19:09:44,19:09:44,19,9,44,0,Make electrical flaw: AFC Mixer,,AFC-Mixer-(electrical),,,0,1,0
+st49,LO,2,6/15/21,19:09:44,19:09:44,19,9,44,0,Start (High Fidelity Sim),,AFC-Mixer-(electrical),,,0,1,0
+st49,LO,2,6/15/21,19:09:44,19:09:44,19,9,44,0.03,Leave Server Box Table,,AFC-Mixer-(electrical),,,0,1,0
+st49,LO,2,6/15/21,19:09:44,19:09:50,19,9,50,5.65,Move to Server Box Table,,AFC-Mixer-(electrical),,,0,1,0
+st49,LO,2,6/15/21,19:09:44,19:09:54,19,9,54,9.8,Swing front panel: 32% open,,AFC-Mixer-(electrical),,,0,1,0
+st49,LO,2,6/15/21,19:09:44,19:11:16,19,11,16,91.53,Move drawer: 6.2% open,Indicator,AFC-Mixer-(electrical),,,0,1,0
+st49,LO,2,6/15/21,19:09:44,19:11:18,19,11,18,94.33,Move drawer: 88.1% open,Processor,AFC-Mixer-(electrical),,,0,1,0
+st49,LO,2,6/15/21,19:09:44,19:11:53,19,11,53,128.94,Click on: 'AFC Mixer',,AFC-Mixer-(electrical),,,0,1,0
+st49,LO,2,6/15/21,19:09:44,19:12:03,19,12,3,138.52,Disconnect LRU: 'AFC Mixer',,AFC-Mixer-(electrical),,,0,1,0
+st49,LO,2,6/15/21,19:09:44,19:12:03,19,12,3,138.53,Move drawer: 0% open,Tracker,AFC-Mixer-(electrical),,,0,1,0
+st49,LO,2,6/15/21,19:09:44,19:12:04,19,12,4,139.48,Pick Up LRU: 'AFC Mixer',,AFC-Mixer-(electrical),,,0,1,0
+st49,LO,2,6/15/21,19:09:44,19:12:06,19,12,6,141.87,Drop LRU: 'AFC Mixer',,AFC-Mixer-(electrical),,,0,1,0
+st49,LO,2,6/15/21,19:09:44,19:12:13,19,12,13,149.09,Pick Up LRU: 'AFC Mixer',,AFC-Mixer-(electrical),,,0,1,0
+st49,LO,2,6/15/21,19:09:44,19:12:14,19,12,14,150.27,Drop LRU: 'AFC Mixer',,AFC-Mixer-(electrical),,,0,1,0
+st49,LO,2,6/15/21,19:09:44,19:12:15,19,12,15,151.46,Pick Up LRU: 'AFC Mixer',,AFC-Mixer-(electrical),,,0,1,0
+st49,LO,2,6/15/21,19:09:44,19:12:21,19,12,21,156.8,Drop LRU: 'AFC Mixer',,AFC-Mixer-(electrical),,,0,1,0
+st49,LO,2,6/15/21,19:09:44,19:12:23,19,12,23,158.65,Pick Up LRU: 'AFC Mixer',,AFC-Mixer-(electrical),,,0,1,0
+st49,LO,2,6/15/21,19:09:44,19:12:27,19,12,27,163.2,Drop LRU: 'AFC Mixer',,AFC-Mixer-(electrical),,,0,1,0
+st49,LO,2,6/15/21,19:09:44,19:12:31,19,12,31,166.55,Leave Server Box Table,,AFC-Mixer-(electrical),,,0,1,0
+st49,LO,2,6/15/21,19:09:44,19:12:32,19,12,32,167.94,Move to Spare Parts Table,,AFC-Mixer-(electrical),,,0,1,0
+st49,LO,2,6/15/21,19:09:44,19:12:35,19,12,35,170.67,Leave Spare Parts Table,,AFC-Mixer-(electrical),,,0,1,0
+st49,LO,2,6/15/21,19:09:44,19:12:37,19,12,37,173.32,Move to Server Box Table,,AFC-Mixer-(electrical),,,0,1,0
+st49,LO,2,6/15/21,19:09:44,19:12:43,19,12,43,179.41,Leave Server Box Table,,AFC-Mixer-(electrical),,,0,1,0
+st49,LO,2,6/15/21,19:09:44,19:12:44,19,12,44,180.01,Move to Spare Parts Table,,AFC-Mixer-(electrical),,,0,1,0
+st49,LO,2,6/15/21,19:09:44,19:12:59,19,12,59,194.51,Pick Up LRU: 'AFC Mixer [SPARE]',,AFC-Mixer-(electrical),,,0,1,0
+st49,LO,2,6/15/21,19:09:44,19:13:02,19,13,2,197.64,Leave Spare Parts Table,,AFC-Mixer-(electrical),,,0,1,0
+st49,LO,2,6/15/21,19:09:44,19:13:06,19,13,6,201.73,Drop LRU: 'AFC Mixer [SPARE]',,AFC-Mixer-(electrical),,,0,1,0
+st49,LO,2,6/15/21,19:09:44,19:13:08,19,13,8,203.93,Move to Server Box Table,,AFC-Mixer-(electrical),,,0,1,0
+st49,LO,2,6/15/21,19:09:44,19:13:10,19,13,10,206.45,Pick Up LRU: 'AFC Mixer [SPARE]',,AFC-Mixer-(electrical),,,0,1,0
+st49,LO,2,6/15/21,19:09:44,19:13:13,19,13,13,209.17,Drop LRU: 'AFC Mixer [SPARE]',,AFC-Mixer-(electrical),,,0,1,0
+st49,LO,2,6/15/21,19:09:44,19:13:14,19,13,14,210,Pick Up LRU: 'AFC Mixer [SPARE]',,AFC-Mixer-(electrical),,,0,1,0
+st49,LO,2,6/15/21,19:09:44,19:13:16,19,13,16,211.85,Drop LRU: 'AFC Mixer [SPARE]',,AFC-Mixer-(electrical),,,0,1,0
+st49,LO,2,6/15/21,19:09:44,19:13:17,19,13,17,212.65,Pick Up LRU: 'AFC Mixer [SPARE]',,AFC-Mixer-(electrical),,,0,1,0
+st49,LO,2,6/15/21,19:09:44,19:13:18,19,13,18,213.62,Drop LRU: 'AFC Mixer [SPARE]',,AFC-Mixer-(electrical),,,0,1,0
+st49,LO,2,6/15/21,19:09:44,19:13:20,19,13,20,215.49,Leave Server Box Table,,AFC-Mixer-(electrical),,,0,1,0
+st49,LO,2,6/15/21,19:09:44,19:13:21,19,13,21,216.76,Move to Server Box Table,,AFC-Mixer-(electrical),,,0,1,0
+st49,LO,2,6/15/21,19:09:44,19:13:22,19,13,22,217.92,Pick Up LRU: 'AFC Mixer [SPARE]',,AFC-Mixer-(electrical),,,0,1,0
+st49,LO,2,6/15/21,19:09:44,19:13:28,19,13,28,223.83,Drop LRU: 'AFC Mixer [SPARE]',,AFC-Mixer-(electrical),,,0,1,0
+st49,LO,2,6/15/21,19:09:44,19:13:29,19,13,29,224.63,Pick Up LRU: 'AFC Mixer [SPARE]',,AFC-Mixer-(electrical),,,0,1,0
+st49,LO,2,6/15/21,19:09:44,19:13:30,19,13,30,225.61,Drop LRU: 'AFC Mixer [SPARE]',,AFC-Mixer-(electrical),,,0,1,0
+st49,LO,2,6/15/21,19:09:44,19:13:30,19,13,30,226.28,Pick Up LRU: 'AFC Mixer [SPARE]',,AFC-Mixer-(electrical),,,0,1,0
+st49,LO,2,6/15/21,19:09:44,19:13:32,19,13,32,228,Drop LRU: 'AFC Mixer [SPARE]',,AFC-Mixer-(electrical),,,0,1,0
+st49,LO,2,6/15/21,19:09:44,19:13:33,19,13,33,228.65,Pick Up LRU: 'AFC Mixer [SPARE]',,AFC-Mixer-(electrical),,,0,1,0
+st49,LO,2,6/15/21,19:09:44,19:13:34,19,13,34,229.85,Drop LRU: 'AFC Mixer [SPARE]',,AFC-Mixer-(electrical),,,0,1,0
+st49,LO,2,6/15/21,19:09:44,19:13:34,19,13,34,230.33,Pick Up LRU: 'AFC Mixer [SPARE]',,AFC-Mixer-(electrical),,,0,1,0
+st49,LO,2,6/15/21,19:09:44,19:13:36,19,13,36,231.72,Drop LRU: 'AFC Mixer [SPARE]',,AFC-Mixer-(electrical),,,0,1,0
+st49,LO,2,6/15/21,19:09:44,19:13:37,19,13,37,233.29,Pick Up LRU: 'AFC Mixer [SPARE]',,AFC-Mixer-(electrical),,,0,1,0
+st49,LO,2,6/15/21,19:09:44,19:13:40,19,13,40,235.79,Drop LRU: 'AFC Mixer [SPARE]',,AFC-Mixer-(electrical),,,0,1,0
+st49,LO,2,6/15/21,19:09:44,19:13:40,19,13,40,236.35,Pick Up LRU: 'AFC Mixer [SPARE]',,AFC-Mixer-(electrical),,,0,1,0
+st49,LO,2,6/15/21,19:09:44,19:13:43,19,13,43,239.32,Drop LRU: 'AFC Mixer [SPARE]',,AFC-Mixer-(electrical),,,0,1,0
+st49,LO,2,6/15/21,19:09:44,19:13:46,19,13,46,241.96,Pick Up LRU: 'AFC Mixer [SPARE]',,AFC-Mixer-(electrical),,,0,1,0
+st49,LO,2,6/15/21,19:09:44,19:13:48,19,13,48,243.68,Drop LRU: 'AFC Mixer [SPARE]',,AFC-Mixer-(electrical),,,0,1,0
+st49,LO,2,6/15/21,19:09:44,19:13:49,19,13,49,245.36,Pick Up LRU: 'AFC Mixer [SPARE]',,AFC-Mixer-(electrical),,,0,1,0
+st49,LO,2,6/15/21,19:09:44,19:13:51,19,13,51,247.43,Drop LRU: 'AFC Mixer [SPARE]',,AFC-Mixer-(electrical),,,0,1,0
+st49,LO,2,6/15/21,19:09:44,19:13:53,19,13,53,248.96,Pick Up LRU: 'AFC Mixer [SPARE]',,AFC-Mixer-(electrical),,,0,1,0
+st49,LO,2,6/15/21,19:09:44,19:13:54,19,13,54,249.96,Drop LRU: 'AFC Mixer [SPARE]',,AFC-Mixer-(electrical),,,0,1,0
+st49,LO,2,6/15/21,19:09:44,19:13:56,19,13,56,252.33,Pick Up LRU: 'AFC Mixer [SPARE]',,AFC-Mixer-(electrical),,,0,1,0
+st49,LO,2,6/15/21,19:09:44,19:14:01,19,14,1,256.79,Drop LRU: 'AFC Mixer [SPARE]',,AFC-Mixer-(electrical),,,0,1,0
+st49,LO,2,6/15/21,19:09:44,19:14:02,19,14,2,258.12,Pick Up LRU: 'AFC Mixer [SPARE]',,AFC-Mixer-(electrical),,,0,1,0
+st49,LO,2,6/15/21,19:09:44,19:14:09,19,14,9,265.44,Drop LRU: 'AFC Mixer [SPARE]',,AFC-Mixer-(electrical),,,0,1,0
+st49,LO,2,6/15/21,19:09:44,19:14:10,19,14,10,266.29,Pick Up LRU: 'AFC Mixer [SPARE]',,AFC-Mixer-(electrical),,,0,1,0
+st49,LO,2,6/15/21,19:09:44,19:14:11,19,14,11,267.01,Drop LRU: 'AFC Mixer [SPARE]',,AFC-Mixer-(electrical),,,0,1,0
+st49,LO,2,6/15/21,19:09:44,19:14:12,19,14,12,268.18,Pick Up LRU: 'AFC Mixer [SPARE]',,AFC-Mixer-(electrical),,,0,1,0
+st49,LO,2,6/15/21,19:09:44,19:14:15,19,14,15,271.11,Drop LRU: 'AFC Mixer [SPARE]',,AFC-Mixer-(electrical),,,0,1,0
+st49,LO,2,6/15/21,19:09:44,19:14:19,19,14,19,275.1,Pick Up LRU: 'AFC Mixer [SPARE]',,AFC-Mixer-(electrical),,,0,1,0
+st49,LO,2,6/15/21,19:09:44,19:14:26,19,14,26,282.17,Drop LRU: 'AFC Mixer [SPARE]',,AFC-Mixer-(electrical),,,0,1,0
+st49,LO,2,6/15/21,19:09:44,19:14:27,19,14,27,282.74,Pick Up LRU: 'AFC Mixer [SPARE]',,AFC-Mixer-(electrical),,,0,1,0
+st49,LO,2,6/15/21,19:09:44,19:14:28,19,14,28,283.81,Drop LRU: 'AFC Mixer [SPARE]',,AFC-Mixer-(electrical),,,0,1,0
+st49,LO,2,6/15/21,19:09:44,19:14:29,19,14,29,285.21,Pick Up LRU: 'AFC Mixer [SPARE]',,AFC-Mixer-(electrical),,,0,1,0
+st49,LO,2,6/15/21,19:09:44,19:14:31,19,14,31,286.63,Drop LRU: 'AFC Mixer [SPARE]',,AFC-Mixer-(electrical),,,0,1,0
+st49,LO,2,6/15/21,19:09:44,19:14:32,19,14,32,287.51,Pick Up LRU: 'AFC Mixer [SPARE]',,AFC-Mixer-(electrical),,,0,1,0
+st49,LO,2,6/15/21,19:09:44,19:14:33,19,14,33,288.63,Drop LRU: 'AFC Mixer [SPARE]',,AFC-Mixer-(electrical),,,0,1,0
+st49,LO,2,6/15/21,19:09:44,19:14:33,19,14,33,289.33,Pick Up LRU: 'AFC Mixer [SPARE]',,AFC-Mixer-(electrical),,,0,1,0
+st49,LO,2,6/15/21,19:09:44,19:14:34,19,14,34,290.25,Drop LRU: 'AFC Mixer [SPARE]',,AFC-Mixer-(electrical),,,0,1,0
+st49,LO,2,6/15/21,19:09:44,19:14:35,19,14,35,290.74,Pick Up LRU: 'AFC Mixer [SPARE]',,AFC-Mixer-(electrical),,,0,1,0
+st49,LO,2,6/15/21,19:09:44,19:14:36,19,14,36,291.61,Drop LRU: 'AFC Mixer [SPARE]',,AFC-Mixer-(electrical),,,0,1,0
+st49,LO,2,6/15/21,19:09:44,19:14:36,19,14,36,292.15,Pick Up LRU: 'AFC Mixer [SPARE]',,AFC-Mixer-(electrical),,,0,1,0
+st49,LO,2,6/15/21,19:09:44,19:14:39,19,14,39,294.96,Drop LRU: 'AFC Mixer [SPARE]',,AFC-Mixer-(electrical),,,0,1,0
+st49,LO,2,6/15/21,19:09:44,19:14:40,19,14,40,295.55,Pick Up LRU: 'AFC Mixer [SPARE]',,AFC-Mixer-(electrical),,,0,1,0
+st49,LO,2,6/15/21,19:09:44,19:14:41,19,14,41,297.27,Drop LRU: 'AFC Mixer [SPARE]',,AFC-Mixer-(electrical),,,0,1,0
+st49,LO,2,6/15/21,19:09:44,19:14:42,19,14,42,298.35,Pick Up LRU: 'AFC Mixer [SPARE]',,AFC-Mixer-(electrical),,,0,1,0
+st49,LO,2,6/15/21,19:09:44,19:14:44,19,14,44,299.69,Drop LRU: 'AFC Mixer [SPARE]',,AFC-Mixer-(electrical),,,0,1,0
+st49,LO,2,6/15/21,19:09:44,19:14:45,19,14,45,300.97,Pick Up LRU: 'AFC Mixer [SPARE]',,AFC-Mixer-(electrical),,,0,1,0
+st49,LO,2,6/15/21,19:09:44,19:14:47,19,14,47,303.06,Drop LRU: 'AFC Mixer [SPARE]',,AFC-Mixer-(electrical),,,0,1,0
+st49,LO,2,6/15/21,19:09:44,19:14:47,19,14,47,303.35,Pick Up LRU: 'AFC Mixer [SPARE]',,AFC-Mixer-(electrical),,,0,1,0
+st49,LO,2,6/15/21,19:09:44,19:14:50,19,14,50,305.54,Drop LRU: 'AFC Mixer [SPARE]',,AFC-Mixer-(electrical),,,0,1,0
+st49,LO,2,6/15/21,19:09:44,19:14:50,19,14,50,305.97,Pick Up LRU: 'AFC Mixer [SPARE]',,AFC-Mixer-(electrical),,,0,1,0
+st49,LO,2,6/15/21,19:09:44,19:14:54,19,14,54,310.09,Drop LRU: 'AFC Mixer [SPARE]',,AFC-Mixer-(electrical),,,0,1,0
+st49,LO,2,6/15/21,19:09:44,19:14:57,19,14,57,313.2,Pick Up LRU: 'AFC Mixer',,AFC-Mixer-(electrical),,,0,1,0
+st49,LO,2,6/15/21,19:09:44,19:14:58,19,14,58,314.43,Drop LRU: 'AFC Mixer',,AFC-Mixer-(electrical),,,0,1,0
+st49,LO,2,6/15/21,19:09:44,19:15:04,19,15,4,319.58,Leave Server Box Table,,AFC-Mixer-(electrical),,,0,1,0
+st49,LO,2,6/15/21,19:09:44,19:15:07,19,15,7,322.59,Move to Server Box Table,,AFC-Mixer-(electrical),,,0,1,0
+st49,LO,2,6/15/21,19:09:44,19:15:09,19,15,9,325.09,Pick Up LRU: 'AFC Mixer',,AFC-Mixer-(electrical),,,0,1,0
+st49,LO,2,6/15/21,19:09:44,19:15:11,19,15,11,327.12,Drop LRU: 'AFC Mixer',,AFC-Mixer-(electrical),,,0,1,0
+st49,LO,2,6/15/21,19:09:44,19:15:12,19,15,12,327.89,Pick Up LRU: 'AFC Mixer',,AFC-Mixer-(electrical),,,0,1,0
+st49,LO,2,6/15/21,19:09:44,19:15:13,19,15,13,329.09,Drop LRU: 'AFC Mixer',,AFC-Mixer-(electrical),,,0,1,0
+st49,LO,2,6/15/21,19:09:44,19:15:16,19,15,16,332.23,Pick Up LRU: 'AFC Mixer',,AFC-Mixer-(electrical),,,0,1,0
+st49,LO,2,6/15/21,19:09:44,19:15:19,19,15,19,335.4,Drop LRU: 'AFC Mixer',,AFC-Mixer-(electrical),,,0,1,0
+st49,LO,2,6/15/21,19:09:44,19:15:22,19,15,22,337.81,Pick Up LRU: 'AFC Mixer',,AFC-Mixer-(electrical),,,0,1,0
+st49,LO,2,6/15/21,19:09:44,19:15:24,19,15,24,340.2,Drop LRU: 'AFC Mixer',,AFC-Mixer-(electrical),,,0,1,0
+st49,LO,2,6/15/21,19:09:44,19:15:25,19,15,25,341.08,Pick Up LRU: 'AFC Mixer',,AFC-Mixer-(electrical),,,0,1,0
+st49,LO,2,6/15/21,19:09:44,19:15:26,19,15,26,342.27,Drop LRU: 'AFC Mixer',,AFC-Mixer-(electrical),,,0,1,0
+st49,LO,2,6/15/21,19:09:44,19:15:41,19,15,41,356.56,Pick Up LRU: 'AFC Mixer',,AFC-Mixer-(electrical),,,0,1,0
+st49,LO,2,6/15/21,19:09:44,19:15:56,19,15,56,372.19,Drop LRU: 'AFC Mixer',,AFC-Mixer-(electrical),,,0,1,0
+st49,LO,2,6/15/21,19:09:44,19:15:57,19,15,57,372.98,Connect LRU: 'AFC Mixer',,AFC-Mixer-(electrical),,,0,1,0
+st49,LO,2,6/15/21,19:09:44,19:16:17,19,16,17,393.27,Move drawer: 97.8% open,Transmitter,AFC-Mixer-(electrical),,,0,1,0
+st49,LO,2,6/15/21,19:09:44,19:16:28,19,16,28,404.13,Swing front panel: 99.2% open,,AFC-Mixer-(electrical),,,0,1,0
+st49,LO,2,6/15/21,19:09:44,19:16:32,19,16,32,407.9,Move drawer: 98% open,Transmitter,AFC-Mixer-(electrical),,,0,1,0
+st49,LO,2,6/15/21,19:09:44,19:16:39,19,16,39,415.47,Move drawer: -3.6% open,Transmitter,AFC-Mixer-(electrical),,,0,1,0
+st49,LO,2,6/15/21,19:09:44,19:16:45,19,16,45,420.56,Move drawer: 97.8% open,Tracker,AFC-Mixer-(electrical),,,0,1,0
+st49,LO,2,6/15/21,19:09:44,19:16:54,19,16,54,430.44,Move drawer: -2.4% open,Tracker,AFC-Mixer-(electrical),,,0,1,0
+st49,LO,2,6/15/21,19:09:44,19:16:57,19,16,57,432.55,Move drawer: 98.7% open,Synchronizer,AFC-Mixer-(electrical),,,0,1,0
+st49,LO,2,6/15/21,19:09:44,19:17:01,19,17,1,436.94,Move drawer: -3.6% open,Synchronizer,AFC-Mixer-(electrical),,,0,1,0
+st49,LO,2,6/15/21,19:09:44,19:17:23,19,17,23,459.14,Move drawer: 92.3% open,Processor,AFC-Mixer-(electrical),,,0,1,0
+st49,LO,2,6/15/21,19:09:44,19:17:25,19,17,25,460.52,Move drawer: 92.3% open,Processor,AFC-Mixer-(electrical),,,0,1,0
+st49,LO,2,6/15/21,19:09:44,19:17:25,19,17,25,461.31,Click on: 'AFC Mixer',,AFC-Mixer-(electrical),,,0,1,0
+st49,LO,2,6/15/21,19:09:44,19:17:26,19,17,26,462.43,Cancel disconnect: 'AFC Mixer',,AFC-Mixer-(electrical),,,0,1,0
+st49,LO,2,6/15/21,19:09:44,19:17:26,19,17,26,462.44,Move drawer: 92.3% open,Processor,AFC-Mixer-(electrical),,,0,1,0
+st49,LO,2,6/15/21,19:09:44,19:18:24,19,18,24,520.1,Move drawer: 87.1% open,Processor,AFC-Mixer-(electrical),,,0,1,0
+st49,LO,2,6/15/21,19:09:44,19:18:26,19,18,26,522.09,Move drawer: -3.2% open,Processor,AFC-Mixer-(electrical),,,0,1,0
+st49,LO,2,6/15/21,19:09:44,19:18:29,19,18,29,525.06,Move drawer: 97.5% open,Tracker,AFC-Mixer-(electrical),,,0,1,0
+st49,LO,2,6/15/21,19:09:44,19:18:34,19,18,34,530.46,Click on: 'Duplexer Bypass',,AFC-Mixer-(electrical),,,0,1,0
+st49,LO,2,6/15/21,19:09:44,19:18:36,19,18,36,531.5,Disconnect LRU: 'Duplexer Bypass',,AFC-Mixer-(electrical),,,0,1,0
+st49,LO,2,6/15/21,19:09:44,19:18:36,19,18,36,532.4,Pick Up LRU: 'Duplexer Bypass',,AFC-Mixer-(electrical),,,0,1,0
+st49,LO,2,6/15/21,19:09:44,19:18:41,19,18,41,537.35,Drop LRU: 'Duplexer Bypass',,AFC-Mixer-(electrical),,,0,1,0
+st49,LO,2,6/15/21,19:09:44,19:18:46,19,18,46,542.4,Pick Up LRU: 'Duplexer Bypass',,AFC-Mixer-(electrical),,,0,1,0
+st49,LO,2,6/15/21,19:09:44,19:18:58,19,18,58,554.21,Drop LRU: 'Duplexer Bypass',,AFC-Mixer-(electrical),,,0,1,0
+st49,LO,2,6/15/21,19:09:44,19:18:58,19,18,58,554.3,Leave Server Box Table,,AFC-Mixer-(electrical),,,0,1,0
+st49,LO,2,6/15/21,19:09:44,19:19:01,19,19,1,557.18,Move to Spare Parts Table,,AFC-Mixer-(electrical),,,0,1,0
+st49,LO,2,6/15/21,19:09:44,19:19:12,19,19,12,567.92,Pick Up LRU: 'Duplexer Bypass [SPARE]',,AFC-Mixer-(electrical),,,0,1,0
+st49,LO,2,6/15/21,19:09:44,19:19:17,19,19,17,573.28,Leave Spare Parts Table,,AFC-Mixer-(electrical),,,0,1,0
+st49,LO,2,6/15/21,19:09:44,19:19:19,19,19,19,574.76,Drop LRU: 'Duplexer Bypass [SPARE]',,AFC-Mixer-(electrical),,,0,1,0
+st49,LO,2,6/15/21,19:09:44,19:19:21,19,19,21,577.25,Pick Up LRU: 'Duplexer Bypass [SPARE]',,AFC-Mixer-(electrical),,,0,1,0
+st49,LO,2,6/15/21,19:09:44,19:19:25,19,19,25,580.68,Move to Server Box Table,,AFC-Mixer-(electrical),,,0,1,0
+st49,LO,2,6/15/21,19:09:44,19:19:34,19,19,34,589.54,Drop LRU: 'Duplexer Bypass [SPARE]',,AFC-Mixer-(electrical),,,0,1,0
+st49,LO,2,6/15/21,19:09:44,19:19:34,19,19,34,590.14,Connect LRU: 'Duplexer Bypass [SPARE]',,AFC-Mixer-(electrical),,,0,1,0
+st49,LO,2,6/15/21,19:09:44,19:19:35,19,19,35,591.14,Replaced unnecessarily Duplexer Bypass (electrical),,AFC-Mixer-(electrical),,Duplexer-Bypass-(electrical),1,1,1
+st49,LO,2,6/15/21,19:09:44,19:19:39,19,19,39,595.03,Submit?,,AFC-Mixer-(electrical),,Duplexer-Bypass-(electrical),1,1,1
+st49,LO,2,6/15/21,19:09:44,19:19:40,19,19,40,596.4,Submit Confirm,,AFC-Mixer-(electrical),,Duplexer-Bypass-(electrical),1,1,1
+st49,LO,3,6/15/21,19:19:42,19:19:42,19,19,42,0,Make electrical flaw: RF Amplifier 2,,RF-Amplifier-2-(electrical),,,0,1,0
+st49,LO,3,6/15/21,19:19:42,19:19:42,19,19,42,0,Start (High Fidelity Sim),,RF-Amplifier-2-(electrical),,,0,1,0
+st49,LO,3,6/15/21,19:19:42,19:19:42,19,19,42,0.03,Leave Server Box Table,,RF-Amplifier-2-(electrical),,,0,1,0

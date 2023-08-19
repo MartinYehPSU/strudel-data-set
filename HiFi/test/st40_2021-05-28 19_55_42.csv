@@ -1,0 +1,233 @@
+subject,subject_group,round,round_start_date_utc,round_start_time_utc,current_time_utc,current_hour24,current_minute,current_second,current_elapsed_seconds,event,ui_tab,active_faults,fixed_faults,fixed_nonfaults,ReplacedComponents,FaultsRemaining,ReplacedNonFaults
+st40,HI,1,5/28/21,23:55:42,23:55:42,23,55,42,0.08,Make electrical flaw: Local Oscillator,,Local-Oscillator-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:55:42,23:55:42,23,55,42,0.09,Start (High Fidelity Sim),,Local-Oscillator-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:55:42,23:57:52,23,57,52,130.72,Swing front panel: 0% open,,Local-Oscillator-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:55:42,23:57:58,23,57,58,135.87,Move to Server Box Table,,Local-Oscillator-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:55:42,23:58:07,23,58,7,145.39,Swing front panel: 55.4% open,,Local-Oscillator-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:55:42,23:58:11,23,58,11,149.11,Move drawer: 98.9% open,Synchronizer,Local-Oscillator-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:55:42,23:58:36,23,58,36,174.2,Click on: 'RF Amplifier 3',,Local-Oscillator-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:55:42,23:58:42,23,58,42,180.76,Disconnect LRU: 'RF Amplifier 3',,Local-Oscillator-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:55:42,23:58:47,23,58,47,185.03,Move drawer: 0% open,Transmitter,Local-Oscillator-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:55:42,23:58:48,23,58,48,186,Click on: 'Stage 3 Modulator',,Local-Oscillator-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:55:42,23:58:49,23,58,49,187.4,Disconnect LRU: 'Stage 3 Modulator',,Local-Oscillator-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:55:42,23:58:56,23,58,56,194.09,Move drawer: -15% open,Synchronizer,Local-Oscillator-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:55:42,23:58:59,23,58,59,197.58,Move drawer: 98.2% open,Transmitter,Local-Oscillator-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:55:42,23:59:03,23,59,3,201.56,Click on: 'RF Amplifier 2',,Local-Oscillator-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:55:42,23:59:05,23,59,5,203.48,Disconnect LRU: 'RF Amplifier 2',,Local-Oscillator-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:55:42,23:59:08,23,59,8,206.47,Click on: 'Stage 2 Modulator',,Local-Oscillator-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:55:42,23:59:10,23,59,10,208.49,Disconnect LRU: 'Stage 2 Modulator',,Local-Oscillator-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:55:42,23:59:12,23,59,12,210.28,Click on: 'Stage 1 Modulator',,Local-Oscillator-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:55:42,23:59:14,23,59,14,212.58,Cancel disconnect: 'Stage 1 Modulator',,Local-Oscillator-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:55:42,23:59:19,23,59,19,217.36,Move drawer: -8.6% open,Transmitter,Local-Oscillator-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:55:42,23:59:21,23,59,21,218.92,Move drawer: 0% open,Tracker,Local-Oscillator-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:55:42,23:59:22,23,59,22,220.16,Move drawer: 60% open,Tracker,Local-Oscillator-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:55:42,23:59:34,23,59,34,232.49,Click on: 'Receiver Transmission Line',,Local-Oscillator-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:55:42,23:59:36,23,59,36,234.81,Cancel disconnect: 'Receiver Transmission Line',,Local-Oscillator-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:55:42,23:59:41,23,59,41,239.46,Click on: 'Duplexer Bypass',,Local-Oscillator-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:55:42,23:59:47,23,59,47,244.89,Cancel disconnect: 'Duplexer Bypass',,Local-Oscillator-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:55:42,0:00:17,0,0,17,275.47,Click on: 'Transmitter Antenna',,Local-Oscillator-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:55:42,0:00:24,0,0,24,282.42,Cancel disconnect: 'Transmitter Antenna',,Local-Oscillator-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:55:42,0:00:26,0,0,26,284.1,Click on: 'Transmitter Antenna',,Local-Oscillator-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:55:42,0:00:36,0,0,36,294.37,Cancel disconnect: 'Transmitter Antenna',,Local-Oscillator-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:55:42,0:00:38,0,0,38,296.54,Click on: 'Transmitter Transmission Line',,Local-Oscillator-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:55:42,0:00:45,0,0,45,303.37,Cancel disconnect: 'Transmitter Transmission Line',,Local-Oscillator-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:55:42,0:00:47,0,0,47,305.27,Click on: 'Receiver Antenna',,Local-Oscillator-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:55:42,0:00:55,0,0,55,312.9,Disconnect LRU: 'Receiver Antenna',,Local-Oscillator-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:55:42,0:01:01,0,1,1,319,Pick Up LRU: 'Receiver Antenna',,Local-Oscillator-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:55:42,0:01:01,0,1,1,319.24,Drop LRU: 'Receiver Antenna',,Local-Oscillator-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:55:42,0:01:03,0,1,3,321.82,Connect LRU: 'Receiver Antenna',,Local-Oscillator-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:55:42,0:01:08,0,1,8,326.32,Move drawer: 0% open,Tracker,Local-Oscillator-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:55:42,0:01:11,0,1,11,329.42,Move drawer: 20.4% open,Processor,Local-Oscillator-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:55:42,0:01:18,0,1,18,335.88,Move drawer: 95.4% open,Processor,Local-Oscillator-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:55:42,0:01:24,0,1,24,342.33,Move drawer: 95.4% open,Processor,Local-Oscillator-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:55:42,0:01:26,0,1,26,344.2,Click on: 'Local Oscillator',,Local-Oscillator-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:55:42,0:01:46,0,1,46,364.78,Move drawer: 0% open,Synchronizer,Local-Oscillator-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:55:42,0:01:48,0,1,48,366.08,Cancel disconnect: 'Local Oscillator',,Local-Oscillator-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:55:42,0:01:54,0,1,54,372.68,Click on: 'Video Amplifier',,Local-Oscillator-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:55:42,0:02:21,0,2,21,399.54,Disconnect LRU: 'Video Amplifier',,Local-Oscillator-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:55:42,0:02:21,0,2,21,399.56,Move drawer: 0% open,Synchronizer,Local-Oscillator-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:55:42,0:02:29,0,2,29,407,Connect LRU: 'Video Amplifier',,Local-Oscillator-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:55:42,0:02:34,0,2,34,412.17,Click on: 'Video Amplifier',,Local-Oscillator-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:55:42,0:02:35,0,2,35,413.6,Disconnect LRU: 'Video Amplifier',,Local-Oscillator-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:55:42,0:02:36,0,2,36,414.8,Connect LRU: 'Video Amplifier',,Local-Oscillator-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:55:42,0:02:36,0,2,36,414.81,Move drawer: 0% open,Synchronizer,Local-Oscillator-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:55:42,0:03:00,0,3,0,438.08,Click on: 'Video Detector',,Local-Oscillator-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:55:42,0:03:03,0,3,3,441.78,Disconnect LRU: 'Video Detector',,Local-Oscillator-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:55:42,0:03:08,0,3,8,446.32,Click on: 'Local Oscillator',,Local-Oscillator-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:55:42,0:03:10,0,3,10,448.26,Disconnect LRU: 'Local Oscillator',,Local-Oscillator-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:55:42,0:03:16,0,3,16,454.76,Click on: 'Control Circuit',,Local-Oscillator-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:55:42,0:03:21,0,3,21,458.86,Disconnect LRU: 'Control Circuit',,Local-Oscillator-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:55:42,0:03:21,0,3,21,458.87,Move drawer: 0% open,Synchronizer,Local-Oscillator-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:55:42,0:03:30,0,3,30,467.85,Click on: 'Video Amplifier',,Local-Oscillator-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:55:42,0:03:31,0,3,31,469.18,Disconnect LRU: 'Video Amplifier',,Local-Oscillator-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:55:42,0:03:31,0,3,31,469.19,Move drawer: 0% open,Synchronizer,Local-Oscillator-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:55:42,0:03:33,0,3,33,471.02,Connect LRU: 'Video Amplifier',,Local-Oscillator-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:55:42,0:03:33,0,3,33,471.04,Move drawer: 0% open,Synchronizer,Local-Oscillator-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:55:42,0:03:36,0,3,36,474.51,Click on: 'Video Amplifier',,Local-Oscillator-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:55:42,0:03:38,0,3,38,476.15,Disconnect LRU: 'Video Amplifier',,Local-Oscillator-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:55:42,0:03:39,0,3,39,477.24,Connect LRU: 'Video Amplifier',,Local-Oscillator-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:55:42,0:03:45,0,3,45,483.64,Pick Up LRU: 'Video Detector',,Local-Oscillator-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:55:42,0:03:45,0,3,45,483.81,Drop LRU: 'Video Detector',,Local-Oscillator-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:55:42,0:03:47,0,3,47,485.33,Connect LRU: 'Video Detector',,Local-Oscillator-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:55:42,0:03:47,0,3,47,485.35,Move drawer: 0% open,Synchronizer,Local-Oscillator-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:55:42,0:03:51,0,3,51,488.84,Click on: 'Video Detector',,Local-Oscillator-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:55:42,0:03:52,0,3,52,490.23,Disconnect LRU: 'Video Detector',,Local-Oscillator-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:55:42,0:03:52,0,3,52,490.24,Move drawer: 0% open,Synchronizer,Local-Oscillator-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:55:42,0:03:54,0,3,54,492.79,Connect LRU: 'Video Detector',,Local-Oscillator-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:55:42,0:03:58,0,3,58,495.89,Click on: 'Video Detector',,Local-Oscillator-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:55:42,0:03:59,0,3,59,497.23,Disconnect LRU: 'Video Detector',,Local-Oscillator-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:55:42,0:03:59,0,3,59,497.25,Move drawer: 0% open,Synchronizer,Local-Oscillator-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:55:42,0:04:01,0,4,1,499.34,Connect LRU: 'Video Detector',,Local-Oscillator-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:55:42,0:04:01,0,4,1,499.36,Move drawer: 0% open,Synchronizer,Local-Oscillator-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:55:42,0:04:06,0,4,6,504.11,Move drawer: 95.4% open,Processor,Local-Oscillator-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:55:42,0:04:08,0,4,8,506.76,Click on: 'Video Detector',,Local-Oscillator-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:55:42,0:04:10,0,4,10,508.47,Disconnect LRU: 'Video Detector',,Local-Oscillator-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:55:42,0:04:10,0,4,10,508.5,Move drawer: 0% open,Synchronizer,Local-Oscillator-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:55:42,0:04:12,0,4,12,510.76,Connect LRU: 'Video Detector',,Local-Oscillator-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:55:42,0:04:12,0,4,12,510.77,Move drawer: 0% open,Synchronizer,Local-Oscillator-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:55:42,0:04:15,0,4,15,513.79,Pick Up LRU: 'Local Oscillator',,Local-Oscillator-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:55:42,0:04:16,0,4,16,513.96,Drop LRU: 'Local Oscillator',,Local-Oscillator-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:55:42,0:04:18,0,4,18,516.48,Connect LRU: 'Local Oscillator',,Local-Oscillator-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:55:42,0:04:21,0,4,21,519.34,Click on: 'Local Oscillator',,Local-Oscillator-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:55:42,0:04:24,0,4,24,521.9,Disconnect LRU: 'Local Oscillator',,Local-Oscillator-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:55:42,0:04:25,0,4,25,523.41,Connect LRU: 'Local Oscillator',,Local-Oscillator-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:55:42,0:04:28,0,4,28,526.49,Move drawer: 95.4% open,Processor,Local-Oscillator-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:55:42,0:04:29,0,4,29,527.71,Click on: 'Video Detector',,Local-Oscillator-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:55:42,0:04:31,0,4,31,529.34,Disconnect LRU: 'Video Detector',,Local-Oscillator-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:55:42,0:04:32,0,4,32,530.74,Connect LRU: 'Video Detector',,Local-Oscillator-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:55:42,0:04:36,0,4,36,533.96,Click on: 'Local Oscillator',,Local-Oscillator-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:55:42,0:04:38,0,4,38,536.19,Disconnect LRU: 'Local Oscillator',,Local-Oscillator-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:55:42,0:04:38,0,4,38,536.62,Connect LRU: 'Local Oscillator',,Local-Oscillator-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:55:42,0:04:44,0,4,44,542.16,Click on: 'Video Amplifier',,Local-Oscillator-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:55:42,0:04:47,0,4,47,545.1,Disconnect LRU: 'Video Amplifier',,Local-Oscillator-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:55:42,0:04:50,0,4,50,547.88,Cancel connect: 'Video Amplifier',,Local-Oscillator-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:55:42,0:04:50,0,4,50,547.89,Move drawer: 0% open,Synchronizer,Local-Oscillator-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:55:42,0:04:53,0,4,53,551.27,Click on: 'Video Detector',,Local-Oscillator-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:55:42,0:04:55,0,4,55,553.08,Disconnect LRU: 'Video Detector',,Local-Oscillator-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:55:42,0:04:56,0,4,56,554.36,Cancel connect: 'Video Detector',,Local-Oscillator-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:55:42,0:04:59,0,4,59,557.72,Move drawer: 95.4% open,Processor,Local-Oscillator-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:55:42,0:05:02,0,5,2,559.86,Click on: 'Local Oscillator',,Local-Oscillator-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:55:42,0:05:03,0,5,3,561.44,Disconnect LRU: 'Local Oscillator',,Local-Oscillator-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:55:42,0:05:04,0,5,4,562.56,Cancel connect: 'Local Oscillator',,Local-Oscillator-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:55:42,0:05:04,0,5,4,562.57,Move drawer: 0% open,Synchronizer,Local-Oscillator-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:55:42,0:05:09,0,5,9,566.96,Move drawer: 0% open,Processor,Local-Oscillator-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:55:42,0:05:12,0,5,12,570.74,Move drawer: 98.4% open,Indicator,Local-Oscillator-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:55:42,0:05:16,0,5,16,574.33,Move drawer: 95.4% open,Indicator,Local-Oscillator-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:55:42,0:05:17,0,5,17,575.71,Click on: 'Cathode Ray Tube',,Local-Oscillator-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:55:42,0:05:39,0,5,39,597.02,Cancel disconnect: 'Cathode Ray Tube',,Local-Oscillator-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:55:42,0:05:39,0,5,39,597.04,Move drawer: 0% open,Synchronizer,Local-Oscillator-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:55:42,0:06:01,0,6,1,619.51,Click on: 'Cathode Ray Tube',,Local-Oscillator-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:55:42,0:06:13,0,6,13,631.19,Cancel disconnect: 'Cathode Ray Tube',,Local-Oscillator-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:55:42,0:06:15,0,6,15,632.89,Click on: 'Sweep Generator Circuit',,Local-Oscillator-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:55:42,0:06:20,0,6,20,637.9,Cancel disconnect: 'Sweep Generator Circuit',,Local-Oscillator-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:55:42,0:06:21,0,6,21,639.32,Click on: 'Sweep Control Circuit',,Local-Oscillator-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:55:42,0:06:24,0,6,24,642.63,Cancel disconnect: 'Sweep Control Circuit',,Local-Oscillator-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:55:42,0:06:24,0,6,24,642.65,Swing front panel: 100% open,,Local-Oscillator-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:55:42,0:06:26,0,6,26,644.14,Move drawer: 95.4% open,Indicator,Local-Oscillator-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:55:42,0:06:27,0,6,27,645.23,Click on: 'Cathode Ray Tube',,Local-Oscillator-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:55:42,0:06:29,0,6,29,647.8,Cancel disconnect: 'Cathode Ray Tube',,Local-Oscillator-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:55:42,0:06:31,0,6,31,649.25,Click on: 'Sweep Generator Circuit',,Local-Oscillator-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:55:42,0:06:33,0,6,33,651.73,Cancel disconnect: 'Sweep Generator Circuit',,Local-Oscillator-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:55:42,0:06:36,0,6,36,654.48,Pick Up LRU: 'Video Amplifier',,Local-Oscillator-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:55:42,0:06:36,0,6,36,654.68,Drop LRU: 'Video Amplifier',,Local-Oscillator-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:55:42,0:06:38,0,6,38,655.95,Move drawer: 95.4% open,Indicator,Local-Oscillator-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:55:42,0:06:39,0,6,39,657.1,Click on: 'Sweep Control Circuit',,Local-Oscillator-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:55:42,0:06:52,0,6,52,670.26,Disconnect LRU: 'Sweep Control Circuit',,Local-Oscillator-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:55:42,0:06:52,0,6,52,670.27,Move drawer: 0% open,Synchronizer,Local-Oscillator-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:55:42,0:06:53,0,6,53,671.67,Connect LRU: 'Sweep Control Circuit',,Local-Oscillator-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:55:42,0:06:53,0,6,53,671.69,Move drawer: 0% open,Synchronizer,Local-Oscillator-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:55:42,0:07:16,0,7,16,694.18,Click on: 'Cathode Ray Tube',,Local-Oscillator-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:55:42,0:07:18,0,7,18,696.78,Disconnect LRU: 'Cathode Ray Tube',,Local-Oscillator-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:55:42,0:07:22,0,7,22,700.44,Move drawer: 95.4% open,Indicator,Local-Oscillator-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:55:42,0:07:23,0,7,23,701.57,Move drawer: 95.4% open,Indicator,Local-Oscillator-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:55:42,0:07:24,0,7,24,702.63,Move drawer: 91.9% open,Indicator,Local-Oscillator-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:55:42,0:07:25,0,7,25,703.37,Move drawer: 91.9% open,Indicator,Local-Oscillator-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:55:42,0:07:26,0,7,26,704.14,Click on: 'Sweep Control Circuit',,Local-Oscillator-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:55:42,0:07:30,0,7,30,708.18,Cancel disconnect: 'Sweep Control Circuit',,Local-Oscillator-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:55:42,0:07:30,0,7,30,708.2,Move drawer: 0% open,Synchronizer,Local-Oscillator-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:55:42,0:07:35,0,7,35,713.15,Move drawer: -7.2% open,Indicator,Local-Oscillator-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:55:42,0:07:43,0,7,43,721.23,Move drawer: -9.6% open,Indicator,Local-Oscillator-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:55:42,0:07:49,0,7,49,727.67,Move drawer: 95.4% open,Tracker,Local-Oscillator-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:55:42,0:07:54,0,7,54,732.07,Click on: 'Receiver Antenna',,Local-Oscillator-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:55:42,0:07:55,0,7,55,733.66,Disconnect LRU: 'Receiver Antenna',,Local-Oscillator-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:55:42,0:07:56,0,7,56,734.5,Connect LRU: 'Receiver Antenna',,Local-Oscillator-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:55:42,0:08:05,0,8,5,743.06,Click on: 'Transmitter Transmission Line',,Local-Oscillator-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:55:42,0:08:06,0,8,6,744.65,Disconnect LRU: 'Transmitter Transmission Line',,Local-Oscillator-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:55:42,0:08:06,0,8,6,744.66,Move drawer: 0% open,Synchronizer,Local-Oscillator-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:55:42,0:08:11,0,8,11,749.41,Pick Up LRU: 'Transmitter Transmission Line',,Local-Oscillator-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:55:42,0:08:11,0,8,11,749.55,Drop LRU: 'Transmitter Transmission Line',,Local-Oscillator-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:55:42,0:08:12,0,8,12,750.82,Connect LRU: 'Transmitter Transmission Line',,Local-Oscillator-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:55:42,0:08:20,0,8,20,758.32,Move drawer: -7.8% open,Tracker,Local-Oscillator-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:55:42,0:08:23,0,8,23,761.35,Move drawer: 91.3% open,Transmitter,Local-Oscillator-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:55:42,0:08:44,0,8,44,782.48,Move drawer: 95.4% open,Transmitter,Local-Oscillator-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:55:42,0:08:46,0,8,46,784.13,Move drawer: 95.4% open,Transmitter,Local-Oscillator-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:55:42,0:08:47,0,8,47,785.02,Move drawer: 44.7% open,Transmitter,Local-Oscillator-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:55:42,0:08:51,0,8,51,788.96,Move drawer: 0% open,Transmitter,Local-Oscillator-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:55:42,0:08:52,0,8,52,790.03,Click on: 'Transmitter Antenna',,Local-Oscillator-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:55:42,0:08:54,0,8,54,791.9,Cancel disconnect: 'Transmitter Antenna',,Local-Oscillator-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:55:42,0:08:57,0,8,57,795.41,Move drawer: 97.4% open,Tracker,Local-Oscillator-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:55:42,0:09:01,0,9,1,798.84,Move drawer: -5.5% open,Tracker,Local-Oscillator-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:55:42,0:09:03,0,9,3,801.01,Click on: 'IF Amplifier',,Local-Oscillator-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:55:42,0:09:05,0,9,5,802.97,Cancel disconnect: 'IF Amplifier',,Local-Oscillator-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:55:42,0:09:08,0,9,8,806.11,Move drawer: 98.4% open,Processor,Local-Oscillator-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:55:42,0:09:13,0,9,13,811.06,Move drawer: -8.2% open,Processor,Local-Oscillator-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:55:42,0:09:19,0,9,19,817.35,Move drawer: 99.9% open,Indicator,Local-Oscillator-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:55:42,0:09:23,0,9,23,821.04,Click on: 'Intensity Gate Generator',,Local-Oscillator-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:55:42,0:09:25,0,9,25,823.01,Cancel disconnect: 'Intensity Gate Generator',,Local-Oscillator-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:55:42,0:09:25,0,9,25,823.03,Move drawer: 0% open,Synchronizer,Local-Oscillator-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:55:42,0:09:29,0,9,29,827.81,Move drawer: -7.9% open,Indicator,Local-Oscillator-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:55:42,0:09:36,0,9,36,834.11,Move drawer: 96.9% open,Synchronizer,Local-Oscillator-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:55:42,0:09:39,0,9,39,836.99,Move drawer: 95.4% open,Synchronizer,Local-Oscillator-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:55:42,0:09:46,0,9,46,844.14,Click on: 'Sine Wave Oscillator',,Local-Oscillator-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:55:42,0:09:48,0,9,48,846.09,Disconnect LRU: 'Sine Wave Oscillator',,Local-Oscillator-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:55:42,0:09:51,0,9,51,849.66,Pick Up LRU: 'Sine Wave Oscillator',,Local-Oscillator-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:55:42,0:09:52,0,9,52,849.86,Drop LRU: 'Sine Wave Oscillator',,Local-Oscillator-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:55:42,0:09:53,0,9,53,851.61,Connect LRU: 'Sine Wave Oscillator',,Local-Oscillator-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:55:42,0:09:57,0,9,57,855.23,Click on: 'Limiter',,Local-Oscillator-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:55:42,0:09:59,0,9,59,856.88,Disconnect LRU: 'Limiter',,Local-Oscillator-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:55:42,0:10:07,0,10,7,865.74,Pick Up LRU: 'Limiter',,Local-Oscillator-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:55:42,0:10:08,0,10,8,865.96,Drop LRU: 'Limiter',,Local-Oscillator-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:55:42,0:10:22,0,10,22,880.28,Connect LRU: 'Limiter',,Local-Oscillator-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:55:42,0:10:27,0,10,27,885.51,Move drawer: 95.4% open,Synchronizer,Local-Oscillator-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:55:42,0:10:29,0,10,29,887.58,Move drawer: 0% open,Synchronizer,Local-Oscillator-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:55:42,0:10:45,0,10,45,903.67,Move drawer: 0% open,Processor,Local-Oscillator-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:55:42,0:10:46,0,10,46,904.31,Move drawer: 0% open,Processor,Local-Oscillator-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:55:42,0:10:48,0,10,48,905.88,Move drawer: 95.4% open,Processor,Local-Oscillator-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:55:42,0:10:58,0,10,58,916.31,Move drawer: 0% open,Tracker,Local-Oscillator-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:55:42,0:10:59,0,10,59,917.26,Click on: 'Receiver Transmission Line',,Local-Oscillator-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:55:42,0:11:01,0,11,1,919.14,Cancel disconnect: 'Receiver Transmission Line',,Local-Oscillator-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:55:42,0:11:02,0,11,2,920.79,Move drawer: -8.7% open,Processor,Local-Oscillator-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:55:42,0:11:06,0,11,6,923.97,Move drawer: 95.1% open,Transmitter,Local-Oscillator-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:55:42,0:11:15,0,11,15,933.66,Click on: 'Stage 1 Modulator',,Local-Oscillator-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:55:42,0:11:17,0,11,17,935.67,Disconnect LRU: 'Stage 1 Modulator',,Local-Oscillator-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:55:42,0:11:17,0,11,17,935.69,Move drawer: 0% open,Synchronizer,Local-Oscillator-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:55:42,0:11:22,0,11,22,940.05,Move drawer: 95.4% open,Transmitter,Local-Oscillator-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:55:42,0:11:22,0,11,22,940.84,Pick Up LRU: 'Stage 1 Modulator',,Local-Oscillator-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:55:42,0:11:23,0,11,23,941.01,Drop LRU: 'Stage 1 Modulator',,Local-Oscillator-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:55:42,0:11:24,0,11,24,942.74,Connect LRU: 'Stage 1 Modulator',,Local-Oscillator-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:55:42,0:11:24,0,11,24,942.76,Move drawer: 0% open,Synchronizer,Local-Oscillator-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:55:42,0:11:27,0,11,27,945.46,Click on: 'Frequency Synthesizer',,Local-Oscillator-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:55:42,0:11:30,0,11,30,948.26,Disconnect LRU: 'Frequency Synthesizer',,Local-Oscillator-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:55:42,0:11:30,0,11,30,948.28,Move drawer: 0% open,Synchronizer,Local-Oscillator-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:55:42,0:11:35,0,11,35,952.95,Pick Up LRU: 'Frequency Synthesizer',,Local-Oscillator-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:55:42,0:11:35,0,11,35,953.17,Drop LRU: 'Frequency Synthesizer',,Local-Oscillator-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:55:42,0:11:37,0,11,37,954.94,Connect LRU: 'Frequency Synthesizer',,Local-Oscillator-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:55:42,0:11:37,0,11,37,954.96,Move drawer: 0% open,Synchronizer,Local-Oscillator-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:55:42,0:11:38,0,11,38,956.48,Click on: 'RF Amplifier 1',,Local-Oscillator-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:55:42,0:11:55,0,11,55,973.52,Cancel disconnect: 'RF Amplifier 1',,Local-Oscillator-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:55:42,0:11:58,0,11,58,976.59,Click on: 'Frequency Synthesizer',,Local-Oscillator-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:55:42,0:12:05,0,12,5,983.47,Cancel disconnect: 'Frequency Synthesizer',,Local-Oscillator-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:55:42,0:12:07,0,12,7,985.2,Click on: 'Stage 1 Modulator',,Local-Oscillator-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:55:42,0:12:21,0,12,21,999.67,Cancel disconnect: 'Stage 1 Modulator',,Local-Oscillator-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:55:42,0:12:30,0,12,30,1007.95,Move drawer: 95.4% open,Transmitter,Local-Oscillator-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:55:42,0:12:31,0,12,31,1009.41,Move drawer: -10.3% open,Transmitter,Local-Oscillator-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:55:42,0:12:34,0,12,34,1012.52,Move drawer: 98.8% open,Processor,Local-Oscillator-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:55:42,0:12:44,0,12,44,1021.96,Move drawer: -6.3% open,Processor,Local-Oscillator-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:55:42,0:12:51,0,12,51,1029.15,Move drawer: 97.6% open,Indicator,Local-Oscillator-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:55:42,0:12:57,0,12,57,1035.74,Move drawer: 43.9% open,Indicator,Local-Oscillator-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:55:42,0:13:00,0,13,0,1038.2,Move drawer: -8.4% open,Indicator,Local-Oscillator-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:55:42,0:13:05,0,13,5,1043.37,Leave Server Box Table,,Local-Oscillator-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:55:42,0:13:07,0,13,7,1045.12,Submit?,,Local-Oscillator-(electrical),,,0,1,0
+st40,HI,1,5/28/21,23:55:42,0:13:10,0,13,10,1048.47,Submit Confirm,,Local-Oscillator-(electrical),,,0,1,0
+st40,HI,2,5/29/21,0:13:16,0:13:16,0,13,16,0,Make electrical flaw: Receiver Waveguide,,Receiver-Waveguide-(electrical),,,0,1,0
+st40,HI,2,5/29/21,0:13:16,0:13:16,0,13,16,0,Start (High Fidelity Sim),,Receiver-Waveguide-(electrical),,,0,1,0

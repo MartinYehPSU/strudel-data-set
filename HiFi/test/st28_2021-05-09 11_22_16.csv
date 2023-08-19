@@ -1,0 +1,416 @@
+subject,subject_group,round,round_start_date_utc,round_start_time_utc,current_time_utc,current_hour24,current_minute,current_second,current_elapsed_seconds,event,ui_tab,active_faults,fixed_faults,fixed_nonfaults,ReplacedComponents,FaultsRemaining,ReplacedNonFaults
+st28,HI,1,5/9/21,15:22:16,15:22:16,15,22,16,0.04,Make electrical flaw: Local Oscillator,,Local-Oscillator-(electrical),,,0,1,0
+st28,HI,1,5/9/21,15:22:16,15:22:16,15,22,16,0.05,Start (High Fidelity Sim),,Local-Oscillator-(electrical),,,0,1,0
+st28,HI,1,5/9/21,15:22:16,15:22:34,15,22,34,18.09,Move to Spare Parts Table,,Local-Oscillator-(electrical),,,0,1,0
+st28,HI,1,5/9/21,15:22:16,15:22:36,15,22,36,19.81,Leave Spare Parts Table,,Local-Oscillator-(electrical),,,0,1,0
+st28,HI,1,5/9/21,15:22:16,15:22:36,15,22,36,20.13,Move to Server Box Table,,Local-Oscillator-(electrical),,,0,1,0
+st28,HI,1,5/9/21,15:22:16,15:22:37,15,22,37,20.64,Swing front panel: 0.1% open,,Local-Oscillator-(electrical),,,0,1,0
+st28,HI,1,5/9/21,15:22:16,15:22:38,15,22,38,22.13,Swing front panel: 56.8% open,,Local-Oscillator-(electrical),,,0,1,0
+st28,HI,1,5/9/21,15:22:16,15:22:39,15,22,39,23.25,Swing front panel: 100% open,,Local-Oscillator-(electrical),,,0,1,0
+st28,HI,1,5/9/21,15:22:16,15:22:41,15,22,41,24.5,Move drawer: 50.4% open,Indicator,Local-Oscillator-(electrical),,,0,1,0
+st28,HI,1,5/9/21,15:22:16,15:22:42,15,22,42,25.95,Move drawer: 0% open,Indicator,Local-Oscillator-(electrical),,,0,1,0
+st28,HI,1,5/9/21,15:22:16,15:22:50,15,22,50,33.67,Move drawer: 78.2% open,Indicator,Local-Oscillator-(electrical),,,0,1,0
+st28,HI,1,5/9/21,15:22:16,15:23:02,15,23,2,45.77,Click on: 'Cathode Ray Tube',,Local-Oscillator-(electrical),,,0,1,0
+st28,HI,1,5/9/21,15:22:16,15:23:03,15,23,3,46.7,Disconnect LRU: 'Cathode Ray Tube',,Local-Oscillator-(electrical),,,0,1,0
+st28,HI,1,5/9/21,15:22:16,15:23:03,15,23,3,46.7,Move drawer: 78.4% open,Indicator,Local-Oscillator-(electrical),,,0,1,0
+st28,HI,1,5/9/21,15:22:16,15:23:04,15,23,4,47.28,Pick Up LRU: 'Cathode Ray Tube',,Local-Oscillator-(electrical),,,0,1,0
+st28,HI,1,5/9/21,15:22:16,15:23:04,15,23,4,47.92,Leave Server Box Table,,Local-Oscillator-(electrical),,,0,1,0
+st28,HI,1,5/9/21,15:22:16,15:23:05,15,23,5,48.7,Drop LRU: 'Cathode Ray Tube',,Local-Oscillator-(electrical),,,0,1,0
+st28,HI,1,5/9/21,15:22:16,15:23:06,15,23,6,49.71,Move to Spare Parts Table,,Local-Oscillator-(electrical),,,0,1,0
+st28,HI,1,5/9/21,15:22:16,15:23:08,15,23,8,52.25,Pick Up LRU: 'Cathode Ray Tube [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+st28,HI,1,5/9/21,15:22:16,15:23:10,15,23,10,53.32,Leave Spare Parts Table,,Local-Oscillator-(electrical),,,0,1,0
+st28,HI,1,5/9/21,15:22:16,15:23:10,15,23,10,53.58,Move to Server Box Table,,Local-Oscillator-(electrical),,,0,1,0
+st28,HI,1,5/9/21,15:22:16,15:23:12,15,23,12,55.74,Drop LRU: 'Cathode Ray Tube [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+st28,HI,1,5/9/21,15:22:16,15:23:13,15,23,13,56.34,Connect LRU: 'Cathode Ray Tube [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+st28,HI,1,5/9/21,15:22:16,15:23:13,15,23,13,56.34,Move drawer: 78.4% open,Indicator,Local-Oscillator-(electrical),,,0,1,0
+st28,HI,1,5/9/21,15:22:16,15:23:13,15,23,13,56.66,Replaced unnecessarily Cathode Ray Tube (electrical),,Local-Oscillator-(electrical),,Cathode-Ray-Tube-(electrical),1,1,1
+st28,HI,1,5/9/21,15:22:16,15:23:13,15,23,13,56.67,Move drawer: 78.4% open,Indicator,Local-Oscillator-(electrical),,Cathode-Ray-Tube-(electrical),1,1,1
+st28,HI,1,5/9/21,15:22:16,15:23:15,15,23,15,58.65,Click on: 'Cathode Ray Tube [SPARE]',,Local-Oscillator-(electrical),,Cathode-Ray-Tube-(electrical),1,1,1
+st28,HI,1,5/9/21,15:22:16,15:23:16,15,23,16,59.69,Disconnect LRU: 'Cathode Ray Tube [SPARE]',,Local-Oscillator-(electrical),,Cathode-Ray-Tube-(electrical),1,1,1
+st28,HI,1,5/9/21,15:22:16,15:23:16,15,23,16,59.7,Move drawer: 78.4% open,Indicator,Local-Oscillator-(electrical),,Cathode-Ray-Tube-(electrical),1,1,1
+st28,HI,1,5/9/21,15:22:16,15:23:17,15,23,17,60.45,Connect LRU: 'Cathode Ray Tube [SPARE]',,Local-Oscillator-(electrical),,Cathode-Ray-Tube-(electrical),1,1,1
+st28,HI,1,5/9/21,15:22:16,15:23:17,15,23,17,60.46,Move drawer: 78.4% open,Indicator,Local-Oscillator-(electrical),,Cathode-Ray-Tube-(electrical),1,1,1
+st28,HI,1,5/9/21,15:22:16,15:23:18,15,23,18,61.44,Cancel window: 'Cathode Ray Tube',,Local-Oscillator-(electrical),,Cathode-Ray-Tube-(electrical),1,1,1
+st28,HI,1,5/9/21,15:22:16,15:23:18,15,23,18,61.44,Move drawer: 78.4% open,Indicator,Local-Oscillator-(electrical),,Cathode-Ray-Tube-(electrical),1,1,1
+st28,HI,1,5/9/21,15:22:16,15:23:19,15,23,19,62.33,Click on: 'Cathode Ray Tube [SPARE]',,Local-Oscillator-(electrical),,Cathode-Ray-Tube-(electrical),1,1,1
+st28,HI,1,5/9/21,15:22:16,15:23:20,15,23,20,64.1,Cancel disconnect: 'Cathode Ray Tube [SPARE]',,Local-Oscillator-(electrical),,Cathode-Ray-Tube-(electrical),1,1,1
+st28,HI,1,5/9/21,15:22:16,15:23:20,15,23,20,64.1,Move drawer: 78.4% open,Indicator,Local-Oscillator-(electrical),,Cathode-Ray-Tube-(electrical),1,1,1
+st28,HI,1,5/9/21,15:22:16,15:23:21,15,23,21,65.09,Click on: 'Cathode Ray Tube [SPARE]',,Local-Oscillator-(electrical),,Cathode-Ray-Tube-(electrical),1,1,1
+st28,HI,1,5/9/21,15:22:16,15:23:22,15,23,22,66.02,Disconnect LRU: 'Cathode Ray Tube [SPARE]',,Local-Oscillator-(electrical),,Cathode-Ray-Tube-(electrical),1,1,1
+st28,HI,1,5/9/21,15:22:16,15:23:22,15,23,22,66.02,Move drawer: 78.4% open,Indicator,Local-Oscillator-(electrical),,Cathode-Ray-Tube-(electrical),1,1,1
+st28,HI,1,5/9/21,15:22:16,15:23:23,15,23,23,67.07,Connect LRU: 'Cathode Ray Tube [SPARE]',,Local-Oscillator-(electrical),,Cathode-Ray-Tube-(electrical),1,1,1
+st28,HI,1,5/9/21,15:22:16,15:23:23,15,23,23,67.07,Move drawer: 78.4% open,Indicator,Local-Oscillator-(electrical),,Cathode-Ray-Tube-(electrical),1,1,1
+st28,HI,1,5/9/21,15:22:16,15:23:24,15,23,24,68.06,Replaced unnecessarily Cathode Ray Tube (electrical),,Local-Oscillator-(electrical),,Cathode-Ray-Tube-(electrical),1,1,1
+st28,HI,1,5/9/21,15:22:16,15:23:24,15,23,24,68.06,Move drawer: 78.4% open,Indicator,Local-Oscillator-(electrical),,Cathode-Ray-Tube-(electrical),1,1,1
+st28,HI,1,5/9/21,15:22:16,15:23:26,15,23,26,69.61,Click on: 'Cathode Ray Tube [SPARE]',,Local-Oscillator-(electrical),,Cathode-Ray-Tube-(electrical),1,1,1
+st28,HI,1,5/9/21,15:22:16,15:23:27,15,23,27,70.44,Disconnect LRU: 'Cathode Ray Tube [SPARE]',,Local-Oscillator-(electrical),,Cathode-Ray-Tube-(electrical),1,1,1
+st28,HI,1,5/9/21,15:22:16,15:23:27,15,23,27,70.45,Move drawer: 78.4% open,Indicator,Local-Oscillator-(electrical),,Cathode-Ray-Tube-(electrical),1,1,1
+st28,HI,1,5/9/21,15:22:16,15:23:27,15,23,27,70.84,Cancel connect: 'Cathode Ray Tube [SPARE]',,Local-Oscillator-(electrical),,Cathode-Ray-Tube-(electrical),1,1,1
+st28,HI,1,5/9/21,15:22:16,15:23:27,15,23,27,70.84,Move drawer: 78.4% open,Indicator,Local-Oscillator-(electrical),,Cathode-Ray-Tube-(electrical),1,1,1
+st28,HI,1,5/9/21,15:22:16,15:23:27,15,23,27,71.2,Pick Up LRU: 'Cathode Ray Tube [SPARE]',,Local-Oscillator-(electrical),,Cathode-Ray-Tube-(electrical),1,1,1
+st28,HI,1,5/9/21,15:22:16,15:23:29,15,23,29,72.54,Drop LRU: 'Cathode Ray Tube [SPARE]',,Local-Oscillator-(electrical),,Cathode-Ray-Tube-(electrical),1,1,1
+st28,HI,1,5/9/21,15:22:16,15:23:30,15,23,30,73.43,Connect LRU: 'Cathode Ray Tube [SPARE]',,Local-Oscillator-(electrical),,Cathode-Ray-Tube-(electrical),1,1,1
+st28,HI,1,5/9/21,15:22:16,15:23:30,15,23,30,73.44,Move drawer: 78.4% open,Indicator,Local-Oscillator-(electrical),,Cathode-Ray-Tube-(electrical),1,1,1
+st28,HI,1,5/9/21,15:22:16,15:23:32,15,23,32,75.49,Replaced unnecessarily Cathode Ray Tube (electrical),,Local-Oscillator-(electrical),,Cathode-Ray-Tube-(electrical),1,1,1
+st28,HI,1,5/9/21,15:22:16,15:23:32,15,23,32,75.49,Move drawer: 78.4% open,Indicator,Local-Oscillator-(electrical),,Cathode-Ray-Tube-(electrical),1,1,1
+st28,HI,1,5/9/21,15:22:16,15:23:33,15,23,33,77.05,Click on: 'Cathode Ray Tube [SPARE]',,Local-Oscillator-(electrical),,Cathode-Ray-Tube-(electrical),1,1,1
+st28,HI,1,5/9/21,15:22:16,15:23:34,15,23,34,77.84,Cancel disconnect: 'Cathode Ray Tube [SPARE]',,Local-Oscillator-(electrical),,Cathode-Ray-Tube-(electrical),1,1,1
+st28,HI,1,5/9/21,15:22:16,15:23:34,15,23,34,77.84,Move drawer: 78.4% open,Indicator,Local-Oscillator-(electrical),,Cathode-Ray-Tube-(electrical),1,1,1
+st28,HI,1,5/9/21,15:22:16,15:23:35,15,23,35,78.35,Move drawer: 78.4% open,Indicator,Local-Oscillator-(electrical),,Cathode-Ray-Tube-(electrical),1,1,1
+st28,HI,1,5/9/21,15:22:16,15:23:35,15,23,35,78.57,Move drawer: 78.4% open,Indicator,Local-Oscillator-(electrical),,Cathode-Ray-Tube-(electrical),1,1,1
+st28,HI,1,5/9/21,15:22:16,15:23:35,15,23,35,78.83,Move drawer: 78.4% open,Indicator,Local-Oscillator-(electrical),,Cathode-Ray-Tube-(electrical),1,1,1
+st28,HI,1,5/9/21,15:22:16,15:23:35,15,23,35,79.03,Move drawer: 78.4% open,Indicator,Local-Oscillator-(electrical),,Cathode-Ray-Tube-(electrical),1,1,1
+st28,HI,1,5/9/21,15:22:16,15:23:35,15,23,35,79.18,Move drawer: 78.4% open,Indicator,Local-Oscillator-(electrical),,Cathode-Ray-Tube-(electrical),1,1,1
+st28,HI,1,5/9/21,15:22:16,15:23:42,15,23,42,85.69,Click on: 'Sweep Control Circuit',,Local-Oscillator-(electrical),,Cathode-Ray-Tube-(electrical),1,1,1
+st28,HI,1,5/9/21,15:22:16,15:23:46,15,23,46,90.12,Cancel disconnect: 'Sweep Control Circuit',,Local-Oscillator-(electrical),,Cathode-Ray-Tube-(electrical),1,1,1
+st28,HI,1,5/9/21,15:22:16,15:23:46,15,23,46,90.13,Move drawer: 78.4% open,Indicator,Local-Oscillator-(electrical),,Cathode-Ray-Tube-(electrical),1,1,1
+st28,HI,1,5/9/21,15:22:16,15:23:51,15,23,51,94.61,Click on: 'Intensity Gate Generator',,Local-Oscillator-(electrical),,Cathode-Ray-Tube-(electrical),1,1,1
+st28,HI,1,5/9/21,15:22:16,15:24:02,15,24,2,106.2,Cancel disconnect: 'Intensity Gate Generator',,Local-Oscillator-(electrical),,Cathode-Ray-Tube-(electrical),1,1,1
+st28,HI,1,5/9/21,15:22:16,15:24:02,15,24,2,106.21,Move drawer: 78.4% open,Indicator,Local-Oscillator-(electrical),,Cathode-Ray-Tube-(electrical),1,1,1
+st28,HI,1,5/9/21,15:22:16,15:24:05,15,24,5,108.31,Move drawer: 78.5% open,Indicator,Local-Oscillator-(electrical),,Cathode-Ray-Tube-(electrical),1,1,1
+st28,HI,1,5/9/21,15:22:16,15:24:05,15,24,5,108.5,Move drawer: 78.5% open,Indicator,Local-Oscillator-(electrical),,Cathode-Ray-Tube-(electrical),1,1,1
+st28,HI,1,5/9/21,15:22:16,15:24:05,15,24,5,108.69,Move drawer: 78.5% open,Indicator,Local-Oscillator-(electrical),,Cathode-Ray-Tube-(electrical),1,1,1
+st28,HI,1,5/9/21,15:22:16,15:24:05,15,24,5,108.85,Move drawer: 78.5% open,Indicator,Local-Oscillator-(electrical),,Cathode-Ray-Tube-(electrical),1,1,1
+st28,HI,1,5/9/21,15:22:16,15:24:06,15,24,6,109.28,Move drawer: 78.5% open,Indicator,Local-Oscillator-(electrical),,Cathode-Ray-Tube-(electrical),1,1,1
+st28,HI,1,5/9/21,15:22:16,15:24:06,15,24,6,110.09,Move drawer: 78.5% open,Indicator,Local-Oscillator-(electrical),,Cathode-Ray-Tube-(electrical),1,1,1
+st28,HI,1,5/9/21,15:22:16,15:24:09,15,24,9,112.98,Move drawer: 95.4% open,Processor,Local-Oscillator-(electrical),,Cathode-Ray-Tube-(electrical),1,1,1
+st28,HI,1,5/9/21,15:22:16,15:24:21,15,24,21,124.3,Click on: 'Video Detector',,Local-Oscillator-(electrical),,Cathode-Ray-Tube-(electrical),1,1,1
+st28,HI,1,5/9/21,15:22:16,15:24:21,15,24,21,125.23,Cancel disconnect: 'Video Detector',,Local-Oscillator-(electrical),,Cathode-Ray-Tube-(electrical),1,1,1
+st28,HI,1,5/9/21,15:22:16,15:24:21,15,24,21,125.23,Move drawer: 95.4% open,Processor,Local-Oscillator-(electrical),,Cathode-Ray-Tube-(electrical),1,1,1
+st28,HI,1,5/9/21,15:22:16,15:24:23,15,24,23,127.1,Click on: 'Video Amplifier',,Local-Oscillator-(electrical),,Cathode-Ray-Tube-(electrical),1,1,1
+st28,HI,1,5/9/21,15:22:16,15:24:25,15,24,25,128.39,Disconnect LRU: 'Video Amplifier',,Local-Oscillator-(electrical),,Cathode-Ray-Tube-(electrical),1,1,1
+st28,HI,1,5/9/21,15:22:16,15:24:25,15,24,25,129.03,Pick Up LRU: 'Video Amplifier',,Local-Oscillator-(electrical),,Cathode-Ray-Tube-(electrical),1,1,1
+st28,HI,1,5/9/21,15:22:16,15:24:26,15,24,26,130.2,Drop LRU: 'Video Amplifier',,Local-Oscillator-(electrical),,Cathode-Ray-Tube-(electrical),1,1,1
+st28,HI,1,5/9/21,15:22:16,15:24:27,15,24,27,130.7,Leave Server Box Table,,Local-Oscillator-(electrical),,Cathode-Ray-Tube-(electrical),1,1,1
+st28,HI,1,5/9/21,15:22:16,15:24:28,15,24,28,131.44,Move to Spare Parts Table,,Local-Oscillator-(electrical),,Cathode-Ray-Tube-(electrical),1,1,1
+st28,HI,1,5/9/21,15:22:16,15:24:38,15,24,38,141.48,Pick Up LRU: 'Video Amplifier [SPARE]',,Local-Oscillator-(electrical),,Cathode-Ray-Tube-(electrical),1,1,1
+st28,HI,1,5/9/21,15:22:16,15:24:38,15,24,38,141.61,Drop LRU: 'Video Amplifier [SPARE]',,Local-Oscillator-(electrical),,Cathode-Ray-Tube-(electrical),1,1,1
+st28,HI,1,5/9/21,15:22:16,15:24:38,15,24,38,142.1,Pick Up LRU: 'Video Amplifier [SPARE]',,Local-Oscillator-(electrical),,Cathode-Ray-Tube-(electrical),1,1,1
+st28,HI,1,5/9/21,15:22:16,15:24:39,15,24,39,143.18,Leave Spare Parts Table,,Local-Oscillator-(electrical),,Cathode-Ray-Tube-(electrical),1,1,1
+st28,HI,1,5/9/21,15:22:16,15:24:41,15,24,41,145.02,Move to Spare Parts Table,,Local-Oscillator-(electrical),,Cathode-Ray-Tube-(electrical),1,1,1
+st28,HI,1,5/9/21,15:22:16,15:24:42,15,24,42,145.42,Drop LRU: 'Video Amplifier [SPARE]',,Local-Oscillator-(electrical),,Cathode-Ray-Tube-(electrical),1,1,1
+st28,HI,1,5/9/21,15:22:16,15:24:42,15,24,42,146.19,Pick Up LRU: 'Video Amplifier [SPARE]',,Local-Oscillator-(electrical),,Cathode-Ray-Tube-(electrical),1,1,1
+st28,HI,1,5/9/21,15:22:16,15:24:43,15,24,43,147.12,Leave Spare Parts Table,,Local-Oscillator-(electrical),,Cathode-Ray-Tube-(electrical),1,1,1
+st28,HI,1,5/9/21,15:22:16,15:24:44,15,24,44,148.07,Move to Server Box Table,,Local-Oscillator-(electrical),,Cathode-Ray-Tube-(electrical),1,1,1
+st28,HI,1,5/9/21,15:22:16,15:24:46,15,24,46,149.59,Drop LRU: 'Video Amplifier [SPARE]',,Local-Oscillator-(electrical),,Cathode-Ray-Tube-(electrical),1,1,1
+st28,HI,1,5/9/21,15:22:16,15:24:48,15,24,48,151.82,Pick Up LRU: 'Video Amplifier [SPARE]',,Local-Oscillator-(electrical),,Cathode-Ray-Tube-(electrical),1,1,1
+st28,HI,1,5/9/21,15:22:16,15:24:54,15,24,54,157.65,Drop LRU: 'Video Amplifier [SPARE]',,Local-Oscillator-(electrical),,Cathode-Ray-Tube-(electrical),1,1,1
+st28,HI,1,5/9/21,15:22:16,15:24:58,15,24,58,161.28,Pick Up LRU: 'Video Amplifier [SPARE]',,Local-Oscillator-(electrical),,Cathode-Ray-Tube-(electrical),1,1,1
+st28,HI,1,5/9/21,15:22:16,15:24:58,15,24,58,162.23,Drop LRU: 'Video Amplifier [SPARE]',,Local-Oscillator-(electrical),,Cathode-Ray-Tube-(electrical),1,1,1
+st28,HI,1,5/9/21,15:22:16,15:24:59,15,24,59,162.7,Pick Up LRU: 'Video Amplifier [SPARE]',,Local-Oscillator-(electrical),,Cathode-Ray-Tube-(electrical),1,1,1
+st28,HI,1,5/9/21,15:22:16,15:24:59,15,24,59,163.06,Drop LRU: 'Video Amplifier [SPARE]',,Local-Oscillator-(electrical),,Cathode-Ray-Tube-(electrical),1,1,1
+st28,HI,1,5/9/21,15:22:16,15:25:00,15,25,0,163.48,Pick Up LRU: 'Video Amplifier [SPARE]',,Local-Oscillator-(electrical),,Cathode-Ray-Tube-(electrical),1,1,1
+st28,HI,1,5/9/21,15:22:16,15:25:00,15,25,0,164.16,Drop LRU: 'Video Amplifier [SPARE]',,Local-Oscillator-(electrical),,Cathode-Ray-Tube-(electrical),1,1,1
+st28,HI,1,5/9/21,15:22:16,15:25:01,15,25,1,164.73,Connect LRU: 'Video Amplifier [SPARE]',,Local-Oscillator-(electrical),,Cathode-Ray-Tube-(electrical),1,1,1
+st28,HI,1,5/9/21,15:22:16,15:25:01,15,25,1,164.74,Move drawer: 95.4% open,Processor,Local-Oscillator-(electrical),,Cathode-Ray-Tube-(electrical),1,1,1
+st28,HI,1,5/9/21,15:22:16,15:25:02,15,25,2,165.77,Replaced unnecessarily Video Amplifier (electrical),,Local-Oscillator-(electrical),,Cathode-Ray-Tube-(electrical) Video-Amplifier-(electrical),2,1,2
+st28,HI,1,5/9/21,15:22:16,15:25:02,15,25,2,165.77,Move drawer: 95.4% open,Processor,Local-Oscillator-(electrical),,Cathode-Ray-Tube-(electrical) Video-Amplifier-(electrical),2,1,2
+st28,HI,1,5/9/21,15:22:16,15:25:04,15,25,4,167.64,Move drawer: 26.6% open,Processor,Local-Oscillator-(electrical),,Cathode-Ray-Tube-(electrical) Video-Amplifier-(electrical),2,1,2
+st28,HI,1,5/9/21,15:22:16,15:25:05,15,25,5,168.83,Move drawer: 94.8% open,Indicator,Local-Oscillator-(electrical),,Cathode-Ray-Tube-(electrical) Video-Amplifier-(electrical),2,1,2
+st28,HI,1,5/9/21,15:22:16,15:25:06,15,25,6,169.89,Click on: 'Cathode Ray Tube [SPARE]',,Local-Oscillator-(electrical),,Cathode-Ray-Tube-(electrical) Video-Amplifier-(electrical),2,1,2
+st28,HI,1,5/9/21,15:22:16,15:25:07,15,25,7,170.78,Disconnect LRU: 'Cathode Ray Tube [SPARE]',,Local-Oscillator-(electrical),,Cathode-Ray-Tube-(electrical) Video-Amplifier-(electrical),2,1,2
+st28,HI,1,5/9/21,15:22:16,15:25:07,15,25,7,170.79,Move drawer: 94.8% open,Indicator,Local-Oscillator-(electrical),,Cathode-Ray-Tube-(electrical) Video-Amplifier-(electrical),2,1,2
+st28,HI,1,5/9/21,15:22:16,15:25:08,15,25,8,171.53,Connect LRU: 'Cathode Ray Tube [SPARE]',,Local-Oscillator-(electrical),,Cathode-Ray-Tube-(electrical) Video-Amplifier-(electrical),2,1,2
+st28,HI,1,5/9/21,15:22:16,15:25:08,15,25,8,171.53,Move drawer: 94.8% open,Indicator,Local-Oscillator-(electrical),,Cathode-Ray-Tube-(electrical) Video-Amplifier-(electrical),2,1,2
+st28,HI,1,5/9/21,15:22:16,15:25:09,15,25,9,172.67,Replaced unnecessarily Cathode Ray Tube (electrical),,Local-Oscillator-(electrical),,Cathode-Ray-Tube-(electrical) Video-Amplifier-(electrical),2,1,2
+st28,HI,1,5/9/21,15:22:16,15:25:09,15,25,9,172.67,Move drawer: 94.8% open,Indicator,Local-Oscillator-(electrical),,Cathode-Ray-Tube-(electrical) Video-Amplifier-(electrical),2,1,2
+st28,HI,1,5/9/21,15:22:16,15:25:16,15,25,16,179.41,Move drawer: 21.7% open,Indicator,Local-Oscillator-(electrical),,Cathode-Ray-Tube-(electrical) Video-Amplifier-(electrical),2,1,2
+st28,HI,1,5/9/21,15:22:16,15:25:17,15,25,17,180.57,Move drawer: 95.4% open,Processor,Local-Oscillator-(electrical),,Cathode-Ray-Tube-(electrical) Video-Amplifier-(electrical),2,1,2
+st28,HI,1,5/9/21,15:22:16,15:25:22,15,25,22,185.42,Click on: 'Local Oscillator',,Local-Oscillator-(electrical),,Cathode-Ray-Tube-(electrical) Video-Amplifier-(electrical),2,1,2
+st28,HI,1,5/9/21,15:22:16,15:25:23,15,25,23,186.62,Cancel disconnect: 'Local Oscillator',,Local-Oscillator-(electrical),,Cathode-Ray-Tube-(electrical) Video-Amplifier-(electrical),2,1,2
+st28,HI,1,5/9/21,15:22:16,15:25:24,15,25,24,187.49,Click on: 'Video Detector',,Local-Oscillator-(electrical),,Cathode-Ray-Tube-(electrical) Video-Amplifier-(electrical),2,1,2
+st28,HI,1,5/9/21,15:22:16,15:25:25,15,25,25,188.4,Disconnect LRU: 'Video Detector',,Local-Oscillator-(electrical),,Cathode-Ray-Tube-(electrical) Video-Amplifier-(electrical),2,1,2
+st28,HI,1,5/9/21,15:22:16,15:25:25,15,25,25,188.41,Move drawer: 95.4% open,Processor,Local-Oscillator-(electrical),,Cathode-Ray-Tube-(electrical) Video-Amplifier-(electrical),2,1,2
+st28,HI,1,5/9/21,15:22:16,15:25:25,15,25,25,188.94,Pick Up LRU: 'Video Detector',,Local-Oscillator-(electrical),,Cathode-Ray-Tube-(electrical) Video-Amplifier-(electrical),2,1,2
+st28,HI,1,5/9/21,15:22:16,15:25:26,15,25,26,189.99,Drop LRU: 'Video Detector',,Local-Oscillator-(electrical),,Cathode-Ray-Tube-(electrical) Video-Amplifier-(electrical),2,1,2
+st28,HI,1,5/9/21,15:22:16,15:25:27,15,25,27,190.4,Leave Server Box Table,,Local-Oscillator-(electrical),,Cathode-Ray-Tube-(electrical) Video-Amplifier-(electrical),2,1,2
+st28,HI,1,5/9/21,15:22:16,15:25:27,15,25,27,190.74,Move to Spare Parts Table,,Local-Oscillator-(electrical),,Cathode-Ray-Tube-(electrical) Video-Amplifier-(electrical),2,1,2
+st28,HI,1,5/9/21,15:22:16,15:25:34,15,25,34,198,Pick Up LRU: 'Video Detector [SPARE]',,Local-Oscillator-(electrical),,Cathode-Ray-Tube-(electrical) Video-Amplifier-(electrical),2,1,2
+st28,HI,1,5/9/21,15:22:16,15:25:37,15,25,37,200.38,Leave Spare Parts Table,,Local-Oscillator-(electrical),,Cathode-Ray-Tube-(electrical) Video-Amplifier-(electrical),2,1,2
+st28,HI,1,5/9/21,15:22:16,15:25:38,15,25,38,201.58,Move to Server Box Table,,Local-Oscillator-(electrical),,Cathode-Ray-Tube-(electrical) Video-Amplifier-(electrical),2,1,2
+st28,HI,1,5/9/21,15:22:16,15:25:40,15,25,40,203.99,Drop LRU: 'Video Detector [SPARE]',,Local-Oscillator-(electrical),,Cathode-Ray-Tube-(electrical) Video-Amplifier-(electrical),2,1,2
+st28,HI,1,5/9/21,15:22:16,15:25:43,15,25,43,206.86,Pick Up LRU: 'Video Detector [SPARE]',,Local-Oscillator-(electrical),,Cathode-Ray-Tube-(electrical) Video-Amplifier-(electrical),2,1,2
+st28,HI,1,5/9/21,15:22:16,15:25:44,15,25,44,207.53,Drop LRU: 'Video Detector [SPARE]',,Local-Oscillator-(electrical),,Cathode-Ray-Tube-(electrical) Video-Amplifier-(electrical),2,1,2
+st28,HI,1,5/9/21,15:22:16,15:25:44,15,25,44,208.05,Pick Up LRU: 'Video Detector [SPARE]',,Local-Oscillator-(electrical),,Cathode-Ray-Tube-(electrical) Video-Amplifier-(electrical),2,1,2
+st28,HI,1,5/9/21,15:22:16,15:25:47,15,25,47,210.67,Drop LRU: 'Video Detector [SPARE]',,Local-Oscillator-(electrical),,Cathode-Ray-Tube-(electrical) Video-Amplifier-(electrical),2,1,2
+st28,HI,1,5/9/21,15:22:16,15:25:48,15,25,48,211.38,Connect LRU: 'Video Detector [SPARE]',,Local-Oscillator-(electrical),,Cathode-Ray-Tube-(electrical) Video-Amplifier-(electrical),2,1,2
+st28,HI,1,5/9/21,15:22:16,15:25:50,15,25,50,213.83,Replaced unnecessarily Video Detector (electrical),,Local-Oscillator-(electrical),,Cathode-Ray-Tube-(electrical) Video-Amplifier-(electrical) Video-Detector-(electrical),3,1,3
+st28,HI,1,5/9/21,15:22:16,15:26:00,15,26,0,224.05,Click on: 'Control Circuit',,Local-Oscillator-(electrical),,Cathode-Ray-Tube-(electrical) Video-Amplifier-(electrical) Video-Detector-(electrical),3,1,3
+st28,HI,1,5/9/21,15:22:16,15:26:01,15,26,1,224.89,Disconnect LRU: 'Control Circuit',,Local-Oscillator-(electrical),,Cathode-Ray-Tube-(electrical) Video-Amplifier-(electrical) Video-Detector-(electrical),3,1,3
+st28,HI,1,5/9/21,15:22:16,15:26:02,15,26,2,226.11,Connect LRU: 'Control Circuit',,Local-Oscillator-(electrical),,Cathode-Ray-Tube-(electrical) Video-Amplifier-(electrical) Video-Detector-(electrical),3,1,3
+st28,HI,1,5/9/21,15:22:16,15:26:03,15,26,3,226.67,Click on: 'Control Circuit',,Local-Oscillator-(electrical),,Cathode-Ray-Tube-(electrical) Video-Amplifier-(electrical) Video-Detector-(electrical),3,1,3
+st28,HI,1,5/9/21,15:22:16,15:26:04,15,26,4,227.5,Disconnect LRU: 'Control Circuit',,Local-Oscillator-(electrical),,Cathode-Ray-Tube-(electrical) Video-Amplifier-(electrical) Video-Detector-(electrical),3,1,3
+st28,HI,1,5/9/21,15:22:16,15:26:04,15,26,4,227.94,Cancel connect: 'Control Circuit',,Local-Oscillator-(electrical),,Cathode-Ray-Tube-(electrical) Video-Amplifier-(electrical) Video-Detector-(electrical),3,1,3
+st28,HI,1,5/9/21,15:22:16,15:26:04,15,26,4,228.23,Pick Up LRU: 'Control Circuit',,Local-Oscillator-(electrical),,Cathode-Ray-Tube-(electrical) Video-Amplifier-(electrical) Video-Detector-(electrical),3,1,3
+st28,HI,1,5/9/21,15:22:16,15:26:06,15,26,6,229.54,Drop LRU: 'Control Circuit',,Local-Oscillator-(electrical),,Cathode-Ray-Tube-(electrical) Video-Amplifier-(electrical) Video-Detector-(electrical),3,1,3
+st28,HI,1,5/9/21,15:22:16,15:26:06,15,26,6,230.17,Leave Server Box Table,,Local-Oscillator-(electrical),,Cathode-Ray-Tube-(electrical) Video-Amplifier-(electrical) Video-Detector-(electrical),3,1,3
+st28,HI,1,5/9/21,15:22:16,15:26:07,15,26,7,230.52,Move to Spare Parts Table,,Local-Oscillator-(electrical),,Cathode-Ray-Tube-(electrical) Video-Amplifier-(electrical) Video-Detector-(electrical),3,1,3
+st28,HI,1,5/9/21,15:22:16,15:26:14,15,26,14,237.82,Pick Up LRU: 'Control Circuit [SPARE]',,Local-Oscillator-(electrical),,Cathode-Ray-Tube-(electrical) Video-Amplifier-(electrical) Video-Detector-(electrical),3,1,3
+st28,HI,1,5/9/21,15:22:16,15:26:17,15,26,17,240.7,Leave Spare Parts Table,,Local-Oscillator-(electrical),,Cathode-Ray-Tube-(electrical) Video-Amplifier-(electrical) Video-Detector-(electrical),3,1,3
+st28,HI,1,5/9/21,15:22:16,15:26:18,15,26,18,241.34,Drop LRU: 'Control Circuit [SPARE]',,Local-Oscillator-(electrical),,Cathode-Ray-Tube-(electrical) Video-Amplifier-(electrical) Video-Detector-(electrical),3,1,3
+st28,HI,1,5/9/21,15:22:16,15:26:19,15,26,19,243.06,Pick Up LRU: 'Control Circuit [SPARE]',,Local-Oscillator-(electrical),,Cathode-Ray-Tube-(electrical) Video-Amplifier-(electrical) Video-Detector-(electrical),3,1,3
+st28,HI,1,5/9/21,15:22:16,15:26:22,15,26,22,245.73,Move to Server Box Table,,Local-Oscillator-(electrical),,Cathode-Ray-Tube-(electrical) Video-Amplifier-(electrical) Video-Detector-(electrical),3,1,3
+st28,HI,1,5/9/21,15:22:16,15:26:22,15,26,22,246.19,Drop LRU: 'Control Circuit [SPARE]',,Local-Oscillator-(electrical),,Cathode-Ray-Tube-(electrical) Video-Amplifier-(electrical) Video-Detector-(electrical),3,1,3
+st28,HI,1,5/9/21,15:22:16,15:26:24,15,26,24,247.8,Leave Server Box Table,,Local-Oscillator-(electrical),,Cathode-Ray-Tube-(electrical) Video-Amplifier-(electrical) Video-Detector-(electrical),3,1,3
+st28,HI,1,5/9/21,15:22:16,15:26:25,15,26,25,248.5,Move to Server Box Table,,Local-Oscillator-(electrical),,Cathode-Ray-Tube-(electrical) Video-Amplifier-(electrical) Video-Detector-(electrical),3,1,3
+st28,HI,1,5/9/21,15:22:16,15:26:25,15,26,25,249.03,Leave Server Box Table,,Local-Oscillator-(electrical),,Cathode-Ray-Tube-(electrical) Video-Amplifier-(electrical) Video-Detector-(electrical),3,1,3
+st28,HI,1,5/9/21,15:22:16,15:26:26,15,26,26,249.41,Move to Server Box Table,,Local-Oscillator-(electrical),,Cathode-Ray-Tube-(electrical) Video-Amplifier-(electrical) Video-Detector-(electrical),3,1,3
+st28,HI,1,5/9/21,15:22:16,15:26:26,15,26,26,250,Leave Server Box Table,,Local-Oscillator-(electrical),,Cathode-Ray-Tube-(electrical) Video-Amplifier-(electrical) Video-Detector-(electrical),3,1,3
+st28,HI,1,5/9/21,15:22:16,15:26:28,15,26,28,251.5,Move to Spare Parts Table,,Local-Oscillator-(electrical),,Cathode-Ray-Tube-(electrical) Video-Amplifier-(electrical) Video-Detector-(electrical),3,1,3
+st28,HI,1,5/9/21,15:22:16,15:26:30,15,26,30,253.35,Leave Spare Parts Table,,Local-Oscillator-(electrical),,Cathode-Ray-Tube-(electrical) Video-Amplifier-(electrical) Video-Detector-(electrical),3,1,3
+st28,HI,1,5/9/21,15:22:16,15:26:30,15,26,30,253.93,Move to Server Box Table,,Local-Oscillator-(electrical),,Cathode-Ray-Tube-(electrical) Video-Amplifier-(electrical) Video-Detector-(electrical),3,1,3
+st28,HI,1,5/9/21,15:22:16,15:26:33,15,26,33,256.7,Pick Up LRU: 'Video Detector',,Local-Oscillator-(electrical),,Cathode-Ray-Tube-(electrical) Video-Amplifier-(electrical) Video-Detector-(electrical),3,1,3
+st28,HI,1,5/9/21,15:22:16,15:26:33,15,26,33,256.96,Drop LRU: 'Video Detector',,Local-Oscillator-(electrical),,Cathode-Ray-Tube-(electrical) Video-Amplifier-(electrical) Video-Detector-(electrical),3,1,3
+st28,HI,1,5/9/21,15:22:16,15:26:33,15,26,33,257.13,Pick Up LRU: 'Video Detector',,Local-Oscillator-(electrical),,Cathode-Ray-Tube-(electrical) Video-Amplifier-(electrical) Video-Detector-(electrical),3,1,3
+st28,HI,1,5/9/21,15:22:16,15:26:34,15,26,34,258.16,Drop LRU: 'Video Detector',,Local-Oscillator-(electrical),,Cathode-Ray-Tube-(electrical) Video-Amplifier-(electrical) Video-Detector-(electrical),3,1,3
+st28,HI,1,5/9/21,15:22:16,15:26:35,15,26,35,258.44,Pick Up LRU: 'Video Detector',,Local-Oscillator-(electrical),,Cathode-Ray-Tube-(electrical) Video-Amplifier-(electrical) Video-Detector-(electrical),3,1,3
+st28,HI,1,5/9/21,15:22:16,15:26:36,15,26,36,259.59,Drop LRU: 'Video Detector',,Local-Oscillator-(electrical),,Cathode-Ray-Tube-(electrical) Video-Amplifier-(electrical) Video-Detector-(electrical),3,1,3
+st28,HI,1,5/9/21,15:22:16,15:26:36,15,26,36,259.78,Pick Up LRU: 'Video Detector',,Local-Oscillator-(electrical),,Cathode-Ray-Tube-(electrical) Video-Amplifier-(electrical) Video-Detector-(electrical),3,1,3
+st28,HI,1,5/9/21,15:22:16,15:26:41,15,26,41,265.23,Drop LRU: 'Video Detector',,Local-Oscillator-(electrical),,Cathode-Ray-Tube-(electrical) Video-Amplifier-(electrical) Video-Detector-(electrical),3,1,3
+st28,HI,1,5/9/21,15:22:16,15:26:47,15,26,47,271.16,Pick Up LRU: 'Control Circuit',,Local-Oscillator-(electrical),,Cathode-Ray-Tube-(electrical) Video-Amplifier-(electrical) Video-Detector-(electrical),3,1,3
+st28,HI,1,5/9/21,15:22:16,15:26:48,15,26,48,271.6,Leave Server Box Table,,Local-Oscillator-(electrical),,Cathode-Ray-Tube-(electrical) Video-Amplifier-(electrical) Video-Detector-(electrical),3,1,3
+st28,HI,1,5/9/21,15:22:16,15:26:49,15,26,49,273,Drop LRU: 'Control Circuit',,Local-Oscillator-(electrical),,Cathode-Ray-Tube-(electrical) Video-Amplifier-(electrical) Video-Detector-(electrical),3,1,3
+st28,HI,1,5/9/21,15:22:16,15:26:50,15,26,50,273.53,Pick Up LRU: 'Control Circuit',,Local-Oscillator-(electrical),,Cathode-Ray-Tube-(electrical) Video-Amplifier-(electrical) Video-Detector-(electrical),3,1,3
+st28,HI,1,5/9/21,15:22:16,15:26:57,15,26,57,280.99,Drop LRU: 'Control Circuit',,Local-Oscillator-(electrical),,Cathode-Ray-Tube-(electrical) Video-Amplifier-(electrical) Video-Detector-(electrical),3,1,3
+st28,HI,1,5/9/21,15:22:16,15:27:01,15,27,1,284.69,Move to Server Box Table,,Local-Oscillator-(electrical),,Cathode-Ray-Tube-(electrical) Video-Amplifier-(electrical) Video-Detector-(electrical),3,1,3
+st28,HI,1,5/9/21,15:22:16,15:27:14,15,27,14,297.58,Leave Server Box Table,,Local-Oscillator-(electrical),,Cathode-Ray-Tube-(electrical) Video-Amplifier-(electrical) Video-Detector-(electrical),3,1,3
+st28,HI,1,5/9/21,15:22:16,15:27:15,15,27,15,298.43,Move to Server Box Table,,Local-Oscillator-(electrical),,Cathode-Ray-Tube-(electrical) Video-Amplifier-(electrical) Video-Detector-(electrical),3,1,3
+st28,HI,1,5/9/21,15:22:16,15:27:15,15,27,15,298.66,Leave Server Box Table,,Local-Oscillator-(electrical),,Cathode-Ray-Tube-(electrical) Video-Amplifier-(electrical) Video-Detector-(electrical),3,1,3
+st28,HI,1,5/9/21,15:22:16,15:27:15,15,27,15,299.04,Move to Spare Parts Table,,Local-Oscillator-(electrical),,Cathode-Ray-Tube-(electrical) Video-Amplifier-(electrical) Video-Detector-(electrical),3,1,3
+st28,HI,1,5/9/21,15:22:16,15:27:19,15,27,19,302.73,Leave Spare Parts Table,,Local-Oscillator-(electrical),,Cathode-Ray-Tube-(electrical) Video-Amplifier-(electrical) Video-Detector-(electrical),3,1,3
+st28,HI,1,5/9/21,15:22:16,15:27:20,15,27,20,303.7,Move to Server Box Table,,Local-Oscillator-(electrical),,Cathode-Ray-Tube-(electrical) Video-Amplifier-(electrical) Video-Detector-(electrical),3,1,3
+st28,HI,1,5/9/21,15:22:16,15:27:21,15,27,21,304.73,Leave Server Box Table,,Local-Oscillator-(electrical),,Cathode-Ray-Tube-(electrical) Video-Amplifier-(electrical) Video-Detector-(electrical),3,1,3
+st28,HI,1,5/9/21,15:22:16,15:27:21,15,27,21,305.21,Move to Server Box Table,,Local-Oscillator-(electrical),,Cathode-Ray-Tube-(electrical) Video-Amplifier-(electrical) Video-Detector-(electrical),3,1,3
+st28,HI,1,5/9/21,15:22:16,15:27:22,15,27,22,305.31,Leave Server Box Table,,Local-Oscillator-(electrical),,Cathode-Ray-Tube-(electrical) Video-Amplifier-(electrical) Video-Detector-(electrical),3,1,3
+st28,HI,1,5/9/21,15:22:16,15:27:26,15,27,26,309.72,Move to Server Box Table,,Local-Oscillator-(electrical),,Cathode-Ray-Tube-(electrical) Video-Amplifier-(electrical) Video-Detector-(electrical),3,1,3
+st28,HI,1,5/9/21,15:22:16,15:27:28,15,27,28,311.6,Leave Server Box Table,,Local-Oscillator-(electrical),,Cathode-Ray-Tube-(electrical) Video-Amplifier-(electrical) Video-Detector-(electrical),3,1,3
+st28,HI,1,5/9/21,15:22:16,15:27:28,15,27,28,311.93,Move to Spare Parts Table,,Local-Oscillator-(electrical),,Cathode-Ray-Tube-(electrical) Video-Amplifier-(electrical) Video-Detector-(electrical),3,1,3
+st28,HI,1,5/9/21,15:22:16,15:27:29,15,27,29,312.91,Leave Spare Parts Table,,Local-Oscillator-(electrical),,Cathode-Ray-Tube-(electrical) Video-Amplifier-(electrical) Video-Detector-(electrical),3,1,3
+st28,HI,1,5/9/21,15:22:16,15:27:33,15,27,33,316.6,Move to Server Box Table,,Local-Oscillator-(electrical),,Cathode-Ray-Tube-(electrical) Video-Amplifier-(electrical) Video-Detector-(electrical),3,1,3
+st28,HI,1,5/9/21,15:22:16,15:27:37,15,27,37,320.91,Pick Up LRU: 'Video Detector',,Local-Oscillator-(electrical),,Cathode-Ray-Tube-(electrical) Video-Amplifier-(electrical) Video-Detector-(electrical),3,1,3
+st28,HI,1,5/9/21,15:22:16,15:27:39,15,27,39,323.24,Drop LRU: 'Video Detector',,Local-Oscillator-(electrical),,Cathode-Ray-Tube-(electrical) Video-Amplifier-(electrical) Video-Detector-(electrical),3,1,3
+st28,HI,1,5/9/21,15:22:16,15:27:40,15,27,40,323.66,Leave Server Box Table,,Local-Oscillator-(electrical),,Cathode-Ray-Tube-(electrical) Video-Amplifier-(electrical) Video-Detector-(electrical),3,1,3
+st28,HI,1,5/9/21,15:22:16,15:27:42,15,27,42,325.36,Pick Up LRU: 'Control Circuit',,Local-Oscillator-(electrical),,Cathode-Ray-Tube-(electrical) Video-Amplifier-(electrical) Video-Detector-(electrical),3,1,3
+st28,HI,1,5/9/21,15:22:16,15:27:43,15,27,43,326.57,Drop LRU: 'Control Circuit',,Local-Oscillator-(electrical),,Cathode-Ray-Tube-(electrical) Video-Amplifier-(electrical) Video-Detector-(electrical),3,1,3
+st28,HI,1,5/9/21,15:22:16,15:27:43,15,27,43,327.06,Move to Spare Parts Table,,Local-Oscillator-(electrical),,Cathode-Ray-Tube-(electrical) Video-Amplifier-(electrical) Video-Detector-(electrical),3,1,3
+st28,HI,1,5/9/21,15:22:16,15:27:47,15,27,47,331.14,Leave Spare Parts Table,,Local-Oscillator-(electrical),,Cathode-Ray-Tube-(electrical) Video-Amplifier-(electrical) Video-Detector-(electrical),3,1,3
+st28,HI,1,5/9/21,15:22:16,15:27:48,15,27,48,331.45,Move to Server Box Table,,Local-Oscillator-(electrical),,Cathode-Ray-Tube-(electrical) Video-Amplifier-(electrical) Video-Detector-(electrical),3,1,3
+st28,HI,1,5/9/21,15:22:16,15:27:51,15,27,51,334.62,Leave Server Box Table,,Local-Oscillator-(electrical),,Cathode-Ray-Tube-(electrical) Video-Amplifier-(electrical) Video-Detector-(electrical),3,1,3
+st28,HI,1,5/9/21,15:22:16,15:27:51,15,27,51,334.93,Move to Spare Parts Table,,Local-Oscillator-(electrical),,Cathode-Ray-Tube-(electrical) Video-Amplifier-(electrical) Video-Detector-(electrical),3,1,3
+st28,HI,1,5/9/21,15:22:16,15:28:18,15,28,18,362.03,Leave Spare Parts Table,,Local-Oscillator-(electrical),,Cathode-Ray-Tube-(electrical) Video-Amplifier-(electrical) Video-Detector-(electrical),3,1,3
+st28,HI,1,5/9/21,15:22:16,15:28:19,15,28,19,362.32,Move to Server Box Table,,Local-Oscillator-(electrical),,Cathode-Ray-Tube-(electrical) Video-Amplifier-(electrical) Video-Detector-(electrical),3,1,3
+st28,HI,1,5/9/21,15:22:16,15:28:20,15,28,20,363.59,Leave Server Box Table,,Local-Oscillator-(electrical),,Cathode-Ray-Tube-(electrical) Video-Amplifier-(electrical) Video-Detector-(electrical),3,1,3
+st28,HI,1,5/9/21,15:22:16,15:28:30,15,28,30,374.12,Move to Server Box Table,,Local-Oscillator-(electrical),,Cathode-Ray-Tube-(electrical) Video-Amplifier-(electrical) Video-Detector-(electrical),3,1,3
+st28,HI,1,5/9/21,15:22:16,15:28:31,15,28,31,375.25,Pick Up LRU: 'Control Circuit',,Local-Oscillator-(electrical),,Cathode-Ray-Tube-(electrical) Video-Amplifier-(electrical) Video-Detector-(electrical),3,1,3
+st28,HI,1,5/9/21,15:22:16,15:28:36,15,28,36,379.84,Drop LRU: 'Control Circuit',,Local-Oscillator-(electrical),,Cathode-Ray-Tube-(electrical) Video-Amplifier-(electrical) Video-Detector-(electrical),3,1,3
+st28,HI,1,5/9/21,15:22:16,15:28:36,15,28,36,380.02,Pick Up LRU: 'Control Circuit',,Local-Oscillator-(electrical),,Cathode-Ray-Tube-(electrical) Video-Amplifier-(electrical) Video-Detector-(electrical),3,1,3
+st28,HI,1,5/9/21,15:22:16,15:28:38,15,28,38,381.54,Drop LRU: 'Control Circuit',,Local-Oscillator-(electrical),,Cathode-Ray-Tube-(electrical) Video-Amplifier-(electrical) Video-Detector-(electrical),3,1,3
+st28,HI,1,5/9/21,15:22:16,15:28:39,15,28,39,382.36,Leave Server Box Table,,Local-Oscillator-(electrical),,Cathode-Ray-Tube-(electrical) Video-Amplifier-(electrical) Video-Detector-(electrical),3,1,3
+st28,HI,1,5/9/21,15:22:16,15:28:40,15,28,40,383.96,Pick Up LRU: 'Control Circuit',,Local-Oscillator-(electrical),,Cathode-Ray-Tube-(electrical) Video-Amplifier-(electrical) Video-Detector-(electrical),3,1,3
+st28,HI,1,5/9/21,15:22:16,15:28:43,15,28,43,386.33,Drop LRU: 'Control Circuit',,Local-Oscillator-(electrical),,Cathode-Ray-Tube-(electrical) Video-Amplifier-(electrical) Video-Detector-(electrical),3,1,3
+st28,HI,1,5/9/21,15:22:16,15:28:47,15,28,47,390.34,Pick Up LRU: 'Control Circuit',,Local-Oscillator-(electrical),,Cathode-Ray-Tube-(electrical) Video-Amplifier-(electrical) Video-Detector-(electrical),3,1,3
+st28,HI,1,5/9/21,15:22:16,15:28:49,15,28,49,392.66,Drop LRU: 'Control Circuit',,Local-Oscillator-(electrical),,Cathode-Ray-Tube-(electrical) Video-Amplifier-(electrical) Video-Detector-(electrical),3,1,3
+st28,HI,1,5/9/21,15:22:16,15:28:51,15,28,51,394.69,Pick Up LRU: 'Control Circuit',,Local-Oscillator-(electrical),,Cathode-Ray-Tube-(electrical) Video-Amplifier-(electrical) Video-Detector-(electrical),3,1,3
+st28,HI,1,5/9/21,15:22:16,15:28:52,15,28,52,396.14,Drop LRU: 'Control Circuit',,Local-Oscillator-(electrical),,Cathode-Ray-Tube-(electrical) Video-Amplifier-(electrical) Video-Detector-(electrical),3,1,3
+st28,HI,1,5/9/21,15:22:16,15:28:54,15,28,54,397.95,Submit?,,Local-Oscillator-(electrical),,Cathode-Ray-Tube-(electrical) Video-Amplifier-(electrical) Video-Detector-(electrical),3,1,3
+st28,HI,1,5/9/21,15:22:16,15:28:55,15,28,55,399.04,Submit Confirm,,Local-Oscillator-(electrical),,Cathode-Ray-Tube-(electrical) Video-Amplifier-(electrical) Video-Detector-(electrical),3,1,3
+st28,HI,2,5/9/21,15:29:14,15:29:14,15,29,14,0,Make electrical flaw: Receiver Waveguide,,Receiver-Waveguide-(electrical),,,0,1,0
+st28,HI,2,5/9/21,15:29:14,15:29:14,15,29,14,0,Start (High Fidelity Sim),,Receiver-Waveguide-(electrical),,,0,1,0
+st28,HI,2,5/9/21,15:29:14,15:29:18,15,29,18,4.16,Move to Server Box Table,,Receiver-Waveguide-(electrical),,,0,1,0
+st28,HI,2,5/9/21,15:29:14,15:29:20,15,29,20,6.03,Swing front panel: 36.4% open,,Receiver-Waveguide-(electrical),,,0,1,0
+st28,HI,2,5/9/21,15:29:14,15:29:23,15,29,23,9.1,Move drawer: 95.4% open,Indicator,Receiver-Waveguide-(electrical),,,0,1,0
+st28,HI,2,5/9/21,15:29:14,15:29:40,15,29,40,26.27,Move drawer: 95.4% open,Processor,Receiver-Waveguide-(electrical),,,0,1,0
+st28,HI,2,5/9/21,15:29:14,15:29:47,15,29,47,32.99,Click on: 'Video Amplifier [SPARE]',,Receiver-Waveguide-(electrical),,,0,1,0
+st28,HI,2,5/9/21,15:29:14,15:29:48,15,29,48,34.19,Move drawer: 95.4% open,Processor,Receiver-Waveguide-(electrical),,,0,1,0
+st28,HI,2,5/9/21,15:29:14,15:29:49,15,29,49,34.73,Cancel disconnect: 'Video Amplifier [SPARE]',,Receiver-Waveguide-(electrical),,,0,1,0
+st28,HI,2,5/9/21,15:29:14,15:29:49,15,29,49,34.74,Move drawer: 95.4% open,Processor,Receiver-Waveguide-(electrical),,,0,1,0
+st28,HI,2,5/9/21,15:29:14,15:30:04,15,30,4,50.23,Click on: 'Mixer Detector',,Receiver-Waveguide-(electrical),,,0,1,0
+st28,HI,2,5/9/21,15:29:14,15:30:08,15,30,8,54.39,Cancel disconnect: 'Mixer Detector',,Receiver-Waveguide-(electrical),,,0,1,0
+st28,HI,2,5/9/21,15:29:14,15:30:08,15,30,8,54.39,Move drawer: 95.4% open,Processor,Receiver-Waveguide-(electrical),,,0,1,0
+st28,HI,2,5/9/21,15:29:14,15:30:19,15,30,19,65.12,Click on: 'Low Noise RF Amplifier',,Receiver-Waveguide-(electrical),,,0,1,0
+st28,HI,2,5/9/21,15:29:14,15:30:20,15,30,20,66.34,Move drawer: 95.4% open,Processor,Receiver-Waveguide-(electrical),,,0,1,0
+st28,HI,2,5/9/21,15:29:14,15:30:21,15,30,21,66.82,Cancel disconnect: 'Low Noise RF Amplifier',,Receiver-Waveguide-(electrical),,,0,1,0
+st28,HI,2,5/9/21,15:29:14,15:30:21,15,30,21,66.83,Move drawer: 95.4% open,Processor,Receiver-Waveguide-(electrical),,,0,1,0
+st28,HI,2,5/9/21,15:29:14,15:30:29,15,30,29,74.54,Move drawer: 98.4% open,Tracker,Receiver-Waveguide-(electrical),,,0,1,0
+st28,HI,2,5/9/21,15:29:14,15:30:32,15,30,32,78.01,Click on: 'Duplexer Bypass',,Receiver-Waveguide-(electrical),,,0,1,0
+st28,HI,2,5/9/21,15:29:14,15:30:33,15,30,33,79.32,Cancel disconnect: 'Duplexer Bypass',,Receiver-Waveguide-(electrical),,,0,1,0
+st28,HI,2,5/9/21,15:29:14,15:30:38,15,30,38,83.96,Click on: 'Receiver Waveguide',,Receiver-Waveguide-(electrical),,,0,1,0
+st28,HI,2,5/9/21,15:29:14,15:30:39,15,30,39,85.14,Cancel disconnect: 'Receiver Waveguide',,Receiver-Waveguide-(electrical),,,0,1,0
+st28,HI,2,5/9/21,15:29:14,15:30:43,15,30,43,88.67,Click on: 'Receiver Waveguide',,Receiver-Waveguide-(electrical),,,0,1,0
+st28,HI,2,5/9/21,15:29:14,15:30:45,15,30,45,91.24,Cancel disconnect: 'Receiver Waveguide',,Receiver-Waveguide-(electrical),,,0,1,0
+st28,HI,2,5/9/21,15:29:14,15:30:46,15,30,46,92.31,Click on: 'Receiver Waveguide',,Receiver-Waveguide-(electrical),,,0,1,0
+st28,HI,2,5/9/21,15:29:14,15:30:50,15,30,50,96.46,Cancel disconnect: 'Receiver Waveguide',,Receiver-Waveguide-(electrical),,,0,1,0
+st28,HI,2,5/9/21,15:29:14,15:30:52,15,30,52,98.05,Click on: 'Transmitter Transmission Line',,Receiver-Waveguide-(electrical),,,0,1,0
+st28,HI,2,5/9/21,15:29:14,15:30:53,15,30,53,99.25,Cancel disconnect: 'Transmitter Transmission Line',,Receiver-Waveguide-(electrical),,,0,1,0
+st28,HI,2,5/9/21,15:29:14,15:30:53,15,30,53,99.26,Move drawer: 95.4% open,Tracker,Receiver-Waveguide-(electrical),,,0,1,0
+st28,HI,2,5/9/21,15:29:14,15:30:54,15,30,54,99.76,Click on: 'Transmitter Waveguide',,Receiver-Waveguide-(electrical),,,0,1,0
+st28,HI,2,5/9/21,15:29:14,15:30:54,15,30,54,100.47,Cancel disconnect: 'Transmitter Waveguide',,Receiver-Waveguide-(electrical),,,0,1,0
+st28,HI,2,5/9/21,15:29:14,15:30:54,15,30,54,100.47,Move drawer: 95.4% open,Tracker,Receiver-Waveguide-(electrical),,,0,1,0
+st28,HI,2,5/9/21,15:29:14,15:30:57,15,30,57,102.71,Click on: 'Receiver Transmission Line',,Receiver-Waveguide-(electrical),,,0,1,0
+st28,HI,2,5/9/21,15:29:14,15:30:59,15,30,59,105.51,Cancel disconnect: 'Receiver Transmission Line',,Receiver-Waveguide-(electrical),,,0,1,0
+st28,HI,2,5/9/21,15:29:14,15:31:02,15,31,2,107.8,Click on: 'Receiver Waveguide',,Receiver-Waveguide-(electrical),,,0,1,0
+st28,HI,2,5/9/21,15:29:14,15:31:05,15,31,5,111.07,Cancel disconnect: 'Receiver Waveguide',,Receiver-Waveguide-(electrical),,,0,1,0
+st28,HI,2,5/9/21,15:29:14,15:31:11,15,31,11,117.48,Click on: 'Receiver Waveguide',,Receiver-Waveguide-(electrical),,,0,1,0
+st28,HI,2,5/9/21,15:29:14,15:31:12,15,31,12,118.4,Disconnect LRU: 'Receiver Waveguide',,Receiver-Waveguide-(electrical),,,0,1,0
+st28,HI,2,5/9/21,15:29:14,15:31:13,15,31,13,118.97,Pick Up LRU: 'Receiver Waveguide',,Receiver-Waveguide-(electrical),,,0,1,0
+st28,HI,2,5/9/21,15:29:14,15:31:14,15,31,14,119.61,Drop LRU: 'Receiver Waveguide',,Receiver-Waveguide-(electrical),,,0,1,0
+st28,HI,2,5/9/21,15:29:14,15:31:14,15,31,14,120.07,Pick Up LRU: 'Receiver Waveguide',,Receiver-Waveguide-(electrical),,,0,1,0
+st28,HI,2,5/9/21,15:29:14,15:31:15,15,31,15,120.94,Drop LRU: 'Receiver Waveguide',,Receiver-Waveguide-(electrical),,,0,1,0
+st28,HI,2,5/9/21,15:29:14,15:31:15,15,31,15,121.39,Pick Up LRU: 'Receiver Waveguide',,Receiver-Waveguide-(electrical),,,0,1,0
+st28,HI,2,5/9/21,15:29:14,15:31:17,15,31,17,122.96,Drop LRU: 'Receiver Waveguide',,Receiver-Waveguide-(electrical),,,0,1,0
+st28,HI,2,5/9/21,15:29:14,15:31:18,15,31,18,123.52,Leave Server Box Table,,Receiver-Waveguide-(electrical),,,0,1,0
+st28,HI,2,5/9/21,15:29:14,15:31:18,15,31,18,123.95,Move to Spare Parts Table,,Receiver-Waveguide-(electrical),,,0,1,0
+st28,HI,2,5/9/21,15:29:14,15:31:20,15,31,20,126.39,Pick Up LRU: 'IF Amplifier [SPARE]',,Receiver-Waveguide-(electrical),,,0,1,0
+st28,HI,2,5/9/21,15:29:14,15:31:21,15,31,21,127.39,Drop LRU: 'IF Amplifier [SPARE]',,Receiver-Waveguide-(electrical),,,0,1,0
+st28,HI,2,5/9/21,15:29:14,15:31:22,15,31,22,127.79,Pick Up LRU: 'IF Amplifier [SPARE]',,Receiver-Waveguide-(electrical),,,0,1,0
+st28,HI,2,5/9/21,15:29:14,15:31:28,15,31,28,134.22,Drop LRU: 'IF Amplifier [SPARE]',,Receiver-Waveguide-(electrical),,,0,1,0
+st28,HI,2,5/9/21,15:29:14,15:31:29,15,31,29,134.91,Leave Spare Parts Table,,Receiver-Waveguide-(electrical),,,0,1,0
+st28,HI,2,5/9/21,15:29:14,15:31:30,15,31,30,135.91,Pick Up LRU: 'IF Amplifier [SPARE]',,Receiver-Waveguide-(electrical),,,0,1,0
+st28,HI,2,5/9/21,15:29:14,15:31:31,15,31,31,136.82,Drop LRU: 'IF Amplifier [SPARE]',,Receiver-Waveguide-(electrical),,,0,1,0
+st28,HI,2,5/9/21,15:29:14,15:31:34,15,31,34,140.16,Pick Up LRU: 'IF Amplifier [SPARE]',,Receiver-Waveguide-(electrical),,,0,1,0
+st28,HI,2,5/9/21,15:29:14,15:31:37,15,31,37,142.99,Drop LRU: 'IF Amplifier [SPARE]',,Receiver-Waveguide-(electrical),,,0,1,0
+st28,HI,2,5/9/21,15:29:14,15:31:40,15,31,40,146.15,Move to Server Box Table,,Receiver-Waveguide-(electrical),,,0,1,0
+st28,HI,2,5/9/21,15:29:14,15:31:42,15,31,42,148.07,Move drawer: 0% open,Tracker,Receiver-Waveguide-(electrical),,,0,1,0
+st28,HI,2,5/9/21,15:29:14,15:31:49,15,31,49,154.56,Move drawer: 95.4% open,Tracker,Receiver-Waveguide-(electrical),,,0,1,0
+st28,HI,2,5/9/21,15:29:14,15:31:50,15,31,50,156.12,Leave Server Box Table,,Receiver-Waveguide-(electrical),,,0,1,0
+st28,HI,2,5/9/21,15:29:14,15:31:51,15,31,51,156.62,Move to Spare Parts Table,,Receiver-Waveguide-(electrical),,,0,1,0
+st28,HI,2,5/9/21,15:29:14,15:31:59,15,31,59,165.15,Pick Up LRU: 'Receiver Waveguide [SPARE]',,Receiver-Waveguide-(electrical),,,0,1,0
+st28,HI,2,5/9/21,15:29:14,15:31:59,15,31,59,165.26,Drop LRU: 'Receiver Waveguide [SPARE]',,Receiver-Waveguide-(electrical),,,0,1,0
+st28,HI,2,5/9/21,15:29:14,15:32:00,15,32,0,165.94,Pick Up LRU: 'Receiver Waveguide [SPARE]',,Receiver-Waveguide-(electrical),,,0,1,0
+st28,HI,2,5/9/21,15:29:14,15:32:01,15,32,1,167.21,Drop LRU: 'Receiver Waveguide [SPARE]',,Receiver-Waveguide-(electrical),,,0,1,0
+st28,HI,2,5/9/21,15:29:14,15:32:02,15,32,2,167.95,Pick Up LRU: 'Receiver Antenna [SPARE]',,Receiver-Waveguide-(electrical),,,0,1,0
+st28,HI,2,5/9/21,15:29:14,15:32:02,15,32,2,168.13,Drop LRU: 'Receiver Antenna [SPARE]',,Receiver-Waveguide-(electrical),,,0,1,0
+st28,HI,2,5/9/21,15:29:14,15:32:04,15,32,4,170.27,Pick Up LRU: 'Receiver Waveguide [SPARE]',,Receiver-Waveguide-(electrical),,,0,1,0
+st28,HI,2,5/9/21,15:29:14,15:32:05,15,32,5,171.26,Leave Spare Parts Table,,Receiver-Waveguide-(electrical),,,0,1,0
+st28,HI,2,5/9/21,15:29:14,15:32:06,15,32,6,172.38,Move to Server Box Table,,Receiver-Waveguide-(electrical),,,0,1,0
+st28,HI,2,5/9/21,15:29:14,15:32:08,15,32,8,174.37,Drop LRU: 'Receiver Waveguide [SPARE]',,Receiver-Waveguide-(electrical),,,0,1,0
+st28,HI,2,5/9/21,15:29:14,15:32:11,15,32,11,177.06,Pick Up LRU: 'Receiver Waveguide',,Receiver-Waveguide-(electrical),,,0,1,0
+st28,HI,2,5/9/21,15:29:14,15:32:13,15,32,13,179.03,Drop LRU: 'Receiver Waveguide',,Receiver-Waveguide-(electrical),,,0,1,0
+st28,HI,2,5/9/21,15:29:14,15:32:15,15,32,15,180.76,Pick Up LRU: 'Receiver Waveguide [SPARE]',,Receiver-Waveguide-(electrical),,,0,1,0
+st28,HI,2,5/9/21,15:29:14,15:32:17,15,32,17,182.85,Drop LRU: 'Receiver Waveguide [SPARE]',,Receiver-Waveguide-(electrical),,,0,1,0
+st28,HI,2,5/9/21,15:29:14,15:32:20,15,32,20,185.6,Pick Up LRU: 'Receiver Waveguide [SPARE]',,Receiver-Waveguide-(electrical),,,0,1,0
+st28,HI,2,5/9/21,15:29:14,15:32:24,15,32,24,190.19,Drop LRU: 'Receiver Waveguide [SPARE]',,Receiver-Waveguide-(electrical),,,0,1,0
+st28,HI,2,5/9/21,15:29:14,15:32:28,15,32,28,193.75,Pick Up LRU: 'Receiver Waveguide [SPARE]',,Receiver-Waveguide-(electrical),,,0,1,0
+st28,HI,2,5/9/21,15:29:14,15:32:32,15,32,32,197.73,Drop LRU: 'Receiver Waveguide [SPARE]',,Receiver-Waveguide-(electrical),,,0,1,0
+st28,HI,2,5/9/21,15:29:14,15:32:32,15,32,32,198.26,Pick Up LRU: 'Receiver Waveguide [SPARE]',,Receiver-Waveguide-(electrical),,,0,1,0
+st28,HI,2,5/9/21,15:29:14,15:32:34,15,32,34,200.41,Drop LRU: 'Receiver Waveguide [SPARE]',,Receiver-Waveguide-(electrical),,,0,1,0
+st28,HI,2,5/9/21,15:29:14,15:32:35,15,32,35,200.95,Pick Up LRU: 'Receiver Waveguide [SPARE]',,Receiver-Waveguide-(electrical),,,0,1,0
+st28,HI,2,5/9/21,15:29:14,15:32:42,15,32,42,208.19,Drop LRU: 'Receiver Waveguide [SPARE]',,Receiver-Waveguide-(electrical),,,0,1,0
+st28,HI,2,5/9/21,15:29:14,15:32:43,15,32,43,208.87,Move drawer: 95.4% open,Tracker,Receiver-Waveguide-(electrical),,,0,1,0
+st28,HI,2,5/9/21,15:29:14,15:32:43,15,32,43,209.5,Connect LRU: 'Receiver Waveguide [SPARE]',,Receiver-Waveguide-(electrical),,,0,1,0
+st28,HI,2,5/9/21,15:29:14,15:32:43,15,32,43,209.5,Move drawer: 95.4% open,Tracker,Receiver-Waveguide-(electrical),,,0,1,0
+st28,HI,2,5/9/21,15:29:14,15:32:47,15,32,47,212.55,Fixed Receiver Waveguide (electrical),,,Receiver-Waveguide-(electrical),,1,0,0
+st28,HI,2,5/9/21,15:29:14,15:32:47,15,32,47,212.55,Move drawer: 95.4% open,Tracker,,Receiver-Waveguide-(electrical),,1,0,0
+st28,HI,2,5/9/21,15:29:14,15:32:52,15,32,52,218.29,Submit?,,,Receiver-Waveguide-(electrical),,1,0,0
+st28,HI,2,5/9/21,15:29:14,15:32:54,15,32,54,219.89,Submit Confirm,,,Receiver-Waveguide-(electrical),,1,0,0
+st28,HI,2,5/9/21,15:29:14,15:32:54,15,32,54,219.89,Move drawer: 95.4% open,Tracker,,Receiver-Waveguide-(electrical),,1,0,0
+st28,HI,3,5/9/21,15:32:57,15:32:57,15,32,57,0,Make electrical flaw: Stage 3 Modulator,,Stage-3-Modulator-(electrical),,,0,1,0
+st28,HI,3,5/9/21,15:32:57,15:32:57,15,32,57,0,Start (High Fidelity Sim),,Stage-3-Modulator-(electrical),,,0,1,0
+st28,HI,3,5/9/21,15:32:57,15:32:57,15,32,57,0.04,Leave Server Box Table,,Stage-3-Modulator-(electrical),,,0,1,0
+st28,HI,3,5/9/21,15:32:57,15:33:00,15,33,0,2.87,Move to Server Box Table,,Stage-3-Modulator-(electrical),,,0,1,0
+st28,HI,3,5/9/21,15:32:57,15:33:01,15,33,1,3.76,Swing front panel: 66% open,,Stage-3-Modulator-(electrical),,,0,1,0
+st28,HI,3,5/9/21,15:32:57,15:33:02,15,33,2,4.76,Leave Server Box Table,,Stage-3-Modulator-(electrical),,,0,1,0
+st28,HI,3,5/9/21,15:32:57,15:33:03,15,33,3,5.17,Move to Spare Parts Table,,Stage-3-Modulator-(electrical),,,0,1,0
+st28,HI,3,5/9/21,15:32:57,15:33:03,15,33,3,5.6,Leave Spare Parts Table,,Stage-3-Modulator-(electrical),,,0,1,0
+st28,HI,3,5/9/21,15:32:57,15:33:03,15,33,3,5.93,Move to Server Box Table,,Stage-3-Modulator-(electrical),,,0,1,0
+st28,HI,3,5/9/21,15:32:57,15:33:07,15,33,7,9.64,Move drawer: 68.5% open,Tracker,Stage-3-Modulator-(electrical),,,0,1,0
+st28,HI,3,5/9/21,15:32:57,15:33:11,15,33,11,13.44,Move drawer: 77.8% open,Transmitter,Stage-3-Modulator-(electrical),,,0,1,0
+st28,HI,3,5/9/21,15:32:57,15:33:18,15,33,18,20.98,Swing front panel: 100% open,,Stage-3-Modulator-(electrical),,,0,1,0
+st28,HI,3,5/9/21,15:32:57,15:33:20,15,33,20,22.46,Move drawer: 0% open,Transmitter,Stage-3-Modulator-(electrical),,,0,1,0
+st28,HI,3,5/9/21,15:32:57,15:33:39,15,33,39,41.32,Click on: 'Transmitter Transmission Line',,Stage-3-Modulator-(electrical),,,0,1,0
+st28,HI,3,5/9/21,15:32:57,15:33:40,15,33,40,42.54,Cancel disconnect: 'Transmitter Transmission Line',,Stage-3-Modulator-(electrical),,,0,1,0
+st28,HI,3,5/9/21,15:32:57,15:33:40,15,33,40,42.55,Move drawer: 68.5% open,Tracker,Stage-3-Modulator-(electrical),,,0,1,0
+st28,HI,3,5/9/21,15:32:57,15:33:46,15,33,46,48.16,Click on: 'Receiver Antenna',,Stage-3-Modulator-(electrical),,,0,1,0
+st28,HI,3,5/9/21,15:32:57,15:33:47,15,33,47,49.45,Move drawer: 68.5% open,Tracker,Stage-3-Modulator-(electrical),,,0,1,0
+st28,HI,3,5/9/21,15:32:57,15:33:47,15,33,47,49.52,Cancel disconnect: 'Receiver Antenna',,Stage-3-Modulator-(electrical),,,0,1,0
+st28,HI,3,5/9/21,15:32:57,15:33:55,15,33,55,57.59,Move drawer: 68.5% open,Tracker,Stage-3-Modulator-(electrical),,,0,1,0
+st28,HI,3,5/9/21,15:32:57,15:33:55,15,33,55,58.09,Click on: 'Transmitter Waveguide',,Stage-3-Modulator-(electrical),,,0,1,0
+st28,HI,3,5/9/21,15:32:57,15:33:57,15,33,57,59.17,Cancel disconnect: 'Transmitter Waveguide',,Stage-3-Modulator-(electrical),,,0,1,0
+st28,HI,3,5/9/21,15:32:57,15:33:57,15,33,57,59.17,Move drawer: 68.5% open,Tracker,Stage-3-Modulator-(electrical),,,0,1,0
+st28,HI,3,5/9/21,15:32:57,15:33:58,15,33,58,60.93,Move drawer: 94% open,Transmitter,Stage-3-Modulator-(electrical),,,0,1,0
+st28,HI,3,5/9/21,15:32:57,15:34:12,15,34,12,74.53,Click on: 'RF Amplifier 3',,Stage-3-Modulator-(electrical),,,0,1,0
+st28,HI,3,5/9/21,15:32:57,15:34:13,15,34,13,75.52,Cancel disconnect: 'RF Amplifier 3',,Stage-3-Modulator-(electrical),,,0,1,0
+st28,HI,3,5/9/21,15:32:57,15:34:20,15,34,20,82.7,Click on: 'Frequency Synthesizer',,Stage-3-Modulator-(electrical),,,0,1,0
+st28,HI,3,5/9/21,15:32:57,15:34:22,15,34,22,84.83,Cancel disconnect: 'Frequency Synthesizer',,Stage-3-Modulator-(electrical),,,0,1,0
+st28,HI,3,5/9/21,15:32:57,15:34:22,15,34,22,84.83,Move drawer: 94% open,Transmitter,Stage-3-Modulator-(electrical),,,0,1,0
+st28,HI,3,5/9/21,15:32:57,15:34:33,15,34,33,95.33,Move drawer: 95.4% open,Synchronizer,Stage-3-Modulator-(electrical),,,0,1,0
+st28,HI,3,5/9/21,15:32:57,15:34:44,15,34,44,106.78,Move drawer: 0% open,Synchronizer,Stage-3-Modulator-(electrical),,,0,1,0
+st28,HI,3,5/9/21,15:32:57,15:35:04,15,35,4,126.56,Move drawer: 0% open,Synchronizer,Stage-3-Modulator-(electrical),,,0,1,0
+st28,HI,3,5/9/21,15:32:57,15:35:08,15,35,8,130.35,Click on: 'Stage 1 Modulator',,Stage-3-Modulator-(electrical),,,0,1,0
+st28,HI,3,5/9/21,15:32:57,15:35:09,15,35,9,131.44,Disconnect LRU: 'Stage 1 Modulator',,Stage-3-Modulator-(electrical),,,0,1,0
+st28,HI,3,5/9/21,15:32:57,15:35:09,15,35,9,132.07,Pick Up LRU: 'Stage 1 Modulator',,Stage-3-Modulator-(electrical),,,0,1,0
+st28,HI,3,5/9/21,15:32:57,15:35:10,15,35,10,132.83,Leave Server Box Table,,Stage-3-Modulator-(electrical),,,0,1,0
+st28,HI,3,5/9/21,15:32:57,15:35:10,15,35,10,133.11,Drop LRU: 'Stage 1 Modulator',,Stage-3-Modulator-(electrical),,,0,1,0
+st28,HI,3,5/9/21,15:32:57,15:35:12,15,35,12,134.29,Move to Spare Parts Table,,Stage-3-Modulator-(electrical),,,0,1,0
+st28,HI,3,5/9/21,15:32:57,15:35:16,15,35,16,138.73,Pick Up LRU: 'Stage 1 Modulator [SPARE]',,Stage-3-Modulator-(electrical),,,0,1,0
+st28,HI,3,5/9/21,15:32:57,15:35:19,15,35,19,141.99,Drop LRU: 'Stage 1 Modulator [SPARE]',,Stage-3-Modulator-(electrical),,,0,1,0
+st28,HI,3,5/9/21,15:32:57,15:35:20,15,35,20,142.99,Pick Up LRU: 'Stage 1 Modulator [SPARE]',,Stage-3-Modulator-(electrical),,,0,1,0
+st28,HI,3,5/9/21,15:32:57,15:35:21,15,35,21,143.97,Leave Spare Parts Table,,Stage-3-Modulator-(electrical),,,0,1,0
+st28,HI,3,5/9/21,15:32:57,15:35:22,15,35,22,145,Drop LRU: 'Stage 1 Modulator [SPARE]',,Stage-3-Modulator-(electrical),,,0,1,0
+st28,HI,3,5/9/21,15:32:57,15:35:25,15,35,25,147.27,Pick Up LRU: 'Stage 1 Modulator [SPARE]',,Stage-3-Modulator-(electrical),,,0,1,0
+st28,HI,3,5/9/21,15:32:57,15:35:28,15,35,28,150.49,Move to Server Box Table,,Stage-3-Modulator-(electrical),,,0,1,0
+st28,HI,3,5/9/21,15:32:57,15:35:33,15,35,33,155.34,Drop LRU: 'Stage 1 Modulator [SPARE]',,Stage-3-Modulator-(electrical),,,0,1,0
+st28,HI,3,5/9/21,15:32:57,15:35:34,15,35,34,156.53,Connect LRU: 'Stage 1 Modulator [SPARE]',,Stage-3-Modulator-(electrical),,,0,1,0
+st28,HI,3,5/9/21,15:32:57,15:35:37,15,35,37,159.21,Replaced unnecessarily Stage 1 Modulator (electrical),,Stage-3-Modulator-(electrical),,Stage-1-Modulator-(electrical),1,1,1
+st28,HI,3,5/9/21,15:32:57,15:35:57,15,35,57,180.09,Move drawer: 98.7% open,Transmitter,Stage-3-Modulator-(electrical),,Stage-1-Modulator-(electrical),1,1,1
+st28,HI,3,5/9/21,15:32:57,15:36:00,15,36,0,182.95,Move drawer: 95.4% open,Synchronizer,Stage-3-Modulator-(electrical),,Stage-1-Modulator-(electrical),1,1,1
+st28,HI,3,5/9/21,15:32:57,15:36:04,15,36,4,186.87,Move drawer: 0% open,Synchronizer,Stage-3-Modulator-(electrical),,Stage-1-Modulator-(electrical),1,1,1
+st28,HI,3,5/9/21,15:32:57,15:36:05,15,36,5,188.06,Click on: 'Stage 2 Modulator',,Stage-3-Modulator-(electrical),,Stage-1-Modulator-(electrical),1,1,1
+st28,HI,3,5/9/21,15:32:57,15:36:06,15,36,6,188.98,Disconnect LRU: 'Stage 2 Modulator',,Stage-3-Modulator-(electrical),,Stage-1-Modulator-(electrical),1,1,1
+st28,HI,3,5/9/21,15:32:57,15:36:06,15,36,6,188.98,Move drawer: 95.4% open,Transmitter,Stage-3-Modulator-(electrical),,Stage-1-Modulator-(electrical),1,1,1
+st28,HI,3,5/9/21,15:32:57,15:36:07,15,36,7,189.52,Pick Up LRU: 'Stage 2 Modulator',,Stage-3-Modulator-(electrical),,Stage-1-Modulator-(electrical),1,1,1
+st28,HI,3,5/9/21,15:32:57,15:36:08,15,36,8,190.25,Leave Server Box Table,,Stage-3-Modulator-(electrical),,Stage-1-Modulator-(electrical),1,1,1
+st28,HI,3,5/9/21,15:32:57,15:36:08,15,36,8,190.86,Drop LRU: 'Stage 2 Modulator',,Stage-3-Modulator-(electrical),,Stage-1-Modulator-(electrical),1,1,1
+st28,HI,3,5/9/21,15:32:57,15:36:09,15,36,9,191.83,Move to Spare Parts Table,,Stage-3-Modulator-(electrical),,Stage-1-Modulator-(electrical),1,1,1
+st28,HI,3,5/9/21,15:32:57,15:36:11,15,36,11,193.83,Pick Up LRU: 'Stage 2 Modulator [SPARE]',,Stage-3-Modulator-(electrical),,Stage-1-Modulator-(electrical),1,1,1
+st28,HI,3,5/9/21,15:32:57,15:36:13,15,36,13,195.65,Leave Spare Parts Table,,Stage-3-Modulator-(electrical),,Stage-1-Modulator-(electrical),1,1,1
+st28,HI,3,5/9/21,15:32:57,15:36:14,15,36,14,196.55,Move to Spare Parts Table,,Stage-3-Modulator-(electrical),,Stage-1-Modulator-(electrical),1,1,1
+st28,HI,3,5/9/21,15:32:57,15:36:14,15,36,14,196.93,Drop LRU: 'Stage 2 Modulator [SPARE]',,Stage-3-Modulator-(electrical),,Stage-1-Modulator-(electrical),1,1,1
+st28,HI,3,5/9/21,15:32:57,15:36:15,15,36,15,197.39,Pick Up LRU: 'Stage 2 Modulator [SPARE]',,Stage-3-Modulator-(electrical),,Stage-1-Modulator-(electrical),1,1,1
+st28,HI,3,5/9/21,15:32:57,15:36:17,15,36,17,199.89,Leave Spare Parts Table,,Stage-3-Modulator-(electrical),,Stage-1-Modulator-(electrical),1,1,1
+st28,HI,3,5/9/21,15:32:57,15:36:17,15,36,17,200.03,Drop LRU: 'Stage 2 Modulator [SPARE]',,Stage-3-Modulator-(electrical),,Stage-1-Modulator-(electrical),1,1,1
+st28,HI,3,5/9/21,15:32:57,15:36:19,15,36,19,201.71,Pick Up LRU: 'Stage 2 Modulator [SPARE]',,Stage-3-Modulator-(electrical),,Stage-1-Modulator-(electrical),1,1,1
+st28,HI,3,5/9/21,15:32:57,15:36:22,15,36,22,204.92,Drop LRU: 'Stage 2 Modulator [SPARE]',,Stage-3-Modulator-(electrical),,Stage-1-Modulator-(electrical),1,1,1
+st28,HI,3,5/9/21,15:32:57,15:36:23,15,36,23,205.21,Move to Server Box Table,,Stage-3-Modulator-(electrical),,Stage-1-Modulator-(electrical),1,1,1
+st28,HI,3,5/9/21,15:32:57,15:36:23,15,36,23,205.45,Leave Server Box Table,,Stage-3-Modulator-(electrical),,Stage-1-Modulator-(electrical),1,1,1
+st28,HI,3,5/9/21,15:32:57,15:36:23,15,36,23,206.04,Pick Up LRU: 'Stage 2 Modulator [SPARE]',,Stage-3-Modulator-(electrical),,Stage-1-Modulator-(electrical),1,1,1
+st28,HI,3,5/9/21,15:32:57,15:36:25,15,36,25,207.68,Drop LRU: 'Stage 2 Modulator [SPARE]',,Stage-3-Modulator-(electrical),,Stage-1-Modulator-(electrical),1,1,1
+st28,HI,3,5/9/21,15:32:57,15:36:29,15,36,29,211.31,Pick Up LRU: 'Stage 2 Modulator [SPARE]',,Stage-3-Modulator-(electrical),,Stage-1-Modulator-(electrical),1,1,1
+st28,HI,3,5/9/21,15:32:57,15:36:30,15,36,30,212.3,Drop LRU: 'Stage 2 Modulator [SPARE]',,Stage-3-Modulator-(electrical),,Stage-1-Modulator-(electrical),1,1,1
+st28,HI,3,5/9/21,15:32:57,15:36:30,15,36,30,212.8,Pick Up LRU: 'Stage 2 Modulator [SPARE]',,Stage-3-Modulator-(electrical),,Stage-1-Modulator-(electrical),1,1,1
+st28,HI,3,5/9/21,15:32:57,15:36:35,15,36,35,217.24,Drop LRU: 'Stage 2 Modulator [SPARE]',,Stage-3-Modulator-(electrical),,Stage-1-Modulator-(electrical),1,1,1
+st28,HI,3,5/9/21,15:32:57,15:36:35,15,36,35,217.45,Move to Server Box Table,,Stage-3-Modulator-(electrical),,Stage-1-Modulator-(electrical),1,1,1
+st28,HI,3,5/9/21,15:32:57,15:36:37,15,36,37,220,Pick Up LRU: 'Stage 2 Modulator [SPARE]',,Stage-3-Modulator-(electrical),,Stage-1-Modulator-(electrical),1,1,1
+st28,HI,3,5/9/21,15:32:57,15:36:40,15,36,40,223.11,Drop LRU: 'Stage 2 Modulator [SPARE]',,Stage-3-Modulator-(electrical),,Stage-1-Modulator-(electrical),1,1,1
+st28,HI,3,5/9/21,15:32:57,15:36:44,15,36,44,226.64,Pick Up LRU: 'Stage 2 Modulator [SPARE]',,Stage-3-Modulator-(electrical),,Stage-1-Modulator-(electrical),1,1,1
+st28,HI,3,5/9/21,15:32:57,15:36:49,15,36,49,231.39,Drop LRU: 'Stage 2 Modulator [SPARE]',,Stage-3-Modulator-(electrical),,Stage-1-Modulator-(electrical),1,1,1
+st28,HI,3,5/9/21,15:32:57,15:36:50,15,36,50,232.2,Connect LRU: 'Stage 2 Modulator [SPARE]',,Stage-3-Modulator-(electrical),,Stage-1-Modulator-(electrical),1,1,1
+st28,HI,3,5/9/21,15:32:57,15:36:50,15,36,50,233.03,Replaced unnecessarily Stage 2 Modulator (electrical),,Stage-3-Modulator-(electrical),,Stage-1-Modulator-(electrical) Stage-2-Modulator-(electrical),2,1,2
+st28,HI,3,5/9/21,15:32:57,15:36:56,15,36,56,238.22,Click on: 'RF Amplifier 3',,Stage-3-Modulator-(electrical),,Stage-1-Modulator-(electrical) Stage-2-Modulator-(electrical),2,1,2
+st28,HI,3,5/9/21,15:32:57,15:36:57,15,36,57,239.31,Cancel disconnect: 'RF Amplifier 3',,Stage-3-Modulator-(electrical),,Stage-1-Modulator-(electrical) Stage-2-Modulator-(electrical),2,1,2
+st28,HI,3,5/9/21,15:32:57,15:37:00,15,37,0,242.83,Click on: 'Stage 3 Modulator',,Stage-3-Modulator-(electrical),,Stage-1-Modulator-(electrical) Stage-2-Modulator-(electrical),2,1,2
+st28,HI,3,5/9/21,15:32:57,15:37:01,15,37,1,244.02,Disconnect LRU: 'Stage 3 Modulator',,Stage-3-Modulator-(electrical),,Stage-1-Modulator-(electrical) Stage-2-Modulator-(electrical),2,1,2
+st28,HI,3,5/9/21,15:32:57,15:37:04,15,37,4,246.35,Pick Up LRU: 'Stage 3 Modulator',,Stage-3-Modulator-(electrical),,Stage-1-Modulator-(electrical) Stage-2-Modulator-(electrical),2,1,2
+st28,HI,3,5/9/21,15:32:57,15:37:05,15,37,5,247.29,Drop LRU: 'Stage 3 Modulator',,Stage-3-Modulator-(electrical),,Stage-1-Modulator-(electrical) Stage-2-Modulator-(electrical),2,1,2
+st28,HI,3,5/9/21,15:32:57,15:37:05,15,37,5,248.03,Connect LRU: 'Stage 3 Modulator',,Stage-3-Modulator-(electrical),,Stage-1-Modulator-(electrical) Stage-2-Modulator-(electrical),2,1,2
+st28,HI,3,5/9/21,15:32:57,15:37:06,15,37,6,248.89,Leave Server Box Table,,Stage-3-Modulator-(electrical),,Stage-1-Modulator-(electrical) Stage-2-Modulator-(electrical),2,1,2
+st28,HI,3,5/9/21,15:32:57,15:37:10,15,37,10,252.77,Pick Up LRU: 'Stage 1 Modulator',,Stage-3-Modulator-(electrical),,Stage-1-Modulator-(electrical) Stage-2-Modulator-(electrical),2,1,2
+st28,HI,3,5/9/21,15:32:57,15:37:11,15,37,11,253.94,Drop LRU: 'Stage 1 Modulator',,Stage-3-Modulator-(electrical),,Stage-1-Modulator-(electrical) Stage-2-Modulator-(electrical),2,1,2
+st28,HI,3,5/9/21,15:32:57,15:37:13,15,37,13,255.25,Move to Server Box Table,,Stage-3-Modulator-(electrical),,Stage-1-Modulator-(electrical) Stage-2-Modulator-(electrical),2,1,2
+st28,HI,3,5/9/21,15:32:57,15:37:14,15,37,14,256.53,Click on: 'Stage 3 Modulator',,Stage-3-Modulator-(electrical),,Stage-1-Modulator-(electrical) Stage-2-Modulator-(electrical),2,1,2
+st28,HI,3,5/9/21,15:32:57,15:37:15,15,37,15,257.34,Disconnect LRU: 'Stage 3 Modulator',,Stage-3-Modulator-(electrical),,Stage-1-Modulator-(electrical) Stage-2-Modulator-(electrical),2,1,2
+st28,HI,3,5/9/21,15:32:57,15:37:15,15,37,15,258,Move drawer: 95.4% open,Transmitter,Stage-3-Modulator-(electrical),,Stage-1-Modulator-(electrical) Stage-2-Modulator-(electrical),2,1,2
+st28,HI,3,5/9/21,15:32:57,15:37:16,15,37,16,258.61,Connect LRU: 'Stage 3 Modulator',,Stage-3-Modulator-(electrical),,Stage-1-Modulator-(electrical) Stage-2-Modulator-(electrical),2,1,2
+st28,HI,3,5/9/21,15:32:57,15:37:17,15,37,17,259.3,Click on: 'Stage 3 Modulator',,Stage-3-Modulator-(electrical),,Stage-1-Modulator-(electrical) Stage-2-Modulator-(electrical),2,1,2
+st28,HI,3,5/9/21,15:32:57,15:37:17,15,37,17,260.1,Disconnect LRU: 'Stage 3 Modulator',,Stage-3-Modulator-(electrical),,Stage-1-Modulator-(electrical) Stage-2-Modulator-(electrical),2,1,2
+st28,HI,3,5/9/21,15:32:57,15:37:17,15,37,17,260.1,Move drawer: 95.4% open,Transmitter,Stage-3-Modulator-(electrical),,Stage-1-Modulator-(electrical) Stage-2-Modulator-(electrical),2,1,2
+st28,HI,3,5/9/21,15:32:57,15:37:18,15,37,18,260.73,Cancel connect: 'Stage 3 Modulator',,Stage-3-Modulator-(electrical),,Stage-1-Modulator-(electrical) Stage-2-Modulator-(electrical),2,1,2
+st28,HI,3,5/9/21,15:32:57,15:37:19,15,37,19,261.3,Pick Up LRU: 'Stage 3 Modulator',,Stage-3-Modulator-(electrical),,Stage-1-Modulator-(electrical) Stage-2-Modulator-(electrical),2,1,2
+st28,HI,3,5/9/21,15:32:57,15:37:19,15,37,19,261.9,Drop LRU: 'Stage 3 Modulator',,Stage-3-Modulator-(electrical),,Stage-1-Modulator-(electrical) Stage-2-Modulator-(electrical),2,1,2
+st28,HI,3,5/9/21,15:32:57,15:37:20,15,37,20,262.35,Leave Server Box Table,,Stage-3-Modulator-(electrical),,Stage-1-Modulator-(electrical) Stage-2-Modulator-(electrical),2,1,2
+st28,HI,3,5/9/21,15:32:57,15:37:20,15,37,20,262.71,Move to Spare Parts Table,,Stage-3-Modulator-(electrical),,Stage-1-Modulator-(electrical) Stage-2-Modulator-(electrical),2,1,2
+st28,HI,3,5/9/21,15:32:57,15:37:37,15,37,37,279.64,Submit?,,Stage-3-Modulator-(electrical),,Stage-1-Modulator-(electrical) Stage-2-Modulator-(electrical),2,1,2
+st28,HI,3,5/9/21,15:32:57,15:37:39,15,37,39,281.83,Submit Confirm,,Stage-3-Modulator-(electrical),,Stage-1-Modulator-(electrical) Stage-2-Modulator-(electrical),2,1,2
+st28,HI,4,5/9/21,15:37:45,15:37:45,15,37,45,0,Make electrical flaw: Sine Wave Oscillator,,Sine-Wave-Oscillator-(electrical),,,0,1,0
+st28,HI,4,5/9/21,15:37:45,15:37:45,15,37,45,0,Start (High Fidelity Sim),,Sine-Wave-Oscillator-(electrical),,,0,1,0
+st28,HI,4,5/9/21,15:37:45,15:37:46,15,37,46,0.04,Leave Spare Parts Table,,Sine-Wave-Oscillator-(electrical),,,0,1,0

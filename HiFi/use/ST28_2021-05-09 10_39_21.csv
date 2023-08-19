@@ -1,0 +1,729 @@
+subject,subject_group,round,round_start_date_utc,round_start_time_utc,current_time_utc,current_hour24,current_minute,current_second,current_elapsed_seconds,event,ui_tab,active_faults,fixed_faults,fixed_nonfaults,ReplacedComponents,FaultsRemaining,ReplacedNonFaults
+ST28,HI,1,5/9/21,14:39:21,14:39:21,14,39,21,0.04,Make electrical flaw: Sweep Control Circuit,,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST28,HI,1,5/9/21,14:39:21,14:39:21,14,39,21,0.04,Start (High Fidelity Sim),,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST28,HI,1,5/9/21,14:39:21,14:40:56,14,40,56,95,Move to Server Box Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST28,HI,1,5/9/21,14:39:21,14:40:58,14,40,58,96.79,Swing front panel: 0.2% open,,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST28,HI,1,5/9/21,14:39:21,14:41:00,14,41,0,98.74,Swing front panel: 21.7% open,,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST28,HI,1,5/9/21,14:39:21,14:41:03,14,41,3,101.66,Move drawer: 90.6% open,Synchronizer,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST28,HI,1,5/9/21,14:39:21,14:41:10,14,41,10,109.3,Move drawer: 24.2% open,Synchronizer,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST28,HI,1,5/9/21,14:39:21,14:41:12,14,41,12,111.1,Move drawer: 92.6% open,Tracker,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST28,HI,1,5/9/21,14:39:21,14:41:15,14,41,15,113.48,Move drawer: 0% open,Tracker,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST28,HI,1,5/9/21,14:39:21,14:41:16,14,41,16,115.36,Move drawer: 81.8% open,Processor,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST28,HI,1,5/9/21,14:39:21,14:41:19,14,41,19,117.53,Move drawer: 0% open,Processor,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST28,HI,1,5/9/21,14:39:21,14:41:20,14,41,20,119.28,Move drawer: 73% open,Indicator,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST28,HI,1,5/9/21,14:39:21,14:41:25,14,41,25,123.76,Click on: 'Cathode Ray Tube',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST28,HI,1,5/9/21,14:39:21,14:41:27,14,41,27,126.11,Cancel disconnect: 'Cathode Ray Tube',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST28,HI,1,5/9/21,14:39:21,14:41:30,14,41,30,128.99,Move drawer: 95.4% open,Indicator,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST28,HI,1,5/9/21,14:39:21,14:41:57,14,41,57,155.86,Leave Server Box Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST28,HI,1,5/9/21,14:39:21,14:41:57,14,41,57,156.14,Move to Spare Parts Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST28,HI,1,5/9/21,14:39:21,14:42:10,14,42,10,169.16,Leave Spare Parts Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST28,HI,1,5/9/21,14:39:21,14:42:11,14,42,11,169.5,Move to Server Box Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST28,HI,1,5/9/21,14:39:21,14:42:16,14,42,16,175.14,Move drawer: 95.4% open,Indicator,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST28,HI,1,5/9/21,14:39:21,14:42:24,14,42,24,182.55,Move drawer: 0% open,Processor,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST28,HI,1,5/9/21,14:39:21,14:42:27,14,42,27,185.42,Move drawer: 18.4% open,Tracker,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST28,HI,1,5/9/21,14:39:21,14:42:29,14,42,29,187.46,Move drawer: 7.3% open,Synchronizer,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST28,HI,1,5/9/21,14:39:21,14:42:32,14,42,32,190.74,Leave Server Box Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST28,HI,1,5/9/21,14:39:21,14:42:32,14,42,32,191.06,Move to Spare Parts Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST28,HI,1,5/9/21,14:39:21,14:42:37,14,42,37,195.9,Pick Up LRU: 'Cathode Ray Tube [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST28,HI,1,5/9/21,14:39:21,14:42:37,14,42,37,196.07,Drop LRU: 'Cathode Ray Tube [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST28,HI,1,5/9/21,14:39:21,14:42:38,14,42,38,196.5,Pick Up LRU: 'Cathode Ray Tube [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST28,HI,1,5/9/21,14:39:21,14:42:39,14,42,39,197.82,Leave Spare Parts Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST28,HI,1,5/9/21,14:39:21,14:42:39,14,42,39,198.26,Move to Spare Parts Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST28,HI,1,5/9/21,14:39:21,14:42:40,14,42,40,198.66,Drop LRU: 'Cathode Ray Tube [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST28,HI,1,5/9/21,14:39:21,14:42:41,14,42,41,199.58,Pick Up LRU: 'Cathode Ray Tube [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST28,HI,1,5/9/21,14:39:21,14:42:43,14,42,43,201.58,Leave Spare Parts Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST28,HI,1,5/9/21,14:39:21,14:42:43,14,42,43,201.92,Move to Server Box Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST28,HI,1,5/9/21,14:39:21,14:42:46,14,42,46,204.48,Drop LRU: 'Cathode Ray Tube [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST28,HI,1,5/9/21,14:39:21,14:42:49,14,42,49,207.99,Pick Up LRU: 'Cathode Ray Tube [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST28,HI,1,5/9/21,14:39:21,14:42:50,14,42,50,208.84,Drop LRU: 'Cathode Ray Tube [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST28,HI,1,5/9/21,14:39:21,14:42:51,14,42,51,209.75,Pick Up LRU: 'Cathode Ray Tube [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST28,HI,1,5/9/21,14:39:21,14:42:52,14,42,52,210.87,Drop LRU: 'Cathode Ray Tube [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST28,HI,1,5/9/21,14:39:21,14:42:53,14,42,53,212.08,Pick Up LRU: 'Cathode Ray Tube [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST28,HI,1,5/9/21,14:39:21,14:42:56,14,42,56,215.12,Drop LRU: 'Cathode Ray Tube [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST28,HI,1,5/9/21,14:39:21,14:43:00,14,43,0,218.56,Pick Up LRU: 'Cathode Ray Tube [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST28,HI,1,5/9/21,14:39:21,14:43:01,14,43,1,219.56,Drop LRU: 'Cathode Ray Tube [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST28,HI,1,5/9/21,14:39:21,14:43:01,14,43,1,219.97,Pick Up LRU: 'Cathode Ray Tube [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST28,HI,1,5/9/21,14:39:21,14:43:06,14,43,6,224.66,Drop LRU: 'Cathode Ray Tube [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST28,HI,1,5/9/21,14:39:21,14:43:07,14,43,7,225.92,Leave Server Box Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST28,HI,1,5/9/21,14:39:21,14:43:14,14,43,14,232.96,Move to Server Box Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST28,HI,1,5/9/21,14:39:21,14:43:14,14,43,14,233.14,Leave Server Box Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST28,HI,1,5/9/21,14:39:21,14:43:15,14,43,15,233.74,Move to Server Box Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST28,HI,1,5/9/21,14:39:21,14:43:20,14,43,20,239.1,Leave Server Box Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST28,HI,1,5/9/21,14:39:21,14:43:21,14,43,21,239.46,Move to Spare Parts Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST28,HI,1,5/9/21,14:39:21,14:43:23,14,43,23,241.54,Leave Spare Parts Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST28,HI,1,5/9/21,14:39:21,14:43:28,14,43,28,246.42,Move to Server Box Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST28,HI,1,5/9/21,14:39:21,14:43:29,14,43,29,248.22,Leave Server Box Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST28,HI,1,5/9/21,14:39:21,14:43:30,14,43,30,248.56,Move to Spare Parts Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST28,HI,1,5/9/21,14:39:21,14:43:33,14,43,33,251.54,Leave Spare Parts Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST28,HI,1,5/9/21,14:39:21,14:43:37,14,43,37,256,Move to Server Box Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST28,HI,1,5/9/21,14:39:21,14:43:44,14,43,44,263.13,Move drawer: 13.7% open,Tracker,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST28,HI,1,5/9/21,14:39:21,14:43:48,14,43,48,266.48,Leave Server Box Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST28,HI,1,5/9/21,14:39:21,14:43:49,14,43,49,268.36,Move to Server Box Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST28,HI,1,5/9/21,14:39:21,14:43:56,14,43,56,274.65,Move drawer: 0% open,Tracker,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST28,HI,1,5/9/21,14:39:21,14:43:58,14,43,58,277.08,Leave Server Box Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST28,HI,1,5/9/21,14:39:21,14:44:02,14,44,2,280.7,Move to Server Box Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST28,HI,1,5/9/21,14:39:21,14:44:04,14,44,4,283.13,Submit?,,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST28,HI,1,5/9/21,14:39:21,14:44:07,14,44,7,285.51,Submit Confirm,,Sweep-Control-Circuit-(electrical),,,0,1,0
+ST28,HI,2,5/9/21,14:44:08,14:44:08,14,44,8,0,Make electrical flaw: AFC Mixer,,AFC-Mixer-(electrical),,,0,1,0
+ST28,HI,2,5/9/21,14:44:08,14:44:08,14,44,8,0,Start (High Fidelity Sim),,AFC-Mixer-(electrical),,,0,1,0
+ST28,HI,2,5/9/21,14:44:08,14:44:11,14,44,11,2.29,Leave Server Box Table,,AFC-Mixer-(electrical),,,0,1,0
+ST28,HI,2,5/9/21,14:44:08,14:44:12,14,44,12,3.94,Move to Server Box Table,,AFC-Mixer-(electrical),,,0,1,0
+ST28,HI,2,5/9/21,14:44:08,14:44:14,14,44,14,5.33,Swing front panel: 36.3% open,,AFC-Mixer-(electrical),,,0,1,0
+ST28,HI,2,5/9/21,14:44:08,14:44:17,14,44,17,8.45,Move drawer: 3.7% open,Transmitter,AFC-Mixer-(electrical),,,0,1,0
+ST28,HI,2,5/9/21,14:44:08,14:44:17,14,44,17,8.69,Move drawer: 3.7% open,Transmitter,AFC-Mixer-(electrical),,,0,1,0
+ST28,HI,2,5/9/21,14:44:08,14:44:18,14,44,18,10.06,Move drawer: 95.4% open,Transmitter,AFC-Mixer-(electrical),,,0,1,0
+ST28,HI,2,5/9/21,14:44:08,14:44:22,14,44,22,13.64,Move drawer: 0% open,Synchronizer,AFC-Mixer-(electrical),,,0,1,0
+ST28,HI,2,5/9/21,14:44:08,14:44:26,14,44,26,17.66,Move drawer: 95.4% open,Transmitter,AFC-Mixer-(electrical),,,0,1,0
+ST28,HI,2,5/9/21,14:44:08,14:44:27,14,44,27,18.57,Move drawer: 95.4% open,Transmitter,AFC-Mixer-(electrical),,,0,1,0
+ST28,HI,2,5/9/21,14:44:08,14:44:27,14,44,27,18.95,Move drawer: 95.4% open,Transmitter,AFC-Mixer-(electrical),,,0,1,0
+ST28,HI,2,5/9/21,14:44:08,14:44:28,14,44,28,19.27,Move drawer: 95.4% open,Transmitter,AFC-Mixer-(electrical),,,0,1,0
+ST28,HI,2,5/9/21,14:44:08,14:44:28,14,44,28,19.46,Move drawer: 95.4% open,Transmitter,AFC-Mixer-(electrical),,,0,1,0
+ST28,HI,2,5/9/21,14:44:08,14:44:29,14,44,29,20.54,Click on: 'RF Amplifier 1',,AFC-Mixer-(electrical),,,0,1,0
+ST28,HI,2,5/9/21,14:44:08,14:44:31,14,44,31,23.11,Disconnect LRU: 'RF Amplifier 1',,AFC-Mixer-(electrical),,,0,1,0
+ST28,HI,2,5/9/21,14:44:08,14:44:32,14,44,32,23.79,Pick Up LRU: 'RF Amplifier 1',,AFC-Mixer-(electrical),,,0,1,0
+ST28,HI,2,5/9/21,14:44:08,14:44:33,14,44,33,25.02,Leave Server Box Table,,AFC-Mixer-(electrical),,,0,1,0
+ST28,HI,2,5/9/21,14:44:08,14:44:36,14,44,36,27.79,Drop LRU: 'RF Amplifier 1',,AFC-Mixer-(electrical),,,0,1,0
+ST28,HI,2,5/9/21,14:44:08,14:44:37,14,44,37,28.5,Move to Spare Parts Table,,AFC-Mixer-(electrical),,,0,1,0
+ST28,HI,2,5/9/21,14:44:08,14:44:40,14,44,40,31.67,Pick Up LRU: 'RF Amplifier 1 [SPARE]',,AFC-Mixer-(electrical),,,0,1,0
+ST28,HI,2,5/9/21,14:44:08,14:44:41,14,44,41,33.16,Leave Spare Parts Table,,AFC-Mixer-(electrical),,,0,1,0
+ST28,HI,2,5/9/21,14:44:08,14:44:42,14,44,42,33.44,Move to Server Box Table,,AFC-Mixer-(electrical),,,0,1,0
+ST28,HI,2,5/9/21,14:44:08,14:44:42,14,44,42,34.11,Drop LRU: 'RF Amplifier 1 [SPARE]',,AFC-Mixer-(electrical),,,0,1,0
+ST28,HI,2,5/9/21,14:44:08,14:44:44,14,44,44,35.37,Pick Up LRU: 'RF Amplifier 1 [SPARE]',,AFC-Mixer-(electrical),,,0,1,0
+ST28,HI,2,5/9/21,14:44:08,14:44:54,14,44,54,46.16,Drop LRU: 'RF Amplifier 1 [SPARE]',,AFC-Mixer-(electrical),,,0,1,0
+ST28,HI,2,5/9/21,14:44:08,14:44:55,14,44,55,46.59,Pick Up LRU: 'RF Amplifier 1 [SPARE]',,AFC-Mixer-(electrical),,,0,1,0
+ST28,HI,2,5/9/21,14:44:08,14:44:59,14,44,59,51.19,Drop LRU: 'RF Amplifier 1 [SPARE]',,AFC-Mixer-(electrical),,,0,1,0
+ST28,HI,2,5/9/21,14:44:08,14:45:00,14,45,0,51.65,Pick Up LRU: 'RF Amplifier 1 [SPARE]',,AFC-Mixer-(electrical),,,0,1,0
+ST28,HI,2,5/9/21,14:44:08,14:45:02,14,45,2,53.99,Leave Server Box Table,,AFC-Mixer-(electrical),,,0,1,0
+ST28,HI,2,5/9/21,14:44:08,14:45:03,14,45,3,54.65,Drop LRU: 'RF Amplifier 1 [SPARE]',,AFC-Mixer-(electrical),,,0,1,0
+ST28,HI,2,5/9/21,14:44:08,14:45:03,14,45,3,55.24,Move to Server Box Table,,AFC-Mixer-(electrical),,,0,1,0
+ST28,HI,2,5/9/21,14:44:08,14:45:05,14,45,5,56.51,Pick Up LRU: 'RF Amplifier 1 [SPARE]',,AFC-Mixer-(electrical),,,0,1,0
+ST28,HI,2,5/9/21,14:44:08,14:45:08,14,45,8,60.09,Drop LRU: 'RF Amplifier 1 [SPARE]',,AFC-Mixer-(electrical),,,0,1,0
+ST28,HI,2,5/9/21,14:44:08,14:45:09,14,45,9,60.39,Pick Up LRU: 'RF Amplifier 1 [SPARE]',,AFC-Mixer-(electrical),,,0,1,0
+ST28,HI,2,5/9/21,14:44:08,14:45:13,14,45,13,64.68,Drop LRU: 'RF Amplifier 1 [SPARE]',,AFC-Mixer-(electrical),,,0,1,0
+ST28,HI,2,5/9/21,14:44:08,14:45:15,14,45,15,67.18,Pick Up LRU: 'RF Amplifier 1 [SPARE]',,AFC-Mixer-(electrical),,,0,1,0
+ST28,HI,2,5/9/21,14:44:08,14:45:26,14,45,26,78.12,Drop LRU: 'RF Amplifier 1 [SPARE]',,AFC-Mixer-(electrical),,,0,1,0
+ST28,HI,2,5/9/21,14:44:08,14:45:27,14,45,27,78.85,Pick Up LRU: 'RF Amplifier 1 [SPARE]',,AFC-Mixer-(electrical),,,0,1,0
+ST28,HI,2,5/9/21,14:44:08,14:45:31,14,45,31,83.06,Drop LRU: 'RF Amplifier 1 [SPARE]',,AFC-Mixer-(electrical),,,0,1,0
+ST28,HI,2,5/9/21,14:44:08,14:45:32,14,45,32,83.34,Pick Up LRU: 'RF Amplifier 1 [SPARE]',,AFC-Mixer-(electrical),,,0,1,0
+ST28,HI,2,5/9/21,14:44:08,14:45:42,14,45,42,93.64,Drop LRU: 'RF Amplifier 1 [SPARE]',,AFC-Mixer-(electrical),,,0,1,0
+ST28,HI,2,5/9/21,14:44:08,14:45:42,14,45,42,94.21,Pick Up LRU: 'RF Amplifier 1 [SPARE]',,AFC-Mixer-(electrical),,,0,1,0
+ST28,HI,2,5/9/21,14:44:08,14:45:44,14,45,44,95.38,Drop LRU: 'RF Amplifier 1 [SPARE]',,AFC-Mixer-(electrical),,,0,1,0
+ST28,HI,2,5/9/21,14:44:08,14:45:44,14,45,44,95.64,Pick Up LRU: 'RF Amplifier 1 [SPARE]',,AFC-Mixer-(electrical),,,0,1,0
+ST28,HI,2,5/9/21,14:44:08,14:45:45,14,45,45,96.63,Drop LRU: 'RF Amplifier 1 [SPARE]',,AFC-Mixer-(electrical),,,0,1,0
+ST28,HI,2,5/9/21,14:44:08,14:45:45,14,45,45,96.89,Pick Up LRU: 'RF Amplifier 1 [SPARE]',,AFC-Mixer-(electrical),,,0,1,0
+ST28,HI,2,5/9/21,14:44:08,14:45:51,14,45,51,103.02,Drop LRU: 'RF Amplifier 1 [SPARE]',,AFC-Mixer-(electrical),,,0,1,0
+ST28,HI,2,5/9/21,14:44:08,14:45:52,14,45,52,103.63,Pick Up LRU: 'RF Amplifier 1 [SPARE]',,AFC-Mixer-(electrical),,,0,1,0
+ST28,HI,2,5/9/21,14:44:08,14:45:53,14,45,53,104.56,Drop LRU: 'RF Amplifier 1 [SPARE]',,AFC-Mixer-(electrical),,,0,1,0
+ST28,HI,2,5/9/21,14:44:08,14:45:54,14,45,54,106.11,Connect LRU: 'RF Amplifier 1 [SPARE]',,AFC-Mixer-(electrical),,,0,1,0
+ST28,HI,2,5/9/21,14:44:08,14:45:57,14,45,57,109.23,Replaced unnecessarily RF Amplifier 1 (electrical),,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical),1,1,1
+ST28,HI,2,5/9/21,14:44:08,14:46:00,14,46,0,111.7,Move drawer: 95.4% open,Transmitter,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical),1,1,1
+ST28,HI,2,5/9/21,14:44:08,14:46:01,14,46,1,113.09,Move drawer: 95.4% open,Transmitter,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical),1,1,1
+ST28,HI,2,5/9/21,14:44:08,14:46:08,14,46,8,119.72,Move drawer: 99.5% open,Synchronizer,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical),1,1,1
+ST28,HI,2,5/9/21,14:44:08,14:46:22,14,46,22,133.37,Move drawer: 0% open,Synchronizer,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical),1,1,1
+ST28,HI,2,5/9/21,14:44:08,14:46:25,14,46,25,136.8,Click on: 'Frequency Synthesizer',,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical),1,1,1
+ST28,HI,2,5/9/21,14:44:08,14:46:27,14,46,27,139.08,Cancel disconnect: 'Frequency Synthesizer',,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical),1,1,1
+ST28,HI,2,5/9/21,14:44:08,14:46:27,14,46,27,139.08,Move drawer: 95.4% open,Transmitter,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical),1,1,1
+ST28,HI,2,5/9/21,14:44:08,14:46:29,14,46,29,140.46,Move drawer: 95.4% open,Transmitter,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical),1,1,1
+ST28,HI,2,5/9/21,14:44:08,14:46:29,14,46,29,140.88,Move drawer: 95.4% open,Transmitter,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical),1,1,1
+ST28,HI,2,5/9/21,14:44:08,14:46:30,14,46,30,141.46,Move drawer: 95.4% open,Transmitter,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical),1,1,1
+ST28,HI,2,5/9/21,14:44:08,14:46:30,14,46,30,142.24,Move drawer: 95.4% open,Transmitter,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical),1,1,1
+ST28,HI,2,5/9/21,14:44:08,14:46:31,14,46,31,142.85,Move drawer: 95.4% open,Transmitter,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical),1,1,1
+ST28,HI,2,5/9/21,14:44:08,14:46:32,14,46,32,144.06,Move drawer: 96.2% open,Transmitter,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical),1,1,1
+ST28,HI,2,5/9/21,14:44:08,14:46:33,14,46,33,144.67,Move drawer: 95.4% open,Transmitter,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical),1,1,1
+ST28,HI,2,5/9/21,14:44:08,14:46:33,14,46,33,144.93,Move drawer: 95.4% open,Transmitter,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical),1,1,1
+ST28,HI,2,5/9/21,14:44:08,14:46:33,14,46,33,145.21,Move drawer: 95.3% open,Transmitter,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical),1,1,1
+ST28,HI,2,5/9/21,14:44:08,14:46:34,14,46,34,145.44,Move drawer: 95.3% open,Transmitter,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical),1,1,1
+ST28,HI,2,5/9/21,14:44:08,14:46:34,14,46,34,145.5,Move drawer: 95.3% open,Transmitter,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical),1,1,1
+ST28,HI,2,5/9/21,14:44:08,14:46:34,14,46,34,146.17,Move drawer: 95.3% open,Transmitter,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical),1,1,1
+ST28,HI,2,5/9/21,14:44:08,14:46:35,14,46,35,146.43,Move drawer: 95.3% open,Transmitter,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical),1,1,1
+ST28,HI,2,5/9/21,14:44:08,14:46:35,14,46,35,147.13,Move drawer: 95.3% open,Transmitter,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical),1,1,1
+ST28,HI,2,5/9/21,14:44:08,14:46:38,14,46,38,149.47,Click on: 'Stage 3 Modulator',,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical),1,1,1
+ST28,HI,2,5/9/21,14:44:08,14:46:39,14,46,39,150.77,Cancel disconnect: 'Stage 3 Modulator',,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical),1,1,1
+ST28,HI,2,5/9/21,14:44:08,14:46:39,14,46,39,150.78,Move drawer: 95.3% open,Transmitter,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical),1,1,1
+ST28,HI,2,5/9/21,14:44:08,14:46:44,14,46,44,156.15,Move drawer: 95.4% open,Transmitter,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical),1,1,1
+ST28,HI,2,5/9/21,14:44:08,14:46:50,14,46,50,161.97,Click on: 'Stage 3 Modulator',,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical),1,1,1
+ST28,HI,2,5/9/21,14:44:08,14:46:52,14,46,52,163.58,Cancel disconnect: 'Stage 3 Modulator',,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical),1,1,1
+ST28,HI,2,5/9/21,14:44:08,14:46:52,14,46,52,163.58,Move drawer: 95.4% open,Transmitter,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical),1,1,1
+ST28,HI,2,5/9/21,14:44:08,14:46:54,14,46,54,165.46,Click on: 'RF Amplifier 3',,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical),1,1,1
+ST28,HI,2,5/9/21,14:44:08,14:46:55,14,46,55,166.55,Cancel disconnect: 'RF Amplifier 3',,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical),1,1,1
+ST28,HI,2,5/9/21,14:44:08,14:46:55,14,46,55,166.56,Move drawer: 95.4% open,Transmitter,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical),1,1,1
+ST28,HI,2,5/9/21,14:44:08,14:47:09,14,47,9,181.1,Click on: 'RF Amplifier 3',,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical),1,1,1
+ST28,HI,2,5/9/21,14:44:08,14:47:13,14,47,13,185.12,Cancel disconnect: 'RF Amplifier 3',,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical),1,1,1
+ST28,HI,2,5/9/21,14:44:08,14:47:13,14,47,13,185.13,Move drawer: 95.5% open,Transmitter,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical),1,1,1
+ST28,HI,2,5/9/21,14:44:08,14:47:17,14,47,17,189.07,Click on: 'Stage 3 Modulator',,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical),1,1,1
+ST28,HI,2,5/9/21,14:44:08,14:47:25,14,47,25,196.29,Cancel disconnect: 'Stage 3 Modulator',,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical),1,1,1
+ST28,HI,2,5/9/21,14:44:08,14:47:25,14,47,25,196.29,Move drawer: 95.4% open,Transmitter,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical),1,1,1
+ST28,HI,2,5/9/21,14:44:08,14:47:55,14,47,55,226.76,Move drawer: 0% open,Synchronizer,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical),1,1,1
+ST28,HI,2,5/9/21,14:44:08,14:47:56,14,47,56,227.33,Move drawer: 0% open,Synchronizer,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical),1,1,1
+ST28,HI,2,5/9/21,14:44:08,14:47:56,14,47,56,227.68,Move drawer: 0% open,Synchronizer,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical),1,1,1
+ST28,HI,2,5/9/21,14:44:08,14:47:56,14,47,56,227.93,Move drawer: 0% open,Synchronizer,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical),1,1,1
+ST28,HI,2,5/9/21,14:44:08,14:48:00,14,48,0,231.71,Move drawer: 4.9% open,Synchronizer,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical),1,1,1
+ST28,HI,2,5/9/21,14:44:08,14:48:02,14,48,2,234.07,Move drawer: 0% open,Transmitter,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical),1,1,1
+ST28,HI,2,5/9/21,14:44:08,14:48:05,14,48,5,236.35,Move drawer: 95.4% open,Processor,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical),1,1,1
+ST28,HI,2,5/9/21,14:44:08,14:48:24,14,48,24,255.92,Click on: 'AFC Amplifier',,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical),1,1,1
+ST28,HI,2,5/9/21,14:44:08,14:48:32,14,48,32,263.29,Cancel disconnect: 'AFC Amplifier',,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical),1,1,1
+ST28,HI,2,5/9/21,14:44:08,14:48:32,14,48,32,263.29,Move drawer: 95.4% open,Processor,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical),1,1,1
+ST28,HI,2,5/9/21,14:44:08,14:48:33,14,48,33,264.94,Click on: 'Video Amplifier',,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical),1,1,1
+ST28,HI,2,5/9/21,14:44:08,14:48:44,14,48,44,275.99,Cancel disconnect: 'Video Amplifier',,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical),1,1,1
+ST28,HI,2,5/9/21,14:44:08,14:48:44,14,48,44,275.99,Move drawer: 95.4% open,Processor,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical),1,1,1
+ST28,HI,2,5/9/21,14:44:08,14:48:45,14,48,45,276.85,Leave Server Box Table,,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical),1,1,1
+ST28,HI,2,5/9/21,14:44:08,14:48:45,14,48,45,277.1,Move to Spare Parts Table,,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical),1,1,1
+ST28,HI,2,5/9/21,14:44:08,14:48:54,14,48,54,285.59,Pick Up LRU: 'Video Amplifier [SPARE]',,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical),1,1,1
+ST28,HI,2,5/9/21,14:44:08,14:48:54,14,48,54,286.12,Drop LRU: 'Video Amplifier [SPARE]',,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical),1,1,1
+ST28,HI,2,5/9/21,14:44:08,14:49:01,14,49,1,292.39,Pick Up LRU: 'Video Amplifier [SPARE]',,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical),1,1,1
+ST28,HI,2,5/9/21,14:44:08,14:49:01,14,49,1,292.89,Drop LRU: 'Video Amplifier [SPARE]',,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical),1,1,1
+ST28,HI,2,5/9/21,14:44:08,14:49:01,14,49,1,292.92,Pick Up LRU: 'Video Amplifier [SPARE]',,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical),1,1,1
+ST28,HI,2,5/9/21,14:44:08,14:49:01,14,49,1,292.95,Drop LRU: 'Video Amplifier [SPARE]',,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical),1,1,1
+ST28,HI,2,5/9/21,14:44:08,14:49:03,14,49,3,294.77,Pick Up LRU: 'IF Amplifier [SPARE]',,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical),1,1,1
+ST28,HI,2,5/9/21,14:44:08,14:49:03,14,49,3,294.88,Drop LRU: 'IF Amplifier [SPARE]',,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical),1,1,1
+ST28,HI,2,5/9/21,14:44:08,14:49:04,14,49,4,295.34,Pick Up LRU: 'IF Amplifier [SPARE]',,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical),1,1,1
+ST28,HI,2,5/9/21,14:44:08,14:49:04,14,49,4,295.45,Drop LRU: 'IF Amplifier [SPARE]',,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical),1,1,1
+ST28,HI,2,5/9/21,14:44:08,14:49:05,14,49,5,296.44,Leave Spare Parts Table,,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical),1,1,1
+ST28,HI,2,5/9/21,14:44:08,14:49:05,14,49,5,296.77,Move to Server Box Table,,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical),1,1,1
+ST28,HI,2,5/9/21,14:44:08,14:49:20,14,49,20,311.34,Click on: 'IF Amplifier',,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical),1,1,1
+ST28,HI,2,5/9/21,14:44:08,14:49:21,14,49,21,312.3,Cancel disconnect: 'IF Amplifier',,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical),1,1,1
+ST28,HI,2,5/9/21,14:44:08,14:49:21,14,49,21,312.31,Move drawer: 95.4% open,Processor,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical),1,1,1
+ST28,HI,2,5/9/21,14:44:08,14:49:26,14,49,26,318.04,Click on: 'Video Detector',,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical),1,1,1
+ST28,HI,2,5/9/21,14:44:08,14:49:27,14,49,27,319.1,Disconnect LRU: 'Video Detector',,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical),1,1,1
+ST28,HI,2,5/9/21,14:44:08,14:49:27,14,49,27,319.1,Move drawer: 95.4% open,Processor,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical),1,1,1
+ST28,HI,2,5/9/21,14:44:08,14:49:28,14,49,28,319.89,Pick Up LRU: 'Video Detector',,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical),1,1,1
+ST28,HI,2,5/9/21,14:44:08,14:49:30,14,49,30,322,Leave Server Box Table,,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical),1,1,1
+ST28,HI,2,5/9/21,14:44:08,14:49:31,14,49,31,322.98,Drop LRU: 'Video Detector',,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical),1,1,1
+ST28,HI,2,5/9/21,14:44:08,14:49:32,14,49,32,323.83,Move to Spare Parts Table,,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical),1,1,1
+ST28,HI,2,5/9/21,14:44:08,14:49:52,14,49,52,343.38,Pick Up LRU: 'Video Detector [SPARE]',,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical),1,1,1
+ST28,HI,2,5/9/21,14:44:08,14:49:53,14,49,53,344.4,Leave Spare Parts Table,,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical),1,1,1
+ST28,HI,2,5/9/21,14:44:08,14:49:54,14,49,54,345.46,Move to Server Box Table,,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical),1,1,1
+ST28,HI,2,5/9/21,14:44:08,14:49:54,14,49,54,346,Drop LRU: 'Video Detector [SPARE]',,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical),1,1,1
+ST28,HI,2,5/9/21,14:44:08,14:49:58,14,49,58,349.56,Leave Server Box Table,,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical),1,1,1
+ST28,HI,2,5/9/21,14:44:08,14:49:59,14,49,59,350.51,Pick Up LRU: 'Video Detector [SPARE]',,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical),1,1,1
+ST28,HI,2,5/9/21,14:44:08,14:50:01,14,50,1,352.78,Move to Server Box Table,,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical),1,1,1
+ST28,HI,2,5/9/21,14:44:08,14:50:02,14,50,2,353.76,Drop LRU: 'Video Detector [SPARE]',,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical),1,1,1
+ST28,HI,2,5/9/21,14:44:08,14:50:03,14,50,3,354.34,Pick Up LRU: 'Video Detector [SPARE]',,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical),1,1,1
+ST28,HI,2,5/9/21,14:44:08,14:50:05,14,50,5,356.29,Drop LRU: 'Video Detector [SPARE]',,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical),1,1,1
+ST28,HI,2,5/9/21,14:44:08,14:50:10,14,50,10,361.53,Pick Up LRU: 'Video Detector [SPARE]',,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical),1,1,1
+ST28,HI,2,5/9/21,14:44:08,14:50:13,14,50,13,365.24,Leave Server Box Table,,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical),1,1,1
+ST28,HI,2,5/9/21,14:44:08,14:50:14,14,50,14,365.41,Drop LRU: 'Video Detector [SPARE]',,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical),1,1,1
+ST28,HI,2,5/9/21,14:44:08,14:50:14,14,50,14,365.68,Pick Up LRU: 'Video Detector [SPARE]',,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical),1,1,1
+ST28,HI,2,5/9/21,14:44:08,14:50:17,14,50,17,368.56,Move to Server Box Table,,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical),1,1,1
+ST28,HI,2,5/9/21,14:44:08,14:50:19,14,50,19,371.17,Drop LRU: 'Video Detector [SPARE]',,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical),1,1,1
+ST28,HI,2,5/9/21,14:44:08,14:50:20,14,50,20,372.11,Connect LRU: 'Video Detector [SPARE]',,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical),1,1,1
+ST28,HI,2,5/9/21,14:44:08,14:50:20,14,50,20,372.11,Move drawer: 95.4% open,Processor,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical),1,1,1
+ST28,HI,2,5/9/21,14:44:08,14:50:21,14,50,21,373.2,Replaced unnecessarily Video Detector (electrical),,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical),2,1,2
+ST28,HI,2,5/9/21,14:44:08,14:50:21,14,50,21,373.2,Move drawer: 95.4% open,Processor,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical),2,1,2
+ST28,HI,2,5/9/21,14:44:08,14:50:29,14,50,29,380.71,Click on: 'Video Detector [SPARE]',,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical),2,1,2
+ST28,HI,2,5/9/21,14:44:08,14:50:30,14,50,30,382.22,Cancel disconnect: 'Video Detector [SPARE]',,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical),2,1,2
+ST28,HI,2,5/9/21,14:44:08,14:50:30,14,50,30,382.22,Move drawer: 95.4% open,Processor,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical),2,1,2
+ST28,HI,2,5/9/21,14:44:08,14:50:43,14,50,43,394.9,Move drawer: 95.4% open,Processor,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical),2,1,2
+ST28,HI,2,5/9/21,14:44:08,14:50:44,14,50,44,395.58,Move drawer: 93% open,Processor,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical),2,1,2
+ST28,HI,2,5/9/21,14:44:08,14:50:45,14,50,45,396.75,Move drawer: 95.4% open,Processor,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical),2,1,2
+ST28,HI,2,5/9/21,14:44:08,14:50:47,14,50,47,398.5,Leave Server Box Table,,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical),2,1,2
+ST28,HI,2,5/9/21,14:44:08,14:50:47,14,50,47,398.78,Move to Spare Parts Table,,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical),2,1,2
+ST28,HI,2,5/9/21,14:44:08,14:50:54,14,50,54,405.73,Leave Spare Parts Table,,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical),2,1,2
+ST28,HI,2,5/9/21,14:44:08,14:50:55,14,50,55,406.49,Move to Server Box Table,,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical),2,1,2
+ST28,HI,2,5/9/21,14:44:08,14:50:57,14,50,57,409.02,Click on: 'Video Amplifier',,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical),2,1,2
+ST28,HI,2,5/9/21,14:44:08,14:51:00,14,51,0,411.47,Disconnect LRU: 'Video Amplifier',,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical),2,1,2
+ST28,HI,2,5/9/21,14:44:08,14:51:00,14,51,0,412.15,Pick Up LRU: 'Video Amplifier',,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical),2,1,2
+ST28,HI,2,5/9/21,14:44:08,14:51:02,14,51,2,413.51,Drop LRU: 'Video Amplifier',,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical),2,1,2
+ST28,HI,2,5/9/21,14:44:08,14:51:02,14,51,2,414.19,Leave Server Box Table,,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical),2,1,2
+ST28,HI,2,5/9/21,14:44:08,14:51:03,14,51,3,414.52,Move to Spare Parts Table,,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical),2,1,2
+ST28,HI,2,5/9/21,14:44:08,14:51:07,14,51,7,418.58,Pick Up LRU: 'Video Amplifier [SPARE]',,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical),2,1,2
+ST28,HI,2,5/9/21,14:44:08,14:51:08,14,51,8,419.55,Leave Spare Parts Table,,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical),2,1,2
+ST28,HI,2,5/9/21,14:44:08,14:51:08,14,51,8,419.82,Move to Server Box Table,,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical),2,1,2
+ST28,HI,2,5/9/21,14:44:08,14:51:11,14,51,11,423.14,Drop LRU: 'Video Amplifier [SPARE]',,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical),2,1,2
+ST28,HI,2,5/9/21,14:44:08,14:51:12,14,51,12,423.67,Pick Up LRU: 'Video Amplifier [SPARE]',,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical),2,1,2
+ST28,HI,2,5/9/21,14:44:08,14:51:12,14,51,12,424.1,Drop LRU: 'Video Amplifier [SPARE]',,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical),2,1,2
+ST28,HI,2,5/9/21,14:44:08,14:51:15,14,51,15,426.3,Click on: 'Mixer Detector',,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical),2,1,2
+ST28,HI,2,5/9/21,14:44:08,14:51:17,14,51,17,428.4,Cancel disconnect: 'Mixer Detector',,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical),2,1,2
+ST28,HI,2,5/9/21,14:44:08,14:51:17,14,51,17,429.01,Pick Up LRU: 'Video Amplifier [SPARE]',,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical),2,1,2
+ST28,HI,2,5/9/21,14:44:08,14:51:22,14,51,22,433.93,Drop LRU: 'Video Amplifier [SPARE]',,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical),2,1,2
+ST28,HI,2,5/9/21,14:44:08,14:51:23,14,51,23,434.99,Connect LRU: 'Video Amplifier [SPARE]',,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical),2,1,2
+ST28,HI,2,5/9/21,14:44:08,14:51:24,14,51,24,435.86,Replaced unnecessarily Video Amplifier (electrical),,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical),3,1,3
+ST28,HI,2,5/9/21,14:44:08,14:51:29,14,51,29,441.19,Move drawer: 95.4% open,Processor,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical),3,1,3
+ST28,HI,2,5/9/21,14:44:08,14:51:30,14,51,30,441.89,Move drawer: 95.4% open,Processor,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical),3,1,3
+ST28,HI,2,5/9/21,14:44:08,14:51:30,14,51,30,442.25,Move drawer: 95.4% open,Processor,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical),3,1,3
+ST28,HI,2,5/9/21,14:44:08,14:51:42,14,51,42,453.28,Move drawer: 89.9% open,Tracker,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical),3,1,3
+ST28,HI,2,5/9/21,14:44:08,14:51:44,14,51,44,455.52,Move drawer: 95.4% open,Transmitter,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical),3,1,3
+ST28,HI,2,5/9/21,14:44:08,14:51:49,14,51,49,460.54,Move drawer: 0% open,Synchronizer,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical),3,1,3
+ST28,HI,2,5/9/21,14:44:08,14:51:50,14,51,50,462.04,Move drawer: 95.4% open,Transmitter,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical),3,1,3
+ST28,HI,2,5/9/21,14:44:08,14:51:50,14,51,50,462.25,Move drawer: 95.4% open,Transmitter,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical),3,1,3
+ST28,HI,2,5/9/21,14:44:08,14:51:51,14,51,51,462.42,Move drawer: 95.4% open,Transmitter,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical),3,1,3
+ST28,HI,2,5/9/21,14:44:08,14:51:51,14,51,51,463.11,Move drawer: 95.3% open,Transmitter,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical),3,1,3
+ST28,HI,2,5/9/21,14:44:08,14:51:52,14,51,52,463.3,Move drawer: 95.4% open,Transmitter,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical),3,1,3
+ST28,HI,2,5/9/21,14:44:08,14:51:52,14,51,52,463.47,Move drawer: 95.5% open,Transmitter,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical),3,1,3
+ST28,HI,2,5/9/21,14:44:08,14:51:52,14,51,52,463.65,Move drawer: 95.4% open,Transmitter,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical),3,1,3
+ST28,HI,2,5/9/21,14:44:08,14:51:54,14,51,54,465.98,Move drawer: 95.5% open,Transmitter,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical),3,1,3
+ST28,HI,2,5/9/21,14:44:08,14:51:55,14,51,55,466.43,Move drawer: 95.4% open,Transmitter,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical),3,1,3
+ST28,HI,2,5/9/21,14:44:08,14:51:55,14,51,55,466.83,Move drawer: 95.4% open,Transmitter,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical),3,1,3
+ST28,HI,2,5/9/21,14:44:08,14:51:56,14,51,56,467.62,Move drawer: 95.4% open,Transmitter,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical),3,1,3
+ST28,HI,2,5/9/21,14:44:08,14:51:56,14,51,56,467.97,Move drawer: 95.4% open,Transmitter,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical),3,1,3
+ST28,HI,2,5/9/21,14:44:08,14:51:56,14,51,56,468.18,Move drawer: 95.3% open,Transmitter,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical),3,1,3
+ST28,HI,2,5/9/21,14:44:08,14:51:57,14,51,57,468.96,Move drawer: 95.5% open,Transmitter,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical),3,1,3
+ST28,HI,2,5/9/21,14:44:08,14:51:58,14,51,58,469.39,Move drawer: 95.4% open,Transmitter,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical),3,1,3
+ST28,HI,2,5/9/21,14:44:08,14:51:59,14,51,59,471.26,Move drawer: 73.3% open,Transmitter,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical),3,1,3
+ST28,HI,2,5/9/21,14:44:08,14:52:01,14,52,1,472.4,Move drawer: 95.1% open,Transmitter,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical),3,1,3
+ST28,HI,2,5/9/21,14:44:08,14:52:14,14,52,14,485.49,Move drawer: 95.4% open,Synchronizer,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical),3,1,3
+ST28,HI,2,5/9/21,14:44:08,14:52:15,14,52,15,486.37,Click on: 'Limiter',,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical),3,1,3
+ST28,HI,2,5/9/21,14:44:08,14:52:15,14,52,15,487.13,Disconnect LRU: 'Limiter',,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical),3,1,3
+ST28,HI,2,5/9/21,14:44:08,14:52:15,14,52,15,487.13,Move drawer: 95.4% open,Synchronizer,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical),3,1,3
+ST28,HI,2,5/9/21,14:44:08,14:52:16,14,52,16,487.75,Pick Up LRU: 'Limiter',,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical),3,1,3
+ST28,HI,2,5/9/21,14:44:08,14:52:19,14,52,19,490.86,Drop LRU: 'Limiter',,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical),3,1,3
+ST28,HI,2,5/9/21,14:44:08,14:52:22,14,52,22,493.88,Leave Server Box Table,,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical),3,1,3
+ST28,HI,2,5/9/21,14:44:08,14:52:22,14,52,22,494.18,Move to Spare Parts Table,,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical),3,1,3
+ST28,HI,2,5/9/21,14:44:08,14:52:28,14,52,28,499.33,Leave Spare Parts Table,,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical),3,1,3
+ST28,HI,2,5/9/21,14:44:08,14:52:28,14,52,28,499.7,Move to Spare Parts Table,,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical),3,1,3
+ST28,HI,2,5/9/21,14:44:08,14:52:36,14,52,36,507.96,Pick Up LRU: 'Limiter [SPARE]',,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical),3,1,3
+ST28,HI,2,5/9/21,14:44:08,14:52:37,14,52,37,508.85,Leave Spare Parts Table,,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical),3,1,3
+ST28,HI,2,5/9/21,14:44:08,14:52:37,14,52,37,509.24,Move to Server Box Table,,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical),3,1,3
+ST28,HI,2,5/9/21,14:44:08,14:52:40,14,52,40,512.18,Drop LRU: 'Limiter [SPARE]',,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical),3,1,3
+ST28,HI,2,5/9/21,14:44:08,14:52:41,14,52,41,512.98,Swing front panel: 84% open,,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical),3,1,3
+ST28,HI,2,5/9/21,14:44:08,14:52:42,14,52,42,513.7,Leave Server Box Table,,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical),3,1,3
+ST28,HI,2,5/9/21,14:44:08,14:52:44,14,52,44,515.36,Move to Server Box Table,,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical),3,1,3
+ST28,HI,2,5/9/21,14:44:08,14:52:45,14,52,45,517.08,Pick Up LRU: 'Limiter [SPARE]',,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical),3,1,3
+ST28,HI,2,5/9/21,14:44:08,14:52:47,14,52,47,518.94,Leave Server Box Table,,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical),3,1,3
+ST28,HI,2,5/9/21,14:44:08,14:52:48,14,52,48,519.37,Drop LRU: 'Limiter [SPARE]',,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical),3,1,3
+ST28,HI,2,5/9/21,14:44:08,14:52:51,14,52,51,522.77,Pick Up LRU: 'Limiter [SPARE]',,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical),3,1,3
+ST28,HI,2,5/9/21,14:44:08,14:52:52,14,52,52,523.75,Drop LRU: 'Limiter [SPARE]',,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical),3,1,3
+ST28,HI,2,5/9/21,14:44:08,14:52:53,14,52,53,524.39,Pick Up LRU: 'Limiter [SPARE]',,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical),3,1,3
+ST28,HI,2,5/9/21,14:44:08,14:52:55,14,52,55,527.01,Drop LRU: 'Limiter [SPARE]',,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical),3,1,3
+ST28,HI,2,5/9/21,14:44:08,14:52:56,14,52,56,528.05,Connect LRU: 'Limiter [SPARE]',,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical),3,1,3
+ST28,HI,2,5/9/21,14:44:08,14:52:59,14,52,59,530.82,Replaced unnecessarily Limiter (electrical),,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical) Limiter-(electrical),4,1,4
+ST28,HI,2,5/9/21,14:44:08,14:53:00,14,53,0,531.47,Move to Server Box Table,,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical) Limiter-(electrical),4,1,4
+ST28,HI,2,5/9/21,14:44:08,14:53:05,14,53,5,536.43,Move drawer: 56.4% open,Synchronizer,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical) Limiter-(electrical),4,1,4
+ST28,HI,2,5/9/21,14:44:08,14:53:06,14,53,6,538.04,Move drawer: -3.3% open,Synchronizer,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical) Limiter-(electrical),4,1,4
+ST28,HI,2,5/9/21,14:44:08,14:53:18,14,53,18,550.07,Pick Up LRU: 'Video Detector',,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical) Limiter-(electrical),4,1,4
+ST28,HI,2,5/9/21,14:44:08,14:53:20,14,53,20,551.49,Drop LRU: 'Video Detector',,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical) Limiter-(electrical),4,1,4
+ST28,HI,2,5/9/21,14:44:08,14:53:21,14,53,21,552.29,Pick Up LRU: 'Video Detector',,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical) Limiter-(electrical),4,1,4
+ST28,HI,2,5/9/21,14:44:08,14:53:23,14,53,23,554.46,Drop LRU: 'Video Detector',,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical) Limiter-(electrical),4,1,4
+ST28,HI,2,5/9/21,14:44:08,14:53:26,14,53,26,557.32,Leave Server Box Table,,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical) Limiter-(electrical),4,1,4
+ST28,HI,2,5/9/21,14:44:08,14:53:29,14,53,29,560.45,Move to Server Box Table,,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical) Limiter-(electrical),4,1,4
+ST28,HI,2,5/9/21,14:44:08,14:53:33,14,53,33,564.82,Leave Server Box Table,,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical) Limiter-(electrical),4,1,4
+ST28,HI,2,5/9/21,14:44:08,14:53:34,14,53,34,566.02,Move to Server Box Table,,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical) Limiter-(electrical),4,1,4
+ST28,HI,2,5/9/21,14:44:08,14:53:35,14,53,35,566.71,Leave Server Box Table,,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical) Limiter-(electrical),4,1,4
+ST28,HI,2,5/9/21,14:44:08,14:53:36,14,53,36,567.42,Move to Server Box Table,,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical) Limiter-(electrical),4,1,4
+ST28,HI,2,5/9/21,14:44:08,14:53:40,14,53,40,571.51,Click on: 'RF Amplifier 3',,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical) Limiter-(electrical),4,1,4
+ST28,HI,2,5/9/21,14:44:08,14:53:42,14,53,42,573.69,Disconnect LRU: 'RF Amplifier 3',,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical) Limiter-(electrical),4,1,4
+ST28,HI,2,5/9/21,14:44:08,14:53:42,14,53,42,573.69,Move drawer: 95.1% open,Transmitter,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical) Limiter-(electrical),4,1,4
+ST28,HI,2,5/9/21,14:44:08,14:53:43,14,53,43,574.59,Pick Up LRU: 'RF Amplifier 3',,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical) Limiter-(electrical),4,1,4
+ST28,HI,2,5/9/21,14:44:08,14:53:44,14,53,44,575.39,Drop LRU: 'RF Amplifier 3',,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical) Limiter-(electrical),4,1,4
+ST28,HI,2,5/9/21,14:44:08,14:53:45,14,53,45,576.84,Connect LRU: 'RF Amplifier 3',,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical) Limiter-(electrical),4,1,4
+ST28,HI,2,5/9/21,14:44:08,14:53:45,14,53,45,576.84,Move drawer: 95.1% open,Transmitter,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical) Limiter-(electrical),4,1,4
+ST28,HI,2,5/9/21,14:44:08,14:53:46,14,53,46,577.55,Click on: 'RF Amplifier 3',,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical) Limiter-(electrical),4,1,4
+ST28,HI,2,5/9/21,14:44:08,14:53:47,14,53,47,578.62,Disconnect LRU: 'RF Amplifier 3',,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical) Limiter-(electrical),4,1,4
+ST28,HI,2,5/9/21,14:44:08,14:53:47,14,53,47,578.62,Move drawer: 95% open,Transmitter,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical) Limiter-(electrical),4,1,4
+ST28,HI,2,5/9/21,14:44:08,14:53:49,14,53,49,581.11,Move drawer: 95% open,Transmitter,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical) Limiter-(electrical),4,1,4
+ST28,HI,2,5/9/21,14:44:08,14:53:50,14,53,50,581.81,Cancel connect: 'RF Amplifier 3',,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical) Limiter-(electrical),4,1,4
+ST28,HI,2,5/9/21,14:44:08,14:53:50,14,53,50,581.81,Move drawer: 95% open,Transmitter,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical) Limiter-(electrical),4,1,4
+ST28,HI,2,5/9/21,14:44:08,14:53:51,14,53,51,582.56,Pick Up LRU: 'RF Amplifier 3',,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical) Limiter-(electrical),4,1,4
+ST28,HI,2,5/9/21,14:44:08,14:53:52,14,53,52,584.17,Leave Server Box Table,,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical) Limiter-(electrical),4,1,4
+ST28,HI,2,5/9/21,14:44:08,14:53:53,14,53,53,584.88,Drop LRU: 'RF Amplifier 3',,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical) Limiter-(electrical),4,1,4
+ST28,HI,2,5/9/21,14:44:08,14:53:54,14,53,54,585.72,Move to Spare Parts Table,,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical) Limiter-(electrical),4,1,4
+ST28,HI,2,5/9/21,14:44:08,14:54:07,14,54,7,598.78,Leave Spare Parts Table,,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical) Limiter-(electrical),4,1,4
+ST28,HI,2,5/9/21,14:44:08,14:54:09,14,54,9,600.77,Pick Up LRU: 'RF Amplifier 3',,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical) Limiter-(electrical),4,1,4
+ST28,HI,2,5/9/21,14:44:08,14:54:09,14,54,9,600.89,Drop LRU: 'RF Amplifier 3',,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical) Limiter-(electrical),4,1,4
+ST28,HI,2,5/9/21,14:44:08,14:54:10,14,54,10,601.29,Pick Up LRU: 'RF Amplifier 3',,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical) Limiter-(electrical),4,1,4
+ST28,HI,2,5/9/21,14:44:08,14:54:10,14,54,10,601.4,Drop LRU: 'RF Amplifier 3',,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical) Limiter-(electrical),4,1,4
+ST28,HI,2,5/9/21,14:44:08,14:54:12,14,54,12,603.91,Pick Up LRU: 'RF Amplifier 3',,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical) Limiter-(electrical),4,1,4
+ST28,HI,2,5/9/21,14:44:08,14:54:14,14,54,14,605.85,Drop LRU: 'RF Amplifier 3',,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical) Limiter-(electrical),4,1,4
+ST28,HI,2,5/9/21,14:44:08,14:54:15,14,54,15,606.62,Move to Spare Parts Table,,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical) Limiter-(electrical),4,1,4
+ST28,HI,2,5/9/21,14:44:08,14:54:26,14,54,26,617.35,Pick Up LRU: 'RF Amplifier 3 [SPARE]',,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical) Limiter-(electrical),4,1,4
+ST28,HI,2,5/9/21,14:44:08,14:54:26,14,54,26,617.9,Leave Spare Parts Table,,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical) Limiter-(electrical),4,1,4
+ST28,HI,2,5/9/21,14:44:08,14:54:26,14,54,26,618.22,Move to Server Box Table,,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical) Limiter-(electrical),4,1,4
+ST28,HI,2,5/9/21,14:44:08,14:54:29,14,54,29,620.39,Drop LRU: 'RF Amplifier 3 [SPARE]',,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical) Limiter-(electrical),4,1,4
+ST28,HI,2,5/9/21,14:44:08,14:54:29,14,54,29,621.08,Pick Up LRU: 'RF Amplifier 3 [SPARE]',,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical) Limiter-(electrical),4,1,4
+ST28,HI,2,5/9/21,14:44:08,14:54:33,14,54,33,624.34,Drop LRU: 'RF Amplifier 3 [SPARE]',,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical) Limiter-(electrical),4,1,4
+ST28,HI,2,5/9/21,14:44:08,14:54:35,14,54,35,627.03,Swing front panel: 59.7% open,,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical) Limiter-(electrical),4,1,4
+ST28,HI,2,5/9/21,14:44:08,14:54:41,14,54,41,633.05,Pick Up LRU: 'RF Amplifier 3 [SPARE]',,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical) Limiter-(electrical),4,1,4
+ST28,HI,2,5/9/21,14:44:08,14:54:48,14,54,48,639.76,Drop LRU: 'RF Amplifier 3 [SPARE]',,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical) Limiter-(electrical),4,1,4
+ST28,HI,2,5/9/21,14:44:08,14:54:48,14,54,48,640.11,Pick Up LRU: 'RF Amplifier 3 [SPARE]',,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical) Limiter-(electrical),4,1,4
+ST28,HI,2,5/9/21,14:44:08,14:54:49,14,54,49,640.97,Drop LRU: 'RF Amplifier 3 [SPARE]',,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical) Limiter-(electrical),4,1,4
+ST28,HI,2,5/9/21,14:44:08,14:54:51,14,54,51,642.89,Pick Up LRU: 'RF Amplifier 3 [SPARE]',,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical) Limiter-(electrical),4,1,4
+ST28,HI,2,5/9/21,14:44:08,14:54:52,14,54,52,643.97,Drop LRU: 'RF Amplifier 3 [SPARE]',,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical) Limiter-(electrical),4,1,4
+ST28,HI,2,5/9/21,14:44:08,14:54:53,14,54,53,644.42,Pick Up LRU: 'RF Amplifier 3 [SPARE]',,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical) Limiter-(electrical),4,1,4
+ST28,HI,2,5/9/21,14:44:08,14:54:58,14,54,58,649.44,Drop LRU: 'RF Amplifier 3 [SPARE]',,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical) Limiter-(electrical),4,1,4
+ST28,HI,2,5/9/21,14:44:08,14:54:59,14,54,59,650.31,Pick Up LRU: 'RF Amplifier 3 [SPARE]',,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical) Limiter-(electrical),4,1,4
+ST28,HI,2,5/9/21,14:44:08,14:54:59,14,54,59,650.73,Drop LRU: 'RF Amplifier 3 [SPARE]',,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical) Limiter-(electrical),4,1,4
+ST28,HI,2,5/9/21,14:44:08,14:54:59,14,54,59,651.21,Pick Up LRU: 'RF Amplifier 3 [SPARE]',,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical) Limiter-(electrical),4,1,4
+ST28,HI,2,5/9/21,14:44:08,14:55:02,14,55,2,653.86,Drop LRU: 'RF Amplifier 3 [SPARE]',,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical) Limiter-(electrical),4,1,4
+ST28,HI,2,5/9/21,14:44:08,14:55:03,14,55,3,654.65,Connect LRU: 'RF Amplifier 3 [SPARE]',,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical) Limiter-(electrical),4,1,4
+ST28,HI,2,5/9/21,14:44:08,14:55:03,14,55,3,654.66,Move drawer: 95% open,Transmitter,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical) Limiter-(electrical),4,1,4
+ST28,HI,2,5/9/21,14:44:08,14:55:04,14,55,4,655.78,Replaced unnecessarily RF Amplifier 3 (electrical),,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical) Limiter-(electrical) RF-Amplifier-3-(electrical),5,1,5
+ST28,HI,2,5/9/21,14:44:08,14:55:04,14,55,4,655.78,Move drawer: 95% open,Transmitter,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical) Limiter-(electrical) RF-Amplifier-3-(electrical),5,1,5
+ST28,HI,2,5/9/21,14:44:08,14:55:21,14,55,21,672.27,Move drawer: 95.4% open,Transmitter,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical) Limiter-(electrical) RF-Amplifier-3-(electrical),5,1,5
+ST28,HI,2,5/9/21,14:44:08,14:55:23,14,55,23,675.18,Leave Server Box Table,,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical) Limiter-(electrical) RF-Amplifier-3-(electrical),5,1,5
+ST28,HI,2,5/9/21,14:44:08,14:55:24,14,55,24,675.5,Move to Spare Parts Table,,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical) Limiter-(electrical) RF-Amplifier-3-(electrical),5,1,5
+ST28,HI,2,5/9/21,14:44:08,14:55:33,14,55,33,684.27,Pick Up LRU: 'RF Amplifier 2 [SPARE]',,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical) Limiter-(electrical) RF-Amplifier-3-(electrical),5,1,5
+ST28,HI,2,5/9/21,14:44:08,14:55:33,14,55,33,684.71,Drop LRU: 'RF Amplifier 2 [SPARE]',,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical) Limiter-(electrical) RF-Amplifier-3-(electrical),5,1,5
+ST28,HI,2,5/9/21,14:44:08,14:55:34,14,55,34,685.68,Leave Spare Parts Table,,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical) Limiter-(electrical) RF-Amplifier-3-(electrical),5,1,5
+ST28,HI,2,5/9/21,14:44:08,14:55:35,14,55,35,686.68,Move to Server Box Table,,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical) Limiter-(electrical) RF-Amplifier-3-(electrical),5,1,5
+ST28,HI,2,5/9/21,14:44:08,14:55:43,14,55,43,694.82,Leave Server Box Table,,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical) Limiter-(electrical) RF-Amplifier-3-(electrical),5,1,5
+ST28,HI,2,5/9/21,14:44:08,14:55:45,14,55,45,697.24,Pick Up LRU: 'Video Detector',,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical) Limiter-(electrical) RF-Amplifier-3-(electrical),5,1,5
+ST28,HI,2,5/9/21,14:44:08,14:55:46,14,55,46,697.97,Drop LRU: 'Video Detector',,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical) Limiter-(electrical) RF-Amplifier-3-(electrical),5,1,5
+ST28,HI,2,5/9/21,14:44:08,14:55:47,14,55,47,698.73,Move to Server Box Table,,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical) Limiter-(electrical) RF-Amplifier-3-(electrical),5,1,5
+ST28,HI,2,5/9/21,14:44:08,14:56:09,14,56,9,720.61,Move drawer: 0% open,Transmitter,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical) Limiter-(electrical) RF-Amplifier-3-(electrical),5,1,5
+ST28,HI,2,5/9/21,14:44:08,14:56:10,14,56,10,722.09,Move drawer: -5.8% open,Tracker,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical) Limiter-(electrical) RF-Amplifier-3-(electrical),5,1,5
+ST28,HI,2,5/9/21,14:44:08,14:56:13,14,56,13,725,Move drawer: 95.4% open,Processor,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical) Limiter-(electrical) RF-Amplifier-3-(electrical),5,1,5
+ST28,HI,2,5/9/21,14:44:08,14:56:32,14,56,32,744.19,Move drawer: 97.8% open,Synchronizer,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical) Limiter-(electrical) RF-Amplifier-3-(electrical),5,1,5
+ST28,HI,2,5/9/21,14:44:08,14:56:36,14,56,36,747.33,Move drawer: 25.1% open,Synchronizer,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical) Limiter-(electrical) RF-Amplifier-3-(electrical),5,1,5
+ST28,HI,2,5/9/21,14:44:08,14:56:38,14,56,38,749.46,Move drawer: 2.7% open,Synchronizer,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical) Limiter-(electrical) RF-Amplifier-3-(electrical),5,1,5
+ST28,HI,2,5/9/21,14:44:08,14:56:39,14,56,39,750.37,Move drawer: 0% open,Synchronizer,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical) Limiter-(electrical) RF-Amplifier-3-(electrical),5,1,5
+ST28,HI,2,5/9/21,14:44:08,14:56:40,14,56,40,751.92,Move drawer: 82.5% open,Transmitter,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical) Limiter-(electrical) RF-Amplifier-3-(electrical),5,1,5
+ST28,HI,2,5/9/21,14:44:08,14:56:47,14,56,47,759.18,Move drawer: 0% open,Transmitter,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical) Limiter-(electrical) RF-Amplifier-3-(electrical),5,1,5
+ST28,HI,2,5/9/21,14:44:08,14:56:54,14,56,54,765.66,Move drawer: 95.4% open,Processor,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical) Limiter-(electrical) RF-Amplifier-3-(electrical),5,1,5
+ST28,HI,2,5/9/21,14:44:08,14:57:25,14,57,25,796.47,Move drawer: 0% open,Processor,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical) Limiter-(electrical) RF-Amplifier-3-(electrical),5,1,5
+ST28,HI,2,5/9/21,14:44:08,14:57:28,14,57,28,799.97,Move drawer: 95.4% open,Indicator,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical) Limiter-(electrical) RF-Amplifier-3-(electrical),5,1,5
+ST28,HI,2,5/9/21,14:44:08,14:57:32,14,57,32,804.09,Click on: 'Cathode Ray Tube',,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical) Limiter-(electrical) RF-Amplifier-3-(electrical),5,1,5
+ST28,HI,2,5/9/21,14:44:08,14:57:33,14,57,33,805.11,Disconnect LRU: 'Cathode Ray Tube',,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical) Limiter-(electrical) RF-Amplifier-3-(electrical),5,1,5
+ST28,HI,2,5/9/21,14:44:08,14:57:33,14,57,33,805.11,Move drawer: 95.4% open,Indicator,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical) Limiter-(electrical) RF-Amplifier-3-(electrical),5,1,5
+ST28,HI,2,5/9/21,14:44:08,14:57:34,14,57,34,805.6,Pick Up LRU: 'Cathode Ray Tube',,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical) Limiter-(electrical) RF-Amplifier-3-(electrical),5,1,5
+ST28,HI,2,5/9/21,14:44:08,14:57:35,14,57,35,806.81,Drop LRU: 'Cathode Ray Tube',,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical) Limiter-(electrical) RF-Amplifier-3-(electrical),5,1,5
+ST28,HI,2,5/9/21,14:44:08,14:57:36,14,57,36,807.74,Leave Server Box Table,,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical) Limiter-(electrical) RF-Amplifier-3-(electrical),5,1,5
+ST28,HI,2,5/9/21,14:44:08,14:57:36,14,57,36,808.05,Move to Spare Parts Table,,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical) Limiter-(electrical) RF-Amplifier-3-(electrical),5,1,5
+ST28,HI,2,5/9/21,14:44:08,14:57:42,14,57,42,813.51,Pick Up LRU: 'Cathode Ray Tube [SPARE]',,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical) Limiter-(electrical) RF-Amplifier-3-(electrical),5,1,5
+ST28,HI,2,5/9/21,14:44:08,14:57:43,14,57,43,814.59,Leave Spare Parts Table,,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical) Limiter-(electrical) RF-Amplifier-3-(electrical),5,1,5
+ST28,HI,2,5/9/21,14:44:08,14:57:44,14,57,44,815.9,Move to Spare Parts Table,,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical) Limiter-(electrical) RF-Amplifier-3-(electrical),5,1,5
+ST28,HI,2,5/9/21,14:44:08,14:57:45,14,57,45,816.65,Drop LRU: 'Cathode Ray Tube [SPARE]',,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical) Limiter-(electrical) RF-Amplifier-3-(electrical),5,1,5
+ST28,HI,2,5/9/21,14:44:08,14:57:46,14,57,46,817.53,Pick Up LRU: 'Cathode Ray Tube [SPARE]',,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical) Limiter-(electrical) RF-Amplifier-3-(electrical),5,1,5
+ST28,HI,2,5/9/21,14:44:08,14:57:46,14,57,46,818.07,Leave Spare Parts Table,,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical) Limiter-(electrical) RF-Amplifier-3-(electrical),5,1,5
+ST28,HI,2,5/9/21,14:44:08,14:57:48,14,57,48,819.53,Move to Server Box Table,,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical) Limiter-(electrical) RF-Amplifier-3-(electrical),5,1,5
+ST28,HI,2,5/9/21,14:44:08,14:57:49,14,57,49,820.53,Drop LRU: 'Cathode Ray Tube [SPARE]',,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical) Limiter-(electrical) RF-Amplifier-3-(electrical),5,1,5
+ST28,HI,2,5/9/21,14:44:08,14:57:53,14,57,53,824.37,Pick Up LRU: 'Cathode Ray Tube [SPARE]',,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical) Limiter-(electrical) RF-Amplifier-3-(electrical),5,1,5
+ST28,HI,2,5/9/21,14:44:08,14:57:55,14,57,55,827.17,Drop LRU: 'Cathode Ray Tube [SPARE]',,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical) Limiter-(electrical) RF-Amplifier-3-(electrical),5,1,5
+ST28,HI,2,5/9/21,14:44:08,14:57:56,14,57,56,828.11,Connect LRU: 'Cathode Ray Tube [SPARE]',,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical) Limiter-(electrical) RF-Amplifier-3-(electrical),5,1,5
+ST28,HI,2,5/9/21,14:44:08,14:57:58,14,57,58,830.1,Replaced unnecessarily Cathode Ray Tube (electrical),,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical) Limiter-(electrical) RF-Amplifier-3-(electrical) Cathode-Ray-Tube-(electrical),6,1,6
+ST28,HI,2,5/9/21,14:44:08,14:58:01,14,58,1,832.6,Move drawer: 95.3% open,Indicator,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical) Limiter-(electrical) RF-Amplifier-3-(electrical) Cathode-Ray-Tube-(electrical),6,1,6
+ST28,HI,2,5/9/21,14:44:08,14:58:01,14,58,1,832.91,Move drawer: 95.3% open,Indicator,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical) Limiter-(electrical) RF-Amplifier-3-(electrical) Cathode-Ray-Tube-(electrical),6,1,6
+ST28,HI,2,5/9/21,14:44:08,14:58:03,14,58,3,834.29,Move drawer: 95.4% open,Indicator,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical) Limiter-(electrical) RF-Amplifier-3-(electrical) Cathode-Ray-Tube-(electrical),6,1,6
+ST28,HI,2,5/9/21,14:44:08,14:58:03,14,58,3,834.54,Move drawer: 95.4% open,Indicator,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical) Limiter-(electrical) RF-Amplifier-3-(electrical) Cathode-Ray-Tube-(electrical),6,1,6
+ST28,HI,2,5/9/21,14:44:08,14:58:03,14,58,3,834.74,Move drawer: 95.4% open,Indicator,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical) Limiter-(electrical) RF-Amplifier-3-(electrical) Cathode-Ray-Tube-(electrical),6,1,6
+ST28,HI,2,5/9/21,14:44:08,14:58:05,14,58,5,836.37,Move drawer: 95.4% open,Indicator,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical) Limiter-(electrical) RF-Amplifier-3-(electrical) Cathode-Ray-Tube-(electrical),6,1,6
+ST28,HI,2,5/9/21,14:44:08,14:58:05,14,58,5,836.88,Move drawer: 95.4% open,Indicator,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical) Limiter-(electrical) RF-Amplifier-3-(electrical) Cathode-Ray-Tube-(electrical),6,1,6
+ST28,HI,2,5/9/21,14:44:08,14:58:05,14,58,5,837.1,Move drawer: 95.3% open,Indicator,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical) Limiter-(electrical) RF-Amplifier-3-(electrical) Cathode-Ray-Tube-(electrical),6,1,6
+ST28,HI,2,5/9/21,14:44:08,14:58:06,14,58,6,837.44,Move drawer: 95.3% open,Indicator,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical) Limiter-(electrical) RF-Amplifier-3-(electrical) Cathode-Ray-Tube-(electrical),6,1,6
+ST28,HI,2,5/9/21,14:44:08,14:58:06,14,58,6,837.82,Move drawer: 95.3% open,Indicator,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical) Limiter-(electrical) RF-Amplifier-3-(electrical) Cathode-Ray-Tube-(electrical),6,1,6
+ST28,HI,2,5/9/21,14:44:08,14:58:06,14,58,6,838.19,Move drawer: 95.3% open,Indicator,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical) Limiter-(electrical) RF-Amplifier-3-(electrical) Cathode-Ray-Tube-(electrical),6,1,6
+ST28,HI,2,5/9/21,14:44:08,14:58:19,14,58,19,850.73,Move drawer: 95.4% open,Processor,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical) Limiter-(electrical) RF-Amplifier-3-(electrical) Cathode-Ray-Tube-(electrical),6,1,6
+ST28,HI,2,5/9/21,14:44:08,14:58:28,14,58,28,859.41,Click on: 'Video Amplifier [SPARE]',,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical) Limiter-(electrical) RF-Amplifier-3-(electrical) Cathode-Ray-Tube-(electrical),6,1,6
+ST28,HI,2,5/9/21,14:44:08,14:58:29,14,58,29,860.59,Disconnect LRU: 'Video Amplifier [SPARE]',,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical) Limiter-(electrical) RF-Amplifier-3-(electrical) Cathode-Ray-Tube-(electrical),6,1,6
+ST28,HI,2,5/9/21,14:44:08,14:58:29,14,58,29,860.6,Move drawer: 95.4% open,Processor,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical) Limiter-(electrical) RF-Amplifier-3-(electrical) Cathode-Ray-Tube-(electrical),6,1,6
+ST28,HI,2,5/9/21,14:44:08,14:58:30,14,58,30,861.47,Connect LRU: 'Video Amplifier [SPARE]',,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical) Limiter-(electrical) RF-Amplifier-3-(electrical) Cathode-Ray-Tube-(electrical),6,1,6
+ST28,HI,2,5/9/21,14:44:08,14:58:31,14,58,31,863.04,Replaced unnecessarily Video Amplifier (electrical),,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical) Limiter-(electrical) RF-Amplifier-3-(electrical) Cathode-Ray-Tube-(electrical),6,1,6
+ST28,HI,2,5/9/21,14:44:08,14:58:32,14,58,32,863.84,Click on: 'Video Amplifier [SPARE]',,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical) Limiter-(electrical) RF-Amplifier-3-(electrical) Cathode-Ray-Tube-(electrical),6,1,6
+ST28,HI,2,5/9/21,14:44:08,14:58:33,14,58,33,864.6,Disconnect LRU: 'Video Amplifier [SPARE]',,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical) Limiter-(electrical) RF-Amplifier-3-(electrical) Cathode-Ray-Tube-(electrical),6,1,6
+ST28,HI,2,5/9/21,14:44:08,14:58:33,14,58,33,864.6,Move drawer: 95.4% open,Processor,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical) Limiter-(electrical) RF-Amplifier-3-(electrical) Cathode-Ray-Tube-(electrical),6,1,6
+ST28,HI,2,5/9/21,14:44:08,14:58:34,14,58,34,866.07,Cancel connect: 'Video Amplifier [SPARE]',,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical) Limiter-(electrical) RF-Amplifier-3-(electrical) Cathode-Ray-Tube-(electrical),6,1,6
+ST28,HI,2,5/9/21,14:44:08,14:58:34,14,58,34,866.08,Move drawer: 95.4% open,Processor,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical) Limiter-(electrical) RF-Amplifier-3-(electrical) Cathode-Ray-Tube-(electrical),6,1,6
+ST28,HI,2,5/9/21,14:44:08,14:58:35,14,58,35,866.78,Pick Up LRU: 'Video Amplifier [SPARE]',,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical) Limiter-(electrical) RF-Amplifier-3-(electrical) Cathode-Ray-Tube-(electrical),6,1,6
+ST28,HI,2,5/9/21,14:44:08,14:58:37,14,58,37,868.63,Drop LRU: 'Video Amplifier [SPARE]',,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical) Limiter-(electrical) RF-Amplifier-3-(electrical) Cathode-Ray-Tube-(electrical),6,1,6
+ST28,HI,2,5/9/21,14:44:08,14:58:37,14,58,37,869.06,Leave Server Box Table,,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical) Limiter-(electrical) RF-Amplifier-3-(electrical) Cathode-Ray-Tube-(electrical),6,1,6
+ST28,HI,2,5/9/21,14:44:08,14:58:38,14,58,38,869.42,Move to Spare Parts Table,,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical) Limiter-(electrical) RF-Amplifier-3-(electrical) Cathode-Ray-Tube-(electrical),6,1,6
+ST28,HI,2,5/9/21,14:44:08,14:59:13,14,59,13,905.2,Leave Spare Parts Table,,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical) Limiter-(electrical) RF-Amplifier-3-(electrical) Cathode-Ray-Tube-(electrical),6,1,6
+ST28,HI,2,5/9/21,14:44:08,14:59:16,14,59,16,907.6,Move to Server Box Table,,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical) Limiter-(electrical) RF-Amplifier-3-(electrical) Cathode-Ray-Tube-(electrical),6,1,6
+ST28,HI,2,5/9/21,14:44:08,14:59:22,14,59,22,913.95,Pick Up LRU: 'RF Amplifier 3',,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical) Limiter-(electrical) RF-Amplifier-3-(electrical) Cathode-Ray-Tube-(electrical),6,1,6
+ST28,HI,2,5/9/21,14:44:08,14:59:22,14,59,22,914.09,Drop LRU: 'RF Amplifier 3',,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical) Limiter-(electrical) RF-Amplifier-3-(electrical) Cathode-Ray-Tube-(electrical),6,1,6
+ST28,HI,2,5/9/21,14:44:08,14:59:22,14,59,22,914.21,Pick Up LRU: 'RF Amplifier 3',,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical) Limiter-(electrical) RF-Amplifier-3-(electrical) Cathode-Ray-Tube-(electrical),6,1,6
+ST28,HI,2,5/9/21,14:44:08,14:59:25,14,59,25,916.77,Drop LRU: 'RF Amplifier 3',,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical) Limiter-(electrical) RF-Amplifier-3-(electrical) Cathode-Ray-Tube-(electrical),6,1,6
+ST28,HI,2,5/9/21,14:44:08,14:59:26,14,59,26,917.66,Pick Up LRU: 'Cathode Ray Tube',,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical) Limiter-(electrical) RF-Amplifier-3-(electrical) Cathode-Ray-Tube-(electrical),6,1,6
+ST28,HI,2,5/9/21,14:44:08,14:59:27,14,59,27,919.2,Drop LRU: 'Cathode Ray Tube',,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical) Limiter-(electrical) RF-Amplifier-3-(electrical) Cathode-Ray-Tube-(electrical),6,1,6
+ST28,HI,2,5/9/21,14:44:08,14:59:29,14,59,29,920.79,Pick Up LRU: 'Video Amplifier [SPARE]',,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical) Limiter-(electrical) RF-Amplifier-3-(electrical) Cathode-Ray-Tube-(electrical),6,1,6
+ST28,HI,2,5/9/21,14:44:08,14:59:33,14,59,33,924.49,Drop LRU: 'Video Amplifier [SPARE]',,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical) Limiter-(electrical) RF-Amplifier-3-(electrical) Cathode-Ray-Tube-(electrical),6,1,6
+ST28,HI,2,5/9/21,14:44:08,14:59:35,14,59,35,926.4,Pick Up LRU: 'Video Amplifier [SPARE]',,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical) Limiter-(electrical) RF-Amplifier-3-(electrical) Cathode-Ray-Tube-(electrical),6,1,6
+ST28,HI,2,5/9/21,14:44:08,14:59:40,14,59,40,931.97,Drop LRU: 'Video Amplifier [SPARE]',,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical) Limiter-(electrical) RF-Amplifier-3-(electrical) Cathode-Ray-Tube-(electrical),6,1,6
+ST28,HI,2,5/9/21,14:44:08,14:59:41,14,59,41,932.61,Pick Up LRU: 'Video Amplifier [SPARE]',,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical) Limiter-(electrical) RF-Amplifier-3-(electrical) Cathode-Ray-Tube-(electrical),6,1,6
+ST28,HI,2,5/9/21,14:44:08,14:59:41,14,59,41,933,Drop LRU: 'Video Amplifier [SPARE]',,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical) Limiter-(electrical) RF-Amplifier-3-(electrical) Cathode-Ray-Tube-(electrical),6,1,6
+ST28,HI,2,5/9/21,14:44:08,14:59:42,14,59,42,933.48,Click on: 'Mixer Detector',,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical) Limiter-(electrical) RF-Amplifier-3-(electrical) Cathode-Ray-Tube-(electrical),6,1,6
+ST28,HI,2,5/9/21,14:44:08,14:59:47,14,59,47,938.83,Cancel disconnect: 'Mixer Detector',,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical) Limiter-(electrical) RF-Amplifier-3-(electrical) Cathode-Ray-Tube-(electrical),6,1,6
+ST28,HI,2,5/9/21,14:44:08,14:59:47,14,59,47,938.83,Move drawer: 95.3% open,Indicator,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical) Limiter-(electrical) RF-Amplifier-3-(electrical) Cathode-Ray-Tube-(electrical),6,1,6
+ST28,HI,2,5/9/21,14:44:08,14:59:48,14,59,48,939.48,Pick Up LRU: 'Video Amplifier [SPARE]',,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical) Limiter-(electrical) RF-Amplifier-3-(electrical) Cathode-Ray-Tube-(electrical),6,1,6
+ST28,HI,2,5/9/21,14:44:08,14:59:50,14,59,50,941.93,Drop LRU: 'Video Amplifier [SPARE]',,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical) Limiter-(electrical) RF-Amplifier-3-(electrical) Cathode-Ray-Tube-(electrical),6,1,6
+ST28,HI,2,5/9/21,14:44:08,14:59:52,14,59,52,943.53,Connect LRU: 'Video Amplifier [SPARE]',,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical) Limiter-(electrical) RF-Amplifier-3-(electrical) Cathode-Ray-Tube-(electrical),6,1,6
+ST28,HI,2,5/9/21,14:44:08,14:59:53,14,59,53,944.81,Replaced unnecessarily Video Amplifier (electrical),,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical) Limiter-(electrical) RF-Amplifier-3-(electrical) Cathode-Ray-Tube-(electrical),6,1,6
+ST28,HI,2,5/9/21,14:44:08,15:00:02,15,0,2,954.11,Click on: 'Local Oscillator',,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical) Limiter-(electrical) RF-Amplifier-3-(electrical) Cathode-Ray-Tube-(electrical),6,1,6
+ST28,HI,2,5/9/21,14:44:08,15:00:03,15,0,3,955.02,Cancel disconnect: 'Local Oscillator',,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical) Limiter-(electrical) RF-Amplifier-3-(electrical) Cathode-Ray-Tube-(electrical),6,1,6
+ST28,HI,2,5/9/21,14:44:08,15:00:03,15,0,3,955.03,Move drawer: 95.3% open,Indicator,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical) Limiter-(electrical) RF-Amplifier-3-(electrical) Cathode-Ray-Tube-(electrical),6,1,6
+ST28,HI,2,5/9/21,14:44:08,15:00:04,15,0,4,955.58,Click on: 'Local Oscillator',,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical) Limiter-(electrical) RF-Amplifier-3-(electrical) Cathode-Ray-Tube-(electrical),6,1,6
+ST28,HI,2,5/9/21,14:44:08,15:00:05,15,0,5,956.38,Cancel disconnect: 'Local Oscillator',,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical) Limiter-(electrical) RF-Amplifier-3-(electrical) Cathode-Ray-Tube-(electrical),6,1,6
+ST28,HI,2,5/9/21,14:44:08,15:00:05,15,0,5,956.39,Move drawer: 95.4% open,Processor,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical) Limiter-(electrical) RF-Amplifier-3-(electrical) Cathode-Ray-Tube-(electrical),6,1,6
+ST28,HI,2,5/9/21,14:44:08,15:00:05,15,0,5,957.22,Move drawer: 95.4% open,Processor,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical) Limiter-(electrical) RF-Amplifier-3-(electrical) Cathode-Ray-Tube-(electrical),6,1,6
+ST28,HI,2,5/9/21,14:44:08,15:00:06,15,0,6,957.85,Move drawer: 94.6% open,Processor,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical) Limiter-(electrical) RF-Amplifier-3-(electrical) Cathode-Ray-Tube-(electrical),6,1,6
+ST28,HI,2,5/9/21,14:44:08,15:00:08,15,0,8,959.7,Move drawer: 95.4% open,Processor,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical) Limiter-(electrical) RF-Amplifier-3-(electrical) Cathode-Ray-Tube-(electrical),6,1,6
+ST28,HI,2,5/9/21,14:44:08,15:00:09,15,0,9,960.3,Move drawer: 95.4% open,Processor,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical) Limiter-(electrical) RF-Amplifier-3-(electrical) Cathode-Ray-Tube-(electrical),6,1,6
+ST28,HI,2,5/9/21,14:44:08,15:00:09,15,0,9,960.95,Move drawer: 95.4% open,Processor,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical) Limiter-(electrical) RF-Amplifier-3-(electrical) Cathode-Ray-Tube-(electrical),6,1,6
+ST28,HI,2,5/9/21,14:44:08,15:00:19,15,0,19,970.39,Click on: 'Video Amplifier [SPARE]',,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical) Limiter-(electrical) RF-Amplifier-3-(electrical) Cathode-Ray-Tube-(electrical),6,1,6
+ST28,HI,2,5/9/21,14:44:08,15:00:20,15,0,20,971.44,Cancel disconnect: 'Video Amplifier [SPARE]',,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical) Limiter-(electrical) RF-Amplifier-3-(electrical) Cathode-Ray-Tube-(electrical),6,1,6
+ST28,HI,2,5/9/21,14:44:08,15:00:20,15,0,20,971.44,Move drawer: 95.4% open,Processor,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical) Limiter-(electrical) RF-Amplifier-3-(electrical) Cathode-Ray-Tube-(electrical),6,1,6
+ST28,HI,2,5/9/21,14:44:08,15:00:28,15,0,28,980.12,Move drawer: 95.4% open,Processor,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical) Limiter-(electrical) RF-Amplifier-3-(electrical) Cathode-Ray-Tube-(electrical),6,1,6
+ST28,HI,2,5/9/21,14:44:08,15:00:29,15,0,29,981.13,Move drawer: 95.4% open,Processor,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical) Limiter-(electrical) RF-Amplifier-3-(electrical) Cathode-Ray-Tube-(electrical),6,1,6
+ST28,HI,2,5/9/21,14:44:08,15:00:31,15,0,31,982.63,Move drawer: 95.4% open,Processor,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical) Limiter-(electrical) RF-Amplifier-3-(electrical) Cathode-Ray-Tube-(electrical),6,1,6
+ST28,HI,2,5/9/21,14:44:08,15:00:39,15,0,39,991.24,Click on: 'Video Detector [SPARE]',,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical) Limiter-(electrical) RF-Amplifier-3-(electrical) Cathode-Ray-Tube-(electrical),6,1,6
+ST28,HI,2,5/9/21,14:44:08,15:00:40,15,0,40,992.19,Disconnect LRU: 'Video Detector [SPARE]',,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical) Limiter-(electrical) RF-Amplifier-3-(electrical) Cathode-Ray-Tube-(electrical),6,1,6
+ST28,HI,2,5/9/21,14:44:08,15:00:40,15,0,40,992.19,Move drawer: 95.4% open,Processor,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical) Limiter-(electrical) RF-Amplifier-3-(electrical) Cathode-Ray-Tube-(electrical),6,1,6
+ST28,HI,2,5/9/21,14:44:08,15:00:41,15,0,41,993.19,Connect LRU: 'Video Detector [SPARE]',,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical) Limiter-(electrical) RF-Amplifier-3-(electrical) Cathode-Ray-Tube-(electrical),6,1,6
+ST28,HI,2,5/9/21,14:44:08,15:00:41,15,0,41,993.19,Move drawer: 95.4% open,Processor,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical) Limiter-(electrical) RF-Amplifier-3-(electrical) Cathode-Ray-Tube-(electrical),6,1,6
+ST28,HI,2,5/9/21,14:44:08,15:00:43,15,0,43,994.45,Cancel window: 'Video Detector',,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical) Limiter-(electrical) RF-Amplifier-3-(electrical) Cathode-Ray-Tube-(electrical),6,1,6
+ST28,HI,2,5/9/21,14:44:08,15:00:43,15,0,43,994.46,Move drawer: 95.4% open,Processor,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical) Limiter-(electrical) RF-Amplifier-3-(electrical) Cathode-Ray-Tube-(electrical),6,1,6
+ST28,HI,2,5/9/21,14:44:08,15:00:43,15,0,43,995.01,Click on: 'Video Detector [SPARE]',,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical) Limiter-(electrical) RF-Amplifier-3-(electrical) Cathode-Ray-Tube-(electrical),6,1,6
+ST28,HI,2,5/9/21,14:44:08,15:00:44,15,0,44,995.75,Disconnect LRU: 'Video Detector [SPARE]',,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical) Limiter-(electrical) RF-Amplifier-3-(electrical) Cathode-Ray-Tube-(electrical),6,1,6
+ST28,HI,2,5/9/21,14:44:08,15:00:44,15,0,44,995.75,Move drawer: 95.4% open,Processor,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical) Limiter-(electrical) RF-Amplifier-3-(electrical) Cathode-Ray-Tube-(electrical),6,1,6
+ST28,HI,2,5/9/21,14:44:08,15:00:45,15,0,45,996.32,Cancel connect: 'Video Detector [SPARE]',,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical) Limiter-(electrical) RF-Amplifier-3-(electrical) Cathode-Ray-Tube-(electrical),6,1,6
+ST28,HI,2,5/9/21,14:44:08,15:00:45,15,0,45,996.75,Pick Up LRU: 'Video Detector [SPARE]',,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical) Limiter-(electrical) RF-Amplifier-3-(electrical) Cathode-Ray-Tube-(electrical),6,1,6
+ST28,HI,2,5/9/21,14:44:08,15:00:46,15,0,46,998.04,Drop LRU: 'Video Detector [SPARE]',,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical) Limiter-(electrical) RF-Amplifier-3-(electrical) Cathode-Ray-Tube-(electrical),6,1,6
+ST28,HI,2,5/9/21,14:44:08,15:00:47,15,0,47,998.58,Leave Server Box Table,,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical) Limiter-(electrical) RF-Amplifier-3-(electrical) Cathode-Ray-Tube-(electrical),6,1,6
+ST28,HI,2,5/9/21,14:44:08,15:00:47,15,0,47,998.9,Move to Spare Parts Table,,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical) Limiter-(electrical) RF-Amplifier-3-(electrical) Cathode-Ray-Tube-(electrical),6,1,6
+ST28,HI,2,5/9/21,14:44:08,15:01:22,15,1,22,1033.44,Leave Spare Parts Table,,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical) Limiter-(electrical) RF-Amplifier-3-(electrical) Cathode-Ray-Tube-(electrical),6,1,6
+ST28,HI,2,5/9/21,14:44:08,15:01:23,15,1,23,1034.93,Move to Spare Parts Table,,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical) Limiter-(electrical) RF-Amplifier-3-(electrical) Cathode-Ray-Tube-(electrical),6,1,6
+ST28,HI,2,5/9/21,14:44:08,15:01:33,15,1,33,1044.26,Leave Spare Parts Table,,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical) Limiter-(electrical) RF-Amplifier-3-(electrical) Cathode-Ray-Tube-(electrical),6,1,6
+ST28,HI,2,5/9/21,14:44:08,15:01:33,15,1,33,1045.11,Move to Server Box Table,,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical) Limiter-(electrical) RF-Amplifier-3-(electrical) Cathode-Ray-Tube-(electrical),6,1,6
+ST28,HI,2,5/9/21,14:44:08,15:01:35,15,1,35,1046.74,Leave Server Box Table,,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical) Limiter-(electrical) RF-Amplifier-3-(electrical) Cathode-Ray-Tube-(electrical),6,1,6
+ST28,HI,2,5/9/21,14:44:08,15:01:37,15,1,37,1048.38,Move to Server Box Table,,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical) Limiter-(electrical) RF-Amplifier-3-(electrical) Cathode-Ray-Tube-(electrical),6,1,6
+ST28,HI,2,5/9/21,14:44:08,15:01:38,15,1,38,1049.88,Pick Up LRU: 'Limiter',,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical) Limiter-(electrical) RF-Amplifier-3-(electrical) Cathode-Ray-Tube-(electrical),6,1,6
+ST28,HI,2,5/9/21,14:44:08,15:01:41,15,1,41,1052.85,Drop LRU: 'Limiter',,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical) Limiter-(electrical) RF-Amplifier-3-(electrical) Cathode-Ray-Tube-(electrical),6,1,6
+ST28,HI,2,5/9/21,14:44:08,15:01:42,15,1,42,1054.1,Pick Up LRU: 'Video Detector [SPARE]',,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical) Limiter-(electrical) RF-Amplifier-3-(electrical) Cathode-Ray-Tube-(electrical),6,1,6
+ST28,HI,2,5/9/21,14:44:08,15:01:50,15,1,50,1061.35,Drop LRU: 'Video Detector [SPARE]',,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical) Limiter-(electrical) RF-Amplifier-3-(electrical) Cathode-Ray-Tube-(electrical),6,1,6
+ST28,HI,2,5/9/21,14:44:08,15:01:51,15,1,51,1062.54,Pick Up LRU: 'Video Detector [SPARE]',,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical) Limiter-(electrical) RF-Amplifier-3-(electrical) Cathode-Ray-Tube-(electrical),6,1,6
+ST28,HI,2,5/9/21,14:44:08,15:01:52,15,1,52,1063.33,Drop LRU: 'Video Detector [SPARE]',,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical) Limiter-(electrical) RF-Amplifier-3-(electrical) Cathode-Ray-Tube-(electrical),6,1,6
+ST28,HI,2,5/9/21,14:44:08,15:01:52,15,1,52,1063.85,Pick Up LRU: 'Video Detector [SPARE]',,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical) Limiter-(electrical) RF-Amplifier-3-(electrical) Cathode-Ray-Tube-(electrical),6,1,6
+ST28,HI,2,5/9/21,14:44:08,15:01:53,15,1,53,1064.99,Drop LRU: 'Video Detector [SPARE]',,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical) Limiter-(electrical) RF-Amplifier-3-(electrical) Cathode-Ray-Tube-(electrical),6,1,6
+ST28,HI,2,5/9/21,14:44:08,15:01:54,15,1,54,1065.47,Pick Up LRU: 'Video Detector [SPARE]',,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical) Limiter-(electrical) RF-Amplifier-3-(electrical) Cathode-Ray-Tube-(electrical),6,1,6
+ST28,HI,2,5/9/21,14:44:08,15:01:57,15,1,57,1068.42,Drop LRU: 'Video Detector [SPARE]',,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical) Limiter-(electrical) RF-Amplifier-3-(electrical) Cathode-Ray-Tube-(electrical),6,1,6
+ST28,HI,2,5/9/21,14:44:08,15:01:58,15,1,58,1069.55,Pick Up LRU: 'Video Detector [SPARE]',,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical) Limiter-(electrical) RF-Amplifier-3-(electrical) Cathode-Ray-Tube-(electrical),6,1,6
+ST28,HI,2,5/9/21,14:44:08,15:02:00,15,2,0,1071.69,Drop LRU: 'Video Detector [SPARE]',,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical) Limiter-(electrical) RF-Amplifier-3-(electrical) Cathode-Ray-Tube-(electrical),6,1,6
+ST28,HI,2,5/9/21,14:44:08,15:02:01,15,2,1,1072.64,Leave Server Box Table,,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical) Limiter-(electrical) RF-Amplifier-3-(electrical) Cathode-Ray-Tube-(electrical),6,1,6
+ST28,HI,2,5/9/21,14:44:08,15:02:02,15,2,2,1073.28,Pick Up LRU: 'Video Detector [SPARE]',,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical) Limiter-(electrical) RF-Amplifier-3-(electrical) Cathode-Ray-Tube-(electrical),6,1,6
+ST28,HI,2,5/9/21,14:44:08,15:02:04,15,2,4,1075.32,Move to Server Box Table,,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical) Limiter-(electrical) RF-Amplifier-3-(electrical) Cathode-Ray-Tube-(electrical),6,1,6
+ST28,HI,2,5/9/21,14:44:08,15:02:05,15,2,5,1076.69,Drop LRU: 'Video Detector [SPARE]',,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical) Limiter-(electrical) RF-Amplifier-3-(electrical) Cathode-Ray-Tube-(electrical),6,1,6
+ST28,HI,2,5/9/21,14:44:08,15:02:09,15,2,9,1080.87,Pick Up LRU: 'Video Detector [SPARE]',,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical) Limiter-(electrical) RF-Amplifier-3-(electrical) Cathode-Ray-Tube-(electrical),6,1,6
+ST28,HI,2,5/9/21,14:44:08,15:02:13,15,2,13,1084.82,Drop LRU: 'Video Detector [SPARE]',,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical) Limiter-(electrical) RF-Amplifier-3-(electrical) Cathode-Ray-Tube-(electrical),6,1,6
+ST28,HI,2,5/9/21,14:44:08,15:02:17,15,2,17,1089.11,Move drawer: 95.4% open,Processor,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical) Limiter-(electrical) RF-Amplifier-3-(electrical) Cathode-Ray-Tube-(electrical),6,1,6
+ST28,HI,2,5/9/21,14:44:08,15:02:18,15,2,18,1089.87,Move drawer: 95.4% open,Processor,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical) Limiter-(electrical) RF-Amplifier-3-(electrical) Cathode-Ray-Tube-(electrical),6,1,6
+ST28,HI,2,5/9/21,14:44:08,15:02:20,15,2,20,1091.53,Move drawer: 0% open,Processor,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical) Limiter-(electrical) RF-Amplifier-3-(electrical) Cathode-Ray-Tube-(electrical),6,1,6
+ST28,HI,2,5/9/21,14:44:08,15:02:21,15,2,21,1092.69,Move drawer: 8.8% open,Processor,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical) Limiter-(electrical) RF-Amplifier-3-(electrical) Cathode-Ray-Tube-(electrical),6,1,6
+ST28,HI,2,5/9/21,14:44:08,15:02:22,15,2,22,1093.31,Move drawer: 67% open,Indicator,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical) Limiter-(electrical) RF-Amplifier-3-(electrical) Cathode-Ray-Tube-(electrical),6,1,6
+ST28,HI,2,5/9/21,14:44:08,15:02:22,15,2,22,1094.03,Move drawer: 0% open,Processor,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical) Limiter-(electrical) RF-Amplifier-3-(electrical) Cathode-Ray-Tube-(electrical),6,1,6
+ST28,HI,2,5/9/21,14:44:08,15:02:23,15,2,23,1094.27,Click on: 'Cathode Ray Tube [SPARE]',,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical) Limiter-(electrical) RF-Amplifier-3-(electrical) Cathode-Ray-Tube-(electrical),6,1,6
+ST28,HI,2,5/9/21,14:44:08,15:02:23,15,2,23,1094.5,Move drawer: 94.9% open,Indicator,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical) Limiter-(electrical) RF-Amplifier-3-(electrical) Cathode-Ray-Tube-(electrical),6,1,6
+ST28,HI,2,5/9/21,14:44:08,15:02:24,15,2,24,1095.28,Cancel disconnect: 'Cathode Ray Tube [SPARE]',,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical) Limiter-(electrical) RF-Amplifier-3-(electrical) Cathode-Ray-Tube-(electrical),6,1,6
+ST28,HI,2,5/9/21,14:44:08,15:02:24,15,2,24,1095.28,Move drawer: 94.9% open,Indicator,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical) Limiter-(electrical) RF-Amplifier-3-(electrical) Cathode-Ray-Tube-(electrical),6,1,6
+ST28,HI,2,5/9/21,14:44:08,15:02:25,15,2,25,1097.14,Move drawer: 95.4% open,Indicator,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical) Limiter-(electrical) RF-Amplifier-3-(electrical) Cathode-Ray-Tube-(electrical),6,1,6
+ST28,HI,2,5/9/21,14:44:08,15:02:26,15,2,26,1097.57,Move drawer: 95.4% open,Indicator,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical) Limiter-(electrical) RF-Amplifier-3-(electrical) Cathode-Ray-Tube-(electrical),6,1,6
+ST28,HI,2,5/9/21,14:44:08,15:02:27,15,2,27,1098.28,Move drawer: 95.4% open,Indicator,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical) Limiter-(electrical) RF-Amplifier-3-(electrical) Cathode-Ray-Tube-(electrical),6,1,6
+ST28,HI,2,5/9/21,14:44:08,15:02:27,15,2,27,1098.76,Leave Server Box Table,,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical) Limiter-(electrical) RF-Amplifier-3-(electrical) Cathode-Ray-Tube-(electrical),6,1,6
+ST28,HI,2,5/9/21,14:44:08,15:02:30,15,2,30,1101.3,Move to Server Box Table,,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical) Limiter-(electrical) RF-Amplifier-3-(electrical) Cathode-Ray-Tube-(electrical),6,1,6
+ST28,HI,2,5/9/21,14:44:08,15:02:32,15,2,32,1104.03,Move drawer: 96.4% open,Processor,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical) Limiter-(electrical) RF-Amplifier-3-(electrical) Cathode-Ray-Tube-(electrical),6,1,6
+ST28,HI,2,5/9/21,14:44:08,15:02:33,15,2,33,1105.08,Move drawer: 95.4% open,Processor,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical) Limiter-(electrical) RF-Amplifier-3-(electrical) Cathode-Ray-Tube-(electrical),6,1,6
+ST28,HI,2,5/9/21,14:44:08,15:02:34,15,2,34,1105.56,Move drawer: 95.4% open,Processor,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical) Limiter-(electrical) RF-Amplifier-3-(electrical) Cathode-Ray-Tube-(electrical),6,1,6
+ST28,HI,2,5/9/21,14:44:08,15:02:34,15,2,34,1105.98,Move drawer: 95.4% open,Processor,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical) Limiter-(electrical) RF-Amplifier-3-(electrical) Cathode-Ray-Tube-(electrical),6,1,6
+ST28,HI,2,5/9/21,14:44:08,15:02:35,15,2,35,1106.85,Move drawer: 2.6% open,Transmitter,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical) Limiter-(electrical) RF-Amplifier-3-(electrical) Cathode-Ray-Tube-(electrical),6,1,6
+ST28,HI,2,5/9/21,14:44:08,15:02:36,15,2,36,1107.38,Move drawer: 95.4% open,Processor,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical) Limiter-(electrical) RF-Amplifier-3-(electrical) Cathode-Ray-Tube-(electrical),6,1,6
+ST28,HI,2,5/9/21,14:44:08,15:02:36,15,2,36,1108.02,Leave Server Box Table,,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical) Limiter-(electrical) RF-Amplifier-3-(electrical) Cathode-Ray-Tube-(electrical),6,1,6
+ST28,HI,2,5/9/21,14:44:08,15:02:37,15,2,37,1108.75,Move to Server Box Table,,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical) Limiter-(electrical) RF-Amplifier-3-(electrical) Cathode-Ray-Tube-(electrical),6,1,6
+ST28,HI,2,5/9/21,14:44:08,15:02:38,15,2,38,1109.57,Swing front panel: 90.3% open,,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical) Limiter-(electrical) RF-Amplifier-3-(electrical) Cathode-Ray-Tube-(electrical),6,1,6
+ST28,HI,2,5/9/21,14:44:08,15:02:40,15,2,40,1111.31,Swing front panel: 0% open,,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical) Limiter-(electrical) RF-Amplifier-3-(electrical) Cathode-Ray-Tube-(electrical),6,1,6
+ST28,HI,2,5/9/21,14:44:08,15:02:41,15,2,41,1112.28,Swing front panel: 44% open,,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical) Limiter-(electrical) RF-Amplifier-3-(electrical) Cathode-Ray-Tube-(electrical),6,1,6
+ST28,HI,2,5/9/21,14:44:08,15:02:41,15,2,41,1112.88,Click on: 'Duplexer Bypass',,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical) Limiter-(electrical) RF-Amplifier-3-(electrical) Cathode-Ray-Tube-(electrical),6,1,6
+ST28,HI,2,5/9/21,14:44:08,15:02:42,15,2,42,1113.66,Cancel disconnect: 'Duplexer Bypass',,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical) Limiter-(electrical) RF-Amplifier-3-(electrical) Cathode-Ray-Tube-(electrical),6,1,6
+ST28,HI,2,5/9/21,14:44:08,15:02:42,15,2,42,1113.67,Move drawer: 95.4% open,Processor,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical) Limiter-(electrical) RF-Amplifier-3-(electrical) Cathode-Ray-Tube-(electrical),6,1,6
+ST28,HI,2,5/9/21,14:44:08,15:02:44,15,2,44,1115.96,Move drawer: 95.8% open,Processor,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical) Limiter-(electrical) RF-Amplifier-3-(electrical) Cathode-Ray-Tube-(electrical),6,1,6
+ST28,HI,2,5/9/21,14:44:08,15:02:45,15,2,45,1116.38,Move drawer: 95.4% open,Processor,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical) Limiter-(electrical) RF-Amplifier-3-(electrical) Cathode-Ray-Tube-(electrical),6,1,6
+ST28,HI,2,5/9/21,14:44:08,15:02:45,15,2,45,1116.83,Pick Up LRU: 'Video Detector [SPARE]',,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical) Limiter-(electrical) RF-Amplifier-3-(electrical) Cathode-Ray-Tube-(electrical),6,1,6
+ST28,HI,2,5/9/21,14:44:08,15:02:45,15,2,45,1117.16,Drop LRU: 'Video Detector [SPARE]',,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical) Limiter-(electrical) RF-Amplifier-3-(electrical) Cathode-Ray-Tube-(electrical),6,1,6
+ST28,HI,2,5/9/21,14:44:08,15:02:46,15,2,46,1117.42,Leave Server Box Table,,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical) Limiter-(electrical) RF-Amplifier-3-(electrical) Cathode-Ray-Tube-(electrical),6,1,6
+ST28,HI,2,5/9/21,14:44:08,15:02:46,15,2,46,1117.78,Move to Server Box Table,,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical) Limiter-(electrical) RF-Amplifier-3-(electrical) Cathode-Ray-Tube-(electrical),6,1,6
+ST28,HI,2,5/9/21,14:44:08,15:02:48,15,2,48,1119.51,Move drawer: 95.4% open,Processor,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical) Limiter-(electrical) RF-Amplifier-3-(electrical) Cathode-Ray-Tube-(electrical),6,1,6
+ST28,HI,2,5/9/21,14:44:08,15:02:49,15,2,49,1120.93,Move drawer: -5.5% open,Processor,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical) Limiter-(electrical) RF-Amplifier-3-(electrical) Cathode-Ray-Tube-(electrical),6,1,6
+ST28,HI,2,5/9/21,14:44:08,15:02:50,15,2,50,1122.14,Move drawer: 95.4% open,Indicator,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical) Limiter-(electrical) RF-Amplifier-3-(electrical) Cathode-Ray-Tube-(electrical),6,1,6
+ST28,HI,2,5/9/21,14:44:08,15:02:51,15,2,51,1122.76,Move drawer: 95.4% open,Indicator,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical) Limiter-(electrical) RF-Amplifier-3-(electrical) Cathode-Ray-Tube-(electrical),6,1,6
+ST28,HI,2,5/9/21,14:44:08,15:02:56,15,2,56,1128.09,Move drawer: 95.4% open,Indicator,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical) Limiter-(electrical) RF-Amplifier-3-(electrical) Cathode-Ray-Tube-(electrical),6,1,6
+ST28,HI,2,5/9/21,14:44:08,15:02:57,15,2,57,1128.44,Leave Server Box Table,,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical) Limiter-(electrical) RF-Amplifier-3-(electrical) Cathode-Ray-Tube-(electrical),6,1,6
+ST28,HI,2,5/9/21,14:44:08,15:02:57,15,2,57,1128.78,Move to Spare Parts Table,,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical) Limiter-(electrical) RF-Amplifier-3-(electrical) Cathode-Ray-Tube-(electrical),6,1,6
+ST28,HI,2,5/9/21,14:44:08,15:03:02,15,3,2,1133.69,Submit?,,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical) Limiter-(electrical) RF-Amplifier-3-(electrical) Cathode-Ray-Tube-(electrical),6,1,6
+ST28,HI,2,5/9/21,14:44:08,15:03:03,15,3,3,1135.12,Submit Confirm,,AFC-Mixer-(electrical),,RF-Amplifier-1-(electrical) Video-Detector-(electrical) Video-Amplifier-(electrical) Limiter-(electrical) RF-Amplifier-3-(electrical) Cathode-Ray-Tube-(electrical),6,1,6
+ST28,HI,3,5/9/21,15:03:05,15:03:05,15,3,5,0,Make electrical flaw: RF Amplifier 2,,RF-Amplifier-2-(electrical),,,0,1,0
+ST28,HI,3,5/9/21,15:03:05,15:03:05,15,3,5,0,Start (High Fidelity Sim),,RF-Amplifier-2-(electrical),,,0,1,0
+ST28,HI,3,5/9/21,15:03:05,15:03:07,15,3,7,1.8,Leave Spare Parts Table,,RF-Amplifier-2-(electrical),,,0,1,0
+ST28,HI,3,5/9/21,15:03:05,15:03:09,15,3,9,4.02,Move to Server Box Table,,RF-Amplifier-2-(electrical),,,0,1,0
+ST28,HI,3,5/9/21,15:03:05,15:03:11,15,3,11,5.86,Swing front panel: 29.4% open,,RF-Amplifier-2-(electrical),,,0,1,0
+ST28,HI,3,5/9/21,15:03:05,15:03:14,15,3,14,9.49,Move drawer: 95.4% open,Indicator,RF-Amplifier-2-(electrical),,,0,1,0
+ST28,HI,3,5/9/21,15:03:05,15:03:22,15,3,22,17.43,Move drawer: 6.4% open,Processor,RF-Amplifier-2-(electrical),,,0,1,0
+ST28,HI,3,5/9/21,15:03:05,15:03:25,15,3,25,20.37,Move drawer: 95.4% open,Transmitter,RF-Amplifier-2-(electrical),,,0,1,0
+ST28,HI,3,5/9/21,15:03:05,15:03:41,15,3,41,36.22,Click on: 'Stage 3 Modulator',,RF-Amplifier-2-(electrical),,,0,1,0
+ST28,HI,3,5/9/21,15:03:05,15:03:43,15,3,43,38.07,Cancel disconnect: 'Stage 3 Modulator',,RF-Amplifier-2-(electrical),,,0,1,0
+ST28,HI,3,5/9/21,15:03:05,15:03:43,15,3,43,38.07,Move drawer: 95.4% open,Transmitter,RF-Amplifier-2-(electrical),,,0,1,0
+ST28,HI,3,5/9/21,15:03:05,15:03:55,15,3,55,50.38,Click on: 'Stage 3 Modulator',,RF-Amplifier-2-(electrical),,,0,1,0
+ST28,HI,3,5/9/21,15:03:05,15:03:57,15,3,57,52.01,Cancel disconnect: 'Stage 3 Modulator',,RF-Amplifier-2-(electrical),,,0,1,0
+ST28,HI,3,5/9/21,15:03:05,15:03:58,15,3,58,53.39,Click on: 'RF Amplifier 1 [SPARE]',,RF-Amplifier-2-(electrical),,,0,1,0
+ST28,HI,3,5/9/21,15:03:05,15:04:00,15,4,0,55.08,Cancel disconnect: 'RF Amplifier 1 [SPARE]',,RF-Amplifier-2-(electrical),,,0,1,0
+ST28,HI,3,5/9/21,15:03:05,15:04:00,15,4,0,55.09,Move drawer: 95.4% open,Transmitter,RF-Amplifier-2-(electrical),,,0,1,0
+ST28,HI,3,5/9/21,15:03:05,15:04:02,15,4,2,57.12,Click on: 'RF Amplifier 3 [SPARE]',,RF-Amplifier-2-(electrical),,,0,1,0
+ST28,HI,3,5/9/21,15:03:05,15:04:03,15,4,3,58.4,Cancel disconnect: 'RF Amplifier 3 [SPARE]',,RF-Amplifier-2-(electrical),,,0,1,0
+ST28,HI,3,5/9/21,15:03:05,15:04:05,15,4,5,60.02,Click on: 'Stage 3 Modulator',,RF-Amplifier-2-(electrical),,,0,1,0
+ST28,HI,3,5/9/21,15:03:05,15:04:06,15,4,6,61.11,Disconnect LRU: 'Stage 3 Modulator',,RF-Amplifier-2-(electrical),,,0,1,0
+ST28,HI,3,5/9/21,15:03:05,15:04:06,15,4,6,61.12,Move drawer: 95.4% open,Transmitter,RF-Amplifier-2-(electrical),,,0,1,0
+ST28,HI,3,5/9/21,15:03:05,15:04:07,15,4,7,61.81,Pick Up LRU: 'Stage 3 Modulator',,RF-Amplifier-2-(electrical),,,0,1,0
+ST28,HI,3,5/9/21,15:03:05,15:04:08,15,4,8,62.98,Drop LRU: 'Stage 3 Modulator',,RF-Amplifier-2-(electrical),,,0,1,0
+ST28,HI,3,5/9/21,15:03:05,15:04:10,15,4,10,65.5,Leave Server Box Table,,RF-Amplifier-2-(electrical),,,0,1,0
+ST28,HI,3,5/9/21,15:03:05,15:04:11,15,4,11,65.78,Move to Spare Parts Table,,RF-Amplifier-2-(electrical),,,0,1,0
+ST28,HI,3,5/9/21,15:03:05,15:04:12,15,4,12,67.16,Leave Spare Parts Table,,RF-Amplifier-2-(electrical),,,0,1,0
+ST28,HI,3,5/9/21,15:03:05,15:04:12,15,4,12,67.54,Move to Server Box Table,,RF-Amplifier-2-(electrical),,,0,1,0
+ST28,HI,3,5/9/21,15:03:05,15:04:14,15,4,14,69.16,Pick Up LRU: 'Stage 3 Modulator',,RF-Amplifier-2-(electrical),,,0,1,0
+ST28,HI,3,5/9/21,15:03:05,15:04:15,15,4,15,70.22,Drop LRU: 'Stage 3 Modulator',,RF-Amplifier-2-(electrical),,,0,1,0
+ST28,HI,3,5/9/21,15:03:05,15:04:15,15,4,15,70.55,Pick Up LRU: 'Stage 3 Modulator',,RF-Amplifier-2-(electrical),,,0,1,0
+ST28,HI,3,5/9/21,15:03:05,15:04:17,15,4,17,72.64,Drop LRU: 'Stage 3 Modulator',,RF-Amplifier-2-(electrical),,,0,1,0
+ST28,HI,3,5/9/21,15:03:05,15:04:19,15,4,19,74.52,Leave Server Box Table,,RF-Amplifier-2-(electrical),,,0,1,0
+ST28,HI,3,5/9/21,15:03:05,15:04:25,15,4,25,80.38,Pick Up LRU: 'Stage 3 Modulator',,RF-Amplifier-2-(electrical),,,0,1,0
+ST28,HI,3,5/9/21,15:03:05,15:04:30,15,4,30,85.12,Drop LRU: 'Stage 3 Modulator',,RF-Amplifier-2-(electrical),,,0,1,0
+ST28,HI,3,5/9/21,15:03:05,15:04:32,15,4,32,86.9,Move to Spare Parts Table,,RF-Amplifier-2-(electrical),,,0,1,0
+ST28,HI,3,5/9/21,15:03:05,15:04:32,15,4,32,87.56,Leave Spare Parts Table,,RF-Amplifier-2-(electrical),,,0,1,0
+ST28,HI,3,5/9/21,15:03:05,15:04:33,15,4,33,87.86,Move to Server Box Table,,RF-Amplifier-2-(electrical),,,0,1,0
+ST28,HI,3,5/9/21,15:03:05,15:04:35,15,4,35,90.3,Click on: 'RF Amplifier 3 [SPARE]',,RF-Amplifier-2-(electrical),,,0,1,0
+ST28,HI,3,5/9/21,15:03:05,15:04:37,15,4,37,91.95,Move drawer: 95.4% open,Transmitter,RF-Amplifier-2-(electrical),,,0,1,0
+ST28,HI,3,5/9/21,15:03:05,15:04:37,15,4,37,92.04,Cancel disconnect: 'RF Amplifier 3 [SPARE]',,RF-Amplifier-2-(electrical),,,0,1,0
+ST28,HI,3,5/9/21,15:03:05,15:04:39,15,4,39,94.16,Leave Server Box Table,,RF-Amplifier-2-(electrical),,,0,1,0
+ST28,HI,3,5/9/21,15:03:05,15:04:39,15,4,39,94.48,Move to Spare Parts Table,,RF-Amplifier-2-(electrical),,,0,1,0
+ST28,HI,3,5/9/21,15:03:05,15:04:42,15,4,42,97.28,Leave Spare Parts Table,,RF-Amplifier-2-(electrical),,,0,1,0
+ST28,HI,3,5/9/21,15:03:05,15:04:46,15,4,46,101.3,Move to Spare Parts Table,,RF-Amplifier-2-(electrical),,,0,1,0
+ST28,HI,3,5/9/21,15:03:05,15:05:03,15,5,3,118.48,Pick Up LRU: 'Stage 3 Modulator [SPARE]',,RF-Amplifier-2-(electrical),,,0,1,0
+ST28,HI,3,5/9/21,15:03:05,15:05:04,15,5,4,119.5,Leave Spare Parts Table,,RF-Amplifier-2-(electrical),,,0,1,0
+ST28,HI,3,5/9/21,15:03:05,15:05:05,15,5,5,119.8,Move to Server Box Table,,RF-Amplifier-2-(electrical),,,0,1,0
+ST28,HI,3,5/9/21,15:03:05,15:05:05,15,5,5,120.56,Drop LRU: 'Stage 3 Modulator [SPARE]',,RF-Amplifier-2-(electrical),,,0,1,0
+ST28,HI,3,5/9/21,15:03:05,15:05:08,15,5,8,123.41,Pick Up LRU: 'Stage 3 Modulator [SPARE]',,RF-Amplifier-2-(electrical),,,0,1,0
+ST28,HI,3,5/9/21,15:03:05,15:05:08,15,5,8,123.6,Drop LRU: 'Stage 3 Modulator [SPARE]',,RF-Amplifier-2-(electrical),,,0,1,0
+ST28,HI,3,5/9/21,15:03:05,15:05:09,15,5,9,123.72,Pick Up LRU: 'Stage 3 Modulator [SPARE]',,RF-Amplifier-2-(electrical),,,0,1,0
+ST28,HI,3,5/9/21,15:03:05,15:05:13,15,5,13,128.02,Drop LRU: 'Stage 3 Modulator [SPARE]',,RF-Amplifier-2-(electrical),,,0,1,0
+ST28,HI,3,5/9/21,15:03:05,15:05:16,15,5,16,130.95,Pick Up LRU: 'Stage 3 Modulator [SPARE]',,RF-Amplifier-2-(electrical),,,0,1,0
+ST28,HI,3,5/9/21,15:03:05,15:05:17,15,5,17,131.76,Drop LRU: 'Stage 3 Modulator [SPARE]',,RF-Amplifier-2-(electrical),,,0,1,0
+ST28,HI,3,5/9/21,15:03:05,15:05:17,15,5,17,132.21,Pick Up LRU: 'Stage 3 Modulator [SPARE]',,RF-Amplifier-2-(electrical),,,0,1,0
+ST28,HI,3,5/9/21,15:03:05,15:05:17,15,5,17,132.5,Drop LRU: 'Stage 3 Modulator [SPARE]',,RF-Amplifier-2-(electrical),,,0,1,0
+ST28,HI,3,5/9/21,15:03:05,15:05:19,15,5,19,133.7,Pick Up LRU: 'Stage 3 Modulator [SPARE]',,RF-Amplifier-2-(electrical),,,0,1,0
+ST28,HI,3,5/9/21,15:03:05,15:05:21,15,5,21,135.98,Drop LRU: 'Stage 3 Modulator [SPARE]',,RF-Amplifier-2-(electrical),,,0,1,0
+ST28,HI,3,5/9/21,15:03:05,15:05:21,15,5,21,136.58,Connect LRU: 'Stage 3 Modulator [SPARE]',,RF-Amplifier-2-(electrical),,,0,1,0
+ST28,HI,3,5/9/21,15:03:05,15:05:22,15,5,22,137.52,Replaced unnecessarily Stage 3 Modulator (electrical),,RF-Amplifier-2-(electrical),,Stage-3-Modulator-(electrical),1,1,1
+ST28,HI,3,5/9/21,15:03:05,15:05:37,15,5,37,152.6,Click on: 'RF Amplifier 3 [SPARE]',,RF-Amplifier-2-(electrical),,Stage-3-Modulator-(electrical),1,1,1
+ST28,HI,3,5/9/21,15:03:05,15:05:39,15,5,39,153.78,Cancel disconnect: 'RF Amplifier 3 [SPARE]',,RF-Amplifier-2-(electrical),,Stage-3-Modulator-(electrical),1,1,1
+ST28,HI,3,5/9/21,15:03:05,15:05:39,15,5,39,153.78,Move drawer: 95.4% open,Transmitter,RF-Amplifier-2-(electrical),,Stage-3-Modulator-(electrical),1,1,1
+ST28,HI,3,5/9/21,15:03:05,15:06:10,15,6,10,185.01,Move drawer: 95.4% open,Transmitter,RF-Amplifier-2-(electrical),,Stage-3-Modulator-(electrical),1,1,1
+ST28,HI,3,5/9/21,15:03:05,15:06:11,15,6,11,185.73,Move drawer: 95.4% open,Transmitter,RF-Amplifier-2-(electrical),,Stage-3-Modulator-(electrical),1,1,1
+ST28,HI,3,5/9/21,15:03:05,15:06:11,15,6,11,186.43,Move drawer: 95.4% open,Transmitter,RF-Amplifier-2-(electrical),,Stage-3-Modulator-(electrical),1,1,1
+ST28,HI,3,5/9/21,15:03:05,15:06:12,15,6,12,187.01,Move drawer: 95.4% open,Transmitter,RF-Amplifier-2-(electrical),,Stage-3-Modulator-(electrical),1,1,1
+ST28,HI,3,5/9/21,15:03:05,15:06:15,15,6,15,190.37,Move drawer: 95.4% open,Transmitter,RF-Amplifier-2-(electrical),,Stage-3-Modulator-(electrical),1,1,1
+ST28,HI,3,5/9/21,15:03:05,15:06:16,15,6,16,191.45,Move drawer: 95.4% open,Transmitter,RF-Amplifier-2-(electrical),,Stage-3-Modulator-(electrical),1,1,1
+ST28,HI,3,5/9/21,15:03:05,15:06:17,15,6,17,192.17,Move drawer: 95.4% open,Transmitter,RF-Amplifier-2-(electrical),,Stage-3-Modulator-(electrical),1,1,1
+ST28,HI,3,5/9/21,15:03:05,15:06:18,15,6,18,192.69,Move drawer: 95.4% open,Transmitter,RF-Amplifier-2-(electrical),,Stage-3-Modulator-(electrical),1,1,1
+ST28,HI,3,5/9/21,15:03:05,15:06:18,15,6,18,193.61,Move drawer: 95.4% open,Transmitter,RF-Amplifier-2-(electrical),,Stage-3-Modulator-(electrical),1,1,1
+ST28,HI,3,5/9/21,15:03:05,15:06:20,15,6,20,195,Move drawer: 95.4% open,Transmitter,RF-Amplifier-2-(electrical),,Stage-3-Modulator-(electrical),1,1,1
+ST28,HI,3,5/9/21,15:03:05,15:06:27,15,6,27,201.66,Click on: 'Stage 1 Modulator',,RF-Amplifier-2-(electrical),,Stage-3-Modulator-(electrical),1,1,1
+ST28,HI,3,5/9/21,15:03:05,15:06:27,15,6,27,202.6,Disconnect LRU: 'Stage 1 Modulator',,RF-Amplifier-2-(electrical),,Stage-3-Modulator-(electrical),1,1,1
+ST28,HI,3,5/9/21,15:03:05,15:06:29,15,6,29,204.13,Cancel connect: 'Stage 1 Modulator',,RF-Amplifier-2-(electrical),,Stage-3-Modulator-(electrical),1,1,1
+ST28,HI,3,5/9/21,15:03:05,15:06:30,15,6,30,205.41,Pick Up LRU: 'Stage 1 Modulator',,RF-Amplifier-2-(electrical),,Stage-3-Modulator-(electrical),1,1,1
+ST28,HI,3,5/9/21,15:03:05,15:06:32,15,6,32,207.27,Drop LRU: 'Stage 1 Modulator',,RF-Amplifier-2-(electrical),,Stage-3-Modulator-(electrical),1,1,1
+ST28,HI,3,5/9/21,15:03:05,15:06:33,15,6,33,207.76,Leave Server Box Table,,RF-Amplifier-2-(electrical),,Stage-3-Modulator-(electrical),1,1,1
+ST28,HI,3,5/9/21,15:03:05,15:06:33,15,6,33,208.1,Move to Spare Parts Table,,RF-Amplifier-2-(electrical),,Stage-3-Modulator-(electrical),1,1,1
+ST28,HI,3,5/9/21,15:03:05,15:06:39,15,6,39,214.42,Leave Spare Parts Table,,RF-Amplifier-2-(electrical),,Stage-3-Modulator-(electrical),1,1,1
+ST28,HI,3,5/9/21,15:03:05,15:06:40,15,6,40,214.68,Move to Server Box Table,,RF-Amplifier-2-(electrical),,Stage-3-Modulator-(electrical),1,1,1
+ST28,HI,3,5/9/21,15:03:05,15:06:41,15,6,41,216.22,Pick Up LRU: 'Stage 1 Modulator',,RF-Amplifier-2-(electrical),,Stage-3-Modulator-(electrical),1,1,1
+ST28,HI,3,5/9/21,15:03:05,15:06:43,15,6,43,217.68,Drop LRU: 'Stage 1 Modulator',,RF-Amplifier-2-(electrical),,Stage-3-Modulator-(electrical),1,1,1
+ST28,HI,3,5/9/21,15:03:05,15:06:43,15,6,43,218.38,Leave Server Box Table,,RF-Amplifier-2-(electrical),,Stage-3-Modulator-(electrical),1,1,1
+ST28,HI,3,5/9/21,15:03:05,15:06:44,15,6,44,218.68,Move to Spare Parts Table,,RF-Amplifier-2-(electrical),,Stage-3-Modulator-(electrical),1,1,1
+ST28,HI,3,5/9/21,15:03:05,15:06:49,15,6,49,223.74,Pick Up LRU: 'Stage 1 Modulator [SPARE]',,RF-Amplifier-2-(electrical),,Stage-3-Modulator-(electrical),1,1,1
+ST28,HI,3,5/9/21,15:03:05,15:06:50,15,6,50,225.44,Leave Spare Parts Table,,RF-Amplifier-2-(electrical),,Stage-3-Modulator-(electrical),1,1,1
+ST28,HI,3,5/9/21,15:03:05,15:06:51,15,6,51,226.26,Move to Server Box Table,,RF-Amplifier-2-(electrical),,Stage-3-Modulator-(electrical),1,1,1
+ST28,HI,3,5/9/21,15:03:05,15:06:52,15,6,52,227.2,Drop LRU: 'Stage 1 Modulator [SPARE]',,RF-Amplifier-2-(electrical),,Stage-3-Modulator-(electrical),1,1,1
+ST28,HI,3,5/9/21,15:03:05,15:06:54,15,6,54,228.66,Pick Up LRU: 'Stage 1 Modulator [SPARE]',,RF-Amplifier-2-(electrical),,Stage-3-Modulator-(electrical),1,1,1
+ST28,HI,3,5/9/21,15:03:05,15:06:57,15,6,57,231.78,Drop LRU: 'Stage 1 Modulator [SPARE]',,RF-Amplifier-2-(electrical),,Stage-3-Modulator-(electrical),1,1,1
+ST28,HI,3,5/9/21,15:03:05,15:06:58,15,6,58,232.82,Connect LRU: 'Stage 1 Modulator [SPARE]',,RF-Amplifier-2-(electrical),,Stage-3-Modulator-(electrical),1,1,1
+ST28,HI,3,5/9/21,15:03:05,15:07:00,15,7,0,235.18,Replaced unnecessarily Stage 1 Modulator (electrical),,RF-Amplifier-2-(electrical),,Stage-3-Modulator-(electrical) Stage-1-Modulator-(electrical),2,1,2
+ST28,HI,3,5/9/21,15:03:05,15:07:10,15,7,10,244.81,Click on: 'RF Amplifier 3 [SPARE]',,RF-Amplifier-2-(electrical),,Stage-3-Modulator-(electrical) Stage-1-Modulator-(electrical),2,1,2
+ST28,HI,3,5/9/21,15:03:05,15:07:11,15,7,11,246.22,Cancel disconnect: 'RF Amplifier 3 [SPARE]',,RF-Amplifier-2-(electrical),,Stage-3-Modulator-(electrical) Stage-1-Modulator-(electrical),2,1,2
+ST28,HI,3,5/9/21,15:03:05,15:07:13,15,7,13,247.68,Click on: 'Stage 1 Modulator [SPARE]',,RF-Amplifier-2-(electrical),,Stage-3-Modulator-(electrical) Stage-1-Modulator-(electrical),2,1,2
+ST28,HI,3,5/9/21,15:03:05,15:07:14,15,7,14,249.13,Disconnect LRU: 'Stage 1 Modulator [SPARE]',,RF-Amplifier-2-(electrical),,Stage-3-Modulator-(electrical) Stage-1-Modulator-(electrical),2,1,2
+ST28,HI,3,5/9/21,15:03:05,15:07:14,15,7,14,249.14,Move drawer: 95.4% open,Indicator,RF-Amplifier-2-(electrical),,Stage-3-Modulator-(electrical) Stage-1-Modulator-(electrical),2,1,2
+ST28,HI,3,5/9/21,15:03:05,15:07:15,15,7,15,250.13,Connect LRU: 'Stage 1 Modulator [SPARE]',,RF-Amplifier-2-(electrical),,Stage-3-Modulator-(electrical) Stage-1-Modulator-(electrical),2,1,2
+ST28,HI,3,5/9/21,15:03:05,15:07:15,15,7,15,250.14,Move drawer: 95.4% open,Indicator,RF-Amplifier-2-(electrical),,Stage-3-Modulator-(electrical) Stage-1-Modulator-(electrical),2,1,2
+ST28,HI,3,5/9/21,15:03:05,15:07:16,15,7,16,251.32,Replaced unnecessarily Stage 1 Modulator (electrical),,RF-Amplifier-2-(electrical),,Stage-3-Modulator-(electrical) Stage-1-Modulator-(electrical),2,1,2
+ST28,HI,3,5/9/21,15:03:05,15:07:16,15,7,16,251.32,Move drawer: 95.4% open,Indicator,RF-Amplifier-2-(electrical),,Stage-3-Modulator-(electrical) Stage-1-Modulator-(electrical),2,1,2
+ST28,HI,3,5/9/21,15:03:05,15:07:17,15,7,17,251.98,Click on: 'Stage 1 Modulator [SPARE]',,RF-Amplifier-2-(electrical),,Stage-3-Modulator-(electrical) Stage-1-Modulator-(electrical),2,1,2
+ST28,HI,3,5/9/21,15:03:05,15:07:18,15,7,18,252.82,Disconnect LRU: 'Stage 1 Modulator [SPARE]',,RF-Amplifier-2-(electrical),,Stage-3-Modulator-(electrical) Stage-1-Modulator-(electrical),2,1,2
+ST28,HI,3,5/9/21,15:03:05,15:07:18,15,7,18,252.82,Move drawer: 95.4% open,Indicator,RF-Amplifier-2-(electrical),,Stage-3-Modulator-(electrical) Stage-1-Modulator-(electrical),2,1,2
+ST28,HI,3,5/9/21,15:03:05,15:07:18,15,7,18,253.37,Cancel connect: 'Stage 1 Modulator [SPARE]',,RF-Amplifier-2-(electrical),,Stage-3-Modulator-(electrical) Stage-1-Modulator-(electrical),2,1,2
+ST28,HI,3,5/9/21,15:03:05,15:07:19,15,7,19,254.01,Pick Up LRU: 'Stage 1 Modulator [SPARE]',,RF-Amplifier-2-(electrical),,Stage-3-Modulator-(electrical) Stage-1-Modulator-(electrical),2,1,2
+ST28,HI,3,5/9/21,15:03:05,15:07:20,15,7,20,255.26,Leave Server Box Table,,RF-Amplifier-2-(electrical),,Stage-3-Modulator-(electrical) Stage-1-Modulator-(electrical),2,1,2
+ST28,HI,3,5/9/21,15:03:05,15:07:20,15,7,20,255.27,Drop LRU: 'Stage 1 Modulator [SPARE]',,RF-Amplifier-2-(electrical),,Stage-3-Modulator-(electrical) Stage-1-Modulator-(electrical),2,1,2
+ST28,HI,3,5/9/21,15:03:05,15:07:21,15,7,21,256.16,Move to Spare Parts Table,,RF-Amplifier-2-(electrical),,Stage-3-Modulator-(electrical) Stage-1-Modulator-(electrical),2,1,2
+ST28,HI,3,5/9/21,15:03:05,15:07:25,15,7,25,259.76,Pick Up LRU: 'Stage 2 Modulator [SPARE]',,RF-Amplifier-2-(electrical),,Stage-3-Modulator-(electrical) Stage-1-Modulator-(electrical),2,1,2
+ST28,HI,3,5/9/21,15:03:05,15:07:28,15,7,28,263.46,Leave Spare Parts Table,,RF-Amplifier-2-(electrical),,Stage-3-Modulator-(electrical) Stage-1-Modulator-(electrical),2,1,2
+ST28,HI,3,5/9/21,15:03:05,15:07:29,15,7,29,264.06,Move to Server Box Table,,RF-Amplifier-2-(electrical),,Stage-3-Modulator-(electrical) Stage-1-Modulator-(electrical),2,1,2
+ST28,HI,3,5/9/21,15:03:05,15:07:31,15,7,31,266.55,Drop LRU: 'Stage 2 Modulator [SPARE]',,RF-Amplifier-2-(electrical),,Stage-3-Modulator-(electrical) Stage-1-Modulator-(electrical),2,1,2
+ST28,HI,3,5/9/21,15:03:05,15:07:33,15,7,33,268.11,Pick Up LRU: 'Stage 2 Modulator [SPARE]',,RF-Amplifier-2-(electrical),,Stage-3-Modulator-(electrical) Stage-1-Modulator-(electrical),2,1,2
+ST28,HI,3,5/9/21,15:03:05,15:07:37,15,7,37,271.78,Drop LRU: 'Stage 2 Modulator [SPARE]',,RF-Amplifier-2-(electrical),,Stage-3-Modulator-(electrical) Stage-1-Modulator-(electrical),2,1,2
+ST28,HI,3,5/9/21,15:03:05,15:07:42,15,7,42,276.88,Attempt to reconnect mismatched LRU: 'Stage 2 Modulator [SPARE]',,RF-Amplifier-2-(electrical),,Stage-3-Modulator-(electrical) Stage-1-Modulator-(electrical),2,1,2
+ST28,HI,3,5/9/21,15:03:05,15:07:44,15,7,44,278.72,Pick Up LRU: 'Stage 2 Modulator [SPARE]',,RF-Amplifier-2-(electrical),,Stage-3-Modulator-(electrical) Stage-1-Modulator-(electrical),2,1,2
+ST28,HI,3,5/9/21,15:03:05,15:07:44,15,7,44,279.22,Attempt to reconnect mismatched LRU: 'Stage 2 Modulator [SPARE]',,RF-Amplifier-2-(electrical),,Stage-3-Modulator-(electrical) Stage-1-Modulator-(electrical),2,1,2
+ST28,HI,3,5/9/21,15:03:05,15:07:45,15,7,45,280.36,Attempt to reconnect mismatched LRU: 'Stage 2 Modulator [SPARE]',,RF-Amplifier-2-(electrical),,Stage-3-Modulator-(electrical) Stage-1-Modulator-(electrical),2,1,2
+ST28,HI,3,5/9/21,15:03:05,15:07:46,15,7,46,280.87,Drop LRU: 'Stage 2 Modulator [SPARE]',,RF-Amplifier-2-(electrical),,Stage-3-Modulator-(electrical) Stage-1-Modulator-(electrical),2,1,2
+ST28,HI,3,5/9/21,15:03:05,15:07:46,15,7,46,281.38,Pick Up LRU: 'Stage 2 Modulator [SPARE]',,RF-Amplifier-2-(electrical),,Stage-3-Modulator-(electrical) Stage-1-Modulator-(electrical),2,1,2
+ST28,HI,3,5/9/21,15:03:05,15:07:47,15,7,47,281.7,Drop LRU: 'Stage 2 Modulator [SPARE]',,RF-Amplifier-2-(electrical),,Stage-3-Modulator-(electrical) Stage-1-Modulator-(electrical),2,1,2
+ST28,HI,3,5/9/21,15:03:05,15:07:47,15,7,47,281.78,Attempt to reconnect mismatched LRU: 'Stage 2 Modulator [SPARE]',,RF-Amplifier-2-(electrical),,Stage-3-Modulator-(electrical) Stage-1-Modulator-(electrical),2,1,2
+ST28,HI,3,5/9/21,15:03:05,15:07:47,15,7,47,282.18,Pick Up LRU: 'Stage 2 Modulator [SPARE]',,RF-Amplifier-2-(electrical),,Stage-3-Modulator-(electrical) Stage-1-Modulator-(electrical),2,1,2
+ST28,HI,3,5/9/21,15:03:05,15:07:47,15,7,47,282.63,Drop LRU: 'Stage 2 Modulator [SPARE]',,RF-Amplifier-2-(electrical),,Stage-3-Modulator-(electrical) Stage-1-Modulator-(electrical),2,1,2
+ST28,HI,3,5/9/21,15:03:05,15:07:48,15,7,48,282.68,Attempt to reconnect mismatched LRU: 'Stage 2 Modulator [SPARE]',,RF-Amplifier-2-(electrical),,Stage-3-Modulator-(electrical) Stage-1-Modulator-(electrical),2,1,2
+ST28,HI,3,5/9/21,15:03:05,15:07:48,15,7,48,283.07,Pick Up LRU: 'Stage 2 Modulator [SPARE]',,RF-Amplifier-2-(electrical),,Stage-3-Modulator-(electrical) Stage-1-Modulator-(electrical),2,1,2
+ST28,HI,3,5/9/21,15:03:05,15:07:48,15,7,48,283.42,Drop LRU: 'Stage 2 Modulator [SPARE]',,RF-Amplifier-2-(electrical),,Stage-3-Modulator-(electrical) Stage-1-Modulator-(electrical),2,1,2
+ST28,HI,3,5/9/21,15:03:05,15:07:48,15,7,48,283.5,Attempt to reconnect mismatched LRU: 'Stage 2 Modulator [SPARE]',,RF-Amplifier-2-(electrical),,Stage-3-Modulator-(electrical) Stage-1-Modulator-(electrical),2,1,2
+ST28,HI,3,5/9/21,15:03:05,15:07:49,15,7,49,284.23,Pick Up LRU: 'Stage 2 Modulator [SPARE]',,RF-Amplifier-2-(electrical),,Stage-3-Modulator-(electrical) Stage-1-Modulator-(electrical),2,1,2
+ST28,HI,3,5/9/21,15:03:05,15:07:51,15,7,51,285.82,Drop LRU: 'Stage 2 Modulator [SPARE]',,RF-Amplifier-2-(electrical),,Stage-3-Modulator-(electrical) Stage-1-Modulator-(electrical),2,1,2
+ST28,HI,3,5/9/21,15:03:05,15:07:52,15,7,52,286.68,Leave Server Box Table,,RF-Amplifier-2-(electrical),,Stage-3-Modulator-(electrical) Stage-1-Modulator-(electrical),2,1,2
+ST28,HI,3,5/9/21,15:03:05,15:07:52,15,7,52,287.04,Move to Spare Parts Table,,RF-Amplifier-2-(electrical),,Stage-3-Modulator-(electrical) Stage-1-Modulator-(electrical),2,1,2
+ST28,HI,3,5/9/21,15:03:05,15:07:53,15,7,53,288.34,Leave Spare Parts Table,,RF-Amplifier-2-(electrical),,Stage-3-Modulator-(electrical) Stage-1-Modulator-(electrical),2,1,2
+ST28,HI,3,5/9/21,15:03:05,15:07:53,15,7,53,288.54,Move to Spare Parts Table,,RF-Amplifier-2-(electrical),,Stage-3-Modulator-(electrical) Stage-1-Modulator-(electrical),2,1,2
+ST28,HI,3,5/9/21,15:03:05,15:08:25,15,8,25,319.8,Leave Spare Parts Table,,RF-Amplifier-2-(electrical),,Stage-3-Modulator-(electrical) Stage-1-Modulator-(electrical),2,1,2
+ST28,HI,3,5/9/21,15:03:05,15:08:26,15,8,26,321.18,Move to Server Box Table,,RF-Amplifier-2-(electrical),,Stage-3-Modulator-(electrical) Stage-1-Modulator-(electrical),2,1,2
+ST28,HI,3,5/9/21,15:03:05,15:08:29,15,8,29,324.58,Pick Up LRU: 'Stage 1 Modulator',,RF-Amplifier-2-(electrical),,Stage-3-Modulator-(electrical) Stage-1-Modulator-(electrical),2,1,2
+ST28,HI,3,5/9/21,15:03:05,15:08:34,15,8,34,329.54,Drop LRU: 'Stage 1 Modulator',,RF-Amplifier-2-(electrical),,Stage-3-Modulator-(electrical) Stage-1-Modulator-(electrical),2,1,2
+ST28,HI,3,5/9/21,15:03:05,15:08:35,15,8,35,330.34,Pick Up LRU: 'Stage 2 Modulator [SPARE]',,RF-Amplifier-2-(electrical),,Stage-3-Modulator-(electrical) Stage-1-Modulator-(electrical),2,1,2
+ST28,HI,3,5/9/21,15:03:05,15:08:37,15,8,37,332.37,Drop LRU: 'Stage 2 Modulator [SPARE]',,RF-Amplifier-2-(electrical),,Stage-3-Modulator-(electrical) Stage-1-Modulator-(electrical),2,1,2
+ST28,HI,3,5/9/21,15:03:05,15:08:38,15,8,38,333.05,Pick Up LRU: 'Stage 1 Modulator [SPARE]',,RF-Amplifier-2-(electrical),,Stage-3-Modulator-(electrical) Stage-1-Modulator-(electrical),2,1,2
+ST28,HI,3,5/9/21,15:03:05,15:08:40,15,8,40,335.5,Drop LRU: 'Stage 1 Modulator [SPARE]',,RF-Amplifier-2-(electrical),,Stage-3-Modulator-(electrical) Stage-1-Modulator-(electrical),2,1,2
+ST28,HI,3,5/9/21,15:03:05,15:08:42,15,8,42,336.89,Pick Up LRU: 'Stage 1 Modulator',,RF-Amplifier-2-(electrical),,Stage-3-Modulator-(electrical) Stage-1-Modulator-(electrical),2,1,2
+ST28,HI,3,5/9/21,15:03:05,15:08:47,15,8,47,342.17,Drop LRU: 'Stage 1 Modulator',,RF-Amplifier-2-(electrical),,Stage-3-Modulator-(electrical) Stage-1-Modulator-(electrical),2,1,2
+ST28,HI,3,5/9/21,15:03:05,15:08:49,15,8,49,344.46,Pick Up LRU: 'Stage 1 Modulator',,RF-Amplifier-2-(electrical),,Stage-3-Modulator-(electrical) Stage-1-Modulator-(electrical),2,1,2
+ST28,HI,3,5/9/21,15:03:05,15:08:52,15,8,52,346.88,Drop LRU: 'Stage 1 Modulator',,RF-Amplifier-2-(electrical),,Stage-3-Modulator-(electrical) Stage-1-Modulator-(electrical),2,1,2
+ST28,HI,3,5/9/21,15:03:05,15:08:56,15,8,56,350.77,Pick Up LRU: 'Stage 1 Modulator',,RF-Amplifier-2-(electrical),,Stage-3-Modulator-(electrical) Stage-1-Modulator-(electrical),2,1,2
+ST28,HI,3,5/9/21,15:03:05,15:08:58,15,8,58,353.35,Drop LRU: 'Stage 1 Modulator',,RF-Amplifier-2-(electrical),,Stage-3-Modulator-(electrical) Stage-1-Modulator-(electrical),2,1,2
+ST28,HI,3,5/9/21,15:03:05,15:08:59,15,8,59,354.19,Connect LRU: 'Stage 1 Modulator',,RF-Amplifier-2-(electrical),,Stage-3-Modulator-(electrical) Stage-1-Modulator-(electrical),2,1,2
+ST28,HI,3,5/9/21,15:03:05,15:09:25,15,9,25,380.6,Move drawer: 40.1% open,Transmitter,RF-Amplifier-2-(electrical),,Stage-3-Modulator-(electrical) Stage-1-Modulator-(electrical),2,1,2
+ST28,HI,3,5/9/21,15:03:05,15:09:28,15,9,28,383.05,Move drawer: 0% open,Transmitter,RF-Amplifier-2-(electrical),,Stage-3-Modulator-(electrical) Stage-1-Modulator-(electrical),2,1,2
+ST28,HI,3,5/9/21,15:03:05,15:09:31,15,9,31,386.48,Move drawer: 99.3% open,Synchronizer,RF-Amplifier-2-(electrical),,Stage-3-Modulator-(electrical) Stage-1-Modulator-(electrical),2,1,2
+ST28,HI,3,5/9/21,15:03:05,15:09:34,15,9,34,388.83,Move drawer: 95.4% open,Synchronizer,RF-Amplifier-2-(electrical),,Stage-3-Modulator-(electrical) Stage-1-Modulator-(electrical),2,1,2
+ST28,HI,3,5/9/21,15:03:05,15:09:34,15,9,34,389.07,Move drawer: 95.4% open,Synchronizer,RF-Amplifier-2-(electrical),,Stage-3-Modulator-(electrical) Stage-1-Modulator-(electrical),2,1,2
+ST28,HI,3,5/9/21,15:03:05,15:09:34,15,9,34,389.56,Move drawer: 95.4% open,Synchronizer,RF-Amplifier-2-(electrical),,Stage-3-Modulator-(electrical) Stage-1-Modulator-(electrical),2,1,2
+ST28,HI,3,5/9/21,15:03:05,15:09:35,15,9,35,389.76,Move drawer: 95.4% open,Synchronizer,RF-Amplifier-2-(electrical),,Stage-3-Modulator-(electrical) Stage-1-Modulator-(electrical),2,1,2
+ST28,HI,3,5/9/21,15:03:05,15:09:35,15,9,35,390.61,Move drawer: 95.4% open,Synchronizer,RF-Amplifier-2-(electrical),,Stage-3-Modulator-(electrical) Stage-1-Modulator-(electrical),2,1,2
+ST28,HI,3,5/9/21,15:03:05,15:09:36,15,9,36,391.15,Move drawer: 94.9% open,Synchronizer,RF-Amplifier-2-(electrical),,Stage-3-Modulator-(electrical) Stage-1-Modulator-(electrical),2,1,2
+ST28,HI,3,5/9/21,15:03:05,15:09:38,15,9,38,392.95,Move drawer: 0% open,Synchronizer,RF-Amplifier-2-(electrical),,Stage-3-Modulator-(electrical) Stage-1-Modulator-(electrical),2,1,2
+ST28,HI,3,5/9/21,15:03:05,15:09:39,15,9,39,394.44,Move drawer: 95.4% open,Transmitter,RF-Amplifier-2-(electrical),,Stage-3-Modulator-(electrical) Stage-1-Modulator-(electrical),2,1,2
+ST28,HI,3,5/9/21,15:03:05,15:09:43,15,9,43,398.03,Click on: 'RF Amplifier 1 [SPARE]',,RF-Amplifier-2-(electrical),,Stage-3-Modulator-(electrical) Stage-1-Modulator-(electrical),2,1,2
+ST28,HI,3,5/9/21,15:03:05,15:09:44,15,9,44,398.91,Move drawer: 95.4% open,Transmitter,RF-Amplifier-2-(electrical),,Stage-3-Modulator-(electrical) Stage-1-Modulator-(electrical),2,1,2
+ST28,HI,3,5/9/21,15:03:05,15:09:44,15,9,44,399.35,Cancel disconnect: 'RF Amplifier 1 [SPARE]',,RF-Amplifier-2-(electrical),,Stage-3-Modulator-(electrical) Stage-1-Modulator-(electrical),2,1,2
+ST28,HI,3,5/9/21,15:03:05,15:09:44,15,9,44,399.36,Move drawer: 95.4% open,Transmitter,RF-Amplifier-2-(electrical),,Stage-3-Modulator-(electrical) Stage-1-Modulator-(electrical),2,1,2
+ST28,HI,3,5/9/21,15:03:05,15:09:58,15,9,58,413.38,Move drawer: 95.4% open,Transmitter,RF-Amplifier-2-(electrical),,Stage-3-Modulator-(electrical) Stage-1-Modulator-(electrical),2,1,2
+ST28,HI,3,5/9/21,15:03:05,15:09:58,15,9,58,413.63,Move drawer: 95.4% open,Transmitter,RF-Amplifier-2-(electrical),,Stage-3-Modulator-(electrical) Stage-1-Modulator-(electrical),2,1,2
+ST28,HI,3,5/9/21,15:03:05,15:09:59,15,9,59,413.85,Move drawer: 95.4% open,Transmitter,RF-Amplifier-2-(electrical),,Stage-3-Modulator-(electrical) Stage-1-Modulator-(electrical),2,1,2
+ST28,HI,3,5/9/21,15:03:05,15:09:59,15,9,59,414.11,Move drawer: 95.4% open,Transmitter,RF-Amplifier-2-(electrical),,Stage-3-Modulator-(electrical) Stage-1-Modulator-(electrical),2,1,2
+ST28,HI,3,5/9/21,15:03:05,15:09:59,15,9,59,414.31,Move drawer: 95.4% open,Transmitter,RF-Amplifier-2-(electrical),,Stage-3-Modulator-(electrical) Stage-1-Modulator-(electrical),2,1,2
+ST28,HI,3,5/9/21,15:03:05,15:10:00,15,10,0,414.93,Click on: 'RF Amplifier 1 [SPARE]',,RF-Amplifier-2-(electrical),,Stage-3-Modulator-(electrical) Stage-1-Modulator-(electrical),2,1,2
+ST28,HI,3,5/9/21,15:03:05,15:10:00,15,10,0,415.64,Cancel disconnect: 'RF Amplifier 1 [SPARE]',,RF-Amplifier-2-(electrical),,Stage-3-Modulator-(electrical) Stage-1-Modulator-(electrical),2,1,2
+ST28,HI,3,5/9/21,15:03:05,15:10:00,15,10,0,415.64,Move drawer: 95.4% open,Transmitter,RF-Amplifier-2-(electrical),,Stage-3-Modulator-(electrical) Stage-1-Modulator-(electrical),2,1,2
+ST28,HI,3,5/9/21,15:03:05,15:10:16,15,10,16,431.12,Move drawer: 95.5% open,Transmitter,RF-Amplifier-2-(electrical),,Stage-3-Modulator-(electrical) Stage-1-Modulator-(electrical),2,1,2
+ST28,HI,3,5/9/21,15:03:05,15:10:21,15,10,21,435.75,Click on: 'RF Amplifier 1 [SPARE]',,RF-Amplifier-2-(electrical),,Stage-3-Modulator-(electrical) Stage-1-Modulator-(electrical),2,1,2
+ST28,HI,3,5/9/21,15:03:05,15:10:21,15,10,21,436.55,Cancel disconnect: 'RF Amplifier 1 [SPARE]',,RF-Amplifier-2-(electrical),,Stage-3-Modulator-(electrical) Stage-1-Modulator-(electrical),2,1,2
+ST28,HI,3,5/9/21,15:03:05,15:10:49,15,10,49,463.8,Move drawer: 0% open,Transmitter,RF-Amplifier-2-(electrical),,Stage-3-Modulator-(electrical) Stage-1-Modulator-(electrical),2,1,2
+ST28,HI,3,5/9/21,15:03:05,15:10:50,15,10,50,465.29,Move drawer: 87% open,Tracker,RF-Amplifier-2-(electrical),,Stage-3-Modulator-(electrical) Stage-1-Modulator-(electrical),2,1,2
+ST28,HI,3,5/9/21,15:03:05,15:10:52,15,10,52,467.41,Click on: 'Transmitter Transmission Line',,RF-Amplifier-2-(electrical),,Stage-3-Modulator-(electrical) Stage-1-Modulator-(electrical),2,1,2
+ST28,HI,3,5/9/21,15:03:05,15:10:54,15,10,54,468.98,Cancel disconnect: 'Transmitter Transmission Line',,RF-Amplifier-2-(electrical),,Stage-3-Modulator-(electrical) Stage-1-Modulator-(electrical),2,1,2
+ST28,HI,3,5/9/21,15:03:05,15:10:54,15,10,54,468.98,Move drawer: 87% open,Tracker,RF-Amplifier-2-(electrical),,Stage-3-Modulator-(electrical) Stage-1-Modulator-(electrical),2,1,2
+ST28,HI,3,5/9/21,15:03:05,15:10:56,15,10,56,471.54,Submit?,,RF-Amplifier-2-(electrical),,Stage-3-Modulator-(electrical) Stage-1-Modulator-(electrical),2,1,2
+ST28,HI,3,5/9/21,15:03:05,15:10:58,15,10,58,473.41,Submit Confirm,,RF-Amplifier-2-(electrical),,Stage-3-Modulator-(electrical) Stage-1-Modulator-(electrical),2,1,2
+ST28,HI,3,5/9/21,15:03:05,15:10:58,15,10,58,473.42,Move drawer: 87% open,Tracker,RF-Amplifier-2-(electrical),,Stage-3-Modulator-(electrical) Stage-1-Modulator-(electrical),2,1,2
+ST28,HI,4,5/9/21,15:11:06,15:11:06,15,11,6,0,Make electrical flaw: Transmitter Waveguide,,Transmitter-Waveguide-(electrical),,,0,1,0
+ST28,HI,4,5/9/21,15:11:06,15:11:06,15,11,6,0,Start (High Fidelity Sim),,Transmitter-Waveguide-(electrical),,,0,1,0
+ST28,HI,4,5/9/21,15:11:06,15:11:06,15,11,6,0,Move drawer: 72.5% open,Tracker,Transmitter-Waveguide-(electrical),,,0,1,0
+ST28,HI,4,5/9/21,15:11:06,15:11:06,15,11,6,0.02,Leave Server Box Table,,Transmitter-Waveguide-(electrical),,,0,1,0

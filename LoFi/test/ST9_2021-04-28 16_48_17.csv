@@ -1,0 +1,195 @@
+subject,subject_group,round,round_start_date_utc,round_start_time_utc,current_time_utc,current_hour24,current_minute,current_second,current_elapsed_seconds,event,ui_tab,active_faults,fixed_faults,fixed_nonfaults,ReplacedComponents,FaultsRemaining,ReplacedNonFaults
+ST9,LO,1,4/28/21,20:48:17,20:48:17,20,48,17,0.03,Make electrical flaw: Local Oscillator,,Local-Oscillator-(electrical),,,0,1,0
+ST9,LO,1,4/28/21,20:48:17,20:48:17,20,48,17,0.04,Start (High Fidelity Sim),,Local-Oscillator-(electrical),,,0,1,0
+ST9,LO,1,4/28/21,20:48:17,20:48:25,20,48,25,7.67,Move to Server Box Table,,Local-Oscillator-(electrical),,,0,1,0
+ST9,LO,1,4/28/21,20:48:17,20:48:29,20,48,29,11.86,Swing front panel: 76.8% open,,Local-Oscillator-(electrical),,,0,1,0
+ST9,LO,1,4/28/21,20:48:17,20:48:46,20,48,46,28.55,Move drawer: 76.4% open,Processor,Local-Oscillator-(electrical),,,0,1,0
+ST9,LO,1,4/28/21,20:48:17,20:50:01,20,50,1,103.84,Move drawer: -4% open,Processor,Local-Oscillator-(electrical),,,0,1,0
+ST9,LO,1,4/28/21,20:48:17,20:50:03,20,50,3,106.03,Move drawer: 90.2% open,Indicator,Local-Oscillator-(electrical),,,0,1,0
+ST9,LO,1,4/28/21,20:48:17,20:50:06,20,50,6,108.89,Move drawer: 26.2% open,Indicator,Local-Oscillator-(electrical),,,0,1,0
+ST9,LO,1,4/28/21,20:48:17,20:50:09,20,50,9,111.59,Move drawer: 5.8% open,Indicator,Local-Oscillator-(electrical),,,0,1,0
+ST9,LO,1,4/28/21,20:48:17,20:50:11,20,50,11,113.71,Move drawer: 98.9% open,Processor,Local-Oscillator-(electrical),,,0,1,0
+ST9,LO,1,4/28/21,20:48:17,20:50:13,20,50,13,115.63,Click on: 'Local Oscillator',,Local-Oscillator-(electrical),,,0,1,0
+ST9,LO,1,4/28/21,20:48:17,20:50:16,20,50,16,118.69,Disconnect LRU: 'Local Oscillator',,Local-Oscillator-(electrical),,,0,1,0
+ST9,LO,1,4/28/21,20:48:17,20:50:22,20,50,22,125.02,Pick Up LRU: 'Local Oscillator',,Local-Oscillator-(electrical),,,0,1,0
+ST9,LO,1,4/28/21,20:48:17,20:50:23,20,50,23,125.31,Drop LRU: 'Local Oscillator',,Local-Oscillator-(electrical),,,0,1,0
+ST9,LO,1,4/28/21,20:48:17,20:50:24,20,50,24,126.59,Pick Up LRU: 'Local Oscillator',,Local-Oscillator-(electrical),,,0,1,0
+ST9,LO,1,4/28/21,20:48:17,20:50:24,20,50,24,126.87,Drop LRU: 'Local Oscillator',,Local-Oscillator-(electrical),,,0,1,0
+ST9,LO,1,4/28/21,20:48:17,20:50:25,20,50,25,128.15,Pick Up LRU: 'Local Oscillator',,Local-Oscillator-(electrical),,,0,1,0
+ST9,LO,1,4/28/21,20:48:17,20:50:26,20,50,26,128.81,Drop LRU: 'Local Oscillator',,Local-Oscillator-(electrical),,,0,1,0
+ST9,LO,1,4/28/21,20:48:17,20:50:31,20,50,31,133.61,Move drawer: 0.1% open,Tracker,Local-Oscillator-(electrical),,,0,1,0
+ST9,LO,1,4/28/21,20:48:17,20:50:34,20,50,34,136.42,Leave Server Box Table,,Local-Oscillator-(electrical),,,0,1,0
+ST9,LO,1,4/28/21,20:48:17,20:50:34,20,50,34,136.7,Move to Spare Parts Table,,Local-Oscillator-(electrical),,,0,1,0
+ST9,LO,1,4/28/21,20:48:17,20:50:52,20,50,52,154.73,Pick Up LRU: 'Local Oscillator [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+ST9,LO,1,4/28/21,20:48:17,20:51:04,20,51,4,166.37,Drop LRU: 'Local Oscillator [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+ST9,LO,1,4/28/21,20:48:17,20:51:05,20,51,5,167.9,Leave Spare Parts Table,,Local-Oscillator-(electrical),,,0,1,0
+ST9,LO,1,4/28/21,20:48:17,20:51:27,20,51,27,189.48,Pick Up LRU: 'Local Oscillator [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+ST9,LO,1,4/28/21,20:48:17,20:51:37,20,51,37,200,Drop LRU: 'Local Oscillator [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+ST9,LO,1,4/28/21,20:48:17,20:51:38,20,51,38,201.21,Pick Up LRU: 'Local Oscillator [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+ST9,LO,1,4/28/21,20:48:17,20:51:40,20,51,40,202.5,Drop LRU: 'Local Oscillator [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+ST9,LO,1,4/28/21,20:48:17,20:51:41,20,51,41,203.28,Pick Up LRU: 'Local Oscillator [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+ST9,LO,1,4/28/21,20:48:17,20:51:50,20,51,50,212.7,Drop LRU: 'Local Oscillator [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+ST9,LO,1,4/28/21,20:48:17,20:51:52,20,51,52,214.71,Move to Server Box Table,,Local-Oscillator-(electrical),,,0,1,0
+ST9,LO,1,4/28/21,20:48:17,20:51:57,20,51,57,219.88,Pick Up LRU: 'Local Oscillator [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+ST9,LO,1,4/28/21,20:48:17,20:52:06,20,52,6,228.81,Drop LRU: 'Local Oscillator [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+ST9,LO,1,4/28/21,20:48:17,20:52:10,20,52,10,233.01,Pick Up LRU: 'Local Oscillator [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+ST9,LO,1,4/28/21,20:48:17,20:52:12,20,52,12,235.17,Drop LRU: 'Local Oscillator [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+ST9,LO,1,4/28/21,20:48:17,20:52:15,20,52,15,238.16,Pick Up LRU: 'Local Oscillator [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+ST9,LO,1,4/28/21,20:48:17,20:52:17,20,52,17,239.27,Drop LRU: 'Local Oscillator [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+ST9,LO,1,4/28/21,20:48:17,20:52:18,20,52,18,240.36,Connect LRU: 'Local Oscillator [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+ST9,LO,1,4/28/21,20:48:17,20:52:23,20,52,23,246.21,Fixed Local Oscillator (electrical),,,Local-Oscillator-(electrical),,1,0,0
+ST9,LO,1,4/28/21,20:48:17,20:52:25,20,52,25,247.76,Submit?,,,Local-Oscillator-(electrical),,1,0,0
+ST9,LO,1,4/28/21,20:48:17,20:52:26,20,52,26,249.11,Submit Confirm,,,Local-Oscillator-(electrical),,1,0,0
+ST9,LO,1,4/28/21,20:48:17,20:52:26,20,52,26,249.12,Move drawer: 95.4% open,Processor,,Local-Oscillator-(electrical),,1,0,0
+ST9,LO,2,4/28/21,20:52:32,20:52:32,20,52,32,0,Make electrical flaw: Receiver Waveguide,,Receiver-Waveguide-(electrical),,,0,1,0
+ST9,LO,2,4/28/21,20:52:32,20:52:32,20,52,32,0,Start (High Fidelity Sim),,Receiver-Waveguide-(electrical),,,0,1,0
+ST9,LO,2,4/28/21,20:52:32,20:52:32,20,52,32,0.01,Move drawer: -5.9% open,Processor,Receiver-Waveguide-(electrical),,,0,1,0
+ST9,LO,2,4/28/21,20:52:32,20:52:32,20,52,32,0.05,Leave Server Box Table,,Receiver-Waveguide-(electrical),,,0,1,0
+ST9,LO,2,4/28/21,20:52:32,20:52:39,20,52,39,6.92,Move to Server Box Table,,Receiver-Waveguide-(electrical),,,0,1,0
+ST9,LO,2,4/28/21,20:52:32,20:52:42,20,52,42,10.47,Swing front panel: 90.2% open,,Receiver-Waveguide-(electrical),,,0,1,0
+ST9,LO,2,4/28/21,20:52:32,20:52:48,20,52,48,16.34,Move drawer: 38% open,Processor,Receiver-Waveguide-(electrical),,,0,1,0
+ST9,LO,2,4/28/21,20:52:32,20:52:51,20,52,51,19.46,Move drawer: 98.6% open,Processor,Receiver-Waveguide-(electrical),,,0,1,0
+ST9,LO,2,4/28/21,20:52:32,20:53:07,20,53,7,35.4,Move drawer: 95.5% open,Processor,Receiver-Waveguide-(electrical),,,0,1,0
+ST9,LO,2,4/28/21,20:52:32,20:53:52,20,53,52,80.07,Move drawer: -2.7% open,Processor,Receiver-Waveguide-(electrical),,,0,1,0
+ST9,LO,2,4/28/21,20:52:32,20:53:54,20,53,54,82.03,Move drawer: 89% open,Indicator,Receiver-Waveguide-(electrical),,,0,1,0
+ST9,LO,2,4/28/21,20:52:32,20:53:56,20,53,56,83.95,Move drawer: -3.5% open,Indicator,Receiver-Waveguide-(electrical),,,0,1,0
+ST9,LO,2,4/28/21,20:52:32,20:53:58,20,53,58,86.21,Move drawer: 95.4% open,Processor,Receiver-Waveguide-(electrical),,,0,1,0
+ST9,LO,2,4/28/21,20:52:32,20:54:00,20,54,0,88.3,Click on: 'Low Noise RF Amplifier',,Receiver-Waveguide-(electrical),,,0,1,0
+ST9,LO,2,4/28/21,20:52:32,20:54:02,20,54,2,89.8,Disconnect LRU: 'Low Noise RF Amplifier',,Receiver-Waveguide-(electrical),,,0,1,0
+ST9,LO,2,4/28/21,20:52:32,20:54:16,20,54,16,104.23,Pick Up LRU: 'Low Noise RF Amplifier',,Receiver-Waveguide-(electrical),,,0,1,0
+ST9,LO,2,4/28/21,20:52:32,20:54:17,20,54,17,105.31,Drop LRU: 'Low Noise RF Amplifier',,Receiver-Waveguide-(electrical),,,0,1,0
+ST9,LO,2,4/28/21,20:52:32,20:54:19,20,54,19,106.61,Cancel connect: 'Low Noise RF Amplifier',,Receiver-Waveguide-(electrical),,,0,1,0
+ST9,LO,2,4/28/21,20:52:32,20:54:21,20,54,21,108.88,Move drawer: 99.9% open,Processor,Receiver-Waveguide-(electrical),,,0,1,0
+ST9,LO,2,4/28/21,20:52:32,20:54:22,20,54,22,110.04,Pick Up LRU: 'Low Noise RF Amplifier',,Receiver-Waveguide-(electrical),,,0,1,0
+ST9,LO,2,4/28/21,20:52:32,20:54:23,20,54,23,111.21,Drop LRU: 'Low Noise RF Amplifier',,Receiver-Waveguide-(electrical),,,0,1,0
+ST9,LO,2,4/28/21,20:52:32,20:54:25,20,54,25,112.93,Click on: 'Mixer Detector',,Receiver-Waveguide-(electrical),,,0,1,0
+ST9,LO,2,4/28/21,20:52:32,20:54:26,20,54,26,114.28,Cancel disconnect: 'Mixer Detector',,Receiver-Waveguide-(electrical),,,0,1,0
+ST9,LO,2,4/28/21,20:52:32,20:54:27,20,54,27,115.53,Pick Up LRU: 'Low Noise RF Amplifier',,Receiver-Waveguide-(electrical),,,0,1,0
+ST9,LO,2,4/28/21,20:52:32,20:54:29,20,54,29,116.83,Drop LRU: 'Low Noise RF Amplifier',,Receiver-Waveguide-(electrical),,,0,1,0
+ST9,LO,2,4/28/21,20:52:32,20:54:30,20,54,30,118.05,Click on: 'AFC Frequency Discriminator',,Receiver-Waveguide-(electrical),,,0,1,0
+ST9,LO,2,4/28/21,20:52:32,20:54:31,20,54,31,119.13,Cancel disconnect: 'AFC Frequency Discriminator',,Receiver-Waveguide-(electrical),,,0,1,0
+ST9,LO,2,4/28/21,20:52:32,20:54:32,20,54,32,120.29,Pick Up LRU: 'Low Noise RF Amplifier',,Receiver-Waveguide-(electrical),,,0,1,0
+ST9,LO,2,4/28/21,20:52:32,20:54:35,20,54,35,123.24,Drop LRU: 'Low Noise RF Amplifier',,Receiver-Waveguide-(electrical),,,0,1,0
+ST9,LO,2,4/28/21,20:52:32,20:54:37,20,54,37,124.99,Leave Server Box Table,,Receiver-Waveguide-(electrical),,,0,1,0
+ST9,LO,2,4/28/21,20:52:32,20:54:37,20,54,37,125.27,Move to Spare Parts Table,,Receiver-Waveguide-(electrical),,,0,1,0
+ST9,LO,2,4/28/21,20:52:32,20:54:52,20,54,52,139.59,Pick Up LRU: 'Low Noise RF Amplifier [SPARE]',,Receiver-Waveguide-(electrical),,,0,1,0
+ST9,LO,2,4/28/21,20:52:32,20:54:55,20,54,55,143.19,Drop LRU: 'Low Noise RF Amplifier [SPARE]',,Receiver-Waveguide-(electrical),,,0,1,0
+ST9,LO,2,4/28/21,20:52:32,20:54:56,20,54,56,143.99,Pick Up LRU: 'Low Noise RF Amplifier [SPARE]',,Receiver-Waveguide-(electrical),,,0,1,0
+ST9,LO,2,4/28/21,20:52:32,20:54:57,20,54,57,144.72,Drop LRU: 'Low Noise RF Amplifier [SPARE]',,Receiver-Waveguide-(electrical),,,0,1,0
+ST9,LO,2,4/28/21,20:52:32,20:55:00,20,55,0,148,Pick Up LRU: 'Low Noise RF Amplifier [SPARE]',,Receiver-Waveguide-(electrical),,,0,1,0
+ST9,LO,2,4/28/21,20:52:32,20:55:02,20,55,2,150.09,Drop LRU: 'Low Noise RF Amplifier [SPARE]',,Receiver-Waveguide-(electrical),,,0,1,0
+ST9,LO,2,4/28/21,20:52:32,20:55:03,20,55,3,151.07,Pick Up LRU: 'Low Noise RF Amplifier [SPARE]',,Receiver-Waveguide-(electrical),,,0,1,0
+ST9,LO,2,4/28/21,20:52:32,20:55:04,20,55,4,152.12,Drop LRU: 'Low Noise RF Amplifier [SPARE]',,Receiver-Waveguide-(electrical),,,0,1,0
+ST9,LO,2,4/28/21,20:52:32,20:55:12,20,55,12,159.99,Leave Spare Parts Table,,Receiver-Waveguide-(electrical),,,0,1,0
+ST9,LO,2,4/28/21,20:52:32,20:55:16,20,55,16,164.07,Move to Server Box Table,,Receiver-Waveguide-(electrical),,,0,1,0
+ST9,LO,2,4/28/21,20:52:32,20:55:20,20,55,20,168.25,Pick Up LRU: 'Low Noise RF Amplifier [SPARE]',,Receiver-Waveguide-(electrical),,,0,1,0
+ST9,LO,2,4/28/21,20:52:32,20:55:30,20,55,30,178.18,Drop LRU: 'Low Noise RF Amplifier [SPARE]',,Receiver-Waveguide-(electrical),,,0,1,0
+ST9,LO,2,4/28/21,20:52:32,20:55:33,20,55,33,181.02,Leave Server Box Table,,Receiver-Waveguide-(electrical),,,0,1,0
+ST9,LO,2,4/28/21,20:52:32,20:55:56,20,55,56,204.55,Pick Up LRU: 'Low Noise RF Amplifier [SPARE]',,Receiver-Waveguide-(electrical),,,0,1,0
+ST9,LO,2,4/28/21,20:52:32,20:56:02,20,56,2,209.98,Drop LRU: 'Low Noise RF Amplifier [SPARE]',,Receiver-Waveguide-(electrical),,,0,1,0
+ST9,LO,2,4/28/21,20:52:32,20:56:06,20,56,6,214.25,Pick Up LRU: 'Low Noise RF Amplifier [SPARE]',,Receiver-Waveguide-(electrical),,,0,1,0
+ST9,LO,2,4/28/21,20:52:32,20:56:12,20,56,12,220.4,Drop LRU: 'Low Noise RF Amplifier [SPARE]',,Receiver-Waveguide-(electrical),,,0,1,0
+ST9,LO,2,4/28/21,20:52:32,20:56:16,20,56,16,224.11,Pick Up LRU: 'Low Noise RF Amplifier [SPARE]',,Receiver-Waveguide-(electrical),,,0,1,0
+ST9,LO,2,4/28/21,20:52:32,20:56:17,20,56,17,225.58,Drop LRU: 'Low Noise RF Amplifier [SPARE]',,Receiver-Waveguide-(electrical),,,0,1,0
+ST9,LO,2,4/28/21,20:52:32,20:56:19,20,56,19,226.86,Pick Up LRU: 'Low Noise RF Amplifier [SPARE]',,Receiver-Waveguide-(electrical),,,0,1,0
+ST9,LO,2,4/28/21,20:52:32,20:56:20,20,56,20,228.39,Drop LRU: 'Low Noise RF Amplifier [SPARE]',,Receiver-Waveguide-(electrical),,,0,1,0
+ST9,LO,2,4/28/21,20:52:32,20:56:21,20,56,21,229.25,Pick Up LRU: 'Low Noise RF Amplifier [SPARE]',,Receiver-Waveguide-(electrical),,,0,1,0
+ST9,LO,2,4/28/21,20:52:32,20:56:29,20,56,29,237.28,Drop LRU: 'Low Noise RF Amplifier [SPARE]',,Receiver-Waveguide-(electrical),,,0,1,0
+ST9,LO,2,4/28/21,20:52:32,20:56:31,20,56,31,238.96,Move to Server Box Table,,Receiver-Waveguide-(electrical),,,0,1,0
+ST9,LO,2,4/28/21,20:52:32,20:56:42,20,56,42,249.91,Pick Up LRU: 'Low Noise RF Amplifier [SPARE]',,Receiver-Waveguide-(electrical),,,0,1,0
+ST9,LO,2,4/28/21,20:52:32,20:56:48,20,56,48,256.51,Drop LRU: 'Low Noise RF Amplifier [SPARE]',,Receiver-Waveguide-(electrical),,,0,1,0
+ST9,LO,2,4/28/21,20:52:32,20:56:49,20,56,49,257.49,Connect LRU: 'Low Noise RF Amplifier [SPARE]',,Receiver-Waveguide-(electrical),,,0,1,0
+ST9,LO,2,4/28/21,20:52:32,20:56:50,20,56,50,258.24,Replaced unnecessarily Low Noise RF Amplifier (electrical),,Receiver-Waveguide-(electrical),,Low-Noise-RF-Amplifier-(electrical),1,1,1
+ST9,LO,2,4/28/21,20:52:32,20:56:52,20,56,52,260.19,Submit?,,Receiver-Waveguide-(electrical),,Low-Noise-RF-Amplifier-(electrical),1,1,1
+ST9,LO,2,4/28/21,20:52:32,20:56:53,20,56,53,261.44,Submit Confirm,,Receiver-Waveguide-(electrical),,Low-Noise-RF-Amplifier-(electrical),1,1,1
+ST9,LO,3,4/28/21,20:56:59,20:56:59,20,56,59,0,Make electrical flaw: Stage 3 Modulator,,Stage-3-Modulator-(electrical),,,0,1,0
+ST9,LO,3,4/28/21,20:56:59,20:56:59,20,56,59,0,Start (High Fidelity Sim),,Stage-3-Modulator-(electrical),,,0,1,0
+ST9,LO,3,4/28/21,20:56:59,20:56:59,20,56,59,0.05,Leave Server Box Table,,Stage-3-Modulator-(electrical),,,0,1,0
+ST9,LO,3,4/28/21,20:56:59,20:57:07,20,57,7,7.74,Move to Server Box Table,,Stage-3-Modulator-(electrical),,,0,1,0
+ST9,LO,3,4/28/21,20:56:59,20:57:10,20,57,10,10.76,Swing front panel: 93.3% open,,Stage-3-Modulator-(electrical),,,0,1,0
+ST9,LO,3,4/28/21,20:56:59,20:57:20,20,57,20,21.46,Move drawer: 76.5% open,Transmitter,Stage-3-Modulator-(electrical),,,0,1,0
+ST9,LO,3,4/28/21,20:56:59,20:57:43,20,57,43,44.49,Click on: 'Stage 1 Modulator',,Stage-3-Modulator-(electrical),,,0,1,0
+ST9,LO,3,4/28/21,20:56:59,20:57:45,20,57,45,45.61,Disconnect LRU: 'Stage 1 Modulator',,Stage-3-Modulator-(electrical),,,0,1,0
+ST9,LO,3,4/28/21,20:56:59,20:57:45,20,57,45,45.64,Move drawer: 76.5% open,Transmitter,Stage-3-Modulator-(electrical),,,0,1,0
+ST9,LO,3,4/28/21,20:56:59,20:57:46,20,57,46,46.64,Pick Up LRU: 'Stage 1 Modulator',,Stage-3-Modulator-(electrical),,,0,1,0
+ST9,LO,3,4/28/21,20:56:59,20:57:46,20,57,46,46.74,Drop LRU: 'Stage 1 Modulator',,Stage-3-Modulator-(electrical),,,0,1,0
+ST9,LO,3,4/28/21,20:56:59,20:57:47,20,57,47,47.54,Pick Up LRU: 'Stage 1 Modulator',,Stage-3-Modulator-(electrical),,,0,1,0
+ST9,LO,3,4/28/21,20:56:59,20:57:47,20,57,47,47.65,Drop LRU: 'Stage 1 Modulator',,Stage-3-Modulator-(electrical),,,0,1,0
+ST9,LO,3,4/28/21,20:56:59,20:57:48,20,57,48,49.11,Connect LRU: 'Stage 1 Modulator',,Stage-3-Modulator-(electrical),,,0,1,0
+ST9,LO,3,4/28/21,20:56:59,20:57:48,20,57,48,49.14,Move drawer: 76.5% open,Transmitter,Stage-3-Modulator-(electrical),,,0,1,0
+ST9,LO,3,4/28/21,20:56:59,20:57:51,20,57,51,52.06,Click on: 'RF Amplifier 3',,Stage-3-Modulator-(electrical),,,0,1,0
+ST9,LO,3,4/28/21,20:56:59,20:57:54,20,57,54,55.42,Cancel disconnect: 'RF Amplifier 3',,Stage-3-Modulator-(electrical),,,0,1,0
+ST9,LO,3,4/28/21,20:56:59,20:57:54,20,57,54,55.46,Move drawer: 76.5% open,Transmitter,Stage-3-Modulator-(electrical),,,0,1,0
+ST9,LO,3,4/28/21,20:56:59,20:57:55,20,57,55,56.36,Click on: 'Stage 3 Modulator',,Stage-3-Modulator-(electrical),,,0,1,0
+ST9,LO,3,4/28/21,20:56:59,20:57:57,20,57,57,57.69,Disconnect LRU: 'Stage 3 Modulator',,Stage-3-Modulator-(electrical),,,0,1,0
+ST9,LO,3,4/28/21,20:56:59,20:57:57,20,57,57,57.72,Move drawer: 76.5% open,Transmitter,Stage-3-Modulator-(electrical),,,0,1,0
+ST9,LO,3,4/28/21,20:56:59,20:58:04,20,58,4,64.89,Pick Up LRU: 'Stage 3 Modulator',,Stage-3-Modulator-(electrical),,,0,1,0
+ST9,LO,3,4/28/21,20:56:59,20:58:05,20,58,5,65.89,Drop LRU: 'Stage 3 Modulator',,Stage-3-Modulator-(electrical),,,0,1,0
+ST9,LO,3,4/28/21,20:56:59,20:58:06,20,58,6,67.02,Cancel connect: 'Stage 3 Modulator',,Stage-3-Modulator-(electrical),,,0,1,0
+ST9,LO,3,4/28/21,20:56:59,20:58:06,20,58,6,67.04,Move drawer: 76.5% open,Transmitter,Stage-3-Modulator-(electrical),,,0,1,0
+ST9,LO,3,4/28/21,20:56:59,20:58:08,20,58,8,68.75,Leave Server Box Table,,Stage-3-Modulator-(electrical),,,0,1,0
+ST9,LO,3,4/28/21,20:56:59,20:58:08,20,58,8,69.07,Move to Spare Parts Table,,Stage-3-Modulator-(electrical),,,0,1,0
+ST9,LO,3,4/28/21,20:56:59,20:58:18,20,58,18,78.58,Leave Spare Parts Table,,Stage-3-Modulator-(electrical),,,0,1,0
+ST9,LO,3,4/28/21,20:56:59,20:58:21,20,58,21,81.95,Move to Spare Parts Table,,Stage-3-Modulator-(electrical),,,0,1,0
+ST9,LO,3,4/28/21,20:56:59,20:58:27,20,58,27,88.07,Pick Up LRU: 'Stage 3 Modulator [SPARE]',,Stage-3-Modulator-(electrical),,,0,1,0
+ST9,LO,3,4/28/21,20:56:59,20:58:31,20,58,31,92,Drop LRU: 'Stage 3 Modulator [SPARE]',,Stage-3-Modulator-(electrical),,,0,1,0
+ST9,LO,3,4/28/21,20:56:59,20:58:33,20,58,33,93.67,Leave Spare Parts Table,,Stage-3-Modulator-(electrical),,,0,1,0
+ST9,LO,3,4/28/21,20:56:59,20:58:52,20,58,52,113.13,Move to Server Box Table,,Stage-3-Modulator-(electrical),,,0,1,0
+ST9,LO,3,4/28/21,20:56:59,20:58:55,20,58,55,116.2,Pick Up LRU: 'Stage 3 Modulator [SPARE]',,Stage-3-Modulator-(electrical),,,0,1,0
+ST9,LO,3,4/28/21,20:56:59,20:58:58,20,58,58,118.91,Drop LRU: 'Stage 3 Modulator [SPARE]',,Stage-3-Modulator-(electrical),,,0,1,0
+ST9,LO,3,4/28/21,20:56:59,20:59:06,20,59,6,127.01,Leave Server Box Table,,Stage-3-Modulator-(electrical),,,0,1,0
+ST9,LO,3,4/28/21,20:56:59,20:59:08,20,59,8,129.06,Pick Up LRU: 'Stage 3 Modulator [SPARE]',,Stage-3-Modulator-(electrical),,,0,1,0
+ST9,LO,3,4/28/21,20:56:59,20:59:14,20,59,14,134.53,Drop LRU: 'Stage 3 Modulator [SPARE]',,Stage-3-Modulator-(electrical),,,0,1,0
+ST9,LO,3,4/28/21,20:56:59,20:59:19,20,59,19,139.85,Pick Up LRU: 'Stage 3 Modulator [SPARE]',,Stage-3-Modulator-(electrical),,,0,1,0
+ST9,LO,3,4/28/21,20:56:59,20:59:25,20,59,25,146.11,Drop LRU: 'Stage 3 Modulator [SPARE]',,Stage-3-Modulator-(electrical),,,0,1,0
+ST9,LO,3,4/28/21,20:56:59,20:59:33,20,59,33,154.03,Pick Up LRU: 'Stage 3 Modulator [SPARE]',,Stage-3-Modulator-(electrical),,,0,1,0
+ST9,LO,3,4/28/21,20:56:59,20:59:42,20,59,42,163.04,Drop LRU: 'Stage 3 Modulator [SPARE]',,Stage-3-Modulator-(electrical),,,0,1,0
+ST9,LO,3,4/28/21,20:56:59,20:59:44,20,59,44,164.91,Move to Server Box Table,,Stage-3-Modulator-(electrical),,,0,1,0
+ST9,LO,3,4/28/21,20:56:59,20:59:50,20,59,50,171.04,Pick Up LRU: 'Stage 3 Modulator [SPARE]',,Stage-3-Modulator-(electrical),,,0,1,0
+ST9,LO,3,4/28/21,20:56:59,20:59:56,20,59,56,177.44,Drop LRU: 'Stage 3 Modulator [SPARE]',,Stage-3-Modulator-(electrical),,,0,1,0
+ST9,LO,3,4/28/21,20:56:59,20:59:57,20,59,57,178.19,Pick Up LRU: 'Stage 3 Modulator [SPARE]',,Stage-3-Modulator-(electrical),,,0,1,0
+ST9,LO,3,4/28/21,20:56:59,21:00:00,21,0,0,180.84,Drop LRU: 'Stage 3 Modulator [SPARE]',,Stage-3-Modulator-(electrical),,,0,1,0
+ST9,LO,3,4/28/21,20:56:59,21:00:01,21,0,1,181.84,Pick Up LRU: 'Stage 3 Modulator [SPARE]',,Stage-3-Modulator-(electrical),,,0,1,0
+ST9,LO,3,4/28/21,20:56:59,21:00:04,21,0,4,184.64,Drop LRU: 'Stage 3 Modulator [SPARE]',,Stage-3-Modulator-(electrical),,,0,1,0
+ST9,LO,3,4/28/21,20:56:59,21:00:05,21,0,5,185.81,Connect LRU: 'Stage 3 Modulator [SPARE]',,Stage-3-Modulator-(electrical),,,0,1,0
+ST9,LO,3,4/28/21,20:56:59,21:00:06,21,0,6,186.51,Fixed Stage 3 Modulator (electrical),,,Stage-3-Modulator-(electrical),,1,0,0
+ST9,LO,3,4/28/21,20:56:59,21:00:09,21,0,9,189.74,Submit?,,,Stage-3-Modulator-(electrical),,1,0,0
+ST9,LO,3,4/28/21,20:56:59,21:00:11,21,0,11,192.09,Submit Confirm,,,Stage-3-Modulator-(electrical),,1,0,0
+ST9,LO,4,4/28/21,21:00:12,21:00:12,21,0,12,0,Make electrical flaw: Sine Wave Oscillator,,Sine-Wave-Oscillator-(electrical),,,0,1,0
+ST9,LO,4,4/28/21,21:00:12,21:00:12,21,0,12,0,Start (High Fidelity Sim),,Sine-Wave-Oscillator-(electrical),,,0,1,0
+ST9,LO,4,4/28/21,21:00:12,21:00:12,21,0,12,0.04,Leave Server Box Table,,Sine-Wave-Oscillator-(electrical),,,0,1,0
+ST9,LO,4,4/28/21,21:00:12,21:00:21,21,0,21,9.02,Move to Server Box Table,,Sine-Wave-Oscillator-(electrical),,,0,1,0
+ST9,LO,4,4/28/21,21:00:12,21:00:22,21,0,22,9.46,Leave Server Box Table,,Sine-Wave-Oscillator-(electrical),,,0,1,0
+ST9,LO,4,4/28/21,21:00:12,21:00:22,21,0,22,9.72,Move to Spare Parts Table,,Sine-Wave-Oscillator-(electrical),,,0,1,0
+ST9,LO,4,4/28/21,21:00:12,21:00:23,21,0,23,10.49,Leave Spare Parts Table,,Sine-Wave-Oscillator-(electrical),,,0,1,0
+ST9,LO,4,4/28/21,21:00:12,21:00:23,21,0,23,10.81,Move to Server Box Table,,Sine-Wave-Oscillator-(electrical),,,0,1,0
+ST9,LO,4,4/28/21,21:00:12,21:00:27,21,0,27,14.64,Swing front panel: 86.7% open,,Sine-Wave-Oscillator-(electrical),,,0,1,0
+ST9,LO,4,4/28/21,21:00:12,21:00:43,21,0,43,30.67,Move drawer: 73.4% open,Synchronizer,Sine-Wave-Oscillator-(electrical),,,0,1,0
+ST9,LO,4,4/28/21,21:00:12,21:01:10,21,1,10,58.39,Move drawer: -5% open,Synchronizer,Sine-Wave-Oscillator-(electrical),,,0,1,0
+ST9,LO,4,4/28/21,21:00:12,21:01:17,21,1,17,64.67,Move drawer: 96.1% open,Processor,Sine-Wave-Oscillator-(electrical),,,0,1,0
+ST9,LO,4,4/28/21,21:00:12,21:01:43,21,1,43,90.6,Move drawer: -11% open,Processor,Sine-Wave-Oscillator-(electrical),,,0,1,0
+ST9,LO,4,4/28/21,21:00:12,21:01:45,21,1,45,92.82,Move drawer: 95.4% open,Tracker,Sine-Wave-Oscillator-(electrical),,,0,1,0
+ST9,LO,4,4/28/21,21:00:12,21:01:47,21,1,47,95.17,Move drawer: 99.7% open,Processor,Sine-Wave-Oscillator-(electrical),,,0,1,0
+ST9,LO,4,4/28/21,21:00:12,21:01:50,21,1,50,97.46,Move drawer: -8.2% open,Processor,Sine-Wave-Oscillator-(electrical),,,0,1,0
+ST9,LO,4,4/28/21,21:00:12,21:01:52,21,1,52,99.81,Move drawer: 95.4% open,Transmitter,Sine-Wave-Oscillator-(electrical),,,0,1,0
+ST9,LO,4,4/28/21,21:00:12,21:02:45,21,2,45,152.81,Move drawer: 95.5% open,Transmitter,Sine-Wave-Oscillator-(electrical),,,0,1,0
+ST9,LO,4,4/28/21,21:00:12,21:02:53,21,2,53,160.94,Move drawer: 95.5% open,Transmitter,Sine-Wave-Oscillator-(electrical),,,0,1,0
+ST9,LO,4,4/28/21,21:00:12,21:02:55,21,2,55,163.04,Move drawer: 95.5% open,Transmitter,Sine-Wave-Oscillator-(electrical),,,0,1,0
+ST9,LO,4,4/28/21,21:00:12,21:02:56,21,2,56,164.24,Click on: 'Frequency Synthesizer',,Sine-Wave-Oscillator-(electrical),,,0,1,0
+ST9,LO,4,4/28/21,21:00:12,21:02:59,21,2,59,167.34,Cancel disconnect: 'Frequency Synthesizer',,Sine-Wave-Oscillator-(electrical),,,0,1,0
+ST9,LO,4,4/28/21,21:00:12,21:02:59,21,2,59,167.37,Move drawer: 95.4% open,Transmitter,Sine-Wave-Oscillator-(electrical),,,0,1,0
+ST9,LO,4,4/28/21,21:00:12,21:03:18,21,3,18,186.01,Move drawer: -6.4% open,Transmitter,Sine-Wave-Oscillator-(electrical),,,0,1,0
+ST9,LO,4,4/28/21,21:00:12,21:03:21,21,3,21,188.49,Move drawer: -7.9% open,Tracker,Sine-Wave-Oscillator-(electrical),,,0,1,0
+ST9,LO,4,4/28/21,21:00:12,21:03:24,21,3,24,192.07,Move drawer: 94% open,Synchronizer,Sine-Wave-Oscillator-(electrical),,,0,1,0
+ST9,LO,4,4/28/21,21:00:12,21:03:27,21,3,27,194.97,Click on: 'Sine Wave Oscillator',,Sine-Wave-Oscillator-(electrical),,,0,1,0
+ST9,LO,4,4/28/21,21:00:12,21:03:28,21,3,28,196.27,Disconnect LRU: 'Sine Wave Oscillator',,Sine-Wave-Oscillator-(electrical),,,0,1,0
+ST9,LO,4,4/28/21,21:00:12,21:03:28,21,3,28,196.28,Move drawer: 95.4% open,Synchronizer,Sine-Wave-Oscillator-(electrical),,,0,1,0
+ST9,LO,4,4/28/21,21:00:12,21:03:29,21,3,29,197.44,Pick Up LRU: 'Sine Wave Oscillator',,Sine-Wave-Oscillator-(electrical),,,0,1,0
+ST9,LO,4,4/28/21,21:00:12,21:03:31,21,3,31,198.9,Drop LRU: 'Sine Wave Oscillator',,Sine-Wave-Oscillator-(electrical),,,0,1,0
+ST9,LO,4,4/28/21,21:00:12,21:03:32,21,3,32,200.37,Leave Server Box Table,,Sine-Wave-Oscillator-(electrical),,,0,1,0
+ST9,LO,4,4/28/21,21:00:12,21:03:33,21,3,33,200.85,Move to Spare Parts Table,,Sine-Wave-Oscillator-(electrical),,,0,1,0
+ST9,LO,4,4/28/21,21:00:12,21:03:42,21,3,42,209.67,Submit?,,Sine-Wave-Oscillator-(electrical),,,0,1,0
+ST9,LO,4,4/28/21,21:00:12,21:03:43,21,3,43,211.35,Submit Confirm,,Sine-Wave-Oscillator-(electrical),,,0,1,0
+ST9,LO,5,4/28/21,21:03:44,21:03:44,21,3,44,0,Make electrical flaw: Cathode Ray Tube,,Cathode-Ray-Tube-(electrical),,,0,1,0
+ST9,LO,5,4/28/21,21:03:44,21:03:44,21,3,44,0,Start (High Fidelity Sim),,Cathode-Ray-Tube-(electrical),,,0,1,0
+ST9,LO,5,4/28/21,21:03:44,21:03:44,21,3,44,0.03,Leave Spare Parts Table,,Cathode-Ray-Tube-(electrical),,,0,1,0

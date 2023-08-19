@@ -1,0 +1,636 @@
+subject,subject_group,round,round_start_date_utc,round_start_time_utc,current_time_utc,current_hour24,current_minute,current_second,current_elapsed_seconds,event,ui_tab,active_faults,fixed_faults,fixed_nonfaults,ReplacedComponents,FaultsRemaining,ReplacedNonFaults
+St54,Hi,1,7/1/21,17:46:13,17:46:13,17,46,13,0.03,Make electrical flaw: Sweep Control Circuit,,Sweep-Control-Circuit-(electrical),,,0,1,0
+St54,Hi,1,7/1/21,17:46:13,17:46:13,17,46,13,0.03,Start (High Fidelity Sim),,Sweep-Control-Circuit-(electrical),,,0,1,0
+St54,Hi,1,7/1/21,17:46:13,17:46:46,17,46,46,32.63,Move to Server Box Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+St54,Hi,1,7/1/21,17:46:13,17:46:52,17,46,52,38.84,Swing front panel: 0% open,,Sweep-Control-Circuit-(electrical),,,0,1,0
+St54,Hi,1,7/1/21,17:46:13,17:46:55,17,46,55,41.75,Swing front panel: 0% open,,Sweep-Control-Circuit-(electrical),,,0,1,0
+St54,Hi,1,7/1/21,17:46:13,17:46:55,17,46,55,41.94,Swing front panel: 0% open,,Sweep-Control-Circuit-(electrical),,,0,1,0
+St54,Hi,1,7/1/21,17:46:13,17:47:09,17,47,9,55.99,Swing front panel: 56.3% open,,Sweep-Control-Circuit-(electrical),,,0,1,0
+St54,Hi,1,7/1/21,17:46:13,17:47:24,17,47,24,70.91,Move drawer: 0.2% open,Synchronizer,Sweep-Control-Circuit-(electrical),,,0,1,0
+St54,Hi,1,7/1/21,17:46:13,17:47:31,17,47,31,78.16,Move drawer: 100% open,Synchronizer,Sweep-Control-Circuit-(electrical),,,0,1,0
+St54,Hi,1,7/1/21,17:46:13,17:47:37,17,47,37,83.41,Move drawer: 0% open,Synchronizer,Sweep-Control-Circuit-(electrical),,,0,1,0
+St54,Hi,1,7/1/21,17:46:13,17:47:40,17,47,40,86.86,Move drawer: 99% open,Transmitter,Sweep-Control-Circuit-(electrical),,,0,1,0
+St54,Hi,1,7/1/21,17:46:13,17:48:05,17,48,5,111.38,Move drawer: 90.3% open,Transmitter,Sweep-Control-Circuit-(electrical),,,0,1,0
+St54,Hi,1,7/1/21,17:46:13,17:48:08,17,48,8,114.51,Leave Server Box Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+St54,Hi,1,7/1/21,17:46:13,17:48:08,17,48,8,114.81,Move to Spare Parts Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+St54,Hi,1,7/1/21,17:46:13,17:48:17,17,48,17,123.26,Leave Spare Parts Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+St54,Hi,1,7/1/21,17:46:13,17:48:18,17,48,18,124.31,Move to Server Box Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+St54,Hi,1,7/1/21,17:46:13,17:48:22,17,48,22,128.81,Leave Server Box Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+St54,Hi,1,7/1/21,17:46:13,17:48:22,17,48,22,129.11,Move to Spare Parts Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+St54,Hi,1,7/1/21,17:46:13,17:48:34,17,48,34,141.14,Leave Spare Parts Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+St54,Hi,1,7/1/21,17:46:13,17:48:35,17,48,35,142.1,Move to Server Box Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+St54,Hi,1,7/1/21,17:46:13,17:48:39,17,48,39,145.8,Leave Server Box Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+St54,Hi,1,7/1/21,17:46:13,17:48:39,17,48,39,146.09,Move to Spare Parts Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+St54,Hi,1,7/1/21,17:46:13,17:48:59,17,48,59,165.55,Pick Up LRU: 'Stage 2 Modulator [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+St54,Hi,1,7/1/21,17:46:13,17:49:00,17,49,0,166.21,Drop LRU: 'Stage 2 Modulator [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+St54,Hi,1,7/1/21,17:46:13,17:49:02,17,49,2,169.09,Pick Up LRU: 'Stage 2 Modulator [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+St54,Hi,1,7/1/21,17:46:13,17:49:04,17,49,4,170.5,Leave Spare Parts Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+St54,Hi,1,7/1/21,17:46:13,17:49:05,17,49,5,171.25,Move to Server Box Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+St54,Hi,1,7/1/21,17:46:13,17:49:06,17,49,6,172.17,Drop LRU: 'Stage 2 Modulator [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+St54,Hi,1,7/1/21,17:46:13,17:49:07,17,49,7,174.15,Pick Up LRU: 'Stage 2 Modulator [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+St54,Hi,1,7/1/21,17:46:13,17:49:09,17,49,9,175.39,Drop LRU: 'Stage 2 Modulator [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+St54,Hi,1,7/1/21,17:46:13,17:49:14,17,49,14,180.69,Pick Up LRU: 'Stage 2 Modulator [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+St54,Hi,1,7/1/21,17:46:13,17:49:14,17,49,14,180.75,Drop LRU: 'Stage 2 Modulator [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+St54,Hi,1,7/1/21,17:46:13,17:49:20,17,49,20,187.14,Pick Up LRU: 'Stage 2 Modulator [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+St54,Hi,1,7/1/21,17:46:13,17:49:24,17,49,24,191.09,Drop LRU: 'Stage 2 Modulator [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+St54,Hi,1,7/1/21,17:46:13,17:49:25,17,49,25,191.44,Leave Server Box Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+St54,Hi,1,7/1/21,17:46:13,17:49:26,17,49,26,192.39,Move to Server Box Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+St54,Hi,1,7/1/21,17:46:13,17:49:29,17,49,29,195.51,Click on: 'Stage 2 Modulator',,Sweep-Control-Circuit-(electrical),,,0,1,0
+St54,Hi,1,7/1/21,17:46:13,17:49:31,17,49,31,197.75,Disconnect LRU: 'Stage 2 Modulator',,Sweep-Control-Circuit-(electrical),,,0,1,0
+St54,Hi,1,7/1/21,17:46:13,17:49:36,17,49,36,202.17,Pick Up LRU: 'Stage 2 Modulator',,Sweep-Control-Circuit-(electrical),,,0,1,0
+St54,Hi,1,7/1/21,17:46:13,17:49:38,17,49,38,204.7,Drop LRU: 'Stage 2 Modulator',,Sweep-Control-Circuit-(electrical),,,0,1,0
+St54,Hi,1,7/1/21,17:46:13,17:49:41,17,49,41,207.94,Pick Up LRU: 'Stage 2 Modulator [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+St54,Hi,1,7/1/21,17:46:13,17:49:47,17,49,47,213.25,Drop LRU: 'Stage 2 Modulator [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+St54,Hi,1,7/1/21,17:46:13,17:49:49,17,49,49,215.62,Pick Up LRU: 'Stage 2 Modulator [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+St54,Hi,1,7/1/21,17:46:13,17:49:52,17,49,52,218.85,Drop LRU: 'Stage 2 Modulator [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+St54,Hi,1,7/1/21,17:46:13,17:49:55,17,49,55,222.12,Pick Up LRU: 'Stage 2 Modulator [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+St54,Hi,1,7/1/21,17:46:13,17:49:59,17,49,59,225.48,Drop LRU: 'Stage 2 Modulator [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+St54,Hi,1,7/1/21,17:46:13,17:50:00,17,50,0,226.93,Pick Up LRU: 'Stage 2 Modulator [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+St54,Hi,1,7/1/21,17:46:13,17:50:01,17,50,1,227.85,Drop LRU: 'Stage 2 Modulator [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+St54,Hi,1,7/1/21,17:46:13,17:50:04,17,50,4,230.83,Pick Up LRU: 'Stage 2 Modulator [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+St54,Hi,1,7/1/21,17:46:13,17:50:05,17,50,5,231.92,Drop LRU: 'Stage 2 Modulator [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+St54,Hi,1,7/1/21,17:46:13,17:50:06,17,50,6,232.83,Pick Up LRU: 'Stage 2 Modulator [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+St54,Hi,1,7/1/21,17:46:13,17:50:10,17,50,10,236.22,Drop LRU: 'Stage 2 Modulator [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+St54,Hi,1,7/1/21,17:46:13,17:50:12,17,50,12,238.97,Pick Up LRU: 'Stage 2 Modulator [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+St54,Hi,1,7/1/21,17:46:13,17:50:17,17,50,17,243.93,Drop LRU: 'Stage 2 Modulator [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+St54,Hi,1,7/1/21,17:46:13,17:50:18,17,50,18,245.05,Pick Up LRU: 'Stage 2 Modulator [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+St54,Hi,1,7/1/21,17:46:13,17:50:21,17,50,21,248.03,Drop LRU: 'Stage 2 Modulator [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+St54,Hi,1,7/1/21,17:46:13,17:50:23,17,50,23,249.75,Pick Up LRU: 'Stage 2 Modulator [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+St54,Hi,1,7/1/21,17:46:13,17:50:25,17,50,25,251.5,Drop LRU: 'Stage 2 Modulator [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+St54,Hi,1,7/1/21,17:46:13,17:50:26,17,50,26,252.92,Pick Up LRU: 'Stage 2 Modulator [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+St54,Hi,1,7/1/21,17:46:13,17:50:29,17,50,29,255.39,Drop LRU: 'Stage 2 Modulator [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+St54,Hi,1,7/1/21,17:46:13,17:50:35,17,50,35,261.2,Pick Up LRU: 'Stage 2 Modulator [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+St54,Hi,1,7/1/21,17:46:13,17:50:36,17,50,36,262.93,Drop LRU: 'Stage 2 Modulator [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+St54,Hi,1,7/1/21,17:46:13,17:50:37,17,50,37,263.37,Pick Up LRU: 'Stage 2 Modulator [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+St54,Hi,1,7/1/21,17:46:13,17:50:37,17,50,37,263.45,Drop LRU: 'Stage 2 Modulator [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+St54,Hi,1,7/1/21,17:46:13,17:50:37,17,50,37,263.53,Pick Up LRU: 'Stage 2 Modulator [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+St54,Hi,1,7/1/21,17:46:13,17:50:40,17,50,40,266.43,Drop LRU: 'Stage 2 Modulator [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+St54,Hi,1,7/1/21,17:46:13,17:50:41,17,50,41,267.93,Pick Up LRU: 'Stage 2 Modulator [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+St54,Hi,1,7/1/21,17:46:13,17:50:45,17,50,45,271.99,Drop LRU: 'Stage 2 Modulator [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+St54,Hi,1,7/1/21,17:46:13,17:50:47,17,50,47,273.55,Pick Up LRU: 'Stage 2 Modulator [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+St54,Hi,1,7/1/21,17:46:13,17:50:48,17,50,48,274.9,Drop LRU: 'Stage 2 Modulator [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+St54,Hi,1,7/1/21,17:46:13,17:51:02,17,51,2,288.88,Pick Up LRU: 'Stage 2 Modulator [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+St54,Hi,1,7/1/21,17:46:13,17:51:05,17,51,5,291.18,Drop LRU: 'Stage 2 Modulator [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+St54,Hi,1,7/1/21,17:46:13,17:51:06,17,51,6,292.7,Pick Up LRU: 'Stage 2 Modulator [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+St54,Hi,1,7/1/21,17:46:13,17:51:07,17,51,7,294.16,Drop LRU: 'Stage 2 Modulator [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+St54,Hi,1,7/1/21,17:46:13,17:51:10,17,51,10,296.81,Pick Up LRU: 'Stage 2 Modulator [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+St54,Hi,1,7/1/21,17:46:13,17:51:13,17,51,13,299.38,Drop LRU: 'Stage 2 Modulator [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+St54,Hi,1,7/1/21,17:46:13,17:51:17,17,51,17,303.51,Move drawer: 14.6% open,Transmitter,Sweep-Control-Circuit-(electrical),,,0,1,0
+St54,Hi,1,7/1/21,17:46:13,17:51:24,17,51,24,310.17,Click on: 'Local Oscillator',,Sweep-Control-Circuit-(electrical),,,0,1,0
+St54,Hi,1,7/1/21,17:46:13,17:51:25,17,51,25,311.9,Cancel disconnect: 'Local Oscillator',,Sweep-Control-Circuit-(electrical),,,0,1,0
+St54,Hi,1,7/1/21,17:46:13,17:51:27,17,51,27,314.11,Move drawer: 95.4% open,Transmitter,Sweep-Control-Circuit-(electrical),,,0,1,0
+St54,Hi,1,7/1/21,17:46:13,17:51:29,17,51,29,315.98,Pick Up LRU: 'Stage 2 Modulator [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+St54,Hi,1,7/1/21,17:46:13,17:51:32,17,51,32,318.43,Drop LRU: 'Stage 2 Modulator [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+St54,Hi,1,7/1/21,17:46:13,17:51:35,17,51,35,321.65,Pick Up LRU: 'Stage 2 Modulator [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+St54,Hi,1,7/1/21,17:46:13,17:51:37,17,51,37,323.65,Drop LRU: 'Stage 2 Modulator [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+St54,Hi,1,7/1/21,17:46:13,17:51:44,17,51,44,330.5,Leave Server Box Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+St54,Hi,1,7/1/21,17:46:13,17:51:46,17,51,46,332.91,Pick Up LRU: 'Stage 2 Modulator [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+St54,Hi,1,7/1/21,17:46:13,17:51:48,17,51,48,335.16,Drop LRU: 'Stage 2 Modulator [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+St54,Hi,1,7/1/21,17:46:13,17:51:49,17,51,49,335.23,Pick Up LRU: 'Stage 2 Modulator [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+St54,Hi,1,7/1/21,17:46:13,17:51:49,17,51,49,335.32,Drop LRU: 'Stage 2 Modulator [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+St54,Hi,1,7/1/21,17:46:13,17:51:53,17,51,53,339.85,Move to Server Box Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+St54,Hi,1,7/1/21,17:46:13,17:51:57,17,51,57,343.75,Pick Up LRU: 'Stage 2 Modulator [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+St54,Hi,1,7/1/21,17:46:13,17:52:00,17,52,0,347,Drop LRU: 'Stage 2 Modulator [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+St54,Hi,1,7/1/21,17:46:13,17:52:02,17,52,2,348.33,Leave Server Box Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+St54,Hi,1,7/1/21,17:46:13,17:52:07,17,52,7,353.83,Pick Up LRU: 'Stage 2 Modulator [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+St54,Hi,1,7/1/21,17:46:13,17:52:11,17,52,11,357.28,Drop LRU: 'Stage 2 Modulator [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+St54,Hi,1,7/1/21,17:46:13,17:52:14,17,52,14,360.25,Pick Up LRU: 'Stage 2 Modulator [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+St54,Hi,1,7/1/21,17:46:13,17:52:16,17,52,16,362.43,Drop LRU: 'Stage 2 Modulator [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+St54,Hi,1,7/1/21,17:46:13,17:52:24,17,52,24,371.14,Pick Up LRU: 'Stage 2 Modulator [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+St54,Hi,1,7/1/21,17:46:13,17:52:26,17,52,26,372.51,Drop LRU: 'Stage 2 Modulator [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+St54,Hi,1,7/1/21,17:46:13,17:52:37,17,52,37,383.24,Pick Up LRU: 'Stage 2 Modulator [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+St54,Hi,1,7/1/21,17:46:13,17:52:40,17,52,40,386.25,Drop LRU: 'Stage 2 Modulator [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+St54,Hi,1,7/1/21,17:46:13,17:52:42,17,52,42,388.61,Pick Up LRU: 'Stage 2 Modulator [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+St54,Hi,1,7/1/21,17:46:13,17:52:43,17,52,43,389.73,Drop LRU: 'Stage 2 Modulator [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+St54,Hi,1,7/1/21,17:46:13,17:52:46,17,52,46,393.08,Pick Up LRU: 'Stage 2 Modulator [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+St54,Hi,1,7/1/21,17:46:13,17:52:47,17,52,47,393.88,Drop LRU: 'Stage 2 Modulator [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+St54,Hi,1,7/1/21,17:46:13,17:52:52,17,52,52,398.78,Pick Up LRU: 'Stage 2 Modulator [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+St54,Hi,1,7/1/21,17:46:13,17:52:53,17,52,53,399.53,Drop LRU: 'Stage 2 Modulator [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+St54,Hi,1,7/1/21,17:46:13,17:52:56,17,52,56,402.47,Move to Server Box Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+St54,Hi,1,7/1/21,17:46:13,17:52:57,17,52,57,403.31,Leave Server Box Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+St54,Hi,1,7/1/21,17:46:13,17:53:02,17,53,2,408.94,Pick Up LRU: 'Stage 2 Modulator [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+St54,Hi,1,7/1/21,17:46:13,17:53:03,17,53,3,409.79,Drop LRU: 'Stage 2 Modulator [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+St54,Hi,1,7/1/21,17:46:13,17:53:04,17,53,4,410.84,Move to Server Box Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+St54,Hi,1,7/1/21,17:46:13,17:53:06,17,53,6,412.88,Pick Up LRU: 'Stage 2 Modulator [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+St54,Hi,1,7/1/21,17:46:13,17:53:12,17,53,12,418.97,Drop LRU: 'Stage 2 Modulator [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+St54,Hi,1,7/1/21,17:46:13,17:53:13,17,53,13,420.14,Leave Server Box Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+St54,Hi,1,7/1/21,17:46:13,17:53:17,17,53,17,424.14,Move to Server Box Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+St54,Hi,1,7/1/21,17:46:13,17:53:37,17,53,37,443.82,Swing front panel: 59.4% open,,Sweep-Control-Circuit-(electrical),,,0,1,0
+St54,Hi,1,7/1/21,17:46:13,17:53:44,17,53,44,450.95,Leave Server Box Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+St54,Hi,1,7/1/21,17:46:13,17:53:45,17,53,45,451.22,Move to Spare Parts Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+St54,Hi,1,7/1/21,17:46:13,17:54:06,17,54,6,472.85,Pick Up LRU: 'Stage 1 Modulator [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+St54,Hi,1,7/1/21,17:46:13,17:54:11,17,54,11,478.04,Leave Spare Parts Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+St54,Hi,1,7/1/21,17:46:13,17:54:13,17,54,13,479.29,Move to Server Box Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+St54,Hi,1,7/1/21,17:46:13,17:54:13,17,54,13,479.84,Drop LRU: 'Stage 1 Modulator [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+St54,Hi,1,7/1/21,17:46:13,17:54:20,17,54,20,486.54,Move drawer: 96.4% open,Transmitter,Sweep-Control-Circuit-(electrical),,,0,1,0
+St54,Hi,1,7/1/21,17:46:13,17:54:28,17,54,28,494.17,Pick Up LRU: 'Stage 1 Modulator [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+St54,Hi,1,7/1/21,17:46:13,17:54:30,17,54,30,496.97,Drop LRU: 'Stage 1 Modulator [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+St54,Hi,1,7/1/21,17:46:13,17:54:33,17,54,33,499.49,Pick Up LRU: 'Stage 1 Modulator [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+St54,Hi,1,7/1/21,17:46:13,17:54:40,17,54,40,506.22,Drop LRU: 'Stage 1 Modulator [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+St54,Hi,1,7/1/21,17:46:13,17:54:41,17,54,41,508.09,Pick Up LRU: 'Stage 1 Modulator [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+St54,Hi,1,7/1/21,17:46:13,17:54:43,17,54,43,509.94,Drop LRU: 'Stage 1 Modulator [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+St54,Hi,1,7/1/21,17:46:13,17:54:44,17,54,44,511.12,Pick Up LRU: 'Stage 1 Modulator [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+St54,Hi,1,7/1/21,17:46:13,17:54:50,17,54,50,516.64,Drop LRU: 'Stage 1 Modulator [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+St54,Hi,1,7/1/21,17:46:13,17:54:56,17,54,56,522.4,Pick Up LRU: 'Stage 1 Modulator [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+St54,Hi,1,7/1/21,17:46:13,17:54:58,17,54,58,524.59,Drop LRU: 'Stage 1 Modulator [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+St54,Hi,1,7/1/21,17:46:13,17:55:01,17,55,1,527.17,Leave Server Box Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+St54,Hi,1,7/1/21,17:46:13,17:55:08,17,55,8,534.47,Move to Server Box Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+St54,Hi,1,7/1/21,17:46:13,17:55:19,17,55,19,545.38,Pick Up LRU: 'Stage 1 Modulator [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+St54,Hi,1,7/1/21,17:46:13,17:55:22,17,55,22,548.92,Drop LRU: 'Stage 1 Modulator [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+St54,Hi,1,7/1/21,17:46:13,17:55:26,17,55,26,552.92,Pick Up LRU: 'Stage 1 Modulator [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+St54,Hi,1,7/1/21,17:46:13,17:55:29,17,55,29,555.85,Drop LRU: 'Stage 1 Modulator [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+St54,Hi,1,7/1/21,17:46:13,17:55:31,17,55,31,557.62,Pick Up LRU: 'Stage 1 Modulator [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+St54,Hi,1,7/1/21,17:46:13,17:55:34,17,55,34,560.27,Drop LRU: 'Stage 1 Modulator [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+St54,Hi,1,7/1/21,17:46:13,17:55:35,17,55,35,561.43,Pick Up LRU: 'Stage 1 Modulator [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+St54,Hi,1,7/1/21,17:46:13,17:55:35,17,55,35,561.97,Drop LRU: 'Stage 1 Modulator [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+St54,Hi,1,7/1/21,17:46:13,17:55:37,17,55,37,563.59,Pick Up LRU: 'Stage 1 Modulator [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+St54,Hi,1,7/1/21,17:46:13,17:55:40,17,55,40,566.78,Drop LRU: 'Stage 1 Modulator [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+St54,Hi,1,7/1/21,17:46:13,17:55:42,17,55,42,568.99,Pick Up LRU: 'Stage 1 Modulator [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+St54,Hi,1,7/1/21,17:46:13,17:55:43,17,55,43,569.96,Drop LRU: 'Stage 1 Modulator [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+St54,Hi,1,7/1/21,17:46:13,17:55:44,17,55,44,571.04,Pick Up LRU: 'Stage 1 Modulator [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+St54,Hi,1,7/1/21,17:46:13,17:55:47,17,55,47,573.47,Drop LRU: 'Stage 1 Modulator [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+St54,Hi,1,7/1/21,17:46:13,17:55:49,17,55,49,575.25,Pick Up LRU: 'Stage 1 Modulator [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+St54,Hi,1,7/1/21,17:46:13,17:55:49,17,55,49,575.77,Drop LRU: 'Stage 1 Modulator [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+St54,Hi,1,7/1/21,17:46:13,17:56:02,17,56,2,588.43,Leave Server Box Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+St54,Hi,1,7/1/21,17:46:13,17:56:02,17,56,2,588.7,Move to Spare Parts Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+St54,Hi,1,7/1/21,17:46:13,17:56:08,17,56,8,594.66,Leave Spare Parts Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+St54,Hi,1,7/1/21,17:46:13,17:56:08,17,56,8,594.97,Move to Server Box Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+St54,Hi,1,7/1/21,17:46:13,17:56:10,17,56,10,597.02,Click on: 'RF Amplifier 1',,Sweep-Control-Circuit-(electrical),,,0,1,0
+St54,Hi,1,7/1/21,17:46:13,17:56:13,17,56,13,599.72,Cancel disconnect: 'RF Amplifier 1',,Sweep-Control-Circuit-(electrical),,,0,1,0
+St54,Hi,1,7/1/21,17:46:13,17:56:14,17,56,14,600.77,Click on: 'RF Amplifier 2',,Sweep-Control-Circuit-(electrical),,,0,1,0
+St54,Hi,1,7/1/21,17:46:13,17:56:16,17,56,16,602.97,Disconnect LRU: 'RF Amplifier 2',,Sweep-Control-Circuit-(electrical),,,0,1,0
+St54,Hi,1,7/1/21,17:46:13,17:56:17,17,56,17,604.15,Pick Up LRU: 'RF Amplifier 2',,Sweep-Control-Circuit-(electrical),,,0,1,0
+St54,Hi,1,7/1/21,17:46:13,17:56:18,17,56,18,604.93,Drop LRU: 'RF Amplifier 2',,Sweep-Control-Circuit-(electrical),,,0,1,0
+St54,Hi,1,7/1/21,17:46:13,17:56:21,17,56,21,607.2,Cancel connect: 'RF Amplifier 2',,Sweep-Control-Circuit-(electrical),,,0,1,0
+St54,Hi,1,7/1/21,17:46:13,17:56:22,17,56,22,608.8,Pick Up LRU: 'RF Amplifier 2',,Sweep-Control-Circuit-(electrical),,,0,1,0
+St54,Hi,1,7/1/21,17:46:13,17:56:24,17,56,24,610.65,Drop LRU: 'RF Amplifier 2',,Sweep-Control-Circuit-(electrical),,,0,1,0
+St54,Hi,1,7/1/21,17:46:13,17:56:27,17,56,27,613.78,Leave Server Box Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+St54,Hi,1,7/1/21,17:46:13,17:56:27,17,56,27,614.06,Move to Spare Parts Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+St54,Hi,1,7/1/21,17:46:13,17:56:33,17,56,33,619.85,Pick Up LRU: 'RF Amplifier 2 [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+St54,Hi,1,7/1/21,17:46:13,17:56:35,17,56,35,622.03,Leave Spare Parts Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+St54,Hi,1,7/1/21,17:46:13,17:56:37,17,56,37,623.98,Drop LRU: 'RF Amplifier 2 [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+St54,Hi,1,7/1/21,17:46:13,17:56:41,17,56,41,628.13,Pick Up LRU: 'RF Amplifier 2 [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+St54,Hi,1,7/1/21,17:46:13,17:56:44,17,56,44,630.36,Move to Server Box Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+St54,Hi,1,7/1/21,17:46:13,17:56:44,17,56,44,631.05,Drop LRU: 'RF Amplifier 2 [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+St54,Hi,1,7/1/21,17:46:13,17:56:46,17,56,46,633.06,Pick Up LRU: 'RF Amplifier 2 [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+St54,Hi,1,7/1/21,17:46:13,17:56:49,17,56,49,635.25,Drop LRU: 'RF Amplifier 2 [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+St54,Hi,1,7/1/21,17:46:13,17:56:51,17,56,51,637.31,Pick Up LRU: 'RF Amplifier 2 [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+St54,Hi,1,7/1/21,17:46:13,17:56:53,17,56,53,639.91,Drop LRU: 'RF Amplifier 2 [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+St54,Hi,1,7/1/21,17:46:13,17:56:56,17,56,56,642.36,Pick Up LRU: 'RF Amplifier 2 [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+St54,Hi,1,7/1/21,17:46:13,17:56:56,17,56,56,643.09,Drop LRU: 'RF Amplifier 2 [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+St54,Hi,1,7/1/21,17:46:13,17:56:58,17,56,58,645.03,Pick Up LRU: 'RF Amplifier 2 [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+St54,Hi,1,7/1/21,17:46:13,17:57:02,17,57,2,648.49,Drop LRU: 'RF Amplifier 2 [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+St54,Hi,1,7/1/21,17:46:13,17:57:03,17,57,3,649.74,Pick Up LRU: 'RF Amplifier 2 [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+St54,Hi,1,7/1/21,17:46:13,17:57:04,17,57,4,650.28,Drop LRU: 'RF Amplifier 2 [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+St54,Hi,1,7/1/21,17:46:13,17:57:05,17,57,5,651.35,Pick Up LRU: 'RF Amplifier 2 [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+St54,Hi,1,7/1/21,17:46:13,17:57:08,17,57,8,655.11,Drop LRU: 'RF Amplifier 2 [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+St54,Hi,1,7/1/21,17:46:13,17:57:12,17,57,12,658.9,Pick Up LRU: 'RF Amplifier 2 [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+St54,Hi,1,7/1/21,17:46:13,17:57:13,17,57,13,659.99,Drop LRU: 'RF Amplifier 2 [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+St54,Hi,1,7/1/21,17:46:13,17:57:13,17,57,13,660.09,Pick Up LRU: 'RF Amplifier 2 [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+St54,Hi,1,7/1/21,17:46:13,17:57:14,17,57,14,660.74,Drop LRU: 'RF Amplifier 2 [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+St54,Hi,1,7/1/21,17:46:13,17:57:17,17,57,17,663.56,Pick Up LRU: 'RF Amplifier 2 [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+St54,Hi,1,7/1/21,17:46:13,17:57:20,17,57,20,666.94,Drop LRU: 'RF Amplifier 2 [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+St54,Hi,1,7/1/21,17:46:13,17:57:23,17,57,23,670.05,Pick Up LRU: 'RF Amplifier 2 [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+St54,Hi,1,7/1/21,17:46:13,17:57:27,17,57,27,673.53,Drop LRU: 'RF Amplifier 2 [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+St54,Hi,1,7/1/21,17:46:13,17:57:29,17,57,29,675.21,Pick Up LRU: 'RF Amplifier 2 [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+St54,Hi,1,7/1/21,17:46:13,17:57:29,17,57,29,675.89,Drop LRU: 'RF Amplifier 2 [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+St54,Hi,1,7/1/21,17:46:13,17:57:31,17,57,31,677.36,Pick Up LRU: 'RF Amplifier 2 [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+St54,Hi,1,7/1/21,17:46:13,17:57:32,17,57,32,678.35,Drop LRU: 'RF Amplifier 2 [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+St54,Hi,1,7/1/21,17:46:13,17:57:33,17,57,33,679.43,Pick Up LRU: 'RF Amplifier 2 [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+St54,Hi,1,7/1/21,17:46:13,17:57:34,17,57,34,680.21,Drop LRU: 'RF Amplifier 2 [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+St54,Hi,1,7/1/21,17:46:13,17:57:34,17,57,34,680.96,Pick Up LRU: 'RF Amplifier 2 [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+St54,Hi,1,7/1/21,17:46:13,17:57:38,17,57,38,684.73,Drop LRU: 'RF Amplifier 2 [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+St54,Hi,1,7/1/21,17:46:13,17:57:40,17,57,40,687.04,Pick Up LRU: 'RF Amplifier 2 [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+St54,Hi,1,7/1/21,17:46:13,17:57:42,17,57,42,688.18,Drop LRU: 'RF Amplifier 2 [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+St54,Hi,1,7/1/21,17:46:13,17:57:44,17,57,44,690.21,Pick Up LRU: 'RF Amplifier 2 [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+St54,Hi,1,7/1/21,17:46:13,17:57:50,17,57,50,696.41,Drop LRU: 'RF Amplifier 2 [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+St54,Hi,1,7/1/21,17:46:13,17:57:54,17,57,54,701.11,Pick Up LRU: 'RF Amplifier 2 [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+St54,Hi,1,7/1/21,17:46:13,17:57:55,17,57,55,702.16,Drop LRU: 'RF Amplifier 2 [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+St54,Hi,1,7/1/21,17:46:13,17:58:00,17,58,0,706.53,Pick Up LRU: 'RF Amplifier 2 [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+St54,Hi,1,7/1/21,17:46:13,17:58:06,17,58,6,712.59,Drop LRU: 'RF Amplifier 2 [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+St54,Hi,1,7/1/21,17:46:13,17:58:08,17,58,8,714.63,Pick Up LRU: 'RF Amplifier 2 [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+St54,Hi,1,7/1/21,17:46:13,17:58:10,17,58,10,716.88,Drop LRU: 'RF Amplifier 2 [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+St54,Hi,1,7/1/21,17:46:13,17:58:14,17,58,14,721.03,Pick Up LRU: 'RF Amplifier 2 [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+St54,Hi,1,7/1/21,17:46:13,17:58:22,17,58,22,728.34,Drop LRU: 'RF Amplifier 2 [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+St54,Hi,1,7/1/21,17:46:13,17:58:34,17,58,34,740.18,Pick Up LRU: 'RF Amplifier 2 [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+St54,Hi,1,7/1/21,17:46:13,17:58:35,17,58,35,741.49,Drop LRU: 'RF Amplifier 2 [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+St54,Hi,1,7/1/21,17:46:13,17:58:35,17,58,35,741.57,Pick Up LRU: 'RF Amplifier 2 [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+St54,Hi,1,7/1/21,17:46:13,17:58:36,17,58,36,742.44,Drop LRU: 'RF Amplifier 2 [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+St54,Hi,1,7/1/21,17:46:13,17:58:41,17,58,41,747.32,Pick Up LRU: 'RF Amplifier 2 [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+St54,Hi,1,7/1/21,17:46:13,17:58:44,17,58,44,751.11,Drop LRU: 'RF Amplifier 2 [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+St54,Hi,1,7/1/21,17:46:13,17:58:46,17,58,46,752.97,Pick Up LRU: 'RF Amplifier 2 [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+St54,Hi,1,7/1/21,17:46:13,17:58:49,17,58,49,756.11,Drop LRU: 'RF Amplifier 2 [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+St54,Hi,1,7/1/21,17:46:13,17:58:51,17,58,51,758.02,Pick Up LRU: 'RF Amplifier 2 [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+St54,Hi,1,7/1/21,17:46:13,17:58:56,17,58,56,762.82,Drop LRU: 'RF Amplifier 2 [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+St54,Hi,1,7/1/21,17:46:13,17:58:58,17,58,58,765.12,Pick Up LRU: 'RF Amplifier 2 [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+St54,Hi,1,7/1/21,17:46:13,17:59:02,17,59,2,768.21,Drop LRU: 'RF Amplifier 2 [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+St54,Hi,1,7/1/21,17:46:13,17:59:03,17,59,3,769.86,Pick Up LRU: 'RF Amplifier 2 [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+St54,Hi,1,7/1/21,17:46:13,17:59:09,17,59,9,775.87,Drop LRU: 'RF Amplifier 2 [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+St54,Hi,1,7/1/21,17:46:13,17:59:18,17,59,18,784.2,Pick Up LRU: 'RF Amplifier 2 [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+St54,Hi,1,7/1/21,17:46:13,17:59:22,17,59,22,788.89,Drop LRU: 'RF Amplifier 2 [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+St54,Hi,1,7/1/21,17:46:13,17:59:24,17,59,24,790.8,Pick Up LRU: 'RF Amplifier 2 [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+St54,Hi,1,7/1/21,17:46:13,17:59:25,17,59,25,791.6,Drop LRU: 'RF Amplifier 2 [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+St54,Hi,1,7/1/21,17:46:13,17:59:33,17,59,33,799.26,Move drawer: 98.6% open,Transmitter,Sweep-Control-Circuit-(electrical),,,0,1,0
+St54,Hi,1,7/1/21,17:46:13,17:59:34,17,59,34,800.71,Move drawer: 95.4% open,Transmitter,Sweep-Control-Circuit-(electrical),,,0,1,0
+St54,Hi,1,7/1/21,17:46:13,17:59:39,17,59,39,806.09,Pick Up LRU: 'RF Amplifier 2 [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+St54,Hi,1,7/1/21,17:46:13,17:59:43,17,59,43,809.9,Drop LRU: 'RF Amplifier 2 [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+St54,Hi,1,7/1/21,17:46:13,17:59:48,17,59,48,814.44,Pick Up LRU: 'RF Amplifier 2 [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+St54,Hi,1,7/1/21,17:46:13,17:59:49,17,59,49,815.25,Drop LRU: 'RF Amplifier 2 [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+St54,Hi,1,7/1/21,17:46:13,17:59:57,17,59,57,823.82,Pick Up LRU: 'RF Amplifier 2 [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+St54,Hi,1,7/1/21,17:46:13,18:00:01,18,0,1,827.95,Drop LRU: 'RF Amplifier 2 [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+St54,Hi,1,7/1/21,17:46:13,18:00:07,18,0,7,833.6,Pick Up LRU: 'RF Amplifier 2 [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+St54,Hi,1,7/1/21,17:46:13,18:00:08,18,0,8,834.82,Drop LRU: 'RF Amplifier 2 [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+St54,Hi,1,7/1/21,17:46:13,18:00:11,18,0,11,837.62,Pick Up LRU: 'RF Amplifier 2 [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+St54,Hi,1,7/1/21,17:46:13,18:00:14,18,0,14,840.53,Drop LRU: 'RF Amplifier 2 [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+St54,Hi,1,7/1/21,17:46:13,18:00:37,18,0,37,863.96,Pick Up LRU: 'Stage 1 Modulator [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+St54,Hi,1,7/1/21,17:46:13,18:00:38,18,0,38,864.55,Drop LRU: 'Stage 1 Modulator [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+St54,Hi,1,7/1/21,17:46:13,18:00:42,18,0,42,868.72,Pick Up LRU: 'RF Amplifier 2 [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+St54,Hi,1,7/1/21,17:46:13,18:00:46,18,0,46,872.67,Drop LRU: 'RF Amplifier 2 [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+St54,Hi,1,7/1/21,17:46:13,18:00:48,18,0,48,874.87,Pick Up LRU: 'RF Amplifier 2 [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+St54,Hi,1,7/1/21,17:46:13,18:00:49,18,0,49,875.95,Drop LRU: 'RF Amplifier 2 [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+St54,Hi,1,7/1/21,17:46:13,18:01:22,18,1,22,908.57,Pick Up LRU: 'RF Amplifier 2 [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+St54,Hi,1,7/1/21,17:46:13,18:01:23,18,1,23,909.93,Drop LRU: 'RF Amplifier 2 [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+St54,Hi,1,7/1/21,17:46:13,18:01:24,18,1,24,910.6,Pick Up LRU: 'RF Amplifier 2 [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+St54,Hi,1,7/1/21,17:46:13,18:01:29,18,1,29,915.28,Drop LRU: 'RF Amplifier 2 [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+St54,Hi,1,7/1/21,17:46:13,18:01:34,18,1,34,920.57,Pick Up LRU: 'RF Amplifier 2 [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+St54,Hi,1,7/1/21,17:46:13,18:01:39,18,1,39,925.48,Drop LRU: 'RF Amplifier 2 [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+St54,Hi,1,7/1/21,17:46:13,18:01:41,18,1,41,927.83,Pick Up LRU: 'RF Amplifier 2 [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+St54,Hi,1,7/1/21,17:46:13,18:01:45,18,1,45,931.33,Drop LRU: 'RF Amplifier 2 [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+St54,Hi,1,7/1/21,17:46:13,18:01:50,18,1,50,936.7,Pick Up LRU: 'RF Amplifier 2 [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+St54,Hi,1,7/1/21,17:46:13,18:01:54,18,1,54,940.28,Drop LRU: 'RF Amplifier 2 [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+St54,Hi,1,7/1/21,17:46:13,18:01:56,18,1,56,942.65,Pick Up LRU: 'RF Amplifier 2 [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+St54,Hi,1,7/1/21,17:46:13,18:02:03,18,2,3,949.33,Drop LRU: 'RF Amplifier 2 [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+St54,Hi,1,7/1/21,17:46:13,18:02:08,18,2,8,954.6,Pick Up LRU: 'RF Amplifier 2 [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+St54,Hi,1,7/1/21,17:46:13,18:02:09,18,2,9,955.3,Drop LRU: 'RF Amplifier 2 [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+St54,Hi,1,7/1/21,17:46:13,18:02:20,18,2,20,966.8,Pick Up LRU: 'RF Amplifier 2 [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+St54,Hi,1,7/1/21,17:46:13,18:02:25,18,2,25,971.45,Drop LRU: 'RF Amplifier 2 [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+St54,Hi,1,7/1/21,17:46:13,18:02:30,18,2,30,976.61,Pick Up LRU: 'RF Amplifier 2 [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+St54,Hi,1,7/1/21,17:46:13,18:02:37,18,2,37,983.53,Drop LRU: 'RF Amplifier 2 [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+St54,Hi,1,7/1/21,17:46:13,18:02:40,18,2,40,986.41,Pick Up LRU: 'RF Amplifier 2 [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+St54,Hi,1,7/1/21,17:46:13,18:02:41,18,2,41,987.89,Drop LRU: 'RF Amplifier 2 [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+St54,Hi,1,7/1/21,17:46:13,18:02:43,18,2,43,989.46,Connect LRU: 'RF Amplifier 2 [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+St54,Hi,1,7/1/21,17:46:13,18:02:44,18,2,44,990.5,Replaced unnecessarily RF Amplifier 2 (electrical),,Sweep-Control-Circuit-(electrical),,RF-Amplifier-2-(electrical),1,1,1
+St54,Hi,1,7/1/21,17:46:13,18:02:55,18,2,55,1001.64,Click on: 'Stage 1 Modulator',,Sweep-Control-Circuit-(electrical),,RF-Amplifier-2-(electrical),1,1,1
+St54,Hi,1,7/1/21,17:46:13,18:02:59,18,2,59,1005.36,Disconnect LRU: 'Stage 1 Modulator',,Sweep-Control-Circuit-(electrical),,RF-Amplifier-2-(electrical),1,1,1
+St54,Hi,1,7/1/21,17:46:13,18:03:02,18,3,2,1008.24,Pick Up LRU: 'Stage 1 Modulator',,Sweep-Control-Circuit-(electrical),,RF-Amplifier-2-(electrical),1,1,1
+St54,Hi,1,7/1/21,17:46:13,18:03:04,18,3,4,1010.21,Leave Server Box Table,,Sweep-Control-Circuit-(electrical),,RF-Amplifier-2-(electrical),1,1,1
+St54,Hi,1,7/1/21,17:46:13,18:03:04,18,3,4,1010.54,Move to Spare Parts Table,,Sweep-Control-Circuit-(electrical),,RF-Amplifier-2-(electrical),1,1,1
+St54,Hi,1,7/1/21,17:46:13,18:03:05,18,3,5,1011.58,Drop LRU: 'Stage 1 Modulator',,Sweep-Control-Circuit-(electrical),,RF-Amplifier-2-(electrical),1,1,1
+St54,Hi,1,7/1/21,17:46:13,18:03:48,18,3,48,1055.12,Leave Spare Parts Table,,Sweep-Control-Circuit-(electrical),,RF-Amplifier-2-(electrical),1,1,1
+St54,Hi,1,7/1/21,17:46:13,18:03:49,18,3,49,1055.41,Move to Server Box Table,,Sweep-Control-Circuit-(electrical),,RF-Amplifier-2-(electrical),1,1,1
+St54,Hi,1,7/1/21,17:46:13,18:03:56,18,3,56,1062.31,Leave Server Box Table,,Sweep-Control-Circuit-(electrical),,RF-Amplifier-2-(electrical),1,1,1
+St54,Hi,1,7/1/21,17:46:13,18:03:56,18,3,56,1062.62,Move to Spare Parts Table,,Sweep-Control-Circuit-(electrical),,RF-Amplifier-2-(electrical),1,1,1
+St54,Hi,1,7/1/21,17:46:13,18:04:02,18,4,2,1068.86,Pick Up LRU: 'Frequency Synthesizer [SPARE]',,Sweep-Control-Circuit-(electrical),,RF-Amplifier-2-(electrical),1,1,1
+St54,Hi,1,7/1/21,17:46:13,18:04:02,18,4,2,1069.07,Drop LRU: 'Frequency Synthesizer [SPARE]',,Sweep-Control-Circuit-(electrical),,RF-Amplifier-2-(electrical),1,1,1
+St54,Hi,1,7/1/21,17:46:13,18:04:16,18,4,16,1082.39,Leave Spare Parts Table,,Sweep-Control-Circuit-(electrical),,RF-Amplifier-2-(electrical),1,1,1
+St54,Hi,1,7/1/21,17:46:13,18:04:16,18,4,16,1082.69,Move to Server Box Table,,Sweep-Control-Circuit-(electrical),,RF-Amplifier-2-(electrical),1,1,1
+St54,Hi,1,7/1/21,17:46:13,18:04:18,18,4,18,1084.22,Pick Up LRU: 'Stage 2 Modulator',,Sweep-Control-Circuit-(electrical),,RF-Amplifier-2-(electrical),1,1,1
+St54,Hi,1,7/1/21,17:46:13,18:04:21,18,4,21,1087.69,Drop LRU: 'Stage 2 Modulator',,Sweep-Control-Circuit-(electrical),,RF-Amplifier-2-(electrical),1,1,1
+St54,Hi,1,7/1/21,17:46:13,18:04:24,18,4,24,1090.82,Pick Up LRU: 'Stage 2 Modulator',,Sweep-Control-Circuit-(electrical),,RF-Amplifier-2-(electrical),1,1,1
+St54,Hi,1,7/1/21,17:46:13,18:04:28,18,4,28,1094.42,Drop LRU: 'Stage 2 Modulator',,Sweep-Control-Circuit-(electrical),,RF-Amplifier-2-(electrical),1,1,1
+St54,Hi,1,7/1/21,17:46:13,18:04:31,18,4,31,1097.49,Leave Server Box Table,,Sweep-Control-Circuit-(electrical),,RF-Amplifier-2-(electrical),1,1,1
+St54,Hi,1,7/1/21,17:46:13,18:04:31,18,4,31,1097.79,Move to Spare Parts Table,,Sweep-Control-Circuit-(electrical),,RF-Amplifier-2-(electrical),1,1,1
+St54,Hi,1,7/1/21,17:46:13,18:04:36,18,4,36,1102.32,Leave Spare Parts Table,,Sweep-Control-Circuit-(electrical),,RF-Amplifier-2-(electrical),1,1,1
+St54,Hi,1,7/1/21,17:46:13,18:04:36,18,4,36,1102.62,Move to Server Box Table,,Sweep-Control-Circuit-(electrical),,RF-Amplifier-2-(electrical),1,1,1
+St54,Hi,1,7/1/21,17:46:13,18:04:41,18,4,41,1107.99,Move drawer: 42.1% open,Transmitter,Sweep-Control-Circuit-(electrical),,RF-Amplifier-2-(electrical),1,1,1
+St54,Hi,1,7/1/21,17:46:13,18:04:43,18,4,43,1110.05,Move drawer: 0% open,Transmitter,Sweep-Control-Circuit-(electrical),,RF-Amplifier-2-(electrical),1,1,1
+St54,Hi,1,7/1/21,17:46:13,18:04:47,18,4,47,1113.62,Move drawer: 99.8% open,Tracker,Sweep-Control-Circuit-(electrical),,RF-Amplifier-2-(electrical),1,1,1
+St54,Hi,1,7/1/21,17:46:13,18:04:51,18,4,51,1117.75,Move drawer: 43.7% open,Tracker,Sweep-Control-Circuit-(electrical),,RF-Amplifier-2-(electrical),1,1,1
+St54,Hi,1,7/1/21,17:46:13,18:04:52,18,4,52,1119.03,Click on: 'Duplexer',,Sweep-Control-Circuit-(electrical),,RF-Amplifier-2-(electrical),1,1,1
+St54,Hi,1,7/1/21,17:46:13,18:04:54,18,4,54,1120.35,Cancel disconnect: 'Duplexer',,Sweep-Control-Circuit-(electrical),,RF-Amplifier-2-(electrical),1,1,1
+St54,Hi,1,7/1/21,17:46:13,18:04:56,18,4,56,1123.14,Move drawer: 18.4% open,Tracker,Sweep-Control-Circuit-(electrical),,RF-Amplifier-2-(electrical),1,1,1
+St54,Hi,1,7/1/21,17:46:13,18:04:59,18,4,59,1125.62,Move drawer: -1.1% open,Tracker,Sweep-Control-Circuit-(electrical),,RF-Amplifier-2-(electrical),1,1,1
+St54,Hi,1,7/1/21,17:46:13,18:05:03,18,5,3,1129.19,Move drawer: 95.8% open,Processor,Sweep-Control-Circuit-(electrical),,RF-Amplifier-2-(electrical),1,1,1
+St54,Hi,1,7/1/21,17:46:13,18:05:05,18,5,5,1131.24,Move drawer: 55.7% open,Processor,Sweep-Control-Circuit-(electrical),,RF-Amplifier-2-(electrical),1,1,1
+St54,Hi,1,7/1/21,17:46:13,18:05:07,18,5,7,1133.47,Move drawer: 17.4% open,Processor,Sweep-Control-Circuit-(electrical),,RF-Amplifier-2-(electrical),1,1,1
+St54,Hi,1,7/1/21,17:46:13,18:05:09,18,5,9,1135.67,Move drawer: -1.7% open,Processor,Sweep-Control-Circuit-(electrical),,RF-Amplifier-2-(electrical),1,1,1
+St54,Hi,1,7/1/21,17:46:13,18:05:15,18,5,15,1141.74,Move drawer: 91.3% open,Indicator,Sweep-Control-Circuit-(electrical),,RF-Amplifier-2-(electrical),1,1,1
+St54,Hi,1,7/1/21,17:46:13,18:05:20,18,5,20,1147.07,Leave Server Box Table,,Sweep-Control-Circuit-(electrical),,RF-Amplifier-2-(electrical),1,1,1
+St54,Hi,1,7/1/21,17:46:13,18:05:21,18,5,21,1147.37,Move to Spare Parts Table,,Sweep-Control-Circuit-(electrical),,RF-Amplifier-2-(electrical),1,1,1
+St54,Hi,1,7/1/21,17:46:13,18:05:28,18,5,28,1154.57,Leave Spare Parts Table,,Sweep-Control-Circuit-(electrical),,RF-Amplifier-2-(electrical),1,1,1
+St54,Hi,1,7/1/21,17:46:13,18:05:28,18,5,28,1154.87,Move to Server Box Table,,Sweep-Control-Circuit-(electrical),,RF-Amplifier-2-(electrical),1,1,1
+St54,Hi,1,7/1/21,17:46:13,18:05:34,18,5,34,1160.2,Click on: 'Cathode Ray Tube',,Sweep-Control-Circuit-(electrical),,RF-Amplifier-2-(electrical),1,1,1
+St54,Hi,1,7/1/21,17:46:13,18:05:35,18,5,35,1161.92,Disconnect LRU: 'Cathode Ray Tube',,Sweep-Control-Circuit-(electrical),,RF-Amplifier-2-(electrical),1,1,1
+St54,Hi,1,7/1/21,17:46:13,18:05:37,18,5,37,1163.57,Pick Up LRU: 'Cathode Ray Tube',,Sweep-Control-Circuit-(electrical),,RF-Amplifier-2-(electrical),1,1,1
+St54,Hi,1,7/1/21,17:46:13,18:05:38,18,5,38,1164.42,Drop LRU: 'Cathode Ray Tube',,Sweep-Control-Circuit-(electrical),,RF-Amplifier-2-(electrical),1,1,1
+St54,Hi,1,7/1/21,17:46:13,18:05:39,18,5,39,1165.8,Cancel connect: 'Cathode Ray Tube',,Sweep-Control-Circuit-(electrical),,RF-Amplifier-2-(electrical),1,1,1
+St54,Hi,1,7/1/21,17:46:13,18:05:40,18,5,40,1166.83,Leave Server Box Table,,Sweep-Control-Circuit-(electrical),,RF-Amplifier-2-(electrical),1,1,1
+St54,Hi,1,7/1/21,17:46:13,18:05:40,18,5,40,1167.1,Move to Spare Parts Table,,Sweep-Control-Circuit-(electrical),,RF-Amplifier-2-(electrical),1,1,1
+St54,Hi,1,7/1/21,17:46:13,18:05:42,18,5,42,1168.95,Pick Up LRU: 'Cathode Ray Tube [SPARE]',,Sweep-Control-Circuit-(electrical),,RF-Amplifier-2-(electrical),1,1,1
+St54,Hi,1,7/1/21,17:46:13,18:05:44,18,5,44,1170.82,Drop LRU: 'Cathode Ray Tube [SPARE]',,Sweep-Control-Circuit-(electrical),,RF-Amplifier-2-(electrical),1,1,1
+St54,Hi,1,7/1/21,17:46:13,18:05:47,18,5,47,1173.9,Pick Up LRU: 'Cathode Ray Tube [SPARE]',,Sweep-Control-Circuit-(electrical),,RF-Amplifier-2-(electrical),1,1,1
+St54,Hi,1,7/1/21,17:46:13,18:05:52,18,5,52,1178.48,Leave Spare Parts Table,,Sweep-Control-Circuit-(electrical),,RF-Amplifier-2-(electrical),1,1,1
+St54,Hi,1,7/1/21,17:46:13,18:05:52,18,5,52,1178.88,Drop LRU: 'Cathode Ray Tube [SPARE]',,Sweep-Control-Circuit-(electrical),,RF-Amplifier-2-(electrical),1,1,1
+St54,Hi,1,7/1/21,17:46:13,18:05:53,18,5,53,1179.62,Move to Spare Parts Table,,Sweep-Control-Circuit-(electrical),,RF-Amplifier-2-(electrical),1,1,1
+St54,Hi,1,7/1/21,17:46:13,18:05:54,18,5,54,1180.72,Pick Up LRU: 'Cathode Ray Tube [SPARE]',,Sweep-Control-Circuit-(electrical),,RF-Amplifier-2-(electrical),1,1,1
+St54,Hi,1,7/1/21,17:46:13,18:05:58,18,5,58,1184.48,Leave Spare Parts Table,,Sweep-Control-Circuit-(electrical),,RF-Amplifier-2-(electrical),1,1,1
+St54,Hi,1,7/1/21,17:46:13,18:05:58,18,5,58,1185.08,Drop LRU: 'Cathode Ray Tube [SPARE]',,Sweep-Control-Circuit-(electrical),,RF-Amplifier-2-(electrical),1,1,1
+St54,Hi,1,7/1/21,17:46:13,18:06:02,18,6,2,1188.32,Pick Up LRU: 'Cathode Ray Tube [SPARE]',,Sweep-Control-Circuit-(electrical),,RF-Amplifier-2-(electrical),1,1,1
+St54,Hi,1,7/1/21,17:46:13,18:06:04,18,6,4,1190.6,Drop LRU: 'Cathode Ray Tube [SPARE]',,Sweep-Control-Circuit-(electrical),,RF-Amplifier-2-(electrical),1,1,1
+St54,Hi,1,7/1/21,17:46:13,18:06:04,18,6,4,1190.68,Pick Up LRU: 'Cathode Ray Tube [SPARE]',,Sweep-Control-Circuit-(electrical),,RF-Amplifier-2-(electrical),1,1,1
+St54,Hi,1,7/1/21,17:46:13,18:06:04,18,6,4,1191.03,Drop LRU: 'Cathode Ray Tube [SPARE]',,Sweep-Control-Circuit-(electrical),,RF-Amplifier-2-(electrical),1,1,1
+St54,Hi,1,7/1/21,17:46:13,18:06:07,18,6,7,1193.75,Pick Up LRU: 'Cathode Ray Tube [SPARE]',,Sweep-Control-Circuit-(electrical),,RF-Amplifier-2-(electrical),1,1,1
+St54,Hi,1,7/1/21,17:46:13,18:06:08,18,6,8,1194.63,Drop LRU: 'Cathode Ray Tube [SPARE]',,Sweep-Control-Circuit-(electrical),,RF-Amplifier-2-(electrical),1,1,1
+St54,Hi,1,7/1/21,17:46:13,18:06:08,18,6,8,1194.7,Pick Up LRU: 'Cathode Ray Tube [SPARE]',,Sweep-Control-Circuit-(electrical),,RF-Amplifier-2-(electrical),1,1,1
+St54,Hi,1,7/1/21,17:46:13,18:06:10,18,6,10,1196.37,Move to Server Box Table,,Sweep-Control-Circuit-(electrical),,RF-Amplifier-2-(electrical),1,1,1
+St54,Hi,1,7/1/21,17:46:13,18:06:10,18,6,10,1196.41,Drop LRU: 'Cathode Ray Tube [SPARE]',,Sweep-Control-Circuit-(electrical),,RF-Amplifier-2-(electrical),1,1,1
+St54,Hi,1,7/1/21,17:46:13,18:06:13,18,6,13,1199.53,Pick Up LRU: 'Cathode Ray Tube [SPARE]',,Sweep-Control-Circuit-(electrical),,RF-Amplifier-2-(electrical),1,1,1
+St54,Hi,1,7/1/21,17:46:13,18:06:18,18,6,18,1204.47,Drop LRU: 'Cathode Ray Tube [SPARE]',,Sweep-Control-Circuit-(electrical),,RF-Amplifier-2-(electrical),1,1,1
+St54,Hi,1,7/1/21,17:46:13,18:06:23,18,6,23,1210.03,Pick Up LRU: 'Cathode Ray Tube [SPARE]',,Sweep-Control-Circuit-(electrical),,RF-Amplifier-2-(electrical),1,1,1
+St54,Hi,1,7/1/21,17:46:13,18:06:28,18,6,28,1214.52,Drop LRU: 'Cathode Ray Tube [SPARE]',,Sweep-Control-Circuit-(electrical),,RF-Amplifier-2-(electrical),1,1,1
+St54,Hi,1,7/1/21,17:46:13,18:06:31,18,6,31,1217.36,Pick Up LRU: 'Cathode Ray Tube [SPARE]',,Sweep-Control-Circuit-(electrical),,RF-Amplifier-2-(electrical),1,1,1
+St54,Hi,1,7/1/21,17:46:13,18:06:32,18,6,32,1218.83,Drop LRU: 'Cathode Ray Tube [SPARE]',,Sweep-Control-Circuit-(electrical),,RF-Amplifier-2-(electrical),1,1,1
+St54,Hi,1,7/1/21,17:46:13,18:06:36,18,6,36,1223.03,Pick Up LRU: 'Cathode Ray Tube [SPARE]',,Sweep-Control-Circuit-(electrical),,RF-Amplifier-2-(electrical),1,1,1
+St54,Hi,1,7/1/21,17:46:13,18:06:39,18,6,39,1225.17,Drop LRU: 'Cathode Ray Tube [SPARE]',,Sweep-Control-Circuit-(electrical),,RF-Amplifier-2-(electrical),1,1,1
+St54,Hi,1,7/1/21,17:46:13,18:06:39,18,6,39,1225.33,Pick Up LRU: 'Cathode Ray Tube [SPARE]',,Sweep-Control-Circuit-(electrical),,RF-Amplifier-2-(electrical),1,1,1
+St54,Hi,1,7/1/21,17:46:13,18:06:39,18,6,39,1225.5,Drop LRU: 'Cathode Ray Tube [SPARE]',,Sweep-Control-Circuit-(electrical),,RF-Amplifier-2-(electrical),1,1,1
+St54,Hi,1,7/1/21,17:46:13,18:06:40,18,6,40,1226.69,Pick Up LRU: 'Cathode Ray Tube [SPARE]',,Sweep-Control-Circuit-(electrical),,RF-Amplifier-2-(electrical),1,1,1
+St54,Hi,1,7/1/21,17:46:13,18:06:41,18,6,41,1227.33,Drop LRU: 'Cathode Ray Tube [SPARE]',,Sweep-Control-Circuit-(electrical),,RF-Amplifier-2-(electrical),1,1,1
+St54,Hi,1,7/1/21,17:46:13,18:06:44,18,6,44,1230.3,Pick Up LRU: 'Cathode Ray Tube [SPARE]',,Sweep-Control-Circuit-(electrical),,RF-Amplifier-2-(electrical),1,1,1
+St54,Hi,1,7/1/21,17:46:13,18:06:47,18,6,47,1233.53,Drop LRU: 'Cathode Ray Tube [SPARE]',,Sweep-Control-Circuit-(electrical),,RF-Amplifier-2-(electrical),1,1,1
+St54,Hi,1,7/1/21,17:46:13,18:06:51,18,6,51,1237.55,Pick Up LRU: 'Cathode Ray Tube [SPARE]',,Sweep-Control-Circuit-(electrical),,RF-Amplifier-2-(electrical),1,1,1
+St54,Hi,1,7/1/21,17:46:13,18:07:04,18,7,4,1250.96,Drop LRU: 'Cathode Ray Tube [SPARE]',,Sweep-Control-Circuit-(electrical),,RF-Amplifier-2-(electrical),1,1,1
+St54,Hi,1,7/1/21,17:46:13,18:07:06,18,7,6,1252.9,Pick Up LRU: 'Cathode Ray Tube [SPARE]',,Sweep-Control-Circuit-(electrical),,RF-Amplifier-2-(electrical),1,1,1
+St54,Hi,1,7/1/21,17:46:13,18:07:10,18,7,10,1256.63,Drop LRU: 'Cathode Ray Tube [SPARE]',,Sweep-Control-Circuit-(electrical),,RF-Amplifier-2-(electrical),1,1,1
+St54,Hi,1,7/1/21,17:46:13,18:07:12,18,7,12,1258.5,Connect LRU: 'Cathode Ray Tube [SPARE]',,Sweep-Control-Circuit-(electrical),,RF-Amplifier-2-(electrical),1,1,1
+St54,Hi,1,7/1/21,17:46:13,18:07:13,18,7,13,1259.45,Replaced unnecessarily Cathode Ray Tube (electrical),,Sweep-Control-Circuit-(electrical),,RF-Amplifier-2-(electrical) Cathode-Ray-Tube-(electrical),2,1,2
+St54,Hi,1,7/1/21,17:46:13,18:07:17,18,7,17,1263.8,Click on: 'Sweep Generator Circuit',,Sweep-Control-Circuit-(electrical),,RF-Amplifier-2-(electrical) Cathode-Ray-Tube-(electrical),2,1,2
+St54,Hi,1,7/1/21,17:46:13,18:07:22,18,7,22,1268.3,Disconnect LRU: 'Sweep Generator Circuit',,Sweep-Control-Circuit-(electrical),,RF-Amplifier-2-(electrical) Cathode-Ray-Tube-(electrical),2,1,2
+St54,Hi,1,7/1/21,17:46:13,18:07:23,18,7,23,1270.13,Pick Up LRU: 'Sweep Generator Circuit',,Sweep-Control-Circuit-(electrical),,RF-Amplifier-2-(electrical) Cathode-Ray-Tube-(electrical),2,1,2
+St54,Hi,1,7/1/21,17:46:13,18:07:24,18,7,24,1270.78,Drop LRU: 'Sweep Generator Circuit',,Sweep-Control-Circuit-(electrical),,RF-Amplifier-2-(electrical) Cathode-Ray-Tube-(electrical),2,1,2
+St54,Hi,1,7/1/21,17:46:13,18:07:26,18,7,26,1272.33,Leave Server Box Table,,Sweep-Control-Circuit-(electrical),,RF-Amplifier-2-(electrical) Cathode-Ray-Tube-(electrical),2,1,2
+St54,Hi,1,7/1/21,17:46:13,18:07:26,18,7,26,1272.6,Move to Spare Parts Table,,Sweep-Control-Circuit-(electrical),,RF-Amplifier-2-(electrical) Cathode-Ray-Tube-(electrical),2,1,2
+St54,Hi,1,7/1/21,17:46:13,18:07:32,18,7,32,1279.16,Pick Up LRU: 'Sweep Control Circuit [SPARE]',,Sweep-Control-Circuit-(electrical),,RF-Amplifier-2-(electrical) Cathode-Ray-Tube-(electrical),2,1,2
+St54,Hi,1,7/1/21,17:46:13,18:07:33,18,7,33,1279.29,Drop LRU: 'Sweep Control Circuit [SPARE]',,Sweep-Control-Circuit-(electrical),,RF-Amplifier-2-(electrical) Cathode-Ray-Tube-(electrical),2,1,2
+St54,Hi,1,7/1/21,17:46:13,18:07:34,18,7,34,1280.48,Pick Up LRU: 'Sweep Control Circuit [SPARE]',,Sweep-Control-Circuit-(electrical),,RF-Amplifier-2-(electrical) Cathode-Ray-Tube-(electrical),2,1,2
+St54,Hi,1,7/1/21,17:46:13,18:07:35,18,7,35,1282.09,Drop LRU: 'Sweep Control Circuit [SPARE]',,Sweep-Control-Circuit-(electrical),,RF-Amplifier-2-(electrical) Cathode-Ray-Tube-(electrical),2,1,2
+St54,Hi,1,7/1/21,17:46:13,18:07:36,18,7,36,1282.84,Pick Up LRU: 'Sweep Generator Circuit [SPARE]',,Sweep-Control-Circuit-(electrical),,RF-Amplifier-2-(electrical) Cathode-Ray-Tube-(electrical),2,1,2
+St54,Hi,1,7/1/21,17:46:13,18:07:38,18,7,38,1285.13,Leave Spare Parts Table,,Sweep-Control-Circuit-(electrical),,RF-Amplifier-2-(electrical) Cathode-Ray-Tube-(electrical),2,1,2
+St54,Hi,1,7/1/21,17:46:13,18:07:39,18,7,39,1285.31,Drop LRU: 'Sweep Generator Circuit [SPARE]',,Sweep-Control-Circuit-(electrical),,RF-Amplifier-2-(electrical) Cathode-Ray-Tube-(electrical),2,1,2
+St54,Hi,1,7/1/21,17:46:13,18:07:39,18,7,39,1285.76,Move to Spare Parts Table,,Sweep-Control-Circuit-(electrical),,RF-Amplifier-2-(electrical) Cathode-Ray-Tube-(electrical),2,1,2
+St54,Hi,1,7/1/21,17:46:13,18:07:43,18,7,43,1289.96,Pick Up LRU: 'Sweep Generator Circuit [SPARE]',,Sweep-Control-Circuit-(electrical),,RF-Amplifier-2-(electrical) Cathode-Ray-Tube-(electrical),2,1,2
+St54,Hi,1,7/1/21,17:46:13,18:07:46,18,7,46,1292.23,Leave Spare Parts Table,,Sweep-Control-Circuit-(electrical),,RF-Amplifier-2-(electrical) Cathode-Ray-Tube-(electrical),2,1,2
+St54,Hi,1,7/1/21,17:46:13,18:07:46,18,7,46,1292.98,Move to Server Box Table,,Sweep-Control-Circuit-(electrical),,RF-Amplifier-2-(electrical) Cathode-Ray-Tube-(electrical),2,1,2
+St54,Hi,1,7/1/21,17:46:13,18:07:52,18,7,52,1298.58,Drop LRU: 'Sweep Generator Circuit [SPARE]',,Sweep-Control-Circuit-(electrical),,RF-Amplifier-2-(electrical) Cathode-Ray-Tube-(electrical),2,1,2
+St54,Hi,1,7/1/21,17:46:13,18:07:55,18,7,55,1301.66,Pick Up LRU: 'Cathode Ray Tube',,Sweep-Control-Circuit-(electrical),,RF-Amplifier-2-(electrical) Cathode-Ray-Tube-(electrical),2,1,2
+St54,Hi,1,7/1/21,17:46:13,18:07:59,18,7,59,1305.59,Drop LRU: 'Cathode Ray Tube',,Sweep-Control-Circuit-(electrical),,RF-Amplifier-2-(electrical) Cathode-Ray-Tube-(electrical),2,1,2
+St54,Hi,1,7/1/21,17:46:13,18:08:01,18,8,1,1307.91,Pick Up LRU: 'Cathode Ray Tube',,Sweep-Control-Circuit-(electrical),,RF-Amplifier-2-(electrical) Cathode-Ray-Tube-(electrical),2,1,2
+St54,Hi,1,7/1/21,17:46:13,18:08:03,18,8,3,1309.39,Drop LRU: 'Cathode Ray Tube',,Sweep-Control-Circuit-(electrical),,RF-Amplifier-2-(electrical) Cathode-Ray-Tube-(electrical),2,1,2
+St54,Hi,1,7/1/21,17:46:13,18:08:05,18,8,5,1311.53,Pick Up LRU: 'Cathode Ray Tube',,Sweep-Control-Circuit-(electrical),,RF-Amplifier-2-(electrical) Cathode-Ray-Tube-(electrical),2,1,2
+St54,Hi,1,7/1/21,17:46:13,18:08:09,18,8,9,1315.34,Drop LRU: 'Cathode Ray Tube',,Sweep-Control-Circuit-(electrical),,RF-Amplifier-2-(electrical) Cathode-Ray-Tube-(electrical),2,1,2
+St54,Hi,1,7/1/21,17:46:13,18:08:10,18,8,10,1316.68,Pick Up LRU: 'Cathode Ray Tube',,Sweep-Control-Circuit-(electrical),,RF-Amplifier-2-(electrical) Cathode-Ray-Tube-(electrical),2,1,2
+St54,Hi,1,7/1/21,17:46:13,18:08:11,18,8,11,1317.69,Drop LRU: 'Cathode Ray Tube',,Sweep-Control-Circuit-(electrical),,RF-Amplifier-2-(electrical) Cathode-Ray-Tube-(electrical),2,1,2
+St54,Hi,1,7/1/21,17:46:13,18:08:11,18,8,11,1317.86,Attempt to reconnect mismatched LRU: 'Cathode Ray Tube',,Sweep-Control-Circuit-(electrical),,RF-Amplifier-2-(electrical) Cathode-Ray-Tube-(electrical),2,1,2
+St54,Hi,1,7/1/21,17:46:13,18:08:12,18,8,12,1318.81,Pick Up LRU: 'Cathode Ray Tube',,Sweep-Control-Circuit-(electrical),,RF-Amplifier-2-(electrical) Cathode-Ray-Tube-(electrical),2,1,2
+St54,Hi,1,7/1/21,17:46:13,18:08:12,18,8,12,1318.96,Drop LRU: 'Cathode Ray Tube',,Sweep-Control-Circuit-(electrical),,RF-Amplifier-2-(electrical) Cathode-Ray-Tube-(electrical),2,1,2
+St54,Hi,1,7/1/21,17:46:13,18:08:12,18,8,12,1319.04,Pick Up LRU: 'Cathode Ray Tube',,Sweep-Control-Circuit-(electrical),,RF-Amplifier-2-(electrical) Cathode-Ray-Tube-(electrical),2,1,2
+St54,Hi,1,7/1/21,17:46:13,18:08:12,18,8,12,1319.06,Attempt to reconnect mismatched LRU: 'Cathode Ray Tube',,Sweep-Control-Circuit-(electrical),,RF-Amplifier-2-(electrical) Cathode-Ray-Tube-(electrical),2,1,2
+St54,Hi,1,7/1/21,17:46:13,18:08:13,18,8,13,1320.04,Drop LRU: 'Cathode Ray Tube',,Sweep-Control-Circuit-(electrical),,RF-Amplifier-2-(electrical) Cathode-Ray-Tube-(electrical),2,1,2
+St54,Hi,1,7/1/21,17:46:13,18:08:14,18,8,14,1320.22,Attempt to reconnect mismatched LRU: 'Cathode Ray Tube',,Sweep-Control-Circuit-(electrical),,RF-Amplifier-2-(electrical) Cathode-Ray-Tube-(electrical),2,1,2
+St54,Hi,1,7/1/21,17:46:13,18:08:14,18,8,14,1321.09,Pick Up LRU: 'Cathode Ray Tube',,Sweep-Control-Circuit-(electrical),,RF-Amplifier-2-(electrical) Cathode-Ray-Tube-(electrical),2,1,2
+St54,Hi,1,7/1/21,17:46:13,18:08:19,18,8,19,1325.66,Drop LRU: 'Cathode Ray Tube',,Sweep-Control-Circuit-(electrical),,RF-Amplifier-2-(electrical) Cathode-Ray-Tube-(electrical),2,1,2
+St54,Hi,1,7/1/21,17:46:13,18:08:19,18,8,19,1325.78,Attempt to reconnect mismatched LRU: 'Cathode Ray Tube',,Sweep-Control-Circuit-(electrical),,RF-Amplifier-2-(electrical) Cathode-Ray-Tube-(electrical),2,1,2
+St54,Hi,1,7/1/21,17:46:13,18:08:25,18,8,25,1331.39,Pick Up LRU: 'Cathode Ray Tube',,Sweep-Control-Circuit-(electrical),,RF-Amplifier-2-(electrical) Cathode-Ray-Tube-(electrical),2,1,2
+St54,Hi,1,7/1/21,17:46:13,18:08:27,18,8,27,1333.67,Attempt to reconnect mismatched LRU: 'Cathode Ray Tube',,Sweep-Control-Circuit-(electrical),,RF-Amplifier-2-(electrical) Cathode-Ray-Tube-(electrical),2,1,2
+St54,Hi,1,7/1/21,17:46:13,18:08:30,18,8,30,1336.24,Attempt to reconnect mismatched LRU: 'Cathode Ray Tube',,Sweep-Control-Circuit-(electrical),,RF-Amplifier-2-(electrical) Cathode-Ray-Tube-(electrical),2,1,2
+St54,Hi,1,7/1/21,17:46:13,18:08:31,18,8,31,1337.31,Drop LRU: 'Cathode Ray Tube',,Sweep-Control-Circuit-(electrical),,RF-Amplifier-2-(electrical) Cathode-Ray-Tube-(electrical),2,1,2
+St54,Hi,1,7/1/21,17:46:13,18:08:32,18,8,32,1338.22,Pick Up LRU: 'Cathode Ray Tube',,Sweep-Control-Circuit-(electrical),,RF-Amplifier-2-(electrical) Cathode-Ray-Tube-(electrical),2,1,2
+St54,Hi,1,7/1/21,17:46:13,18:08:32,18,8,32,1339.08,Drop LRU: 'Cathode Ray Tube',,Sweep-Control-Circuit-(electrical),,RF-Amplifier-2-(electrical) Cathode-Ray-Tube-(electrical),2,1,2
+St54,Hi,1,7/1/21,17:46:13,18:08:33,18,8,33,1339.26,Attempt to reconnect mismatched LRU: 'Cathode Ray Tube',,Sweep-Control-Circuit-(electrical),,RF-Amplifier-2-(electrical) Cathode-Ray-Tube-(electrical),2,1,2
+St54,Hi,1,7/1/21,17:46:13,18:08:34,18,8,34,1340.93,Move drawer: 97.7% open,Indicator,Sweep-Control-Circuit-(electrical),,RF-Amplifier-2-(electrical) Cathode-Ray-Tube-(electrical),2,1,2
+St54,Hi,1,7/1/21,17:46:13,18:08:35,18,8,35,1341.96,Pick Up LRU: 'Cathode Ray Tube',,Sweep-Control-Circuit-(electrical),,RF-Amplifier-2-(electrical) Cathode-Ray-Tube-(electrical),2,1,2
+St54,Hi,1,7/1/21,17:46:13,18:08:36,18,8,36,1342.36,Attempt to reconnect mismatched LRU: 'Cathode Ray Tube',,Sweep-Control-Circuit-(electrical),,RF-Amplifier-2-(electrical) Cathode-Ray-Tube-(electrical),2,1,2
+St54,Hi,1,7/1/21,17:46:13,18:08:36,18,8,36,1342.96,Drop LRU: 'Cathode Ray Tube',,Sweep-Control-Circuit-(electrical),,RF-Amplifier-2-(electrical) Cathode-Ray-Tube-(electrical),2,1,2
+St54,Hi,1,7/1/21,17:46:13,18:08:37,18,8,37,1344.05,Pick Up LRU: 'Cathode Ray Tube',,Sweep-Control-Circuit-(electrical),,RF-Amplifier-2-(electrical) Cathode-Ray-Tube-(electrical),2,1,2
+St54,Hi,1,7/1/21,17:46:13,18:08:41,18,8,41,1347.23,Drop LRU: 'Cathode Ray Tube',,Sweep-Control-Circuit-(electrical),,RF-Amplifier-2-(electrical) Cathode-Ray-Tube-(electrical),2,1,2
+St54,Hi,1,7/1/21,17:46:13,18:08:41,18,8,41,1348.04,Pick Up LRU: 'Cathode Ray Tube',,Sweep-Control-Circuit-(electrical),,RF-Amplifier-2-(electrical) Cathode-Ray-Tube-(electrical),2,1,2
+St54,Hi,1,7/1/21,17:46:13,18:08:44,18,8,44,1350.69,Attempt to reconnect mismatched LRU: 'Cathode Ray Tube',,Sweep-Control-Circuit-(electrical),,RF-Amplifier-2-(electrical) Cathode-Ray-Tube-(electrical),2,1,2
+St54,Hi,1,7/1/21,17:46:13,18:08:45,18,8,45,1351.22,Drop LRU: 'Cathode Ray Tube',,Sweep-Control-Circuit-(electrical),,RF-Amplifier-2-(electrical) Cathode-Ray-Tube-(electrical),2,1,2
+St54,Hi,1,7/1/21,17:46:13,18:08:45,18,8,45,1352.14,Pick Up LRU: 'Cathode Ray Tube',,Sweep-Control-Circuit-(electrical),,RF-Amplifier-2-(electrical) Cathode-Ray-Tube-(electrical),2,1,2
+St54,Hi,1,7/1/21,17:46:13,18:08:46,18,8,46,1352.34,Attempt to reconnect mismatched LRU: 'Cathode Ray Tube',,Sweep-Control-Circuit-(electrical),,RF-Amplifier-2-(electrical) Cathode-Ray-Tube-(electrical),2,1,2
+St54,Hi,1,7/1/21,17:46:13,18:08:47,18,8,47,1353.33,Drop LRU: 'Cathode Ray Tube',,Sweep-Control-Circuit-(electrical),,RF-Amplifier-2-(electrical) Cathode-Ray-Tube-(electrical),2,1,2
+St54,Hi,1,7/1/21,17:46:13,18:08:48,18,8,48,1354.32,Pick Up LRU: 'Cathode Ray Tube',,Sweep-Control-Circuit-(electrical),,RF-Amplifier-2-(electrical) Cathode-Ray-Tube-(electrical),2,1,2
+St54,Hi,1,7/1/21,17:46:13,18:08:48,18,8,48,1354.83,Attempt to reconnect mismatched LRU: 'Cathode Ray Tube',,Sweep-Control-Circuit-(electrical),,RF-Amplifier-2-(electrical) Cathode-Ray-Tube-(electrical),2,1,2
+St54,Hi,1,7/1/21,17:46:13,18:08:48,18,8,48,1354.96,Attempt to reconnect mismatched LRU: 'Cathode Ray Tube',,Sweep-Control-Circuit-(electrical),,RF-Amplifier-2-(electrical) Cathode-Ray-Tube-(electrical),2,1,2
+St54,Hi,1,7/1/21,17:46:13,18:08:49,18,8,49,1355.22,Drop LRU: 'Cathode Ray Tube',,Sweep-Control-Circuit-(electrical),,RF-Amplifier-2-(electrical) Cathode-Ray-Tube-(electrical),2,1,2
+St54,Hi,1,7/1/21,17:46:13,18:08:49,18,8,49,1356.01,Pick Up LRU: 'Cathode Ray Tube',,Sweep-Control-Circuit-(electrical),,RF-Amplifier-2-(electrical) Cathode-Ray-Tube-(electrical),2,1,2
+St54,Hi,1,7/1/21,17:46:13,18:08:50,18,8,50,1356.84,Attempt to reconnect mismatched LRU: 'Cathode Ray Tube',,Sweep-Control-Circuit-(electrical),,RF-Amplifier-2-(electrical) Cathode-Ray-Tube-(electrical),2,1,2
+St54,Hi,1,7/1/21,17:46:13,18:08:51,18,8,51,1357.62,Drop LRU: 'Cathode Ray Tube',,Sweep-Control-Circuit-(electrical),,RF-Amplifier-2-(electrical) Cathode-Ray-Tube-(electrical),2,1,2
+St54,Hi,1,7/1/21,17:46:13,18:08:52,18,8,52,1358.87,Pick Up LRU: 'Cathode Ray Tube',,Sweep-Control-Circuit-(electrical),,RF-Amplifier-2-(electrical) Cathode-Ray-Tube-(electrical),2,1,2
+St54,Hi,1,7/1/21,17:46:13,18:08:53,18,8,53,1359.76,Drop LRU: 'Cathode Ray Tube',,Sweep-Control-Circuit-(electrical),,RF-Amplifier-2-(electrical) Cathode-Ray-Tube-(electrical),2,1,2
+St54,Hi,1,7/1/21,17:46:13,18:08:54,18,8,54,1360.56,Pick Up LRU: 'Cathode Ray Tube',,Sweep-Control-Circuit-(electrical),,RF-Amplifier-2-(electrical) Cathode-Ray-Tube-(electrical),2,1,2
+St54,Hi,1,7/1/21,17:46:13,18:08:55,18,8,55,1361.31,Drop LRU: 'Cathode Ray Tube',,Sweep-Control-Circuit-(electrical),,RF-Amplifier-2-(electrical) Cathode-Ray-Tube-(electrical),2,1,2
+St54,Hi,1,7/1/21,17:46:13,18:09:07,18,9,7,1373.51,Click on: 'Sweep Control Circuit',,Sweep-Control-Circuit-(electrical),,RF-Amplifier-2-(electrical) Cathode-Ray-Tube-(electrical),2,1,2
+St54,Hi,1,7/1/21,17:46:13,18:09:09,18,9,9,1375.26,Disconnect LRU: 'Sweep Control Circuit',,Sweep-Control-Circuit-(electrical),,RF-Amplifier-2-(electrical) Cathode-Ray-Tube-(electrical),2,1,2
+St54,Hi,1,7/1/21,17:46:13,18:09:09,18,9,9,1375.27,Move drawer: 95.4% open,Indicator,Sweep-Control-Circuit-(electrical),,RF-Amplifier-2-(electrical) Cathode-Ray-Tube-(electrical),2,1,2
+St54,Hi,1,7/1/21,17:46:13,18:09:10,18,9,10,1376.32,Pick Up LRU: 'Sweep Control Circuit',,Sweep-Control-Circuit-(electrical),,RF-Amplifier-2-(electrical) Cathode-Ray-Tube-(electrical),2,1,2
+St54,Hi,1,7/1/21,17:46:13,18:09:10,18,9,10,1377.09,Drop LRU: 'Sweep Control Circuit',,Sweep-Control-Circuit-(electrical),,RF-Amplifier-2-(electrical) Cathode-Ray-Tube-(electrical),2,1,2
+St54,Hi,1,7/1/21,17:46:13,18:09:12,18,9,12,1379.15,Leave Server Box Table,,Sweep-Control-Circuit-(electrical),,RF-Amplifier-2-(electrical) Cathode-Ray-Tube-(electrical),2,1,2
+St54,Hi,1,7/1/21,17:46:13,18:09:13,18,9,13,1379.42,Move to Spare Parts Table,,Sweep-Control-Circuit-(electrical),,RF-Amplifier-2-(electrical) Cathode-Ray-Tube-(electrical),2,1,2
+St54,Hi,1,7/1/21,17:46:13,18:09:15,18,9,15,1382,Pick Up LRU: 'Sweep Control Circuit [SPARE]',,Sweep-Control-Circuit-(electrical),,RF-Amplifier-2-(electrical) Cathode-Ray-Tube-(electrical),2,1,2
+St54,Hi,1,7/1/21,17:46:13,18:09:17,18,9,17,1384.09,Drop LRU: 'Sweep Control Circuit [SPARE]',,Sweep-Control-Circuit-(electrical),,RF-Amplifier-2-(electrical) Cathode-Ray-Tube-(electrical),2,1,2
+St54,Hi,1,7/1/21,17:46:13,18:09:20,18,9,20,1386.57,Pick Up LRU: 'Sweep Control Circuit [SPARE]',,Sweep-Control-Circuit-(electrical),,RF-Amplifier-2-(electrical) Cathode-Ray-Tube-(electrical),2,1,2
+St54,Hi,1,7/1/21,17:46:13,18:09:21,18,9,21,1387.66,Drop LRU: 'Sweep Control Circuit [SPARE]',,Sweep-Control-Circuit-(electrical),,RF-Amplifier-2-(electrical) Cathode-Ray-Tube-(electrical),2,1,2
+St54,Hi,1,7/1/21,17:46:13,18:09:22,18,9,22,1388.44,Pick Up LRU: 'Sweep Control Circuit [SPARE]',,Sweep-Control-Circuit-(electrical),,RF-Amplifier-2-(electrical) Cathode-Ray-Tube-(electrical),2,1,2
+St54,Hi,1,7/1/21,17:46:13,18:09:25,18,9,25,1391.89,Leave Spare Parts Table,,Sweep-Control-Circuit-(electrical),,RF-Amplifier-2-(electrical) Cathode-Ray-Tube-(electrical),2,1,2
+St54,Hi,1,7/1/21,17:46:13,18:09:26,18,9,26,1392.44,Drop LRU: 'Sweep Control Circuit [SPARE]',,Sweep-Control-Circuit-(electrical),,RF-Amplifier-2-(electrical) Cathode-Ray-Tube-(electrical),2,1,2
+St54,Hi,1,7/1/21,17:46:13,18:09:28,18,9,28,1394.36,Pick Up LRU: 'Sweep Control Circuit [SPARE]',,Sweep-Control-Circuit-(electrical),,RF-Amplifier-2-(electrical) Cathode-Ray-Tube-(electrical),2,1,2
+St54,Hi,1,7/1/21,17:46:13,18:09:30,18,9,30,1396.94,Move to Server Box Table,,Sweep-Control-Circuit-(electrical),,RF-Amplifier-2-(electrical) Cathode-Ray-Tube-(electrical),2,1,2
+St54,Hi,1,7/1/21,17:46:13,18:09:31,18,9,31,1397.46,Drop LRU: 'Sweep Control Circuit [SPARE]',,Sweep-Control-Circuit-(electrical),,RF-Amplifier-2-(electrical) Cathode-Ray-Tube-(electrical),2,1,2
+St54,Hi,1,7/1/21,17:46:13,18:09:32,18,9,32,1398.69,Pick Up LRU: 'Sweep Control Circuit [SPARE]',,Sweep-Control-Circuit-(electrical),,RF-Amplifier-2-(electrical) Cathode-Ray-Tube-(electrical),2,1,2
+St54,Hi,1,7/1/21,17:46:13,18:09:32,18,9,32,1399.07,Drop LRU: 'Sweep Control Circuit [SPARE]',,Sweep-Control-Circuit-(electrical),,RF-Amplifier-2-(electrical) Cathode-Ray-Tube-(electrical),2,1,2
+St54,Hi,1,7/1/21,17:46:13,18:09:35,18,9,35,1401.76,Pick Up LRU: 'Sweep Control Circuit [SPARE]',,Sweep-Control-Circuit-(electrical),,RF-Amplifier-2-(electrical) Cathode-Ray-Tube-(electrical),2,1,2
+St54,Hi,1,7/1/21,17:46:13,18:09:38,18,9,38,1404.97,Drop LRU: 'Sweep Control Circuit [SPARE]',,Sweep-Control-Circuit-(electrical),,RF-Amplifier-2-(electrical) Cathode-Ray-Tube-(electrical),2,1,2
+St54,Hi,1,7/1/21,17:46:13,18:09:39,18,9,39,1405.3,Pick Up LRU: 'Sweep Control Circuit [SPARE]',,Sweep-Control-Circuit-(electrical),,RF-Amplifier-2-(electrical) Cathode-Ray-Tube-(electrical),2,1,2
+St54,Hi,1,7/1/21,17:46:13,18:09:42,18,9,42,1408.37,Drop LRU: 'Sweep Control Circuit [SPARE]',,Sweep-Control-Circuit-(electrical),,RF-Amplifier-2-(electrical) Cathode-Ray-Tube-(electrical),2,1,2
+St54,Hi,1,7/1/21,17:46:13,18:09:43,18,9,43,1410.12,Pick Up LRU: 'Stage 1 Modulator [SPARE]',,Sweep-Control-Circuit-(electrical),,RF-Amplifier-2-(electrical) Cathode-Ray-Tube-(electrical),2,1,2
+St54,Hi,1,7/1/21,17:46:13,18:09:46,18,9,46,1412.71,Drop LRU: 'Stage 1 Modulator [SPARE]',,Sweep-Control-Circuit-(electrical),,RF-Amplifier-2-(electrical) Cathode-Ray-Tube-(electrical),2,1,2
+St54,Hi,1,7/1/21,17:46:13,18:09:48,18,9,48,1415.02,Pick Up LRU: 'Sweep Control Circuit [SPARE]',,Sweep-Control-Circuit-(electrical),,RF-Amplifier-2-(electrical) Cathode-Ray-Tube-(electrical),2,1,2
+St54,Hi,1,7/1/21,17:46:13,18:09:51,18,9,51,1417.75,Drop LRU: 'Sweep Control Circuit [SPARE]',,Sweep-Control-Circuit-(electrical),,RF-Amplifier-2-(electrical) Cathode-Ray-Tube-(electrical),2,1,2
+St54,Hi,1,7/1/21,17:46:13,18:09:54,18,9,54,1420.47,Pick Up LRU: 'Sweep Control Circuit [SPARE]',,Sweep-Control-Circuit-(electrical),,RF-Amplifier-2-(electrical) Cathode-Ray-Tube-(electrical),2,1,2
+St54,Hi,1,7/1/21,17:46:13,18:09:54,18,9,54,1421,Drop LRU: 'Sweep Control Circuit [SPARE]',,Sweep-Control-Circuit-(electrical),,RF-Amplifier-2-(electrical) Cathode-Ray-Tube-(electrical),2,1,2
+St54,Hi,1,7/1/21,17:46:13,18:09:56,18,9,56,1422.29,Pick Up LRU: 'Sweep Control Circuit [SPARE]',,Sweep-Control-Circuit-(electrical),,RF-Amplifier-2-(electrical) Cathode-Ray-Tube-(electrical),2,1,2
+St54,Hi,1,7/1/21,17:46:13,18:09:57,18,9,57,1423.79,Drop LRU: 'Sweep Control Circuit [SPARE]',,Sweep-Control-Circuit-(electrical),,RF-Amplifier-2-(electrical) Cathode-Ray-Tube-(electrical),2,1,2
+St54,Hi,1,7/1/21,17:46:13,18:10:00,18,10,0,1426.59,Pick Up LRU: 'Sweep Control Circuit [SPARE]',,Sweep-Control-Circuit-(electrical),,RF-Amplifier-2-(electrical) Cathode-Ray-Tube-(electrical),2,1,2
+St54,Hi,1,7/1/21,17:46:13,18:10:02,18,10,2,1428.77,Drop LRU: 'Sweep Control Circuit [SPARE]',,Sweep-Control-Circuit-(electrical),,RF-Amplifier-2-(electrical) Cathode-Ray-Tube-(electrical),2,1,2
+St54,Hi,1,7/1/21,17:46:13,18:10:04,18,10,4,1430.79,Pick Up LRU: 'Sweep Control Circuit [SPARE]',,Sweep-Control-Circuit-(electrical),,RF-Amplifier-2-(electrical) Cathode-Ray-Tube-(electrical),2,1,2
+St54,Hi,1,7/1/21,17:46:13,18:10:09,18,10,9,1435.65,Drop LRU: 'Sweep Control Circuit [SPARE]',,Sweep-Control-Circuit-(electrical),,RF-Amplifier-2-(electrical) Cathode-Ray-Tube-(electrical),2,1,2
+St54,Hi,1,7/1/21,17:46:13,18:10:13,18,10,13,1439.81,Pick Up LRU: 'Sweep Control Circuit [SPARE]',,Sweep-Control-Circuit-(electrical),,RF-Amplifier-2-(electrical) Cathode-Ray-Tube-(electrical),2,1,2
+St54,Hi,1,7/1/21,17:46:13,18:10:14,18,10,14,1440.3,Drop LRU: 'Sweep Control Circuit [SPARE]',,Sweep-Control-Circuit-(electrical),,RF-Amplifier-2-(electrical) Cathode-Ray-Tube-(electrical),2,1,2
+St54,Hi,1,7/1/21,17:46:13,18:10:16,18,10,16,1442.8,Pick Up LRU: 'Sweep Control Circuit [SPARE]',,Sweep-Control-Circuit-(electrical),,RF-Amplifier-2-(electrical) Cathode-Ray-Tube-(electrical),2,1,2
+St54,Hi,1,7/1/21,17:46:13,18:10:18,18,10,18,1445.13,Drop LRU: 'Sweep Control Circuit [SPARE]',,Sweep-Control-Circuit-(electrical),,RF-Amplifier-2-(electrical) Cathode-Ray-Tube-(electrical),2,1,2
+St54,Hi,1,7/1/21,17:46:13,18:10:20,18,10,20,1447.15,Pick Up LRU: 'Sweep Generator Circuit [SPARE]',,Sweep-Control-Circuit-(electrical),,RF-Amplifier-2-(electrical) Cathode-Ray-Tube-(electrical),2,1,2
+St54,Hi,1,7/1/21,17:46:13,18:10:21,18,10,21,1447.85,Drop LRU: 'Sweep Generator Circuit [SPARE]',,Sweep-Control-Circuit-(electrical),,RF-Amplifier-2-(electrical) Cathode-Ray-Tube-(electrical),2,1,2
+St54,Hi,1,7/1/21,17:46:13,18:10:23,18,10,23,1449.58,Pick Up LRU: 'Sweep Generator Circuit [SPARE]',,Sweep-Control-Circuit-(electrical),,RF-Amplifier-2-(electrical) Cathode-Ray-Tube-(electrical),2,1,2
+St54,Hi,1,7/1/21,17:46:13,18:10:27,18,10,27,1454.08,Drop LRU: 'Sweep Generator Circuit [SPARE]',,Sweep-Control-Circuit-(electrical),,RF-Amplifier-2-(electrical) Cathode-Ray-Tube-(electrical),2,1,2
+St54,Hi,1,7/1/21,17:46:13,18:10:30,18,10,30,1456.33,Pick Up LRU: 'Sweep Generator Circuit [SPARE]',,Sweep-Control-Circuit-(electrical),,RF-Amplifier-2-(electrical) Cathode-Ray-Tube-(electrical),2,1,2
+St54,Hi,1,7/1/21,17:46:13,18:10:33,18,10,33,1460.12,Drop LRU: 'Sweep Generator Circuit [SPARE]',,Sweep-Control-Circuit-(electrical),,RF-Amplifier-2-(electrical) Cathode-Ray-Tube-(electrical),2,1,2
+St54,Hi,1,7/1/21,17:46:13,18:10:36,18,10,36,1462.24,Pick Up LRU: 'Sweep Generator Circuit [SPARE]',,Sweep-Control-Circuit-(electrical),,RF-Amplifier-2-(electrical) Cathode-Ray-Tube-(electrical),2,1,2
+St54,Hi,1,7/1/21,17:46:13,18:10:36,18,10,36,1462.84,Drop LRU: 'Sweep Generator Circuit [SPARE]',,Sweep-Control-Circuit-(electrical),,RF-Amplifier-2-(electrical) Cathode-Ray-Tube-(electrical),2,1,2
+St54,Hi,1,7/1/21,17:46:13,18:10:38,18,10,38,1464.64,Pick Up LRU: 'Sweep Generator Circuit [SPARE]',,Sweep-Control-Circuit-(electrical),,RF-Amplifier-2-(electrical) Cathode-Ray-Tube-(electrical),2,1,2
+St54,Hi,1,7/1/21,17:46:13,18:10:42,18,10,42,1468.35,Drop LRU: 'Sweep Generator Circuit [SPARE]',,Sweep-Control-Circuit-(electrical),,RF-Amplifier-2-(electrical) Cathode-Ray-Tube-(electrical),2,1,2
+St54,Hi,1,7/1/21,17:46:13,18:10:43,18,10,43,1469.27,Pick Up LRU: 'Sweep Generator Circuit [SPARE]',,Sweep-Control-Circuit-(electrical),,RF-Amplifier-2-(electrical) Cathode-Ray-Tube-(electrical),2,1,2
+St54,Hi,1,7/1/21,17:46:13,18:10:46,18,10,46,1472.37,Drop LRU: 'Sweep Generator Circuit [SPARE]',,Sweep-Control-Circuit-(electrical),,RF-Amplifier-2-(electrical) Cathode-Ray-Tube-(electrical),2,1,2
+St54,Hi,1,7/1/21,17:46:13,18:10:48,18,10,48,1474.38,Attempt to reconnect mismatched LRU: 'Cathode Ray Tube',,Sweep-Control-Circuit-(electrical),,RF-Amplifier-2-(electrical) Cathode-Ray-Tube-(electrical),2,1,2
+St54,Hi,1,7/1/21,17:46:13,18:10:48,18,10,48,1474.45,Move drawer: 78.4% open,Indicator,Sweep-Control-Circuit-(electrical),,RF-Amplifier-2-(electrical) Cathode-Ray-Tube-(electrical),2,1,2
+St54,Hi,1,7/1/21,17:46:13,18:10:50,18,10,50,1476.92,Move drawer: 53.3% open,Indicator,Sweep-Control-Circuit-(electrical),,RF-Amplifier-2-(electrical) Cathode-Ray-Tube-(electrical),2,1,2
+St54,Hi,1,7/1/21,17:46:13,18:10:53,18,10,53,1479.95,Move drawer: 96.7% open,Indicator,Sweep-Control-Circuit-(electrical),,RF-Amplifier-2-(electrical) Cathode-Ray-Tube-(electrical),2,1,2
+St54,Hi,1,7/1/21,17:46:13,18:10:55,18,10,55,1481.97,Pick Up LRU: 'Stage 1 Modulator [SPARE]',,Sweep-Control-Circuit-(electrical),,RF-Amplifier-2-(electrical) Cathode-Ray-Tube-(electrical),2,1,2
+St54,Hi,1,7/1/21,17:46:13,18:10:58,18,10,58,1484.57,Drop LRU: 'Stage 1 Modulator [SPARE]',,Sweep-Control-Circuit-(electrical),,RF-Amplifier-2-(electrical) Cathode-Ray-Tube-(electrical),2,1,2
+St54,Hi,1,7/1/21,17:46:13,18:11:01,18,11,1,1487.5,Pick Up LRU: 'Stage 1 Modulator [SPARE]',,Sweep-Control-Circuit-(electrical),,RF-Amplifier-2-(electrical) Cathode-Ray-Tube-(electrical),2,1,2
+St54,Hi,1,7/1/21,17:46:13,18:11:02,18,11,2,1488.19,Drop LRU: 'Stage 1 Modulator [SPARE]',,Sweep-Control-Circuit-(electrical),,RF-Amplifier-2-(electrical) Cathode-Ray-Tube-(electrical),2,1,2
+St54,Hi,1,7/1/21,17:46:13,18:11:03,18,11,3,1489.48,Pick Up LRU: 'Stage 1 Modulator [SPARE]',,Sweep-Control-Circuit-(electrical),,RF-Amplifier-2-(electrical) Cathode-Ray-Tube-(electrical),2,1,2
+St54,Hi,1,7/1/21,17:46:13,18:11:05,18,11,5,1491.8,Drop LRU: 'Stage 1 Modulator [SPARE]',,Sweep-Control-Circuit-(electrical),,RF-Amplifier-2-(electrical) Cathode-Ray-Tube-(electrical),2,1,2
+St54,Hi,1,7/1/21,17:46:13,18:11:07,18,11,7,1493.35,Pick Up LRU: 'Sweep Control Circuit [SPARE]',,Sweep-Control-Circuit-(electrical),,RF-Amplifier-2-(electrical) Cathode-Ray-Tube-(electrical),2,1,2
+St54,Hi,1,7/1/21,17:46:13,18:11:09,18,11,9,1496.1,Drop LRU: 'Sweep Control Circuit [SPARE]',,Sweep-Control-Circuit-(electrical),,RF-Amplifier-2-(electrical) Cathode-Ray-Tube-(electrical),2,1,2
+St54,Hi,1,7/1/21,17:46:13,18:11:12,18,11,12,1498.23,Pick Up LRU: 'Sweep Control Circuit [SPARE]',,Sweep-Control-Circuit-(electrical),,RF-Amplifier-2-(electrical) Cathode-Ray-Tube-(electrical),2,1,2
+St54,Hi,1,7/1/21,17:46:13,18:11:16,18,11,16,1502.85,Drop LRU: 'Sweep Control Circuit [SPARE]',,Sweep-Control-Circuit-(electrical),,RF-Amplifier-2-(electrical) Cathode-Ray-Tube-(electrical),2,1,2
+St54,Hi,1,7/1/21,17:46:13,18:11:18,18,11,18,1504.73,Pick Up LRU: 'Sweep Control Circuit [SPARE]',,Sweep-Control-Circuit-(electrical),,RF-Amplifier-2-(electrical) Cathode-Ray-Tube-(electrical),2,1,2
+St54,Hi,1,7/1/21,17:46:13,18:11:21,18,11,21,1507.53,Drop LRU: 'Sweep Control Circuit [SPARE]',,Sweep-Control-Circuit-(electrical),,RF-Amplifier-2-(electrical) Cathode-Ray-Tube-(electrical),2,1,2
+St54,Hi,1,7/1/21,17:46:13,18:11:24,18,11,24,1510.25,Pick Up LRU: 'Sweep Control Circuit [SPARE]',,Sweep-Control-Circuit-(electrical),,RF-Amplifier-2-(electrical) Cathode-Ray-Tube-(electrical),2,1,2
+St54,Hi,1,7/1/21,17:46:13,18:11:26,18,11,26,1513.03,Drop LRU: 'Sweep Control Circuit [SPARE]',,Sweep-Control-Circuit-(electrical),,RF-Amplifier-2-(electrical) Cathode-Ray-Tube-(electrical),2,1,2
+St54,Hi,1,7/1/21,17:46:13,18:11:28,18,11,28,1514.87,Pick Up LRU: 'Sweep Control Circuit [SPARE]',,Sweep-Control-Circuit-(electrical),,RF-Amplifier-2-(electrical) Cathode-Ray-Tube-(electrical),2,1,2
+St54,Hi,1,7/1/21,17:46:13,18:11:33,18,11,33,1519.73,Drop LRU: 'Sweep Control Circuit [SPARE]',,Sweep-Control-Circuit-(electrical),,RF-Amplifier-2-(electrical) Cathode-Ray-Tube-(electrical),2,1,2
+St54,Hi,1,7/1/21,17:46:13,18:11:36,18,11,36,1522.88,Pick Up LRU: 'Sweep Control Circuit [SPARE]',,Sweep-Control-Circuit-(electrical),,RF-Amplifier-2-(electrical) Cathode-Ray-Tube-(electrical),2,1,2
+St54,Hi,1,7/1/21,17:46:13,18:11:37,18,11,37,1524.15,Drop LRU: 'Sweep Control Circuit [SPARE]',,Sweep-Control-Circuit-(electrical),,RF-Amplifier-2-(electrical) Cathode-Ray-Tube-(electrical),2,1,2
+St54,Hi,1,7/1/21,17:46:13,18:11:40,18,11,40,1526.42,Connect LRU: 'Sweep Control Circuit [SPARE]',,Sweep-Control-Circuit-(electrical),,RF-Amplifier-2-(electrical) Cathode-Ray-Tube-(electrical),2,1,2
+St54,Hi,1,7/1/21,17:46:13,18:11:40,18,11,40,1526.43,Move drawer: 95.4% open,Indicator,Sweep-Control-Circuit-(electrical),,RF-Amplifier-2-(electrical) Cathode-Ray-Tube-(electrical),2,1,2
+St54,Hi,1,7/1/21,17:46:13,18:11:41,18,11,41,1527.69,Fixed Sweep Control Circuit (electrical),,,Sweep-Control-Circuit-(electrical),RF-Amplifier-2-(electrical) Cathode-Ray-Tube-(electrical),3,0,2
+St54,Hi,1,7/1/21,17:46:13,18:11:41,18,11,41,1527.7,Move drawer: 95.4% open,Indicator,,Sweep-Control-Circuit-(electrical),RF-Amplifier-2-(electrical) Cathode-Ray-Tube-(electrical),3,0,2
+St54,Hi,1,7/1/21,17:46:13,18:11:48,18,11,48,1534.22,Move drawer: 95.4% open,Indicator,,Sweep-Control-Circuit-(electrical),RF-Amplifier-2-(electrical) Cathode-Ray-Tube-(electrical),3,0,2
+St54,Hi,1,7/1/21,17:46:13,18:11:51,18,11,51,1537.38,Attempt to reconnect mismatched LRU: 'Cathode Ray Tube',,,Sweep-Control-Circuit-(electrical),RF-Amplifier-2-(electrical) Cathode-Ray-Tube-(electrical),3,0,2
+St54,Hi,1,7/1/21,17:46:13,18:11:51,18,11,51,1537.6,Move drawer: 61.3% open,Indicator,,Sweep-Control-Circuit-(electrical),RF-Amplifier-2-(electrical) Cathode-Ray-Tube-(electrical),3,0,2
+St54,Hi,1,7/1/21,17:46:13,18:11:54,18,11,54,1540.36,Move drawer: -4% open,Indicator,,Sweep-Control-Circuit-(electrical),RF-Amplifier-2-(electrical) Cathode-Ray-Tube-(electrical),3,0,2
+St54,Hi,1,7/1/21,17:46:13,18:11:55,18,11,55,1541.72,Pick Up LRU: 'Cathode Ray Tube',,,Sweep-Control-Circuit-(electrical),RF-Amplifier-2-(electrical) Cathode-Ray-Tube-(electrical),3,0,2
+St54,Hi,1,7/1/21,17:46:13,18:11:56,18,11,56,1542.93,Drop LRU: 'Cathode Ray Tube',,,Sweep-Control-Circuit-(electrical),RF-Amplifier-2-(electrical) Cathode-Ray-Tube-(electrical),3,0,2
+St54,Hi,1,7/1/21,17:46:13,18:11:58,18,11,58,1544.56,Pick Up LRU: 'Cathode Ray Tube',,,Sweep-Control-Circuit-(electrical),RF-Amplifier-2-(electrical) Cathode-Ray-Tube-(electrical),3,0,2
+St54,Hi,1,7/1/21,17:46:13,18:11:58,18,11,58,1544.65,Drop LRU: 'Cathode Ray Tube',,,Sweep-Control-Circuit-(electrical),RF-Amplifier-2-(electrical) Cathode-Ray-Tube-(electrical),3,0,2
+St54,Hi,1,7/1/21,17:46:13,18:11:59,18,11,59,1545.56,Pick Up LRU: 'Cathode Ray Tube',,,Sweep-Control-Circuit-(electrical),RF-Amplifier-2-(electrical) Cathode-Ray-Tube-(electrical),3,0,2
+St54,Hi,1,7/1/21,17:46:13,18:12:01,18,12,1,1547.73,Drop LRU: 'Cathode Ray Tube',,,Sweep-Control-Circuit-(electrical),RF-Amplifier-2-(electrical) Cathode-Ray-Tube-(electrical),3,0,2
+St54,Hi,1,7/1/21,17:46:13,18:12:02,18,12,2,1549.1,Pick Up LRU: 'Cathode Ray Tube',,,Sweep-Control-Circuit-(electrical),RF-Amplifier-2-(electrical) Cathode-Ray-Tube-(electrical),3,0,2
+St54,Hi,1,7/1/21,17:46:13,18:12:05,18,12,5,1551.35,Drop LRU: 'Cathode Ray Tube',,,Sweep-Control-Circuit-(electrical),RF-Amplifier-2-(electrical) Cathode-Ray-Tube-(electrical),3,0,2
+St54,Hi,1,7/1/21,17:46:13,18:12:06,18,12,6,1552.95,Pick Up LRU: 'Cathode Ray Tube',,,Sweep-Control-Circuit-(electrical),RF-Amplifier-2-(electrical) Cathode-Ray-Tube-(electrical),3,0,2
+St54,Hi,1,7/1/21,17:46:13,18:12:07,18,12,7,1553.36,Drop LRU: 'Cathode Ray Tube',,,Sweep-Control-Circuit-(electrical),RF-Amplifier-2-(electrical) Cathode-Ray-Tube-(electrical),3,0,2
+St54,Hi,1,7/1/21,17:46:13,18:12:08,18,12,8,1554.31,Pick Up LRU: 'Cathode Ray Tube',,,Sweep-Control-Circuit-(electrical),RF-Amplifier-2-(electrical) Cathode-Ray-Tube-(electrical),3,0,2
+St54,Hi,1,7/1/21,17:46:13,18:12:08,18,12,8,1554.8,Drop LRU: 'Cathode Ray Tube',,,Sweep-Control-Circuit-(electrical),RF-Amplifier-2-(electrical) Cathode-Ray-Tube-(electrical),3,0,2
+St54,Hi,1,7/1/21,17:46:13,18:12:09,18,12,9,1555.7,Pick Up LRU: 'Cathode Ray Tube',,,Sweep-Control-Circuit-(electrical),RF-Amplifier-2-(electrical) Cathode-Ray-Tube-(electrical),3,0,2
+St54,Hi,1,7/1/21,17:46:13,18:12:10,18,12,10,1556.18,Drop LRU: 'Cathode Ray Tube',,,Sweep-Control-Circuit-(electrical),RF-Amplifier-2-(electrical) Cathode-Ray-Tube-(electrical),3,0,2
+St54,Hi,1,7/1/21,17:46:13,18:12:15,18,12,15,1561.3,Move drawer: 0% open,Indicator,,Sweep-Control-Circuit-(electrical),RF-Amplifier-2-(electrical) Cathode-Ray-Tube-(electrical),3,0,2
+St54,Hi,1,7/1/21,17:46:13,18:12:17,18,12,17,1563.43,Move drawer: 98.8% open,Indicator,,Sweep-Control-Circuit-(electrical),RF-Amplifier-2-(electrical) Cathode-Ray-Tube-(electrical),3,0,2
+St54,Hi,1,7/1/21,17:46:13,18:12:20,18,12,20,1566.93,Pick Up LRU: 'Cathode Ray Tube',,,Sweep-Control-Circuit-(electrical),RF-Amplifier-2-(electrical) Cathode-Ray-Tube-(electrical),3,0,2
+St54,Hi,1,7/1/21,17:46:13,18:12:21,18,12,21,1567.87,Drop LRU: 'Cathode Ray Tube',,,Sweep-Control-Circuit-(electrical),RF-Amplifier-2-(electrical) Cathode-Ray-Tube-(electrical),3,0,2
+St54,Hi,1,7/1/21,17:46:13,18:12:22,18,12,22,1568.65,Pick Up LRU: 'Cathode Ray Tube',,,Sweep-Control-Circuit-(electrical),RF-Amplifier-2-(electrical) Cathode-Ray-Tube-(electrical),3,0,2
+St54,Hi,1,7/1/21,17:46:13,18:12:26,18,12,26,1572.58,Drop LRU: 'Cathode Ray Tube',,,Sweep-Control-Circuit-(electrical),RF-Amplifier-2-(electrical) Cathode-Ray-Tube-(electrical),3,0,2
+St54,Hi,1,7/1/21,17:46:13,18:12:27,18,12,27,1573.53,Pick Up LRU: 'Cathode Ray Tube',,,Sweep-Control-Circuit-(electrical),RF-Amplifier-2-(electrical) Cathode-Ray-Tube-(electrical),3,0,2
+St54,Hi,1,7/1/21,17:46:13,18:12:30,18,12,30,1576.18,Drop LRU: 'Cathode Ray Tube',,,Sweep-Control-Circuit-(electrical),RF-Amplifier-2-(electrical) Cathode-Ray-Tube-(electrical),3,0,2
+St54,Hi,1,7/1/21,17:46:13,18:12:32,18,12,32,1579.01,Pick Up LRU: 'Cathode Ray Tube',,,Sweep-Control-Circuit-(electrical),RF-Amplifier-2-(electrical) Cathode-Ray-Tube-(electrical),3,0,2
+St54,Hi,1,7/1/21,17:46:13,18:12:34,18,12,34,1580.89,Drop LRU: 'Cathode Ray Tube',,,Sweep-Control-Circuit-(electrical),RF-Amplifier-2-(electrical) Cathode-Ray-Tube-(electrical),3,0,2
+St54,Hi,1,7/1/21,17:46:13,18:12:36,18,12,36,1582.65,Pick Up LRU: 'Cathode Ray Tube',,,Sweep-Control-Circuit-(electrical),RF-Amplifier-2-(electrical) Cathode-Ray-Tube-(electrical),3,0,2
+St54,Hi,1,7/1/21,17:46:13,18:12:37,18,12,37,1583.63,Drop LRU: 'Cathode Ray Tube',,,Sweep-Control-Circuit-(electrical),RF-Amplifier-2-(electrical) Cathode-Ray-Tube-(electrical),3,0,2
+St54,Hi,1,7/1/21,17:46:13,18:12:37,18,12,37,1583.84,Attempt to reconnect mismatched LRU: 'Cathode Ray Tube',,,Sweep-Control-Circuit-(electrical),RF-Amplifier-2-(electrical) Cathode-Ray-Tube-(electrical),3,0,2
+St54,Hi,1,7/1/21,17:46:13,18:12:38,18,12,38,1584.64,Pick Up LRU: 'Cathode Ray Tube',,,Sweep-Control-Circuit-(electrical),RF-Amplifier-2-(electrical) Cathode-Ray-Tube-(electrical),3,0,2
+St54,Hi,1,7/1/21,17:46:13,18:12:39,18,12,39,1585.53,Drop LRU: 'Cathode Ray Tube',,,Sweep-Control-Circuit-(electrical),RF-Amplifier-2-(electrical) Cathode-Ray-Tube-(electrical),3,0,2
+St54,Hi,1,7/1/21,17:46:13,18:12:39,18,12,39,1585.67,Attempt to reconnect mismatched LRU: 'Cathode Ray Tube',,,Sweep-Control-Circuit-(electrical),RF-Amplifier-2-(electrical) Cathode-Ray-Tube-(electrical),3,0,2
+St54,Hi,1,7/1/21,17:46:13,18:12:41,18,12,41,1587.43,Pick Up LRU: 'Cathode Ray Tube',,,Sweep-Control-Circuit-(electrical),RF-Amplifier-2-(electrical) Cathode-Ray-Tube-(electrical),3,0,2
+St54,Hi,1,7/1/21,17:46:13,18:12:42,18,12,42,1588.24,Drop LRU: 'Cathode Ray Tube',,,Sweep-Control-Circuit-(electrical),RF-Amplifier-2-(electrical) Cathode-Ray-Tube-(electrical),3,0,2
+St54,Hi,1,7/1/21,17:46:13,18:12:42,18,12,42,1588.43,Attempt to reconnect mismatched LRU: 'Cathode Ray Tube',,,Sweep-Control-Circuit-(electrical),RF-Amplifier-2-(electrical) Cathode-Ray-Tube-(electrical),3,0,2
+St54,Hi,1,7/1/21,17:46:13,18:12:43,18,12,43,1590.11,Pick Up LRU: 'Cathode Ray Tube',,,Sweep-Control-Circuit-(electrical),RF-Amplifier-2-(electrical) Cathode-Ray-Tube-(electrical),3,0,2
+St54,Hi,1,7/1/21,17:46:13,18:12:44,18,12,44,1590.53,Attempt to reconnect mismatched LRU: 'Cathode Ray Tube',,,Sweep-Control-Circuit-(electrical),RF-Amplifier-2-(electrical) Cathode-Ray-Tube-(electrical),3,0,2
+St54,Hi,1,7/1/21,17:46:13,18:12:44,18,12,44,1590.88,Drop LRU: 'Cathode Ray Tube',,,Sweep-Control-Circuit-(electrical),RF-Amplifier-2-(electrical) Cathode-Ray-Tube-(electrical),3,0,2
+St54,Hi,1,7/1/21,17:46:13,18:12:44,18,12,44,1591.16,Attempt to reconnect mismatched LRU: 'Cathode Ray Tube',,,Sweep-Control-Circuit-(electrical),RF-Amplifier-2-(electrical) Cathode-Ray-Tube-(electrical),3,0,2
+St54,Hi,1,7/1/21,17:46:13,18:12:46,18,12,46,1592.19,Pick Up LRU: 'Cathode Ray Tube',,,Sweep-Control-Circuit-(electrical),RF-Amplifier-2-(electrical) Cathode-Ray-Tube-(electrical),3,0,2
+St54,Hi,1,7/1/21,17:46:13,18:12:46,18,12,46,1592.46,Attempt to reconnect mismatched LRU: 'Cathode Ray Tube',,,Sweep-Control-Circuit-(electrical),RF-Amplifier-2-(electrical) Cathode-Ray-Tube-(electrical),3,0,2
+St54,Hi,1,7/1/21,17:46:13,18:12:47,18,12,47,1593.49,Drop LRU: 'Cathode Ray Tube',,,Sweep-Control-Circuit-(electrical),RF-Amplifier-2-(electrical) Cathode-Ray-Tube-(electrical),3,0,2
+St54,Hi,1,7/1/21,17:46:13,18:12:47,18,12,47,1593.73,Move drawer: 8.9% open,Processor,,Sweep-Control-Circuit-(electrical),RF-Amplifier-2-(electrical) Cathode-Ray-Tube-(electrical),3,0,2
+St54,Hi,1,7/1/21,17:46:13,18:12:47,18,12,47,1593.86,Attempt to reconnect mismatched LRU: 'Cathode Ray Tube',,,Sweep-Control-Circuit-(electrical),RF-Amplifier-2-(electrical) Cathode-Ray-Tube-(electrical),3,0,2
+St54,Hi,1,7/1/21,17:46:13,18:12:48,18,12,48,1594.93,Pick Up LRU: 'Cathode Ray Tube',,,Sweep-Control-Circuit-(electrical),RF-Amplifier-2-(electrical) Cathode-Ray-Tube-(electrical),3,0,2
+St54,Hi,1,7/1/21,17:46:13,18:12:49,18,12,49,1595.21,Attempt to reconnect mismatched LRU: 'Cathode Ray Tube',,,Sweep-Control-Circuit-(electrical),RF-Amplifier-2-(electrical) Cathode-Ray-Tube-(electrical),3,0,2
+St54,Hi,1,7/1/21,17:46:13,18:12:49,18,12,49,1595.56,Drop LRU: 'Cathode Ray Tube',,,Sweep-Control-Circuit-(electrical),RF-Amplifier-2-(electrical) Cathode-Ray-Tube-(electrical),3,0,2
+St54,Hi,1,7/1/21,17:46:13,18:12:50,18,12,50,1596.27,Click on: 'Cathode Ray Tube [SPARE]',,,Sweep-Control-Circuit-(electrical),RF-Amplifier-2-(electrical) Cathode-Ray-Tube-(electrical),3,0,2
+St54,Hi,1,7/1/21,17:46:13,18:12:50,18,12,50,1597.01,Disconnect LRU: 'Cathode Ray Tube [SPARE]',,,Sweep-Control-Circuit-(electrical),RF-Amplifier-2-(electrical) Cathode-Ray-Tube-(electrical),3,0,2
+St54,Hi,1,7/1/21,17:46:13,18:12:50,18,12,50,1597.03,Move drawer: 95.4% open,Indicator,,Sweep-Control-Circuit-(electrical),RF-Amplifier-2-(electrical) Cathode-Ray-Tube-(electrical),3,0,2
+St54,Hi,1,7/1/21,17:46:13,18:12:51,18,12,51,1597.88,Connect LRU: 'Cathode Ray Tube [SPARE]',,,Sweep-Control-Circuit-(electrical),RF-Amplifier-2-(electrical) Cathode-Ray-Tube-(electrical),3,0,2
+St54,Hi,1,7/1/21,17:46:13,18:12:51,18,12,51,1597.89,Move drawer: 95.4% open,Indicator,,Sweep-Control-Circuit-(electrical),RF-Amplifier-2-(electrical) Cathode-Ray-Tube-(electrical),3,0,2
+St54,Hi,1,7/1/21,17:46:13,18:12:52,18,12,52,1598.73,Replaced unnecessarily Cathode Ray Tube (electrical),,,Sweep-Control-Circuit-(electrical),RF-Amplifier-2-(electrical) Cathode-Ray-Tube-(electrical),3,0,2
+St54,Hi,1,7/1/21,17:46:13,18:12:52,18,12,52,1598.74,Move drawer: 95.4% open,Indicator,,Sweep-Control-Circuit-(electrical),RF-Amplifier-2-(electrical) Cathode-Ray-Tube-(electrical),3,0,2
+St54,Hi,1,7/1/21,17:46:13,18:12:53,18,12,53,1599.48,Click on: 'Cathode Ray Tube [SPARE]',,,Sweep-Control-Circuit-(electrical),RF-Amplifier-2-(electrical) Cathode-Ray-Tube-(electrical),3,0,2
+St54,Hi,1,7/1/21,17:46:13,18:12:54,18,12,54,1600.75,Disconnect LRU: 'Cathode Ray Tube [SPARE]',,,Sweep-Control-Circuit-(electrical),RF-Amplifier-2-(electrical) Cathode-Ray-Tube-(electrical),3,0,2
+St54,Hi,1,7/1/21,17:46:13,18:12:54,18,12,54,1600.76,Move drawer: 95.4% open,Indicator,,Sweep-Control-Circuit-(electrical),RF-Amplifier-2-(electrical) Cathode-Ray-Tube-(electrical),3,0,2
+St54,Hi,1,7/1/21,17:46:13,18:12:55,18,12,55,1601.53,Connect LRU: 'Cathode Ray Tube [SPARE]',,,Sweep-Control-Circuit-(electrical),RF-Amplifier-2-(electrical) Cathode-Ray-Tube-(electrical),3,0,2
+St54,Hi,1,7/1/21,17:46:13,18:12:55,18,12,55,1601.54,Move drawer: 95.4% open,Indicator,,Sweep-Control-Circuit-(electrical),RF-Amplifier-2-(electrical) Cathode-Ray-Tube-(electrical),3,0,2
+St54,Hi,1,7/1/21,17:46:13,18:12:56,18,12,56,1603.03,Cancel window: 'Cathode Ray Tube',,,Sweep-Control-Circuit-(electrical),RF-Amplifier-2-(electrical) Cathode-Ray-Tube-(electrical),3,0,2
+St54,Hi,1,7/1/21,17:46:13,18:12:57,18,12,57,1603.81,Click on: 'Cathode Ray Tube [SPARE]',,,Sweep-Control-Circuit-(electrical),RF-Amplifier-2-(electrical) Cathode-Ray-Tube-(electrical),3,0,2
+St54,Hi,1,7/1/21,17:46:13,18:12:58,18,12,58,1604.63,Disconnect LRU: 'Cathode Ray Tube [SPARE]',,,Sweep-Control-Circuit-(electrical),RF-Amplifier-2-(electrical) Cathode-Ray-Tube-(electrical),3,0,2
+St54,Hi,1,7/1/21,17:46:13,18:12:58,18,12,58,1604.64,Move drawer: 95.4% open,Indicator,,Sweep-Control-Circuit-(electrical),RF-Amplifier-2-(electrical) Cathode-Ray-Tube-(electrical),3,0,2
+St54,Hi,1,7/1/21,17:46:13,18:12:59,18,12,59,1605.73,Connect LRU: 'Cathode Ray Tube [SPARE]',,,Sweep-Control-Circuit-(electrical),RF-Amplifier-2-(electrical) Cathode-Ray-Tube-(electrical),3,0,2
+St54,Hi,1,7/1/21,17:46:13,18:12:59,18,12,59,1605.74,Move drawer: 95.4% open,Indicator,,Sweep-Control-Circuit-(electrical),RF-Amplifier-2-(electrical) Cathode-Ray-Tube-(electrical),3,0,2
+St54,Hi,1,7/1/21,17:46:13,18:13:00,18,13,0,1606.35,Replaced unnecessarily Cathode Ray Tube (electrical),,,Sweep-Control-Circuit-(electrical),RF-Amplifier-2-(electrical) Cathode-Ray-Tube-(electrical),3,0,2
+St54,Hi,1,7/1/21,17:46:13,18:13:00,18,13,0,1606.36,Move drawer: 95.4% open,Indicator,,Sweep-Control-Circuit-(electrical),RF-Amplifier-2-(electrical) Cathode-Ray-Tube-(electrical),3,0,2
+St54,Hi,1,7/1/21,17:46:13,18:13:01,18,13,1,1607.58,Click on: 'Cathode Ray Tube [SPARE]',,,Sweep-Control-Circuit-(electrical),RF-Amplifier-2-(electrical) Cathode-Ray-Tube-(electrical),3,0,2
+St54,Hi,1,7/1/21,17:46:13,18:13:02,18,13,2,1608.58,Move drawer: 95.4% open,Indicator,,Sweep-Control-Circuit-(electrical),RF-Amplifier-2-(electrical) Cathode-Ray-Tube-(electrical),3,0,2
+St54,Hi,1,7/1/21,17:46:13,18:13:03,18,13,3,1609.44,Disconnect LRU: 'Cathode Ray Tube [SPARE]',,,Sweep-Control-Circuit-(electrical),RF-Amplifier-2-(electrical) Cathode-Ray-Tube-(electrical),3,0,2
+St54,Hi,1,7/1/21,17:46:13,18:13:03,18,13,3,1609.46,Move drawer: 95.4% open,Indicator,,Sweep-Control-Circuit-(electrical),RF-Amplifier-2-(electrical) Cathode-Ray-Tube-(electrical),3,0,2
+St54,Hi,1,7/1/21,17:46:13,18:13:04,18,13,4,1610.64,Cancel connect: 'Cathode Ray Tube [SPARE]',,,Sweep-Control-Circuit-(electrical),RF-Amplifier-2-(electrical) Cathode-Ray-Tube-(electrical),3,0,2
+St54,Hi,1,7/1/21,17:46:13,18:13:05,18,13,5,1611.41,Pick Up LRU: 'Cathode Ray Tube [SPARE]',,,Sweep-Control-Circuit-(electrical),RF-Amplifier-2-(electrical) Cathode-Ray-Tube-(electrical),3,0,2
+St54,Hi,1,7/1/21,17:46:13,18:13:05,18,13,5,1612.06,Drop LRU: 'Cathode Ray Tube [SPARE]',,,Sweep-Control-Circuit-(electrical),RF-Amplifier-2-(electrical) Cathode-Ray-Tube-(electrical),3,0,2
+St54,Hi,1,7/1/21,17:46:13,18:13:06,18,13,6,1613.13,Cancel connect: 'Cathode Ray Tube [SPARE]',,,Sweep-Control-Circuit-(electrical),RF-Amplifier-2-(electrical) Cathode-Ray-Tube-(electrical),3,0,2
+St54,Hi,1,7/1/21,17:46:13,18:13:07,18,13,7,1613.98,Pick Up LRU: 'Cathode Ray Tube [SPARE]',,,Sweep-Control-Circuit-(electrical),RF-Amplifier-2-(electrical) Cathode-Ray-Tube-(electrical),3,0,2
+St54,Hi,1,7/1/21,17:46:13,18:13:08,18,13,8,1614.36,Drop LRU: 'Cathode Ray Tube [SPARE]',,,Sweep-Control-Circuit-(electrical),RF-Amplifier-2-(electrical) Cathode-Ray-Tube-(electrical),3,0,2
+St54,Hi,1,7/1/21,17:46:13,18:13:09,18,13,9,1615.54,Pick Up LRU: 'Cathode Ray Tube',,,Sweep-Control-Circuit-(electrical),RF-Amplifier-2-(electrical) Cathode-Ray-Tube-(electrical),3,0,2
+St54,Hi,1,7/1/21,17:46:13,18:13:09,18,13,9,1615.84,Attempt to reconnect mismatched LRU: 'Cathode Ray Tube',,,Sweep-Control-Circuit-(electrical),RF-Amplifier-2-(electrical) Cathode-Ray-Tube-(electrical),3,0,2
+St54,Hi,1,7/1/21,17:46:13,18:13:10,18,13,10,1616.28,Drop LRU: 'Cathode Ray Tube',,,Sweep-Control-Circuit-(electrical),RF-Amplifier-2-(electrical) Cathode-Ray-Tube-(electrical),3,0,2
+St54,Hi,1,7/1/21,17:46:13,18:13:10,18,13,10,1617.08,Connect LRU: 'Cathode Ray Tube',,,Sweep-Control-Circuit-(electrical),RF-Amplifier-2-(electrical) Cathode-Ray-Tube-(electrical),3,0,2
+St54,Hi,1,7/1/21,17:46:13,18:13:10,18,13,10,1617.09,Move drawer: 95.4% open,Indicator,,Sweep-Control-Circuit-(electrical),RF-Amplifier-2-(electrical) Cathode-Ray-Tube-(electrical),3,0,2
+St54,Hi,1,7/1/21,17:46:13,18:13:12,18,13,12,1618.41,Move drawer: 95.4% open,Indicator,,Sweep-Control-Circuit-(electrical),RF-Amplifier-2-(electrical) Cathode-Ray-Tube-(electrical),3,0,2
+St54,Hi,1,7/1/21,17:46:13,18:13:15,18,13,15,1621.59,Move drawer: 95.4% open,Indicator,,Sweep-Control-Circuit-(electrical),RF-Amplifier-2-(electrical) Cathode-Ray-Tube-(electrical),3,0,2
+St54,Hi,1,7/1/21,17:46:13,18:13:17,18,13,17,1623.69,Move drawer: 54.5% open,Indicator,,Sweep-Control-Circuit-(electrical),RF-Amplifier-2-(electrical) Cathode-Ray-Tube-(electrical),3,0,2
+St54,Hi,1,7/1/21,17:46:13,18:13:19,18,13,19,1625.72,Move drawer: 39.3% open,Indicator,,Sweep-Control-Circuit-(electrical),RF-Amplifier-2-(electrical) Cathode-Ray-Tube-(electrical),3,0,2
+St54,Hi,1,7/1/21,17:46:13,18:13:22,18,13,22,1628.24,Move drawer: 4.2% open,Indicator,,Sweep-Control-Circuit-(electrical),RF-Amplifier-2-(electrical) Cathode-Ray-Tube-(electrical),3,0,2
+St54,Hi,1,7/1/21,17:46:13,18:13:30,18,13,30,1636.68,Move drawer: 0% open,Tracker,,Sweep-Control-Circuit-(electrical),RF-Amplifier-2-(electrical) Cathode-Ray-Tube-(electrical),3,0,2
+St54,Hi,1,7/1/21,17:46:13,18:13:31,18,13,31,1637.18,Move drawer: 0% open,Tracker,,Sweep-Control-Circuit-(electrical),RF-Amplifier-2-(electrical) Cathode-Ray-Tube-(electrical),3,0,2
+St54,Hi,1,7/1/21,17:46:13,18:13:32,18,13,32,1638.33,Click on: 'Receiver Transmission Line',,,Sweep-Control-Circuit-(electrical),RF-Amplifier-2-(electrical) Cathode-Ray-Tube-(electrical),3,0,2
+St54,Hi,1,7/1/21,17:46:13,18:13:32,18,13,32,1638.53,Click on: 'Receiver Transmission Line',,,Sweep-Control-Circuit-(electrical),RF-Amplifier-2-(electrical) Cathode-Ray-Tube-(electrical),3,0,2
+St54,Hi,1,7/1/21,17:46:13,18:13:35,18,13,35,1641.33,Cancel disconnect: 'Receiver Transmission Line',,,Sweep-Control-Circuit-(electrical),RF-Amplifier-2-(electrical) Cathode-Ray-Tube-(electrical),3,0,2
+St54,Hi,1,7/1/21,17:46:13,18:13:38,18,13,38,1644.92,Move drawer: 0% open,Transmitter,,Sweep-Control-Circuit-(electrical),RF-Amplifier-2-(electrical) Cathode-Ray-Tube-(electrical),3,0,2
+St54,Hi,1,7/1/21,17:46:13,18:13:41,18,13,41,1647.89,Move drawer: 70.4% open,Transmitter,,Sweep-Control-Circuit-(electrical),RF-Amplifier-2-(electrical) Cathode-Ray-Tube-(electrical),3,0,2
+St54,Hi,1,7/1/21,17:46:13,18:13:43,18,13,43,1649.26,Click on: 'Frequency Synthesizer',,,Sweep-Control-Circuit-(electrical),RF-Amplifier-2-(electrical) Cathode-Ray-Tube-(electrical),3,0,2
+St54,Hi,1,7/1/21,17:46:13,18:13:44,18,13,44,1650.69,Cancel disconnect: 'Frequency Synthesizer',,,Sweep-Control-Circuit-(electrical),RF-Amplifier-2-(electrical) Cathode-Ray-Tube-(electrical),3,0,2
+St54,Hi,1,7/1/21,17:46:13,18:13:44,18,13,44,1650.71,Move drawer: 70.4% open,Transmitter,,Sweep-Control-Circuit-(electrical),RF-Amplifier-2-(electrical) Cathode-Ray-Tube-(electrical),3,0,2
+St54,Hi,1,7/1/21,17:46:13,18:13:46,18,13,46,1652.31,Move drawer: 10.4% open,Transmitter,,Sweep-Control-Circuit-(electrical),RF-Amplifier-2-(electrical) Cathode-Ray-Tube-(electrical),3,0,2
+St54,Hi,1,7/1/21,17:46:13,18:14:03,18,14,3,1669.59,Move drawer: 85.8% open,Indicator,,Sweep-Control-Circuit-(electrical),RF-Amplifier-2-(electrical) Cathode-Ray-Tube-(electrical),3,0,2
+St54,Hi,1,7/1/21,17:46:13,18:14:25,18,14,25,1691.74,Move drawer: 85.2% open,Transmitter,,Sweep-Control-Circuit-(electrical),RF-Amplifier-2-(electrical) Cathode-Ray-Tube-(electrical),3,0,2
+St54,Hi,1,7/1/21,17:46:13,18:14:27,18,14,27,1693.69,Move drawer: 58.8% open,Transmitter,,Sweep-Control-Circuit-(electrical),RF-Amplifier-2-(electrical) Cathode-Ray-Tube-(electrical),3,0,2
+St54,Hi,1,7/1/21,17:46:13,18:14:29,18,14,29,1695.47,Move drawer: 50.9% open,Transmitter,,Sweep-Control-Circuit-(electrical),RF-Amplifier-2-(electrical) Cathode-Ray-Tube-(electrical),3,0,2
+St54,Hi,1,7/1/21,17:46:13,18:14:32,18,14,32,1698.57,Move drawer: 0% open,Transmitter,,Sweep-Control-Circuit-(electrical),RF-Amplifier-2-(electrical) Cathode-Ray-Tube-(electrical),3,0,2
+St54,Hi,1,7/1/21,17:46:13,18:14:35,18,14,35,1701.44,Move drawer: 97.7% open,Processor,,Sweep-Control-Circuit-(electrical),RF-Amplifier-2-(electrical) Cathode-Ray-Tube-(electrical),3,0,2
+St54,Hi,1,7/1/21,17:46:13,18:14:38,18,14,38,1704.55,Move drawer: 95.4% open,Processor,,Sweep-Control-Circuit-(electrical),RF-Amplifier-2-(electrical) Cathode-Ray-Tube-(electrical),3,0,2
+St54,Hi,1,7/1/21,17:46:13,18:14:39,18,14,39,1705.49,Move drawer: 75.6% open,Processor,,Sweep-Control-Circuit-(electrical),RF-Amplifier-2-(electrical) Cathode-Ray-Tube-(electrical),3,0,2
+St54,Hi,1,7/1/21,17:46:13,18:14:41,18,14,41,1707.57,Move drawer: 34.2% open,Processor,,Sweep-Control-Circuit-(electrical),RF-Amplifier-2-(electrical) Cathode-Ray-Tube-(electrical),3,0,2
+St54,Hi,1,7/1/21,17:46:13,18:14:47,18,14,47,1713.55,Move drawer: 28.5% open,Processor,,Sweep-Control-Circuit-(electrical),RF-Amplifier-2-(electrical) Cathode-Ray-Tube-(electrical),3,0,2
+St54,Hi,1,7/1/21,17:46:13,18:15:07,18,15,7,1733.8,Move drawer: 99.5% open,Synchronizer,,Sweep-Control-Circuit-(electrical),RF-Amplifier-2-(electrical) Cathode-Ray-Tube-(electrical),3,0,2
+St54,Hi,1,7/1/21,17:46:13,18:15:09,18,15,9,1735.7,Move drawer: 12.8% open,Synchronizer,,Sweep-Control-Circuit-(electrical),RF-Amplifier-2-(electrical) Cathode-Ray-Tube-(electrical),3,0,2
+St54,Hi,1,7/1/21,17:46:13,18:15:17,18,15,17,1743.84,Move drawer: 10.1% open,Indicator,,Sweep-Control-Circuit-(electrical),RF-Amplifier-2-(electrical) Cathode-Ray-Tube-(electrical),3,0,2
+St54,Hi,1,7/1/21,17:46:13,18:15:22,18,15,22,1748.29,Move drawer: 99% open,Transmitter,,Sweep-Control-Circuit-(electrical),RF-Amplifier-2-(electrical) Cathode-Ray-Tube-(electrical),3,0,2
+St54,Hi,1,7/1/21,17:46:13,18:15:23,18,15,23,1749.37,Click on: 'Frequency Synthesizer',,,Sweep-Control-Circuit-(electrical),RF-Amplifier-2-(electrical) Cathode-Ray-Tube-(electrical),3,0,2
+St54,Hi,1,7/1/21,17:46:13,18:15:24,18,15,24,1750.59,Move drawer: 95.4% open,Transmitter,,Sweep-Control-Circuit-(electrical),RF-Amplifier-2-(electrical) Cathode-Ray-Tube-(electrical),3,0,2
+St54,Hi,1,7/1/21,17:46:13,18:15:25,18,15,25,1751.67,Cancel disconnect: 'Frequency Synthesizer',,,Sweep-Control-Circuit-(electrical),RF-Amplifier-2-(electrical) Cathode-Ray-Tube-(electrical),3,0,2
+St54,Hi,1,7/1/21,17:46:13,18:15:25,18,15,25,1751.69,Move drawer: 95.4% open,Transmitter,,Sweep-Control-Circuit-(electrical),RF-Amplifier-2-(electrical) Cathode-Ray-Tube-(electrical),3,0,2
+St54,Hi,1,7/1/21,17:46:13,18:15:27,18,15,27,1753.27,Move drawer: 99% open,Transmitter,,Sweep-Control-Circuit-(electrical),RF-Amplifier-2-(electrical) Cathode-Ray-Tube-(electrical),3,0,2
+St54,Hi,1,7/1/21,17:46:13,18:16:00,18,16,0,1786.62,Leave Server Box Table,,,Sweep-Control-Circuit-(electrical),RF-Amplifier-2-(electrical) Cathode-Ray-Tube-(electrical),3,0,2
+St54,Hi,1,7/1/21,17:46:13,18:16:00,18,16,0,1786.9,Move to Spare Parts Table,,,Sweep-Control-Circuit-(electrical),RF-Amplifier-2-(electrical) Cathode-Ray-Tube-(electrical),3,0,2
+St54,Hi,1,7/1/21,17:46:13,18:16:02,18,16,2,1788.78,Leave Spare Parts Table,,,Sweep-Control-Circuit-(electrical),RF-Amplifier-2-(electrical) Cathode-Ray-Tube-(electrical),3,0,2
+St54,Hi,1,7/1/21,17:46:13,18:16:02,18,16,2,1789.08,Move to Server Box Table,,,Sweep-Control-Circuit-(electrical),RF-Amplifier-2-(electrical) Cathode-Ray-Tube-(electrical),3,0,2
+St54,Hi,1,7/1/21,17:46:13,18:16:11,18,16,11,1797.3,Leave Server Box Table,,,Sweep-Control-Circuit-(electrical),RF-Amplifier-2-(electrical) Cathode-Ray-Tube-(electrical),3,0,2
+St54,Hi,1,7/1/21,17:46:13,18:16:11,18,16,11,1797.58,Move to Spare Parts Table,,,Sweep-Control-Circuit-(electrical),RF-Amplifier-2-(electrical) Cathode-Ray-Tube-(electrical),3,0,2
+St54,Hi,1,7/1/21,17:46:13,18:16:35,18,16,35,1822.05,Leave Spare Parts Table,,,Sweep-Control-Circuit-(electrical),RF-Amplifier-2-(electrical) Cathode-Ray-Tube-(electrical),3,0,2
+St54,Hi,1,7/1/21,17:46:13,18:16:36,18,16,36,1822.35,Move to Server Box Table,,,Sweep-Control-Circuit-(electrical),RF-Amplifier-2-(electrical) Cathode-Ray-Tube-(electrical),3,0,2
+St54,Hi,1,7/1/21,17:46:13,18:16:42,18,16,42,1828.3,Pick Up LRU: 'Sweep Control Circuit',,,Sweep-Control-Circuit-(electrical),RF-Amplifier-2-(electrical) Cathode-Ray-Tube-(electrical),3,0,2
+St54,Hi,1,7/1/21,17:46:13,18:16:44,18,16,44,1831,Drop LRU: 'Sweep Control Circuit',,,Sweep-Control-Circuit-(electrical),RF-Amplifier-2-(electrical) Cathode-Ray-Tube-(electrical),3,0,2
+St54,Hi,1,7/1/21,17:46:13,18:16:46,18,16,46,1833.05,Pick Up LRU: 'Sweep Generator Circuit',,,Sweep-Control-Circuit-(electrical),RF-Amplifier-2-(electrical) Cathode-Ray-Tube-(electrical),3,0,2
+St54,Hi,1,7/1/21,17:46:13,18:16:47,18,16,47,1833.83,Drop LRU: 'Sweep Generator Circuit',,,Sweep-Control-Circuit-(electrical),RF-Amplifier-2-(electrical) Cathode-Ray-Tube-(electrical),3,0,2
+St54,Hi,1,7/1/21,17:46:13,18:16:48,18,16,48,1834.88,Pick Up LRU: 'Sweep Generator Circuit',,,Sweep-Control-Circuit-(electrical),RF-Amplifier-2-(electrical) Cathode-Ray-Tube-(electrical),3,0,2
+St54,Hi,1,7/1/21,17:46:13,18:16:49,18,16,49,1835.55,Drop LRU: 'Sweep Generator Circuit',,,Sweep-Control-Circuit-(electrical),RF-Amplifier-2-(electrical) Cathode-Ray-Tube-(electrical),3,0,2
+St54,Hi,1,7/1/21,17:46:13,18:16:50,18,16,50,1836.48,Pick Up LRU: 'Sweep Generator Circuit',,,Sweep-Control-Circuit-(electrical),RF-Amplifier-2-(electrical) Cathode-Ray-Tube-(electrical),3,0,2
+St54,Hi,1,7/1/21,17:46:13,18:16:51,18,16,51,1837.41,Drop LRU: 'Sweep Generator Circuit',,,Sweep-Control-Circuit-(electrical),RF-Amplifier-2-(electrical) Cathode-Ray-Tube-(electrical),3,0,2
+St54,Hi,1,7/1/21,17:46:13,18:16:52,18,16,52,1838.41,Pick Up LRU: 'Sweep Generator Circuit',,,Sweep-Control-Circuit-(electrical),RF-Amplifier-2-(electrical) Cathode-Ray-Tube-(electrical),3,0,2
+St54,Hi,1,7/1/21,17:46:13,18:16:53,18,16,53,1839.51,Drop LRU: 'Sweep Generator Circuit',,,Sweep-Control-Circuit-(electrical),RF-Amplifier-2-(electrical) Cathode-Ray-Tube-(electrical),3,0,2

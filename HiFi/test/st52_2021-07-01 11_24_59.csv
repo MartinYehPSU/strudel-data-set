@@ -1,0 +1,160 @@
+subject,subject_group,round,round_start_date_utc,round_start_time_utc,current_time_utc,current_hour24,current_minute,current_second,current_elapsed_seconds,event,ui_tab,active_faults,fixed_faults,fixed_nonfaults,ReplacedComponents,FaultsRemaining,ReplacedNonFaults
+st52,HI,1,7/1/21,15:24:59,15:24:59,15,24,59,0.05,Make electrical flaw: Local Oscillator,,Local-Oscillator-(electrical),,,0,1,0
+st52,HI,1,7/1/21,15:24:59,15:24:59,15,24,59,0.06,Start (High Fidelity Sim),,Local-Oscillator-(electrical),,,0,1,0
+st52,HI,1,7/1/21,15:24:59,15:25:37,15,25,37,37.64,Move to Server Box Table,,Local-Oscillator-(electrical),,,0,1,0
+st52,HI,1,7/1/21,15:24:59,15:25:38,15,25,38,39.08,Leave Server Box Table,,Local-Oscillator-(electrical),,,0,1,0
+st52,HI,1,7/1/21,15:24:59,15:25:41,15,25,41,42.18,Move to Server Box Table,,Local-Oscillator-(electrical),,,0,1,0
+st52,HI,1,7/1/21,15:24:59,15:25:52,15,25,52,53.09,Swing front panel: 0% open,,Local-Oscillator-(electrical),,,0,1,0
+st52,HI,1,7/1/21,15:24:59,15:25:58,15,25,58,58.9,Swing front panel: 0% open,,Local-Oscillator-(electrical),,,0,1,0
+st52,HI,1,7/1/21,15:24:59,15:26:00,15,26,0,61.44,Swing front panel: 0% open,,Local-Oscillator-(electrical),,,0,1,0
+st52,HI,1,7/1/21,15:24:59,15:26:13,15,26,13,73.7,Swing front panel: 30.2% open,,Local-Oscillator-(electrical),,,0,1,0
+st52,HI,1,7/1/21,15:24:59,15:26:31,15,26,31,91.96,Move drawer: 55.4% open,Processor,Local-Oscillator-(electrical),,,0,1,0
+st52,HI,1,7/1/21,15:24:59,15:26:43,15,26,43,103.7,Click on: 'Mixer Detector',,Local-Oscillator-(electrical),,,0,1,0
+st52,HI,1,7/1/21,15:24:59,15:26:49,15,26,49,110.11,Cancel disconnect: 'Mixer Detector',,Local-Oscillator-(electrical),,,0,1,0
+st52,HI,1,7/1/21,15:24:59,15:26:56,15,26,56,117.35,Click on: 'Local Oscillator',,Local-Oscillator-(electrical),,,0,1,0
+st52,HI,1,7/1/21,15:24:59,15:27:00,15,27,0,121.29,Disconnect LRU: 'Local Oscillator',,Local-Oscillator-(electrical),,,0,1,0
+st52,HI,1,7/1/21,15:24:59,15:27:03,15,27,3,123.73,Pick Up LRU: 'Local Oscillator',,Local-Oscillator-(electrical),,,0,1,0
+st52,HI,1,7/1/21,15:24:59,15:27:16,15,27,16,137.38,Drop LRU: 'Local Oscillator',,Local-Oscillator-(electrical),,,0,1,0
+st52,HI,1,7/1/21,15:24:59,15:27:17,15,27,17,138.4,Leave Server Box Table,,Local-Oscillator-(electrical),,,0,1,0
+st52,HI,1,7/1/21,15:24:59,15:27:18,15,27,18,139,Move to Spare Parts Table,,Local-Oscillator-(electrical),,,0,1,0
+st52,HI,1,7/1/21,15:24:59,15:27:29,15,27,29,150.3,Pick Up LRU: 'Transmitter Antenna [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+st52,HI,1,7/1/21,15:24:59,15:27:35,15,27,35,156.32,Drop LRU: 'Transmitter Antenna [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+st52,HI,1,7/1/21,15:24:59,15:27:36,15,27,36,157.22,Pick Up LRU: 'Receiver Transmission Line [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+st52,HI,1,7/1/21,15:24:59,15:27:39,15,27,39,159.62,Drop LRU: 'Receiver Transmission Line [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+st52,HI,1,7/1/21,15:24:59,15:27:40,15,27,40,160.84,Pick Up LRU: 'Receiver Transmission Line [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+st52,HI,1,7/1/21,15:24:59,15:27:47,15,27,47,168.34,Drop LRU: 'Receiver Transmission Line [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+st52,HI,1,7/1/21,15:24:59,15:27:52,15,27,52,173.03,Pick Up LRU: 'RF Amplifier 3 [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+st52,HI,1,7/1/21,15:24:59,15:27:58,15,27,58,178.94,Drop LRU: 'RF Amplifier 3 [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+st52,HI,1,7/1/21,15:24:59,15:27:59,15,27,59,180.34,Pick Up LRU: 'Transmitter Transmission Line [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+st52,HI,1,7/1/21,15:24:59,15:28:06,15,28,6,187.25,Drop LRU: 'Transmitter Transmission Line [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+st52,HI,1,7/1/21,15:24:59,15:28:08,15,28,8,189.15,Leave Spare Parts Table,,Local-Oscillator-(electrical),,,0,1,0
+st52,HI,1,7/1/21,15:24:59,15:28:09,15,28,9,189.9,Move to Spare Parts Table,,Local-Oscillator-(electrical),,,0,1,0
+st52,HI,1,7/1/21,15:24:59,15:28:15,15,28,15,196.39,Pick Up LRU: 'RF Amplifier 2 [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+st52,HI,1,7/1/21,15:24:59,15:28:23,15,28,23,203.64,Drop LRU: 'RF Amplifier 2 [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+st52,HI,1,7/1/21,15:24:59,15:28:24,15,28,24,204.69,Pick Up LRU: 'RF Amplifier 1 [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+st52,HI,1,7/1/21,15:24:59,15:28:29,15,28,29,209.84,Drop LRU: 'RF Amplifier 1 [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+st52,HI,1,7/1/21,15:24:59,15:29:13,15,29,13,253.99,Pick Up LRU: 'Control Circuit [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+st52,HI,1,7/1/21,15:24:59,15:29:19,15,29,19,260.46,Drop LRU: 'Control Circuit [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+st52,HI,1,7/1/21,15:24:59,15:29:20,15,29,20,261.45,Pick Up LRU: 'Local Oscillator [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+st52,HI,1,7/1/21,15:24:59,15:29:38,15,29,38,278.72,Leave Spare Parts Table,,Local-Oscillator-(electrical),,,0,1,0
+st52,HI,1,7/1/21,15:24:59,15:29:41,15,29,41,281.88,Move to Server Box Table,,Local-Oscillator-(electrical),,,0,1,0
+st52,HI,1,7/1/21,15:24:59,15:29:44,15,29,44,285.45,Drop LRU: 'Local Oscillator [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+st52,HI,1,7/1/21,15:24:59,15:29:54,15,29,54,294.49,Pick Up LRU: 'Local Oscillator [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+st52,HI,1,7/1/21,15:24:59,15:30:17,15,30,17,318.05,Drop LRU: 'Local Oscillator [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+st52,HI,1,7/1/21,15:24:59,15:30:29,15,30,29,329.55,Pick Up LRU: 'Local Oscillator [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+st52,HI,1,7/1/21,15:24:59,15:30:35,15,30,35,336.32,Drop LRU: 'Local Oscillator [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+st52,HI,1,7/1/21,15:24:59,15:30:37,15,30,37,338.16,Connect LRU: 'Local Oscillator [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+st52,HI,1,7/1/21,15:24:59,15:30:39,15,30,39,339.75,Fixed Local Oscillator (electrical),,,Local-Oscillator-(electrical),,1,0,0
+st52,HI,1,7/1/21,15:24:59,15:30:52,15,30,52,353.34,Click on: 'Control Circuit',,,Local-Oscillator-(electrical),,1,0,0
+st52,HI,1,7/1/21,15:24:59,15:30:55,15,30,55,356.38,Cancel disconnect: 'Control Circuit',,,Local-Oscillator-(electrical),,1,0,0
+st52,HI,1,7/1/21,15:24:59,15:31:37,15,31,37,398.27,Submit?,,,Local-Oscillator-(electrical),,1,0,0
+st52,HI,1,7/1/21,15:24:59,15:31:40,15,31,40,401.33,Submit Confirm,,,Local-Oscillator-(electrical),,1,0,0
+st52,HI,2,7/1/21,15:31:47,15:31:47,15,31,47,0,Make electrical flaw: Receiver Waveguide,,Receiver-Waveguide-(electrical),,,0,1,0
+st52,HI,2,7/1/21,15:31:47,15:31:47,15,31,47,0,Start (High Fidelity Sim),,Receiver-Waveguide-(electrical),,,0,1,0
+st52,HI,2,7/1/21,15:31:47,15:31:47,15,31,47,0.03,Leave Server Box Table,,Receiver-Waveguide-(electrical),,,0,1,0
+st52,HI,2,7/1/21,15:31:47,15:31:55,15,31,55,7.64,Move to Server Box Table,,Receiver-Waveguide-(electrical),,,0,1,0
+st52,HI,2,7/1/21,15:31:47,15:32:08,15,32,8,21.47,Swing front panel: 29.2% open,,Receiver-Waveguide-(electrical),,,0,1,0
+st52,HI,2,7/1/21,15:31:47,15:33:07,15,33,7,79.96,Move drawer: 65.7% open,Processor,Receiver-Waveguide-(electrical),,,0,1,0
+st52,HI,2,7/1/21,15:31:47,15:33:12,15,33,12,85.24,Click on: 'Video Detector',,Receiver-Waveguide-(electrical),,,0,1,0
+st52,HI,2,7/1/21,15:31:47,15:33:16,15,33,16,89.05,Disconnect LRU: 'Video Detector',,Receiver-Waveguide-(electrical),,,0,1,0
+st52,HI,2,7/1/21,15:31:47,15:33:16,15,33,16,89.05,Move drawer: 0% open,Tracker,Receiver-Waveguide-(electrical),,,0,1,0
+st52,HI,2,7/1/21,15:31:47,15:33:19,15,33,19,91.66,Pick Up LRU: 'Video Detector',,Receiver-Waveguide-(electrical),,,0,1,0
+st52,HI,2,7/1/21,15:31:47,15:33:25,15,33,25,98.24,Leave Server Box Table,,Receiver-Waveguide-(electrical),,,0,1,0
+st52,HI,2,7/1/21,15:31:47,15:33:28,15,33,28,101.31,Drop LRU: 'Video Detector',,Receiver-Waveguide-(electrical),,,0,1,0
+st52,HI,2,7/1/21,15:31:47,15:33:34,15,33,34,106.73,Move to Spare Parts Table,,Receiver-Waveguide-(electrical),,,0,1,0
+st52,HI,2,7/1/21,15:31:47,15:33:40,15,33,40,112.93,Pick Up LRU: 'Duplexer Bypass [SPARE]',,Receiver-Waveguide-(electrical),,,0,1,0
+st52,HI,2,7/1/21,15:31:47,15:33:46,15,33,46,119.29,Drop LRU: 'Duplexer Bypass [SPARE]',,Receiver-Waveguide-(electrical),,,0,1,0
+st52,HI,2,7/1/21,15:31:47,15:33:52,15,33,52,125.56,Pick Up LRU: 'Stage 1 Modulator [SPARE]',,Receiver-Waveguide-(electrical),,,0,1,0
+st52,HI,2,7/1/21,15:31:47,15:34:00,15,34,0,133.45,Drop LRU: 'Stage 1 Modulator [SPARE]',,Receiver-Waveguide-(electrical),,,0,1,0
+st52,HI,2,7/1/21,15:31:47,15:34:03,15,34,3,136.52,Pick Up LRU: 'AFC Mixer [SPARE]',,Receiver-Waveguide-(electrical),,,0,1,0
+st52,HI,2,7/1/21,15:31:47,15:34:09,15,34,9,142.17,Drop LRU: 'AFC Mixer [SPARE]',,Receiver-Waveguide-(electrical),,,0,1,0
+st52,HI,2,7/1/21,15:31:47,15:34:25,15,34,25,158.3,Pick Up LRU: 'Video Detector [SPARE]',,Receiver-Waveguide-(electrical),,,0,1,0
+st52,HI,2,7/1/21,15:31:47,15:34:41,15,34,41,173.85,Leave Spare Parts Table,,Receiver-Waveguide-(electrical),,,0,1,0
+st52,HI,2,7/1/21,15:31:47,15:34:45,15,34,45,178.28,Move to Server Box Table,,Receiver-Waveguide-(electrical),,,0,1,0
+st52,HI,2,7/1/21,15:31:47,15:34:55,15,34,55,188.31,Drop LRU: 'Video Detector [SPARE]',,Receiver-Waveguide-(electrical),,,0,1,0
+st52,HI,2,7/1/21,15:31:47,15:34:58,15,34,58,190.74,Connect LRU: 'Video Detector [SPARE]',,Receiver-Waveguide-(electrical),,,0,1,0
+st52,HI,2,7/1/21,15:31:47,15:34:58,15,34,58,191.59,Replaced unnecessarily Video Detector (electrical),,Receiver-Waveguide-(electrical),,Video-Detector-(electrical),1,1,1
+st52,HI,2,7/1/21,15:31:47,15:35:22,15,35,22,214.61,Click on: 'IF Amplifier',,Receiver-Waveguide-(electrical),,Video-Detector-(electrical),1,1,1
+st52,HI,2,7/1/21,15:31:47,15:35:26,15,35,26,219.57,Cancel disconnect: 'IF Amplifier',,Receiver-Waveguide-(electrical),,Video-Detector-(electrical),1,1,1
+st52,HI,2,7/1/21,15:31:47,15:35:26,15,35,26,219.57,Move drawer: 0% open,Tracker,Receiver-Waveguide-(electrical),,Video-Detector-(electrical),1,1,1
+st52,HI,2,7/1/21,15:31:47,15:35:34,15,35,34,226.85,Click on: 'IF Amplifier',,Receiver-Waveguide-(electrical),,Video-Detector-(electrical),1,1,1
+st52,HI,2,7/1/21,15:31:47,15:35:37,15,35,37,230.2,Disconnect LRU: 'IF Amplifier',,Receiver-Waveguide-(electrical),,Video-Detector-(electrical),1,1,1
+st52,HI,2,7/1/21,15:31:47,15:35:39,15,35,39,232.11,Move drawer: 65.7% open,Processor,Receiver-Waveguide-(electrical),,Video-Detector-(electrical),1,1,1
+st52,HI,2,7/1/21,15:31:47,15:35:41,15,35,41,234.58,Cancel connect: 'IF Amplifier',,Receiver-Waveguide-(electrical),,Video-Detector-(electrical),1,1,1
+st52,HI,2,7/1/21,15:31:47,15:35:42,15,35,42,234.61,Move drawer: 65.7% open,Processor,Receiver-Waveguide-(electrical),,Video-Detector-(electrical),1,1,1
+st52,HI,2,7/1/21,15:31:47,15:35:43,15,35,43,235.82,Pick Up LRU: 'IF Amplifier',,Receiver-Waveguide-(electrical),,Video-Detector-(electrical),1,1,1
+st52,HI,2,7/1/21,15:31:47,15:35:43,15,35,43,236.03,Drop LRU: 'IF Amplifier',,Receiver-Waveguide-(electrical),,Video-Detector-(electrical),1,1,1
+st52,HI,2,7/1/21,15:31:47,15:35:44,15,35,44,237.24,Pick Up LRU: 'IF Amplifier',,Receiver-Waveguide-(electrical),,Video-Detector-(electrical),1,1,1
+st52,HI,2,7/1/21,15:31:47,15:35:44,15,35,44,237.29,Drop LRU: 'IF Amplifier',,Receiver-Waveguide-(electrical),,Video-Detector-(electrical),1,1,1
+st52,HI,2,7/1/21,15:31:47,15:35:46,15,35,46,238.65,Cancel connect: 'IF Amplifier',,Receiver-Waveguide-(electrical),,Video-Detector-(electrical),1,1,1
+st52,HI,2,7/1/21,15:31:47,15:35:46,15,35,46,239.57,Pick Up LRU: 'IF Amplifier',,Receiver-Waveguide-(electrical),,Video-Detector-(electrical),1,1,1
+st52,HI,2,7/1/21,15:31:47,15:35:53,15,35,53,245.94,Drop LRU: 'IF Amplifier',,Receiver-Waveguide-(electrical),,Video-Detector-(electrical),1,1,1
+st52,HI,2,7/1/21,15:31:47,15:35:55,15,35,55,247.9,Leave Server Box Table,,Receiver-Waveguide-(electrical),,Video-Detector-(electrical),1,1,1
+st52,HI,2,7/1/21,15:31:47,15:35:55,15,35,55,248.2,Move to Spare Parts Table,,Receiver-Waveguide-(electrical),,Video-Detector-(electrical),1,1,1
+st52,HI,2,7/1/21,15:31:47,15:35:57,15,35,57,250,Pick Up LRU: 'Duplexer Bypass [SPARE]',,Receiver-Waveguide-(electrical),,Video-Detector-(electrical),1,1,1
+st52,HI,2,7/1/21,15:31:47,15:36:02,15,36,2,255.57,Drop LRU: 'Duplexer Bypass [SPARE]',,Receiver-Waveguide-(electrical),,Video-Detector-(electrical),1,1,1
+st52,HI,2,7/1/21,15:31:47,15:36:04,15,36,4,256.86,Pick Up LRU: 'Adjuster [SPARE]',,Receiver-Waveguide-(electrical),,Video-Detector-(electrical),1,1,1
+st52,HI,2,7/1/21,15:31:47,15:36:12,15,36,12,264.84,Drop LRU: 'Adjuster [SPARE]',,Receiver-Waveguide-(electrical),,Video-Detector-(electrical),1,1,1
+st52,HI,2,7/1/21,15:31:47,15:36:22,15,36,22,275.16,Pick Up LRU: 'Overdriven Amplifier [SPARE]',,Receiver-Waveguide-(electrical),,Video-Detector-(electrical),1,1,1
+st52,HI,2,7/1/21,15:31:47,15:36:25,15,36,25,278.05,Drop LRU: 'Overdriven Amplifier [SPARE]',,Receiver-Waveguide-(electrical),,Video-Detector-(electrical),1,1,1
+st52,HI,2,7/1/21,15:31:47,15:36:25,15,36,25,278.16,Pick Up LRU: 'Overdriven Amplifier [SPARE]',,Receiver-Waveguide-(electrical),,Video-Detector-(electrical),1,1,1
+st52,HI,2,7/1/21,15:31:47,15:36:26,15,36,26,278.8,Drop LRU: 'Overdriven Amplifier [SPARE]',,Receiver-Waveguide-(electrical),,Video-Detector-(electrical),1,1,1
+st52,HI,2,7/1/21,15:31:47,15:36:29,15,36,29,282.11,Pick Up LRU: 'Overdriven Amplifier [SPARE]',,Receiver-Waveguide-(electrical),,Video-Detector-(electrical),1,1,1
+st52,HI,2,7/1/21,15:31:47,15:36:34,15,36,34,287.42,Drop LRU: 'Overdriven Amplifier [SPARE]',,Receiver-Waveguide-(electrical),,Video-Detector-(electrical),1,1,1
+st52,HI,2,7/1/21,15:31:47,15:36:36,15,36,36,289.18,Pick Up LRU: 'Sine Wave Oscillator [SPARE]',,Receiver-Waveguide-(electrical),,Video-Detector-(electrical),1,1,1
+st52,HI,2,7/1/21,15:31:47,15:36:42,15,36,42,295,Drop LRU: 'Sine Wave Oscillator [SPARE]',,Receiver-Waveguide-(electrical),,Video-Detector-(electrical),1,1,1
+st52,HI,2,7/1/21,15:31:47,15:36:44,15,36,44,296.64,Pick Up LRU: 'Transmitter Waveguide [SPARE]',,Receiver-Waveguide-(electrical),,Video-Detector-(electrical),1,1,1
+st52,HI,2,7/1/21,15:31:47,15:36:48,15,36,48,301.21,Drop LRU: 'Transmitter Waveguide [SPARE]',,Receiver-Waveguide-(electrical),,Video-Detector-(electrical),1,1,1
+st52,HI,2,7/1/21,15:31:47,15:36:56,15,36,56,309.51,Pick Up LRU: 'AFC Mixer [SPARE]',,Receiver-Waveguide-(electrical),,Video-Detector-(electrical),1,1,1
+st52,HI,2,7/1/21,15:31:47,15:36:59,15,36,59,312.5,Drop LRU: 'AFC Mixer [SPARE]',,Receiver-Waveguide-(electrical),,Video-Detector-(electrical),1,1,1
+st52,HI,2,7/1/21,15:31:47,15:37:00,15,37,0,312.74,Pick Up LRU: 'AFC Mixer [SPARE]',,Receiver-Waveguide-(electrical),,Video-Detector-(electrical),1,1,1
+st52,HI,2,7/1/21,15:31:47,15:37:01,15,37,1,314.44,Drop LRU: 'AFC Mixer [SPARE]',,Receiver-Waveguide-(electrical),,Video-Detector-(electrical),1,1,1
+st52,HI,2,7/1/21,15:31:47,15:37:02,15,37,2,315.03,Pick Up LRU: 'AFC Mixer [SPARE]',,Receiver-Waveguide-(electrical),,Video-Detector-(electrical),1,1,1
+st52,HI,2,7/1/21,15:31:47,15:37:08,15,37,8,321.42,Drop LRU: 'AFC Mixer [SPARE]',,Receiver-Waveguide-(electrical),,Video-Detector-(electrical),1,1,1
+st52,HI,2,7/1/21,15:31:47,15:37:23,15,37,23,336.27,Pick Up LRU: 'IF Amplifier [SPARE]',,Receiver-Waveguide-(electrical),,Video-Detector-(electrical),1,1,1
+st52,HI,2,7/1/21,15:31:47,15:37:29,15,37,29,341.8,Drop LRU: 'IF Amplifier [SPARE]',,Receiver-Waveguide-(electrical),,Video-Detector-(electrical),1,1,1
+st52,HI,2,7/1/21,15:31:47,15:37:33,15,37,33,345.9,Pick Up LRU: 'Limiter [SPARE]',,Receiver-Waveguide-(electrical),,Video-Detector-(electrical),1,1,1
+st52,HI,2,7/1/21,15:31:47,15:37:34,15,37,34,346.72,Drop LRU: 'Limiter [SPARE]',,Receiver-Waveguide-(electrical),,Video-Detector-(electrical),1,1,1
+st52,HI,2,7/1/21,15:31:47,15:37:36,15,37,36,349.24,Pick Up LRU: 'RF Amplifier 3 [SPARE]',,Receiver-Waveguide-(electrical),,Video-Detector-(electrical),1,1,1
+st52,HI,2,7/1/21,15:31:47,15:37:42,15,37,42,354.63,Drop LRU: 'RF Amplifier 3 [SPARE]',,Receiver-Waveguide-(electrical),,Video-Detector-(electrical),1,1,1
+st52,HI,2,7/1/21,15:31:47,15:37:43,15,37,43,355.78,Pick Up LRU: 'Transmitter Transmission Line [SPARE]',,Receiver-Waveguide-(electrical),,Video-Detector-(electrical),1,1,1
+st52,HI,2,7/1/21,15:31:47,15:37:49,15,37,49,362.46,Drop LRU: 'Transmitter Transmission Line [SPARE]',,Receiver-Waveguide-(electrical),,Video-Detector-(electrical),1,1,1
+st52,HI,2,7/1/21,15:31:47,15:37:52,15,37,52,364.94,Pick Up LRU: 'Adjuster [SPARE]',,Receiver-Waveguide-(electrical),,Video-Detector-(electrical),1,1,1
+st52,HI,2,7/1/21,15:31:47,15:38:00,15,38,0,373.11,Drop LRU: 'Adjuster [SPARE]',,Receiver-Waveguide-(electrical),,Video-Detector-(electrical),1,1,1
+st52,HI,2,7/1/21,15:31:47,15:38:01,15,38,1,374.2,Pick Up LRU: 'Duplexer Bypass [SPARE]',,Receiver-Waveguide-(electrical),,Video-Detector-(electrical),1,1,1
+st52,HI,2,7/1/21,15:31:47,15:38:06,15,38,6,379.1,Drop LRU: 'Duplexer Bypass [SPARE]',,Receiver-Waveguide-(electrical),,Video-Detector-(electrical),1,1,1
+st52,HI,2,7/1/21,15:31:47,15:38:08,15,38,8,380.9,Pick Up LRU: 'RC Differentiator [SPARE]',,Receiver-Waveguide-(electrical),,Video-Detector-(electrical),1,1,1
+st52,HI,2,7/1/21,15:31:47,15:38:13,15,38,13,385.7,Drop LRU: 'RC Differentiator [SPARE]',,Receiver-Waveguide-(electrical),,Video-Detector-(electrical),1,1,1
+st52,HI,2,7/1/21,15:31:47,15:38:15,15,38,15,388.07,Pick Up LRU: 'Stage 3 Modulator [SPARE]',,Receiver-Waveguide-(electrical),,Video-Detector-(electrical),1,1,1
+st52,HI,2,7/1/21,15:31:47,15:38:19,15,38,19,391.95,Drop LRU: 'Stage 3 Modulator [SPARE]',,Receiver-Waveguide-(electrical),,Video-Detector-(electrical),1,1,1
+st52,HI,2,7/1/21,15:31:47,15:38:19,15,38,19,392.15,Pick Up LRU: 'Stage 3 Modulator [SPARE]',,Receiver-Waveguide-(electrical),,Video-Detector-(electrical),1,1,1
+st52,HI,2,7/1/21,15:31:47,15:38:22,15,38,22,395.47,Drop LRU: 'Stage 3 Modulator [SPARE]',,Receiver-Waveguide-(electrical),,Video-Detector-(electrical),1,1,1
+st52,HI,2,7/1/21,15:31:47,15:39:10,15,39,10,442.65,Leave Spare Parts Table,,Receiver-Waveguide-(electrical),,Video-Detector-(electrical),1,1,1
+st52,HI,2,7/1/21,15:31:47,15:39:10,15,39,10,443.4,Move to Server Box Table,,Receiver-Waveguide-(electrical),,Video-Detector-(electrical),1,1,1
+st52,HI,2,7/1/21,15:31:47,15:39:18,15,39,18,451.41,Click on: 'Low Noise RF Amplifier',,Receiver-Waveguide-(electrical),,Video-Detector-(electrical),1,1,1
+st52,HI,2,7/1/21,15:31:47,15:39:22,15,39,22,454.8,Disconnect LRU: 'Low Noise RF Amplifier',,Receiver-Waveguide-(electrical),,Video-Detector-(electrical),1,1,1
+st52,HI,2,7/1/21,15:31:47,15:39:23,15,39,23,456.23,Pick Up LRU: 'Low Noise RF Amplifier',,Receiver-Waveguide-(electrical),,Video-Detector-(electrical),1,1,1
+st52,HI,2,7/1/21,15:31:47,15:39:31,15,39,31,464.16,Drop LRU: 'Low Noise RF Amplifier',,Receiver-Waveguide-(electrical),,Video-Detector-(electrical),1,1,1
+st52,HI,2,7/1/21,15:31:47,15:39:33,15,39,33,465.99,Leave Server Box Table,,Receiver-Waveguide-(electrical),,Video-Detector-(electrical),1,1,1
+st52,HI,2,7/1/21,15:31:47,15:39:34,15,39,34,466.69,Move to Spare Parts Table,,Receiver-Waveguide-(electrical),,Video-Detector-(electrical),1,1,1
+st52,HI,2,7/1/21,15:31:47,15:39:37,15,39,37,469.71,Pick Up LRU: 'Duplexer Bypass [SPARE]',,Receiver-Waveguide-(electrical),,Video-Detector-(electrical),1,1,1
+st52,HI,2,7/1/21,15:31:47,15:39:43,15,39,43,476.42,Drop LRU: 'Duplexer Bypass [SPARE]',,Receiver-Waveguide-(electrical),,Video-Detector-(electrical),1,1,1
+st52,HI,2,7/1/21,15:31:47,15:39:44,15,39,44,477.39,Pick Up LRU: 'Transmitter Transmission Line [SPARE]',,Receiver-Waveguide-(electrical),,Video-Detector-(electrical),1,1,1
+st52,HI,2,7/1/21,15:31:47,15:39:52,15,39,52,484.88,Drop LRU: 'Transmitter Transmission Line [SPARE]',,Receiver-Waveguide-(electrical),,Video-Detector-(electrical),1,1,1
+st52,HI,2,7/1/21,15:31:47,15:39:53,15,39,53,486.15,Pick Up LRU: 'Receiver Antenna [SPARE]',,Receiver-Waveguide-(electrical),,Video-Detector-(electrical),1,1,1
+st52,HI,2,7/1/21,15:31:47,15:39:59,15,39,59,492.47,Drop LRU: 'Receiver Antenna [SPARE]',,Receiver-Waveguide-(electrical),,Video-Detector-(electrical),1,1,1
+st52,HI,2,7/1/21,15:31:47,15:40:00,15,40,0,493.51,Pick Up LRU: 'Transmitter Waveguide [SPARE]',,Receiver-Waveguide-(electrical),,Video-Detector-(electrical),1,1,1
+st52,HI,2,7/1/21,15:31:47,15:40:06,15,40,6,499.13,Drop LRU: 'Transmitter Waveguide [SPARE]',,Receiver-Waveguide-(electrical),,Video-Detector-(electrical),1,1,1
+st52,HI,2,7/1/21,15:31:47,15:40:07,15,40,7,500.01,Pick Up LRU: 'Duplexer Bypass [SPARE]',,Receiver-Waveguide-(electrical),,Video-Detector-(electrical),1,1,1
+st52,HI,2,7/1/21,15:31:47,15:40:12,15,40,12,505.19,Drop LRU: 'Duplexer Bypass [SPARE]',,Receiver-Waveguide-(electrical),,Video-Detector-(electrical),1,1,1
+st52,HI,2,7/1/21,15:31:47,15:40:24,15,40,24,517.52,Pick Up LRU: 'Sine Wave Oscillator [SPARE]',,Receiver-Waveguide-(electrical),,Video-Detector-(electrical),1,1,1
+st52,HI,2,7/1/21,15:31:47,15:40:34,15,40,34,527.04,Drop LRU: 'Sine Wave Oscillator [SPARE]',,Receiver-Waveguide-(electrical),,Video-Detector-(electrical),1,1,1
+st52,HI,2,7/1/21,15:31:47,15:40:37,15,40,37,529.99,Submit?,,Receiver-Waveguide-(electrical),,Video-Detector-(electrical),1,1,1
+st52,HI,2,7/1/21,15:31:47,15:40:39,15,40,39,531.8,Submit Confirm,,Receiver-Waveguide-(electrical),,Video-Detector-(electrical),1,1,1
+st52,HI,2,7/1/21,15:31:47,15:40:40,15,40,40,532.92,Pick Up LRU: 'RC Differentiator [SPARE]',,Receiver-Waveguide-(electrical),,Video-Detector-(electrical),1,1,1
+st52,HI,2,7/1/21,15:31:47,15:40:40,15,40,40,533.07,Drop LRU: 'RC Differentiator [SPARE]',,Receiver-Waveguide-(electrical),,Video-Detector-(electrical),1,1,1
+st52,HI,2,7/1/21,15:31:47,15:40:41,15,40,41,533.77,Pick Up LRU: 'Sine Wave Oscillator [SPARE]',,Receiver-Waveguide-(electrical),,Video-Detector-(electrical),1,1,1
+st52,HI,2,7/1/21,15:31:47,15:40:41,15,40,41,533.88,Drop LRU: 'Sine Wave Oscillator [SPARE]',,Receiver-Waveguide-(electrical),,Video-Detector-(electrical),1,1,1
+st52,HI,3,7/1/21,15:40:41,15:40:41,15,40,41,0,Make electrical flaw: Stage 3 Modulator,,Stage-3-Modulator-(electrical),,,0,1,0
+st52,HI,3,7/1/21,15:40:41,15:40:41,15,40,41,0,Start (High Fidelity Sim),,Stage-3-Modulator-(electrical),,,0,1,0
+st52,HI,3,7/1/21,15:40:41,15:40:41,15,40,41,0.03,Leave Spare Parts Table,,Stage-3-Modulator-(electrical),,,0,1,0

@@ -1,0 +1,158 @@
+subject,subject_group,round,round_start_date_utc,round_start_time_utc,current_time_utc,current_hour24,current_minute,current_second,current_elapsed_seconds,event,ui_tab,active_faults,fixed_faults,fixed_nonfaults,ReplacedComponents,FaultsRemaining,ReplacedNonFaults
+st55,LO,1,7/19/21,19:58:43,19:58:43,19,58,43,0.04,Make electrical flaw: Local Oscillator,,Local-Oscillator-(electrical),,,0,1,0
+st55,LO,1,7/19/21,19:58:43,19:58:43,19,58,43,0.05,Start (High Fidelity Sim),,Local-Oscillator-(electrical),,,0,1,0
+st55,LO,1,7/19/21,19:58:43,19:58:52,19,58,52,9.18,Move to Spare Parts Table,,Local-Oscillator-(electrical),,,0,1,0
+st55,LO,1,7/19/21,19:58:43,19:59:01,19,59,1,18.33,Leave Spare Parts Table,,Local-Oscillator-(electrical),,,0,1,0
+st55,LO,1,7/19/21,19:58:43,19:59:01,19,59,1,18.63,Move to Server Box Table,,Local-Oscillator-(electrical),,,0,1,0
+st55,LO,1,7/19/21,19:58:43,19:59:02,19,59,2,19.17,Leave Server Box Table,,Local-Oscillator-(electrical),,,0,1,0
+st55,LO,1,7/19/21,19:58:43,19:59:02,19,59,2,19.62,Move to Server Box Table,,Local-Oscillator-(electrical),,,0,1,0
+st55,LO,1,7/19/21,19:58:43,19:59:06,19,59,6,23.76,Swing front panel: 0% open,,Local-Oscillator-(electrical),,,0,1,0
+st55,LO,1,7/19/21,19:58:43,19:59:08,19,59,8,25.4,Swing front panel: 0% open,,Local-Oscillator-(electrical),,,0,1,0
+st55,LO,1,7/19/21,19:58:43,19:59:09,19,59,9,26.27,Swing front panel: 0% open,,Local-Oscillator-(electrical),,,0,1,0
+st55,LO,1,7/19/21,19:58:43,19:59:10,19,59,10,27.2,Swing front panel: 0% open,,Local-Oscillator-(electrical),,,0,1,0
+st55,LO,1,7/19/21,19:58:43,19:59:12,19,59,12,29.32,Swing front panel: 0% open,,Local-Oscillator-(electrical),,,0,1,0
+st55,LO,1,7/19/21,19:58:43,19:59:15,19,59,15,32.52,Swing front panel: 0% open,,Local-Oscillator-(electrical),,,0,1,0
+st55,LO,1,7/19/21,19:58:43,19:59:17,19,59,17,34.14,Swing front panel: 3% open,,Local-Oscillator-(electrical),,,0,1,0
+st55,LO,1,7/19/21,19:58:43,19:59:17,19,59,17,34.67,Swing front panel: 4.4% open,,Local-Oscillator-(electrical),,,0,1,0
+st55,LO,1,7/19/21,19:58:43,19:59:19,19,59,19,36.59,Swing front panel: 0.1% open,,Local-Oscillator-(electrical),,,0,1,0
+st55,LO,1,7/19/21,19:58:43,19:59:21,19,59,21,38.49,Swing front panel: 0% open,,Local-Oscillator-(electrical),,,0,1,0
+st55,LO,1,7/19/21,19:58:43,19:59:23,19,59,23,40.55,Swing front panel: 0% open,,Local-Oscillator-(electrical),,,0,1,0
+st55,LO,1,7/19/21,19:58:43,19:59:24,19,59,24,41.81,Swing front panel: 35.1% open,,Local-Oscillator-(electrical),,,0,1,0
+st55,LO,1,7/19/21,19:58:43,20:00:22,20,0,22,99.83,Click on: 'Control Circuit',,Local-Oscillator-(electrical),,,0,1,0
+st55,LO,1,7/19/21,19:58:43,20:00:24,20,0,24,101.77,Cancel disconnect: 'Control Circuit',,Local-Oscillator-(electrical),,,0,1,0
+st55,LO,1,7/19/21,19:58:43,20:00:24,20,0,24,101.79,Move drawer: 0% open,Synchronizer,Local-Oscillator-(electrical),,,0,1,0
+st55,LO,1,7/19/21,19:58:43,20:00:35,20,0,35,112.66,Click on: 'Transmitter Antenna',,Local-Oscillator-(electrical),,,0,1,0
+st55,LO,1,7/19/21,19:58:43,20:00:37,20,0,37,114.34,Cancel disconnect: 'Transmitter Antenna',,Local-Oscillator-(electrical),,,0,1,0
+st55,LO,1,7/19/21,19:58:43,20:00:40,20,0,40,117.06,Move drawer: 99% open,Tracker,Local-Oscillator-(electrical),,,0,1,0
+st55,LO,1,7/19/21,19:58:43,20:00:53,20,0,53,129.89,Move drawer: 21.6% open,Tracker,Local-Oscillator-(electrical),,,0,1,0
+st55,LO,1,7/19/21,19:58:43,20:00:57,20,0,57,133.99,Move drawer: -2.2% open,Processor,Local-Oscillator-(electrical),,,0,1,0
+st55,LO,1,7/19/21,19:58:43,20:00:58,20,0,58,135.84,Move drawer: -7.7% open,Processor,Local-Oscillator-(electrical),,,0,1,0
+st55,LO,1,7/19/21,19:58:43,20:01:01,20,1,1,138.13,Move drawer: -0.8% open,Tracker,Local-Oscillator-(electrical),,,0,1,0
+st55,LO,1,7/19/21,19:58:43,20:01:02,20,1,2,138.91,Move drawer: 0% open,Tracker,Local-Oscillator-(electrical),,,0,1,0
+st55,LO,1,7/19/21,19:58:43,20:01:04,20,1,4,141.73,Move drawer: -1.1% open,Tracker,Local-Oscillator-(electrical),,,0,1,0
+st55,LO,1,7/19/21,19:58:43,20:01:10,20,1,10,147.39,Move drawer: 51.3% open,Processor,Local-Oscillator-(electrical),,,0,1,0
+st55,LO,1,7/19/21,19:58:43,20:01:17,20,1,17,154.15,Click on: 'Video Detector',,Local-Oscillator-(electrical),,,0,1,0
+st55,LO,1,7/19/21,19:58:43,20:01:19,20,1,19,156.11,Cancel disconnect: 'Video Detector',,Local-Oscillator-(electrical),,,0,1,0
+st55,LO,1,7/19/21,19:58:43,20:01:20,20,1,20,157.46,Click on: 'Control Circuit',,Local-Oscillator-(electrical),,,0,1,0
+st55,LO,1,7/19/21,19:58:43,20:01:24,20,1,24,161.03,Cancel disconnect: 'Control Circuit',,Local-Oscillator-(electrical),,,0,1,0
+st55,LO,1,7/19/21,19:58:43,20:01:24,20,1,24,161.04,Swing front panel: 100% open,,Local-Oscillator-(electrical),,,0,1,0
+st55,LO,1,7/19/21,19:58:43,20:01:26,20,1,26,163.08,Click on: 'Local Oscillator',,Local-Oscillator-(electrical),,,0,1,0
+st55,LO,1,7/19/21,19:58:43,20:01:28,20,1,28,165.31,Cancel disconnect: 'Local Oscillator',,Local-Oscillator-(electrical),,,0,1,0
+st55,LO,1,7/19/21,19:58:43,20:01:30,20,1,30,166.89,Click on: 'Control Circuit',,Local-Oscillator-(electrical),,,0,1,0
+st55,LO,1,7/19/21,19:58:43,20:01:32,20,1,32,168.88,Cancel disconnect: 'Control Circuit',,Local-Oscillator-(electrical),,,0,1,0
+st55,LO,1,7/19/21,19:58:43,20:01:33,20,1,33,170.35,Click on: 'Video Detector',,Local-Oscillator-(electrical),,,0,1,0
+st55,LO,1,7/19/21,19:58:43,20:01:35,20,1,35,172.31,Cancel disconnect: 'Video Detector',,Local-Oscillator-(electrical),,,0,1,0
+st55,LO,1,7/19/21,19:58:43,20:01:35,20,1,35,172.33,Swing front panel: 100% open,,Local-Oscillator-(electrical),,,0,1,0
+st55,LO,1,7/19/21,19:58:43,20:02:53,20,2,53,250.45,Click on: 'Control Circuit',,Local-Oscillator-(electrical),,,0,1,0
+st55,LO,1,7/19/21,19:58:43,20:02:56,20,2,56,252.92,Cancel disconnect: 'Control Circuit',,Local-Oscillator-(electrical),,,0,1,0
+st55,LO,1,7/19/21,19:58:43,20:03:11,20,3,11,268.44,Click on: 'Video Detector',,Local-Oscillator-(electrical),,,0,1,0
+st55,LO,1,7/19/21,19:58:43,20:03:16,20,3,16,273.17,Cancel disconnect: 'Video Detector',,Local-Oscillator-(electrical),,,0,1,0
+st55,LO,1,7/19/21,19:58:43,20:03:18,20,3,18,275.45,Click on: 'Local Oscillator',,Local-Oscillator-(electrical),,,0,1,0
+st55,LO,1,7/19/21,19:58:43,20:03:32,20,3,32,288.99,Disconnect LRU: 'Local Oscillator',,Local-Oscillator-(electrical),,,0,1,0
+st55,LO,1,7/19/21,19:58:43,20:03:32,20,3,32,289,Move drawer: 0% open,Synchronizer,Local-Oscillator-(electrical),,,0,1,0
+st55,LO,1,7/19/21,19:58:43,20:03:49,20,3,49,306.49,Click on: 'Duplexer Bypass',,Local-Oscillator-(electrical),,,0,1,0
+st55,LO,1,7/19/21,19:58:43,20:03:56,20,3,56,313.05,Cancel disconnect: 'Duplexer Bypass',,Local-Oscillator-(electrical),,,0,1,0
+st55,LO,1,7/19/21,19:58:43,20:03:57,20,3,57,314.64,Pick Up LRU: 'Local Oscillator',,Local-Oscillator-(electrical),,,0,1,0
+st55,LO,1,7/19/21,19:58:43,20:03:57,20,3,57,314.75,Drop LRU: 'Local Oscillator',,Local-Oscillator-(electrical),,,0,1,0
+st55,LO,1,7/19/21,19:58:43,20:04:01,20,4,1,318.52,Cancel connect: 'Local Oscillator',,Local-Oscillator-(electrical),,,0,1,0
+st55,LO,1,7/19/21,19:58:43,20:04:04,20,4,4,321.21,Pick Up LRU: 'Local Oscillator',,Local-Oscillator-(electrical),,,0,1,0
+st55,LO,1,7/19/21,19:58:43,20:04:04,20,4,4,321.32,Drop LRU: 'Local Oscillator',,Local-Oscillator-(electrical),,,0,1,0
+st55,LO,1,7/19/21,19:58:43,20:04:09,20,4,9,326.46,Connect LRU: 'Local Oscillator',,Local-Oscillator-(electrical),,,0,1,0
+st55,LO,1,7/19/21,19:58:43,20:04:12,20,4,12,328.89,Click on: 'Local Oscillator',,Local-Oscillator-(electrical),,,0,1,0
+st55,LO,1,7/19/21,19:58:43,20:04:18,20,4,18,335.34,Disconnect LRU: 'Local Oscillator',,Local-Oscillator-(electrical),,,0,1,0
+st55,LO,1,7/19/21,19:58:43,20:04:22,20,4,22,339.27,Connect LRU: 'Local Oscillator',,Local-Oscillator-(electrical),,,0,1,0
+st55,LO,1,7/19/21,19:58:43,20:04:24,20,4,24,341.81,Click on: 'Local Oscillator',,Local-Oscillator-(electrical),,,0,1,0
+st55,LO,1,7/19/21,19:58:43,20:04:26,20,4,26,343.71,Disconnect LRU: 'Local Oscillator',,Local-Oscillator-(electrical),,,0,1,0
+st55,LO,1,7/19/21,19:58:43,20:04:31,20,4,31,348.61,Connect LRU: 'Local Oscillator',,Local-Oscillator-(electrical),,,0,1,0
+st55,LO,1,7/19/21,19:58:43,20:04:39,20,4,39,356.32,Click on: 'IF Amplifier',,Local-Oscillator-(electrical),,,0,1,0
+st55,LO,1,7/19/21,19:58:43,20:04:41,20,4,41,358.74,Cancel disconnect: 'IF Amplifier',,Local-Oscillator-(electrical),,,0,1,0
+st55,LO,1,7/19/21,19:58:43,20:04:44,20,4,44,361.21,Click on: 'AFC Amplifier',,Local-Oscillator-(electrical),,,0,1,0
+st55,LO,1,7/19/21,19:58:43,20:04:46,20,4,46,363.21,Disconnect LRU: 'AFC Amplifier',,Local-Oscillator-(electrical),,,0,1,0
+st55,LO,1,7/19/21,19:58:43,20:04:47,20,4,47,364.74,Pick Up LRU: 'AFC Amplifier',,Local-Oscillator-(electrical),,,0,1,0
+st55,LO,1,7/19/21,19:58:43,20:04:47,20,4,47,364.82,Drop LRU: 'AFC Amplifier',,Local-Oscillator-(electrical),,,0,1,0
+st55,LO,1,7/19/21,19:58:43,20:04:49,20,4,49,366.32,Pick Up LRU: 'AFC Amplifier',,Local-Oscillator-(electrical),,,0,1,0
+st55,LO,1,7/19/21,19:58:43,20:04:49,20,4,49,366.44,Drop LRU: 'AFC Amplifier',,Local-Oscillator-(electrical),,,0,1,0
+st55,LO,1,7/19/21,19:58:43,20:04:51,20,4,51,368.24,Connect LRU: 'AFC Amplifier',,Local-Oscillator-(electrical),,,0,1,0
+st55,LO,1,7/19/21,19:58:43,20:04:59,20,4,59,376.23,Click on: 'Local Oscillator',,Local-Oscillator-(electrical),,,0,1,0
+st55,LO,1,7/19/21,19:58:43,20:05:43,20,5,43,420.23,Cancel disconnect: 'Local Oscillator',,Local-Oscillator-(electrical),,,0,1,0
+st55,LO,1,7/19/21,19:58:43,20:05:52,20,5,52,429.51,Move drawer: 51.3% open,Processor,Local-Oscillator-(electrical),,,0,1,0
+st55,LO,1,7/19/21,19:58:43,20:05:54,20,5,54,431.13,Click on: 'Video Detector',,Local-Oscillator-(electrical),,,0,1,0
+st55,LO,1,7/19/21,19:58:43,20:06:14,20,6,14,451.36,Cancel disconnect: 'Video Detector',,Local-Oscillator-(electrical),,,0,1,0
+st55,LO,1,7/19/21,19:58:43,20:06:21,20,6,21,458.66,Move drawer: -1.2% open,Processor,Local-Oscillator-(electrical),,,0,1,0
+st55,LO,1,7/19/21,19:58:43,20:06:26,20,6,26,462.95,Move drawer: 42.2% open,Indicator,Local-Oscillator-(electrical),,,0,1,0
+st55,LO,1,7/19/21,19:58:43,20:06:29,20,6,29,465.95,Move drawer: 77.2% open,Indicator,Local-Oscillator-(electrical),,,0,1,0
+st55,LO,1,7/19/21,19:58:43,20:06:30,20,6,30,467.23,Click on: 'Cathode Ray Tube',,Local-Oscillator-(electrical),,,0,1,0
+st55,LO,1,7/19/21,19:58:43,20:06:33,20,6,33,470.38,Disconnect LRU: 'Cathode Ray Tube',,Local-Oscillator-(electrical),,,0,1,0
+st55,LO,1,7/19/21,19:58:43,20:06:35,20,6,35,472.08,Pick Up LRU: 'Cathode Ray Tube',,Local-Oscillator-(electrical),,,0,1,0
+st55,LO,1,7/19/21,19:58:43,20:06:37,20,6,37,474.63,Drop LRU: 'Cathode Ray Tube',,Local-Oscillator-(electrical),,,0,1,0
+st55,LO,1,7/19/21,19:58:43,20:06:41,20,6,41,477.96,Leave Server Box Table,,Local-Oscillator-(electrical),,,0,1,0
+st55,LO,1,7/19/21,19:58:43,20:06:41,20,6,41,478.5,Move to Spare Parts Table,,Local-Oscillator-(electrical),,,0,1,0
+st55,LO,1,7/19/21,19:58:43,20:06:44,20,6,44,481.18,Pick Up LRU: 'Sine Wave Oscillator [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+st55,LO,1,7/19/21,19:58:43,20:06:44,20,6,44,481.28,Drop LRU: 'Sine Wave Oscillator [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+st55,LO,1,7/19/21,19:58:43,20:06:45,20,6,45,482.31,Pick Up LRU: 'Sine Wave Oscillator [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+st55,LO,1,7/19/21,19:58:43,20:06:45,20,6,45,482.41,Drop LRU: 'Sine Wave Oscillator [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+st55,LO,1,7/19/21,19:58:43,20:07:12,20,7,12,509.78,Pick Up LRU: 'Sweep Generator Circuit [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+st55,LO,1,7/19/21,19:58:43,20:07:12,20,7,12,509.87,Drop LRU: 'Sweep Generator Circuit [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+st55,LO,1,7/19/21,19:58:43,20:07:13,20,7,13,510.5,Pick Up LRU: 'Sweep Generator Circuit [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+st55,LO,1,7/19/21,19:58:43,20:07:22,20,7,22,519.13,Drop LRU: 'Sweep Generator Circuit [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+st55,LO,1,7/19/21,19:58:43,20:07:43,20,7,43,540.17,Pick Up LRU: 'Transmitter Waveguide [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+st55,LO,1,7/19/21,19:58:43,20:07:47,20,7,47,544.57,Drop LRU: 'Transmitter Waveguide [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+st55,LO,1,7/19/21,19:58:43,20:07:54,20,7,54,551.63,Pick Up LRU: 'RC Differentiator [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+st55,LO,1,7/19/21,19:58:43,20:07:54,20,7,54,551.73,Drop LRU: 'RC Differentiator [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+st55,LO,1,7/19/21,19:58:43,20:07:55,20,7,55,552.42,Pick Up LRU: 'RC Differentiator [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+st55,LO,1,7/19/21,19:58:43,20:07:56,20,7,56,553.2,Drop LRU: 'RC Differentiator [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+st55,LO,1,7/19/21,19:58:43,20:08:05,20,8,5,562.44,Pick Up LRU: 'Sweep Generator Circuit [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+st55,LO,1,7/19/21,19:58:43,20:08:09,20,8,9,566.42,Drop LRU: 'Sweep Generator Circuit [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+st55,LO,1,7/19/21,19:58:43,20:08:23,20,8,23,580.2,Pick Up LRU: 'Receiver Waveguide [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+st55,LO,1,7/19/21,19:58:43,20:08:26,20,8,26,583.54,Drop LRU: 'Receiver Waveguide [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+st55,LO,1,7/19/21,19:58:43,20:08:28,20,8,28,584.94,Pick Up LRU: 'Transmitter Waveguide [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+st55,LO,1,7/19/21,19:58:43,20:08:30,20,8,30,587.57,Drop LRU: 'Transmitter Waveguide [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+st55,LO,1,7/19/21,19:58:43,20:08:33,20,8,33,589.87,Pick Up LRU: 'Transmitter Transmission Line [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+st55,LO,1,7/19/21,19:58:43,20:08:36,20,8,36,592.89,Drop LRU: 'Transmitter Transmission Line [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+st55,LO,1,7/19/21,19:58:43,20:08:39,20,8,39,596.84,Pick Up LRU: 'RC Differentiator [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+st55,LO,1,7/19/21,19:58:43,20:08:41,20,8,41,598.75,Drop LRU: 'RC Differentiator [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+st55,LO,1,7/19/21,19:58:43,20:08:43,20,8,43,600.5,Pick Up LRU: 'Local Oscillator [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+st55,LO,1,7/19/21,19:58:43,20:08:45,20,8,45,602.65,Drop LRU: 'Local Oscillator [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+st55,LO,1,7/19/21,19:58:43,20:08:47,20,8,47,604.44,Leave Spare Parts Table,,Local-Oscillator-(electrical),,,0,1,0
+st55,LO,1,7/19/21,19:58:43,20:08:48,20,8,48,605.8,Move to Spare Parts Table,,Local-Oscillator-(electrical),,,0,1,0
+st55,LO,1,7/19/21,19:58:43,20:08:50,20,8,50,607.79,Pick Up LRU: 'Local Oscillator [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+st55,LO,1,7/19/21,19:58:43,20:08:55,20,8,55,611.89,Drop LRU: 'Local Oscillator [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+st55,LO,1,7/19/21,19:58:43,20:08:55,20,8,55,612.24,Leave Spare Parts Table,,Local-Oscillator-(electrical),,,0,1,0
+st55,LO,1,7/19/21,19:58:43,20:09:00,20,9,0,617.37,Pick Up LRU: 'Receiver Transmission Line [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+st55,LO,1,7/19/21,19:58:43,20:09:01,20,9,1,618.81,Drop LRU: 'Receiver Transmission Line [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+st55,LO,1,7/19/21,19:58:43,20:09:04,20,9,4,621.07,Pick Up LRU: 'Receiver Transmission Line [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+st55,LO,1,7/19/21,19:58:43,20:09:04,20,9,4,621.19,Drop LRU: 'Receiver Transmission Line [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+st55,LO,1,7/19/21,19:58:43,20:09:04,20,9,4,621.84,Pick Up LRU: 'Receiver Transmission Line [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+st55,LO,1,7/19/21,19:58:43,20:09:05,20,9,5,622.61,Drop LRU: 'Receiver Transmission Line [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+st55,LO,1,7/19/21,19:58:43,20:09:07,20,9,7,624.76,Pick Up LRU: 'Receiver Transmission Line [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+st55,LO,1,7/19/21,19:58:43,20:09:11,20,9,11,627.92,Drop LRU: 'Receiver Transmission Line [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+st55,LO,1,7/19/21,19:58:43,20:09:13,20,9,13,629.94,Move to Server Box Table,,Local-Oscillator-(electrical),,,0,1,0
+st55,LO,1,7/19/21,19:58:43,20:11:17,20,11,17,754.06,Leave Server Box Table,,Local-Oscillator-(electrical),,,0,1,0
+st55,LO,1,7/19/21,19:58:43,20:11:21,20,11,21,758.16,Pick Up LRU: 'Receiver Transmission Line [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+st55,LO,1,7/19/21,19:58:43,20:11:21,20,11,21,758.31,Drop LRU: 'Receiver Transmission Line [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+st55,LO,1,7/19/21,19:58:43,20:11:33,20,11,33,770.08,Move to Server Box Table,,Local-Oscillator-(electrical),,,0,1,0
+st55,LO,1,7/19/21,19:58:43,20:11:38,20,11,38,775.17,Click on: 'Duplexer',,Local-Oscillator-(electrical),,,0,1,0
+st55,LO,1,7/19/21,19:58:43,20:11:42,20,11,42,779.78,Cancel disconnect: 'Duplexer',,Local-Oscillator-(electrical),,,0,1,0
+st55,LO,1,7/19/21,19:58:43,20:11:42,20,11,42,779.8,Move drawer: 77.2% open,Indicator,Local-Oscillator-(electrical),,,0,1,0
+st55,LO,1,7/19/21,19:58:43,20:11:46,20,11,46,783.75,Move drawer: 95.4% open,Indicator,Local-Oscillator-(electrical),,,0,1,0
+st55,LO,1,7/19/21,19:58:43,20:11:49,20,11,49,786.48,Move drawer: -4.7% open,Indicator,Local-Oscillator-(electrical),,,0,1,0
+st55,LO,1,7/19/21,19:58:43,20:11:52,20,11,52,789.47,Move drawer: 97.7% open,Processor,Local-Oscillator-(electrical),,,0,1,0
+st55,LO,1,7/19/21,19:58:43,20:11:53,20,11,53,790.72,Click on: 'Control Circuit',,Local-Oscillator-(electrical),,,0,1,0
+st55,LO,1,7/19/21,19:58:43,20:11:55,20,11,55,792.44,Cancel disconnect: 'Control Circuit',,Local-Oscillator-(electrical),,,0,1,0
+st55,LO,1,7/19/21,19:58:43,20:12:02,20,12,2,799.58,Click on: 'Local Oscillator',,Local-Oscillator-(electrical),,,0,1,0
+st55,LO,1,7/19/21,19:58:43,20:12:04,20,12,4,801.87,Disconnect LRU: 'Local Oscillator',,Local-Oscillator-(electrical),,,0,1,0
+st55,LO,1,7/19/21,19:58:43,20:12:09,20,12,9,805.9,Connect LRU: 'Local Oscillator',,Local-Oscillator-(electrical),,,0,1,0
+st55,LO,1,7/19/21,19:58:43,20:12:10,20,12,10,807.79,Click on: 'Local Oscillator',,Local-Oscillator-(electrical),,,0,1,0
+st55,LO,1,7/19/21,19:58:43,20:12:12,20,12,12,809,Disconnect LRU: 'Local Oscillator',,Local-Oscillator-(electrical),,,0,1,0
+st55,LO,1,7/19/21,19:58:43,20:12:13,20,12,13,810.24,Cancel connect: 'Local Oscillator',,Local-Oscillator-(electrical),,,0,1,0
+st55,LO,1,7/19/21,19:58:43,20:12:14,20,12,14,811.2,Pick Up LRU: 'Local Oscillator',,Local-Oscillator-(electrical),,,0,1,0
+st55,LO,1,7/19/21,19:58:43,20:12:18,20,12,18,815.08,Drop LRU: 'Local Oscillator',,Local-Oscillator-(electrical),,,0,1,0
+st55,LO,1,7/19/21,19:58:43,20:12:20,20,12,20,817.13,Cancel connect: 'Local Oscillator',,Local-Oscillator-(electrical),,,0,1,0
+st55,LO,1,7/19/21,19:58:43,20:13:23,20,13,23,880.51,Click on: 'AFC Amplifier',,Local-Oscillator-(electrical),,,0,1,0
+st55,LO,1,7/19/21,19:58:43,20:13:30,20,13,30,886.87,Cancel disconnect: 'AFC Amplifier',,Local-Oscillator-(electrical),,,0,1,0
+st55,LO,1,7/19/21,19:58:43,20:13:31,20,13,31,888.56,Move drawer: 95.4% open,Processor,Local-Oscillator-(electrical),,,0,1,0
+st55,LO,1,7/19/21,19:58:43,20:14:09,20,14,9,926.28,Submit?,,Local-Oscillator-(electrical),,,0,1,0
+st55,LO,1,7/19/21,19:58:43,20:14:11,20,14,11,928.53,Submit Confirm,,Local-Oscillator-(electrical),,,0,1,0
+st55,LO,2,7/19/21,20:14:14,20:14:14,20,14,14,0,Make electrical flaw: Receiver Waveguide,,Receiver-Waveguide-(electrical),,,0,1,0
+st55,LO,2,7/19/21,20:14:14,20:14:14,20,14,14,0,Start (High Fidelity Sim),,Receiver-Waveguide-(electrical),,,0,1,0
+st55,LO,2,7/19/21,20:14:14,20:14:14,20,14,14,0.03,Leave Server Box Table,,Receiver-Waveguide-(electrical),,,0,1,0

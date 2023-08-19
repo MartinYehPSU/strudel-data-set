@@ -1,0 +1,57 @@
+User ID,Quiz Result ID,Taken On,Score,Question 1 Body,Question 1 Answer,Question 1 Correct
+770,16334,2021-03-31 19:32:29 UTC,0,What is the name of yellow circled component?,Sweep Generator Circuit,no
+771,16482,2021-04-02 19:11:40 UTC,1,What is the name of yellow circled component?,RF Amplifier 3,yes
+772,16675,2021-04-09 16:49:03 UTC,0,What is the name of yellow circled component?,RF Receiver 1,no
+773,16721,2021-04-10 00:39:44 UTC,1,What is the name of yellow circled component?,RF amplifier 3,yes
+776,16966,2021-04-16 21:10:22 UTC,0,What is the name of yellow circled component?,,no
+784,17140,2021-04-26 23:24:44 UTC,0,What is the name of yellow circled component?,RF Amplifier 1,no
+779,17162,2021-04-27 01:42:48 UTC,0,What is the name of yellow circled component?,amplifier,no
+784,17187,2021-04-27 16:49:12 UTC,1,What is the name of yellow circled component?,RF amplifier 3,yes
+780,17209,2021-04-28 18:22:54 UTC,0,What is the name of yellow circled component?,amp 1,no
+787,17233,2021-04-28 20:40:37 UTC,1,What is the name of yellow circled component?,RF Amplifier 3,yes
+790,17257,2021-04-28 21:23:45 UTC,0,What is the name of yellow circled component?,Amplifier 3,no
+786,17279,2021-04-29 19:20:31 UTC,0,What is the name of yellow circled component?,AF amplifier,no
+789,17321,2021-04-30 19:25:12 UTC,0,What is the name of yellow circled component?,RF transmitter 1,no
+781,17343,2021-05-01 19:26:58 UTC,0,What is the name of yellow circled component?,Amp 3,no
+783,17365,2021-05-02 21:25:45 UTC,1,What is the name of yellow circled component?,Rf amplifier 3,yes
+793,17387,2021-05-05 18:30:12 UTC,1,What is the name of yellow circled component?,RF amplifier 3,yes
+800,17409,2021-05-06 00:34:17 UTC,0,What is the name of yellow circled component?,Amplifier 3,no
+795,17431,2021-05-06 17:25:00 UTC,0,What is the name of yellow circled component?,amplifier 3,no
+799,17452,2021-05-07 22:48:17 UTC,0,What is the name of yellow circled component?,Amplifier 3,no
+802,17474,2021-05-09 15:13:15 UTC,0,What is the name of yellow circled component?,Stage 3,no
+802,17475,2021-05-09 15:13:43 UTC,0,What is the name of yellow circled component?,RF 3,no
+803,17497,2021-05-10 16:16:47 UTC,0,What is the name of yellow circled component?,AF amplifier 3,no
+804,17521,2021-05-11 01:23:24 UTC,0,What is the name of yellow circled component?,RF3,no
+796,17547,2021-05-11 21:24:26 UTC,1,What is the name of yellow circled component?,RF Amplifier 3,yes
+807,17573,2021-05-13 19:23:02 UTC,0,What is the name of yellow circled component?,,no
+808,17601,2021-05-14 16:07:41 UTC,1,What is the name of yellow circled component?,RF Amplifier 3,yes
+809,17623,2021-05-14 22:53:15 UTC,1,What is the name of yellow circled component?,RF Amplifier 3,yes
+811,17645,2021-05-17 16:30:54 UTC,0,What is the name of yellow circled component?,R AMP 3,no
+794,17667,2021-05-20 23:19:17 UTC,0,What is the name of yellow circled component?,RF amplitude 1,no
+797,17689,2021-05-21 16:21:49 UTC,1,What is the name of yellow circled component?,RF Amplifier 3,yes
+816,17711,2021-05-21 20:59:30 UTC,1,What is the name of yellow circled component?,RF Amplifier 3,yes
+810,17733,2021-05-22 17:53:34 UTC,0,What is the name of yellow circled component?,Amplifier 3,no
+812,17755,2021-05-24 20:21:58 UTC,0,What is the name of yellow circled component?,RF amp 3,no
+817,17777,2021-05-26 15:21:22 UTC,0,What is the name of yellow circled component?,amplifyer 3,no
+814,17799,2021-05-27 16:32:03 UTC,0,What is the name of yellow circled component?,RF 3,no
+820,17865,2021-05-28 23:44:01 UTC,0,What is the name of yellow circled component?,Rf amplifer 3,no
+821,17895,2021-05-29 16:30:14 UTC,0,What is the name of yellow circled component?,Amp Stage 1,no
+822,17917,2021-06-03 17:49:38 UTC,1,What is the name of yellow circled component?,RF amplifier 3,yes
+823,17939,2021-06-05 01:24:58 UTC,0,What is the name of yellow circled component?,inductor,no
+825,17961,2021-06-05 22:22:28 UTC,0,What is the name of yellow circled component?,RM Modulator 3,no
+826,17983,2021-06-07 16:19:46 UTC,0,What is the name of yellow circled component?,RF Amp 3,no
+828,18005,2021-06-15 15:22:21 UTC,0,What is the name of yellow circled component?,RF amplifier,no
+828,18006,2021-06-15 15:22:40 UTC,0,What is the name of yellow circled component?,RF amplifier,no
+813,18030,2021-06-15 18:17:32 UTC,1,What is the name of yellow circled component?,RF Amplifier 3,yes
+829,18052,2021-06-15 19:22:05 UTC,0,What is the name of yellow circled component?,RF,no
+830,18074,2021-06-21 19:18:00 UTC,1,What is the name of yellow circled component?,RF Amplifier 3,yes
+808,18096,2021-07-01 15:15:49 UTC,0,What is the name of yellow circled component?,Amp 1,no
+832,18118,2021-07-01 18:23:02 UTC,0,What is the name of yellow circled component?,Rf2,no
+834,18141,2021-07-17 00:22:34 UTC,1,What is the name of yellow circled component?,RF amplifier 3,yes
+833,18166,2021-07-19 19:51:19 UTC,1,What is the name of yellow circled component?,RF Amplifier 3,yes
+837,18189,2021-09-14 22:03:18 UTC,0,What is the name of yellow circled component?,RF Amp 1,no
+838,18215,2021-09-15 20:26:03 UTC,1,What is the name of yellow circled component?,RF Amplifier 3,yes
+839,18247,2021-10-07 17:31:16 UTC,0,What is the name of yellow circled component?,RFC Mod 3,no
+852,18269,2021-10-15 01:38:15 UTC,0,What is the name of yellow circled component?,Modulator 3,no
+853,18291,2021-10-15 17:41:09 UTC,0,What is the name of yellow circled component?,RF Amplifier,no
+869,20134,2022-04-05 21:19:56 UTC,0,What is the name of yellow circled component?,,no

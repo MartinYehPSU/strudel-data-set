@@ -1,0 +1,230 @@
+subject,subject_group,round,round_start_date_utc,round_start_time_utc,current_time_utc,current_hour24,current_minute,current_second,current_elapsed_seconds,event,ui_tab,active_faults,fixed_faults,fixed_nonfaults,ReplacedComponents,FaultsRemaining,ReplacedNonFaults
+st58,HI,1,9/14/21,22:00:38,22:00:39,22,0,39,0.07,Make electrical flaw: Local Oscillator,,Local-Oscillator-(electrical),,,0,1,0
+st58,HI,1,9/14/21,22:00:38,22:00:39,22,0,39,0.08,Start (High Fidelity Sim),,Local-Oscillator-(electrical),,,0,1,0
+st58,HI,1,9/14/21,22:00:38,22:01:15,22,1,15,36.13,Swing front panel: 98.3% open,,Local-Oscillator-(electrical),,,0,1,0
+st58,HI,1,9/14/21,22:00:38,22:01:16,22,1,16,37.05,Move to Server Box Table,,Local-Oscillator-(electrical),,,0,1,0
+st58,HI,1,9/14/21,22:00:38,22:01:29,22,1,29,50.45,Click on: 'Frequency Synthesizer',,Local-Oscillator-(electrical),,,0,1,0
+st58,HI,1,9/14/21,22:00:38,22:01:30,22,1,30,52,Cancel disconnect: 'Frequency Synthesizer',,Local-Oscillator-(electrical),,,0,1,0
+st58,HI,1,9/14/21,22:00:38,22:01:45,22,1,45,66.32,Move drawer: 82.8% open,Synchronizer,Local-Oscillator-(electrical),,,0,1,0
+st58,HI,1,9/14/21,22:00:38,22:01:53,22,1,53,74.21,Move drawer: -3% open,Synchronizer,Local-Oscillator-(electrical),,,0,1,0
+st58,HI,1,9/14/21,22:00:38,22:01:56,22,1,56,77.12,Move drawer: 82% open,Transmitter,Local-Oscillator-(electrical),,,0,1,0
+st58,HI,1,9/14/21,22:00:38,22:02:01,22,2,1,82.73,Move drawer: -2.7% open,Synchronizer,Local-Oscillator-(electrical),,,0,1,0
+st58,HI,1,9/14/21,22:00:38,22:02:04,22,2,4,85.12,Move drawer: -4.9% open,Transmitter,Local-Oscillator-(electrical),,,0,1,0
+st58,HI,1,9/14/21,22:00:38,22:02:09,22,2,9,90.49,Move drawer: 33.9% open,Tracker,Local-Oscillator-(electrical),,,0,1,0
+st58,HI,1,9/14/21,22:00:38,22:02:22,22,2,22,103.27,Move drawer: 18.2% open,Indicator,Local-Oscillator-(electrical),,,0,1,0
+st58,HI,1,9/14/21,22:00:38,22:02:24,22,2,24,105.71,Move drawer: 74.5% open,Tracker,Local-Oscillator-(electrical),,,0,1,0
+st58,HI,1,9/14/21,22:00:38,22:02:46,22,2,46,127.59,Leave Server Box Table,,Local-Oscillator-(electrical),,,0,1,0
+st58,HI,1,9/14/21,22:00:38,22:02:46,22,2,46,127.84,Move to Spare Parts Table,,Local-Oscillator-(electrical),,,0,1,0
+st58,HI,1,9/14/21,22:00:38,22:03:12,22,3,12,153.22,Pick Up LRU: 'Video Detector [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+st58,HI,1,9/14/21,22:00:38,22:03:14,22,3,14,155.66,Drop LRU: 'Video Detector [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+st58,HI,1,9/14/21,22:00:38,22:03:15,22,3,15,156.61,Pick Up LRU: 'Video Detector [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+st58,HI,1,9/14/21,22:00:38,22:03:17,22,3,17,158.34,Leave Spare Parts Table,,Local-Oscillator-(electrical),,,0,1,0
+st58,HI,1,9/14/21,22:00:38,22:03:19,22,3,19,160.25,Move to Server Box Table,,Local-Oscillator-(electrical),,,0,1,0
+st58,HI,1,9/14/21,22:00:38,22:03:22,22,3,22,163.5,Drop LRU: 'Video Detector [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+st58,HI,1,9/14/21,22:00:38,22:03:28,22,3,28,169.86,Leave Server Box Table,,Local-Oscillator-(electrical),,,0,1,0
+st58,HI,1,9/14/21,22:00:38,22:03:33,22,3,33,174.06,Pick Up LRU: 'Video Detector [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+st58,HI,1,9/14/21,22:00:38,22:03:38,22,3,38,179.44,Move to Server Box Table,,Local-Oscillator-(electrical),,,0,1,0
+st58,HI,1,9/14/21,22:00:38,22:03:42,22,3,42,183.47,Drop LRU: 'Video Detector [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+st58,HI,1,9/14/21,22:00:38,22:03:43,22,3,43,184.61,Leave Server Box Table,,Local-Oscillator-(electrical),,,0,1,0
+st58,HI,1,9/14/21,22:00:38,22:03:48,22,3,48,189.59,Pick Up LRU: 'Video Detector [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+st58,HI,1,9/14/21,22:00:38,22:04:00,22,4,0,201.69,Move to Server Box Table,,Local-Oscillator-(electrical),,,0,1,0
+st58,HI,1,9/14/21,22:00:38,22:04:02,22,4,2,203.1,Leave Server Box Table,,Local-Oscillator-(electrical),,,0,1,0
+st58,HI,1,9/14/21,22:00:38,22:04:38,22,4,38,239.07,Move to Server Box Table,,Local-Oscillator-(electrical),,,0,1,0
+st58,HI,1,9/14/21,22:00:38,22:04:39,22,4,39,240.19,Drop LRU: 'Video Detector [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+st58,HI,1,9/14/21,22:00:38,22:05:41,22,5,41,302.54,Move drawer: -3% open,Tracker,Local-Oscillator-(electrical),,,0,1,0
+st58,HI,1,9/14/21,22:00:38,22:05:45,22,5,45,306.49,Move drawer: 87.1% open,Processor,Local-Oscillator-(electrical),,,0,1,0
+st58,HI,1,9/14/21,22:00:38,22:05:54,22,5,54,315.61,Move drawer: -4.5% open,Processor,Local-Oscillator-(electrical),,,0,1,0
+st58,HI,1,9/14/21,22:00:38,22:06:25,22,6,25,346.75,Pick Up LRU: 'Video Detector [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+st58,HI,1,9/14/21,22:00:38,22:06:27,22,6,27,348.16,Drop LRU: 'Video Detector [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+st58,HI,1,9/14/21,22:00:38,22:06:34,22,6,34,355.6,Move drawer: 98.2% open,Synchronizer,Local-Oscillator-(electrical),,,0,1,0
+st58,HI,1,9/14/21,22:00:38,22:06:36,22,6,36,357.65,Move drawer: -4.4% open,Synchronizer,Local-Oscillator-(electrical),,,0,1,0
+st58,HI,1,9/14/21,22:00:38,22:06:40,22,6,40,361.1,Move drawer: 92.9% open,Transmitter,Local-Oscillator-(electrical),,,0,1,0
+st58,HI,1,9/14/21,22:00:38,22:06:46,22,6,46,367.17,Move drawer: -2.5% open,Transmitter,Local-Oscillator-(electrical),,,0,1,0
+st58,HI,1,9/14/21,22:00:38,22:06:48,22,6,48,369.33,Move drawer: 80.5% open,Tracker,Local-Oscillator-(electrical),,,0,1,0
+st58,HI,1,9/14/21,22:00:38,22:06:52,22,6,52,373.74,Move drawer: -6.9% open,Tracker,Local-Oscillator-(electrical),,,0,1,0
+st58,HI,1,9/14/21,22:00:38,22:06:55,22,6,55,376.75,Move drawer: 68% open,Processor,Local-Oscillator-(electrical),,,0,1,0
+st58,HI,1,9/14/21,22:00:38,22:07:00,22,7,0,381.73,Move drawer: 68.1% open,Processor,Local-Oscillator-(electrical),,,0,1,0
+st58,HI,1,9/14/21,22:00:38,22:07:02,22,7,2,383.48,Click on: 'AFC Mixer',,Local-Oscillator-(electrical),,,0,1,0
+st58,HI,1,9/14/21,22:00:38,22:07:21,22,7,21,402.34,Disconnect LRU: 'AFC Mixer',,Local-Oscillator-(electrical),,,0,1,0
+st58,HI,1,9/14/21,22:00:38,22:07:35,22,7,35,416.88,Move drawer: 36.2% open,Processor,Local-Oscillator-(electrical),,,0,1,0
+st58,HI,1,9/14/21,22:00:38,22:07:36,22,7,36,417.74,Pick Up LRU: 'AFC Mixer',,Local-Oscillator-(electrical),,,0,1,0
+st58,HI,1,9/14/21,22:00:38,22:07:38,22,7,38,419.28,Drop LRU: 'AFC Mixer',,Local-Oscillator-(electrical),,,0,1,0
+st58,HI,1,9/14/21,22:00:38,22:07:39,22,7,39,420.13,Pick Up LRU: 'AFC Mixer',,Local-Oscillator-(electrical),,,0,1,0
+st58,HI,1,9/14/21,22:00:38,22:07:47,22,7,47,428.67,Drop LRU: 'AFC Mixer',,Local-Oscillator-(electrical),,,0,1,0
+st58,HI,1,9/14/21,22:00:38,22:07:50,22,7,50,431.12,Move drawer: 68.9% open,Processor,Local-Oscillator-(electrical),,,0,1,0
+st58,HI,1,9/14/21,22:00:38,22:07:51,22,7,51,432.47,Pick Up LRU: 'AFC Mixer',,Local-Oscillator-(electrical),,,0,1,0
+st58,HI,1,9/14/21,22:00:38,22:07:54,22,7,54,435.79,Drop LRU: 'AFC Mixer',,Local-Oscillator-(electrical),,,0,1,0
+st58,HI,1,9/14/21,22:00:38,22:07:57,22,7,57,438.27,Pick Up LRU: 'AFC Mixer',,Local-Oscillator-(electrical),,,0,1,0
+st58,HI,1,9/14/21,22:00:38,22:08:02,22,8,2,443.25,Drop LRU: 'AFC Mixer',,Local-Oscillator-(electrical),,,0,1,0
+st58,HI,1,9/14/21,22:00:38,22:08:10,22,8,10,451.48,Pick Up LRU: 'Video Detector [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+st58,HI,1,9/14/21,22:00:38,22:08:18,22,8,18,459.74,Attempt to reconnect mismatched LRU: 'Video Detector [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+st58,HI,1,9/14/21,22:00:38,22:08:19,22,8,19,460.74,Drop LRU: 'Video Detector [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+st58,HI,1,9/14/21,22:00:38,22:08:22,22,8,22,463.39,Pick Up LRU: 'Video Detector [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+st58,HI,1,9/14/21,22:00:38,22:08:24,22,8,24,465.22,Attempt to reconnect mismatched LRU: 'Video Detector [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+st58,HI,1,9/14/21,22:00:38,22:08:25,22,8,25,466.49,Drop LRU: 'Video Detector [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+st58,HI,1,9/14/21,22:00:38,22:08:25,22,8,25,467,Pick Up LRU: 'Video Detector [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+st58,HI,1,9/14/21,22:00:38,22:08:26,22,8,26,467.12,Drop LRU: 'Video Detector [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+st58,HI,1,9/14/21,22:00:38,22:08:26,22,8,26,467.26,Attempt to reconnect mismatched LRU: 'Video Detector [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+st58,HI,1,9/14/21,22:00:38,22:08:28,22,8,28,469.9,Pick Up LRU: 'Video Detector [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+st58,HI,1,9/14/21,22:00:38,22:08:29,22,8,29,470.94,Drop LRU: 'Video Detector [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+st58,HI,1,9/14/21,22:00:38,22:08:30,22,8,30,471.03,Attempt to reconnect mismatched LRU: 'Video Detector [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+st58,HI,1,9/14/21,22:00:38,22:08:31,22,8,31,472.98,Move drawer: 65.2% open,Processor,Local-Oscillator-(electrical),,,0,1,0
+st58,HI,1,9/14/21,22:00:38,22:08:32,22,8,32,473.54,Pick Up LRU: 'Video Detector [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+st58,HI,1,9/14/21,22:00:38,22:08:33,22,8,33,474.17,Drop LRU: 'Video Detector [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+st58,HI,1,9/14/21,22:00:38,22:08:33,22,8,33,474.26,Attempt to reconnect mismatched LRU: 'Video Detector [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+st58,HI,1,9/14/21,22:00:38,22:08:35,22,8,35,476.72,Move drawer: 80.1% open,Processor,Local-Oscillator-(electrical),,,0,1,0
+st58,HI,1,9/14/21,22:00:38,22:08:36,22,8,36,477.72,Pick Up LRU: 'Video Detector [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+st58,HI,1,9/14/21,22:00:38,22:08:41,22,8,41,482.41,Drop LRU: 'Video Detector [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+st58,HI,1,9/14/21,22:00:38,22:08:41,22,8,41,482.71,Pick Up LRU: 'Video Detector [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+st58,HI,1,9/14/21,22:00:38,22:08:45,22,8,45,486.76,Attempt to reconnect mismatched LRU: 'Video Detector [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+st58,HI,1,9/14/21,22:00:38,22:08:46,22,8,46,487.98,Drop LRU: 'Video Detector [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+st58,HI,1,9/14/21,22:00:38,22:08:47,22,8,47,488.11,Pick Up LRU: 'Video Detector [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+st58,HI,1,9/14/21,22:00:38,22:08:48,22,8,48,489.25,Attempt to reconnect mismatched LRU: 'Video Detector [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+st58,HI,1,9/14/21,22:00:38,22:08:48,22,8,48,489.41,Attempt to reconnect mismatched LRU: 'Video Detector [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+st58,HI,1,9/14/21,22:00:38,22:08:48,22,8,48,489.96,Drop LRU: 'Video Detector [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+st58,HI,1,9/14/21,22:00:38,22:08:51,22,8,51,492.43,Leave Server Box Table,,Local-Oscillator-(electrical),,,0,1,0
+st58,HI,1,9/14/21,22:00:38,22:08:52,22,8,52,493.08,Move to Spare Parts Table,,Local-Oscillator-(electrical),,,0,1,0
+st58,HI,1,9/14/21,22:00:38,22:08:56,22,8,56,497.29,Leave Spare Parts Table,,Local-Oscillator-(electrical),,,0,1,0
+st58,HI,1,9/14/21,22:00:38,22:08:56,22,8,56,497.92,Move to Spare Parts Table,,Local-Oscillator-(electrical),,,0,1,0
+st58,HI,1,9/14/21,22:00:38,22:09:08,22,9,8,509.22,Leave Spare Parts Table,,Local-Oscillator-(electrical),,,0,1,0
+st58,HI,1,9/14/21,22:00:38,22:09:09,22,9,9,510.26,Move to Server Box Table,,Local-Oscillator-(electrical),,,0,1,0
+st58,HI,1,9/14/21,22:00:38,22:09:16,22,9,16,517.4,Move drawer: -5% open,Processor,Local-Oscillator-(electrical),,,0,1,0
+st58,HI,1,9/14/21,22:00:38,22:09:17,22,9,17,518.38,Pick Up LRU: 'Video Detector [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+st58,HI,1,9/14/21,22:00:38,22:09:19,22,9,19,520.31,Drop LRU: 'Video Detector [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+st58,HI,1,9/14/21,22:00:38,22:09:22,22,9,22,523.44,Move drawer: 75% open,Indicator,Local-Oscillator-(electrical),,,0,1,0
+st58,HI,1,9/14/21,22:00:38,22:09:26,22,9,26,527.46,Leave Server Box Table,,Local-Oscillator-(electrical),,,0,1,0
+st58,HI,1,9/14/21,22:00:38,22:09:27,22,9,27,528.66,Move to Spare Parts Table,,Local-Oscillator-(electrical),,,0,1,0
+st58,HI,1,9/14/21,22:00:38,22:09:39,22,9,39,540.03,Pick Up LRU: 'Low Noise RF Amplifier [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+st58,HI,1,9/14/21,22:00:38,22:09:40,22,9,40,541.87,Leave Spare Parts Table,,Local-Oscillator-(electrical),,,0,1,0
+st58,HI,1,9/14/21,22:00:38,22:09:42,22,9,42,543.02,Move to Server Box Table,,Local-Oscillator-(electrical),,,0,1,0
+st58,HI,1,9/14/21,22:00:38,22:09:47,22,9,47,548.55,Drop LRU: 'Low Noise RF Amplifier [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+st58,HI,1,9/14/21,22:00:38,22:10:00,22,10,0,561.67,Leave Server Box Table,,Local-Oscillator-(electrical),,,0,1,0
+st58,HI,1,9/14/21,22:00:38,22:10:05,22,10,5,566.03,Pick Up LRU: 'Low Noise RF Amplifier [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+st58,HI,1,9/14/21,22:00:38,22:10:11,22,10,11,572.12,Move to Server Box Table,,Local-Oscillator-(electrical),,,0,1,0
+st58,HI,1,9/14/21,22:00:38,22:10:13,22,10,13,574.75,Leave Server Box Table,,Local-Oscillator-(electrical),,,0,1,0
+st58,HI,1,9/14/21,22:00:38,22:10:14,22,10,14,575.08,Drop LRU: 'Low Noise RF Amplifier [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+st58,HI,1,9/14/21,22:00:38,22:10:31,22,10,31,592.15,Pick Up LRU: 'Low Noise RF Amplifier [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+st58,HI,1,9/14/21,22:00:38,22:10:36,22,10,36,597.84,Drop LRU: 'Low Noise RF Amplifier [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+st58,HI,1,9/14/21,22:00:38,22:10:40,22,10,40,601.67,Move to Server Box Table,,Local-Oscillator-(electrical),,,0,1,0
+st58,HI,1,9/14/21,22:00:38,22:10:41,22,10,41,602.39,Leave Server Box Table,,Local-Oscillator-(electrical),,,0,1,0
+st58,HI,1,9/14/21,22:00:38,22:10:48,22,10,48,609.04,Pick Up LRU: 'Low Noise RF Amplifier [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+st58,HI,1,9/14/21,22:00:38,22:10:55,22,10,55,616.36,Move to Server Box Table,,Local-Oscillator-(electrical),,,0,1,0
+st58,HI,1,9/14/21,22:00:38,22:11:01,22,11,1,622.49,Leave Server Box Table,,Local-Oscillator-(electrical),,,0,1,0
+st58,HI,1,9/14/21,22:00:38,22:11:01,22,11,1,622.91,Move to Server Box Table,,Local-Oscillator-(electrical),,,0,1,0
+st58,HI,1,9/14/21,22:00:38,22:11:03,22,11,3,624.34,Drop LRU: 'Low Noise RF Amplifier [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+st58,HI,1,9/14/21,22:00:38,22:11:08,22,11,8,629.3,Move drawer: -23.2% open,Indicator,Local-Oscillator-(electrical),,,0,1,0
+st58,HI,1,9/14/21,22:00:38,22:11:09,22,11,9,630.91,Click on: 'Cathode Ray Tube',,Local-Oscillator-(electrical),,,0,1,0
+st58,HI,1,9/14/21,22:00:38,22:11:11,22,11,11,632.19,Swing front panel: 100% open,,Local-Oscillator-(electrical),,,0,1,0
+st58,HI,1,9/14/21,22:00:38,22:11:12,22,11,12,633.47,Cancel disconnect: 'Cathode Ray Tube',,Local-Oscillator-(electrical),,,0,1,0
+st58,HI,1,9/14/21,22:00:38,22:11:12,22,11,12,633.54,Swing front panel: 100% open,,Local-Oscillator-(electrical),,,0,1,0
+st58,HI,1,9/14/21,22:00:38,22:11:17,22,11,17,638.8,Move drawer: -2.4% open,Indicator,Local-Oscillator-(electrical),,,0,1,0
+st58,HI,1,9/14/21,22:00:38,22:11:19,22,11,19,641.01,Move drawer: 75.3% open,Processor,Local-Oscillator-(electrical),,,0,1,0
+st58,HI,1,9/14/21,22:00:38,22:11:21,22,11,21,642.58,Pick Up LRU: 'Low Noise RF Amplifier [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+st58,HI,1,9/14/21,22:00:38,22:11:32,22,11,32,653.63,Attempt to reconnect mismatched LRU: 'Low Noise RF Amplifier [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+st58,HI,1,9/14/21,22:00:38,22:11:33,22,11,33,654.45,Drop LRU: 'Low Noise RF Amplifier [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+st58,HI,1,9/14/21,22:00:38,22:11:34,22,11,34,655.12,Pick Up LRU: 'Low Noise RF Amplifier [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+st58,HI,1,9/14/21,22:00:38,22:11:34,22,11,34,655.21,Drop LRU: 'Low Noise RF Amplifier [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+st58,HI,1,9/14/21,22:00:38,22:11:34,22,11,34,655.34,Attempt to reconnect mismatched LRU: 'Low Noise RF Amplifier [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+st58,HI,1,9/14/21,22:00:38,22:11:34,22,11,34,655.74,Pick Up LRU: 'Low Noise RF Amplifier [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+st58,HI,1,9/14/21,22:00:38,22:11:35,22,11,35,656.59,Attempt to reconnect mismatched LRU: 'Low Noise RF Amplifier [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+st58,HI,1,9/14/21,22:00:38,22:11:35,22,11,35,656.6,Drop LRU: 'Low Noise RF Amplifier [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+st58,HI,1,9/14/21,22:00:38,22:11:38,22,11,38,659.27,Move drawer: 78% open,Processor,Local-Oscillator-(electrical),,,0,1,0
+st58,HI,1,9/14/21,22:00:38,22:11:39,22,11,39,660.05,Pick Up LRU: 'Low Noise RF Amplifier [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+st58,HI,1,9/14/21,22:00:38,22:11:39,22,11,39,660.81,Drop LRU: 'Low Noise RF Amplifier [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+st58,HI,1,9/14/21,22:00:38,22:11:39,22,11,39,660.97,Attempt to reconnect mismatched LRU: 'Low Noise RF Amplifier [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+st58,HI,1,9/14/21,22:00:38,22:11:40,22,11,40,661.91,Pick Up LRU: 'Low Noise RF Amplifier [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+st58,HI,1,9/14/21,22:00:38,22:11:43,22,11,43,664.59,Attempt to reconnect mismatched LRU: 'Low Noise RF Amplifier [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+st58,HI,1,9/14/21,22:00:38,22:11:46,22,11,46,667.07,Drop LRU: 'Low Noise RF Amplifier [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+st58,HI,1,9/14/21,22:00:38,22:11:46,22,11,46,667.65,Pick Up LRU: 'Low Noise RF Amplifier [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+st58,HI,1,9/14/21,22:00:38,22:11:47,22,11,47,668.32,Attempt to reconnect mismatched LRU: 'Low Noise RF Amplifier [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+st58,HI,1,9/14/21,22:00:38,22:11:48,22,11,48,669.98,Drop LRU: 'Low Noise RF Amplifier [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+st58,HI,1,9/14/21,22:00:38,22:11:50,22,11,50,671.2,Pick Up LRU: 'Low Noise RF Amplifier [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+st58,HI,1,9/14/21,22:00:38,22:11:50,22,11,50,671.31,Drop LRU: 'Low Noise RF Amplifier [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+st58,HI,1,9/14/21,22:00:38,22:11:50,22,11,50,671.84,Pick Up LRU: 'Low Noise RF Amplifier [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+st58,HI,1,9/14/21,22:00:38,22:11:50,22,11,50,671.95,Drop LRU: 'Low Noise RF Amplifier [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+st58,HI,1,9/14/21,22:00:38,22:11:51,22,11,51,672.25,Pick Up LRU: 'Low Noise RF Amplifier [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+st58,HI,1,9/14/21,22:00:38,22:11:51,22,11,51,672.36,Drop LRU: 'Low Noise RF Amplifier [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+st58,HI,1,9/14/21,22:00:38,22:11:52,22,11,52,673.21,Pick Up LRU: 'Low Noise RF Amplifier [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+st58,HI,1,9/14/21,22:00:38,22:11:52,22,11,52,673.81,Drop LRU: 'Low Noise RF Amplifier [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+st58,HI,1,9/14/21,22:00:38,22:11:52,22,11,52,673.84,Move drawer: 75% open,Processor,Local-Oscillator-(electrical),,,0,1,0
+st58,HI,1,9/14/21,22:00:38,22:11:53,22,11,53,674.67,Pick Up LRU: 'Low Noise RF Amplifier [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+st58,HI,1,9/14/21,22:00:38,22:11:53,22,11,53,674.69,Drop LRU: 'Low Noise RF Amplifier [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+st58,HI,1,9/14/21,22:00:38,22:11:54,22,11,54,675.78,Pick Up LRU: 'Low Noise RF Amplifier [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+st58,HI,1,9/14/21,22:00:38,22:11:59,22,11,59,680.62,Drop LRU: 'Low Noise RF Amplifier [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+st58,HI,1,9/14/21,22:00:38,22:12:03,22,12,3,684.51,Pick Up LRU: 'Low Noise RF Amplifier [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+st58,HI,1,9/14/21,22:00:38,22:12:05,22,12,5,686.24,Drop LRU: 'Low Noise RF Amplifier [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+st58,HI,1,9/14/21,22:00:38,22:12:21,22,12,21,702.28,Pick Up LRU: 'Low Noise RF Amplifier [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+st58,HI,1,9/14/21,22:00:38,22:12:22,22,12,22,703.68,Leave Server Box Table,,Local-Oscillator-(electrical),,,0,1,0
+st58,HI,1,9/14/21,22:00:38,22:12:23,22,12,23,704.01,Move to Spare Parts Table,,Local-Oscillator-(electrical),,,0,1,0
+st58,HI,1,9/14/21,22:00:38,22:12:25,22,12,25,706.43,Drop LRU: 'Low Noise RF Amplifier [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+st58,HI,1,9/14/21,22:00:38,22:12:27,22,12,27,708.22,Leave Spare Parts Table,,Local-Oscillator-(electrical),,,0,1,0
+st58,HI,1,9/14/21,22:00:38,22:12:31,22,12,31,712.1,Move to Spare Parts Table,,Local-Oscillator-(electrical),,,0,1,0
+st58,HI,1,9/14/21,22:00:38,22:12:40,22,12,40,721.74,Pick Up LRU: 'AFC Mixer [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+st58,HI,1,9/14/21,22:00:38,22:12:44,22,12,44,725.21,Leave Spare Parts Table,,Local-Oscillator-(electrical),,,0,1,0
+st58,HI,1,9/14/21,22:00:38,22:12:44,22,12,44,725.92,Move to Server Box Table,,Local-Oscillator-(electrical),,,0,1,0
+st58,HI,1,9/14/21,22:00:38,22:12:48,22,12,48,729.68,Drop LRU: 'AFC Mixer [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+st58,HI,1,9/14/21,22:00:38,22:12:49,22,12,49,730.89,Leave Server Box Table,,Local-Oscillator-(electrical),,,0,1,0
+st58,HI,1,9/14/21,22:00:38,22:12:56,22,12,56,737.98,Move to Server Box Table,,Local-Oscillator-(electrical),,,0,1,0
+st58,HI,1,9/14/21,22:00:38,22:12:58,22,12,58,739.44,Leave Server Box Table,,Local-Oscillator-(electrical),,,0,1,0
+st58,HI,1,9/14/21,22:00:38,22:12:59,22,12,59,740.46,Pick Up LRU: 'AFC Mixer',,Local-Oscillator-(electrical),,,0,1,0
+st58,HI,1,9/14/21,22:00:38,22:13:02,22,13,2,743.74,Move to Server Box Table,,Local-Oscillator-(electrical),,,0,1,0
+st58,HI,1,9/14/21,22:00:38,22:13:04,22,13,4,745.98,Drop LRU: 'AFC Mixer',,Local-Oscillator-(electrical),,,0,1,0
+st58,HI,1,9/14/21,22:00:38,22:13:11,22,13,11,752.55,Pick Up LRU: 'AFC Mixer',,Local-Oscillator-(electrical),,,0,1,0
+st58,HI,1,9/14/21,22:00:38,22:13:17,22,13,17,758.02,Leave Server Box Table,,Local-Oscillator-(electrical),,,0,1,0
+st58,HI,1,9/14/21,22:00:38,22:13:17,22,13,17,758.4,Drop LRU: 'AFC Mixer',,Local-Oscillator-(electrical),,,0,1,0
+st58,HI,1,9/14/21,22:00:38,22:13:18,22,13,18,759.19,Pick Up LRU: 'AFC Mixer',,Local-Oscillator-(electrical),,,0,1,0
+st58,HI,1,9/14/21,22:00:38,22:13:25,22,13,25,766.25,Move to Server Box Table,,Local-Oscillator-(electrical),,,0,1,0
+st58,HI,1,9/14/21,22:00:38,22:13:27,22,13,27,769,Drop LRU: 'AFC Mixer',,Local-Oscillator-(electrical),,,0,1,0
+st58,HI,1,9/14/21,22:00:38,22:13:32,22,13,32,773.08,Move drawer: 0.1% open,Transmitter,Local-Oscillator-(electrical),,,0,1,0
+st58,HI,1,9/14/21,22:00:38,22:13:32,22,13,32,773.53,Move drawer: -0.1% open,Transmitter,Local-Oscillator-(electrical),,,0,1,0
+st58,HI,1,9/14/21,22:00:38,22:13:34,22,13,34,775.7,Leave Server Box Table,,Local-Oscillator-(electrical),,,0,1,0
+st58,HI,1,9/14/21,22:00:38,22:13:35,22,13,35,776.67,Pick Up LRU: 'AFC Mixer',,Local-Oscillator-(electrical),,,0,1,0
+st58,HI,1,9/14/21,22:00:38,22:13:41,22,13,41,782.13,Move to Server Box Table,,Local-Oscillator-(electrical),,,0,1,0
+st58,HI,1,9/14/21,22:00:38,22:13:52,22,13,52,793.56,Drop LRU: 'AFC Mixer',,Local-Oscillator-(electrical),,,0,1,0
+st58,HI,1,9/14/21,22:00:38,22:13:53,22,13,53,794.7,Move drawer: 0% open,Transmitter,Local-Oscillator-(electrical),,,0,1,0
+st58,HI,1,9/14/21,22:00:38,22:13:54,22,13,54,795.77,Connect LRU: 'AFC Mixer',,Local-Oscillator-(electrical),,,0,1,0
+st58,HI,1,9/14/21,22:00:38,22:13:58,22,13,58,799.2,Click on: 'AFC Mixer',,Local-Oscillator-(electrical),,,0,1,0
+st58,HI,1,9/14/21,22:00:38,22:13:59,22,13,59,800.52,Cancel disconnect: 'AFC Mixer',,Local-Oscillator-(electrical),,,0,1,0
+st58,HI,1,9/14/21,22:00:38,22:13:59,22,13,59,800.52,Move drawer: 0% open,Tracker,Local-Oscillator-(electrical),,,0,1,0
+st58,HI,1,9/14/21,22:00:38,22:14:20,22,14,20,821.84,Click on: 'Mixer Detector',,Local-Oscillator-(electrical),,,0,1,0
+st58,HI,1,9/14/21,22:00:38,22:14:22,22,14,22,823.13,Disconnect LRU: 'Mixer Detector',,Local-Oscillator-(electrical),,,0,1,0
+st58,HI,1,9/14/21,22:00:38,22:14:23,22,14,23,824.68,Pick Up LRU: 'Mixer Detector',,Local-Oscillator-(electrical),,,0,1,0
+st58,HI,1,9/14/21,22:00:38,22:14:23,22,14,23,824.75,Drop LRU: 'Mixer Detector',,Local-Oscillator-(electrical),,,0,1,0
+st58,HI,1,9/14/21,22:00:38,22:14:24,22,14,24,825.73,Pick Up LRU: 'Mixer Detector',,Local-Oscillator-(electrical),,,0,1,0
+st58,HI,1,9/14/21,22:00:38,22:14:24,22,14,24,825.93,Drop LRU: 'Mixer Detector',,Local-Oscillator-(electrical),,,0,1,0
+st58,HI,1,9/14/21,22:00:38,22:14:25,22,14,25,826.47,Pick Up LRU: 'Mixer Detector',,Local-Oscillator-(electrical),,,0,1,0
+st58,HI,1,9/14/21,22:00:38,22:14:25,22,14,25,826.93,Drop LRU: 'Mixer Detector',,Local-Oscillator-(electrical),,,0,1,0
+st58,HI,1,9/14/21,22:00:38,22:14:27,22,14,27,828.42,Connect LRU: 'Mixer Detector',,Local-Oscillator-(electrical),,,0,1,0
+st58,HI,1,9/14/21,22:00:38,22:14:27,22,14,27,828.42,Move drawer: 0% open,Synchronizer,Local-Oscillator-(electrical),,,0,1,0
+st58,HI,1,9/14/21,22:00:38,22:14:39,22,14,39,841,Click on: 'Local Oscillator',,Local-Oscillator-(electrical),,,0,1,0
+st58,HI,1,9/14/21,22:00:38,22:14:41,22,14,41,842.9,Disconnect LRU: 'Local Oscillator',,Local-Oscillator-(electrical),,,0,1,0
+st58,HI,1,9/14/21,22:00:38,22:14:43,22,14,43,844.64,Cancel connect: 'Local Oscillator',,Local-Oscillator-(electrical),,,0,1,0
+st58,HI,1,9/14/21,22:00:38,22:14:45,22,14,45,846.47,Pick Up LRU: 'Local Oscillator',,Local-Oscillator-(electrical),,,0,1,0
+st58,HI,1,9/14/21,22:00:38,22:14:45,22,14,45,846.58,Drop LRU: 'Local Oscillator',,Local-Oscillator-(electrical),,,0,1,0
+st58,HI,1,9/14/21,22:00:38,22:14:46,22,14,46,847.73,Pick Up LRU: 'Local Oscillator',,Local-Oscillator-(electrical),,,0,1,0
+st58,HI,1,9/14/21,22:00:38,22:14:47,22,14,47,848.59,Drop LRU: 'Local Oscillator',,Local-Oscillator-(electrical),,,0,1,0
+st58,HI,1,9/14/21,22:00:38,22:14:48,22,14,48,849.14,Pick Up LRU: 'Local Oscillator',,Local-Oscillator-(electrical),,,0,1,0
+st58,HI,1,9/14/21,22:00:38,22:14:50,22,14,50,851.86,Drop LRU: 'Local Oscillator',,Local-Oscillator-(electrical),,,0,1,0
+st58,HI,1,9/14/21,22:00:38,22:14:51,22,14,51,852.73,Connect LRU: 'Local Oscillator',,Local-Oscillator-(electrical),,,0,1,0
+st58,HI,1,9/14/21,22:00:38,22:15:14,22,15,14,875.08,Click on: 'AFC Amplifier',,Local-Oscillator-(electrical),,,0,1,0
+st58,HI,1,9/14/21,22:00:38,22:15:15,22,15,15,876.5,Disconnect LRU: 'AFC Amplifier',,Local-Oscillator-(electrical),,,0,1,0
+st58,HI,1,9/14/21,22:00:38,22:15:15,22,15,15,876.51,Move drawer: 0% open,Transmitter,Local-Oscillator-(electrical),,,0,1,0
+st58,HI,1,9/14/21,22:00:38,22:15:17,22,15,17,878.06,Pick Up LRU: 'AFC Amplifier',,Local-Oscillator-(electrical),,,0,1,0
+st58,HI,1,9/14/21,22:00:38,22:15:17,22,15,17,878.26,Drop LRU: 'AFC Amplifier',,Local-Oscillator-(electrical),,,0,1,0
+st58,HI,1,9/14/21,22:00:38,22:15:20,22,15,20,881.18,Connect LRU: 'AFC Amplifier',,Local-Oscillator-(electrical),,,0,1,0
+st58,HI,1,9/14/21,22:00:38,22:15:20,22,15,20,881.22,Move drawer: 0% open,Transmitter,Local-Oscillator-(electrical),,,0,1,0
+st58,HI,1,9/14/21,22:00:38,22:15:41,22,15,41,902.17,Move drawer: 96.4% open,Tracker,Local-Oscillator-(electrical),,,0,1,0
+st58,HI,1,9/14/21,22:00:38,22:15:44,22,15,44,905.44,Click on: 'Duplexer Bypass',,Local-Oscillator-(electrical),,,0,1,0
+st58,HI,1,9/14/21,22:00:38,22:15:45,22,15,45,906.71,Disconnect LRU: 'Duplexer Bypass',,Local-Oscillator-(electrical),,,0,1,0
+st58,HI,1,9/14/21,22:00:38,22:15:47,22,15,47,908.76,Pick Up LRU: 'Duplexer Bypass',,Local-Oscillator-(electrical),,,0,1,0
+st58,HI,1,9/14/21,22:00:38,22:15:47,22,15,47,908.99,Drop LRU: 'Duplexer Bypass',,Local-Oscillator-(electrical),,,0,1,0
+st58,HI,1,9/14/21,22:00:38,22:15:49,22,15,49,910.37,Move drawer: 95.4% open,Tracker,Local-Oscillator-(electrical),,,0,1,0
+st58,HI,1,9/14/21,22:00:38,22:15:50,22,15,50,911.29,Connect LRU: 'Duplexer Bypass',,Local-Oscillator-(electrical),,,0,1,0
+st58,HI,1,9/14/21,22:00:38,22:15:53,22,15,53,914.35,Move drawer: -13.3% open,Tracker,Local-Oscillator-(electrical),,,0,1,0
+st58,HI,1,9/14/21,22:00:38,22:16:21,22,16,21,942.77,Move drawer: 93.3% open,Synchronizer,Local-Oscillator-(electrical),,,0,1,0
+st58,HI,1,9/14/21,22:00:38,22:16:45,22,16,45,966.13,Submit?,,Local-Oscillator-(electrical),,,0,1,0
+st58,HI,1,9/14/21,22:00:38,22:16:47,22,16,47,968.6,Submit Confirm,,Local-Oscillator-(electrical),,,0,1,0
+st58,HI,1,9/14/21,22:00:38,22:16:47,22,16,47,968.64,Move drawer: 95.4% open,Synchronizer,Local-Oscillator-(electrical),,,0,1,0
+st58,HI,2,9/14/21,22:16:49,22:16:49,22,16,49,0,Make electrical flaw: Receiver Waveguide,,Receiver-Waveguide-(electrical),,,0,1,0
+st58,HI,2,9/14/21,22:16:49,22:16:49,22,16,49,0,Start (High Fidelity Sim),,Receiver-Waveguide-(electrical),,,0,1,0
+st58,HI,2,9/14/21,22:16:49,22:16:49,22,16,49,0.02,Leave Server Box Table,,Receiver-Waveguide-(electrical),,,0,1,0

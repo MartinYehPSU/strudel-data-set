@@ -1,0 +1,250 @@
+subject,subject_group,round,round_start_date_utc,round_start_time_utc,current_time_utc,current_hour24,current_minute,current_second,current_elapsed_seconds,event,ui_tab,active_faults,fixed_faults,fixed_nonfaults,ReplacedComponents,FaultsRemaining,ReplacedNonFaults
+ST42,HI,1,6/3/21,18:01:11,18:01:11,18,1,11,0.09,Make electrical flaw: Local Oscillator,,Local-Oscillator-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,18:01:11,18:01:11,18,1,11,0.1,Start (High Fidelity Sim),,Local-Oscillator-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,18:01:11,18:01:27,18,1,27,15.53,Move to Server Box Table,,Local-Oscillator-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,18:01:11,18:01:35,18,1,35,23.95,Leave Server Box Table,,Local-Oscillator-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,18:01:11,18:01:36,18,1,36,24.47,Move to Spare Parts Table,,Local-Oscillator-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,18:01:11,18:02:32,18,2,32,80.82,Pick Up LRU: 'Sweep Generator Circuit [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,18:01:11,18:02:35,18,2,35,83.86,Drop LRU: 'Sweep Generator Circuit [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,18:01:11,18:02:52,18,2,52,100.46,Pick Up LRU: 'Stage 2 Modulator [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,18:01:11,18:02:53,18,2,53,101.63,Drop LRU: 'Stage 2 Modulator [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,18:01:11,18:02:54,18,2,54,102.94,Pick Up LRU: 'Stage 1 Modulator [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,18:01:11,18:02:55,18,2,55,103.88,Drop LRU: 'Stage 1 Modulator [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,18:01:11,18:02:57,18,2,57,105.57,Pick Up LRU: 'Frequency Synthesizer [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,18:01:11,18:02:58,18,2,58,106.99,Drop LRU: 'Frequency Synthesizer [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,18:01:11,18:02:59,18,2,59,108.27,Pick Up LRU: 'Frequency Synthesizer [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,18:01:11,18:03:00,18,3,0,109.31,Drop LRU: 'Frequency Synthesizer [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,18:01:11,18:03:04,18,3,4,112.74,Pick Up LRU: 'Stage 1 Modulator [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,18:01:11,18:03:05,18,3,5,113.49,Drop LRU: 'Stage 1 Modulator [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,18:01:11,18:03:06,18,3,6,115.04,Pick Up LRU: 'Stage 2 Modulator [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,18:01:11,18:03:07,18,3,7,115.98,Drop LRU: 'Stage 2 Modulator [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,18:01:11,18:03:08,18,3,8,116.96,Pick Up LRU: 'Stage 2 Modulator [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,18:01:11,18:03:09,18,3,9,117.6,Drop LRU: 'Stage 2 Modulator [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,18:01:11,18:03:10,18,3,10,119.12,Pick Up LRU: 'Stage 2 Modulator [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,18:01:11,18:03:11,18,3,11,119.97,Drop LRU: 'Stage 2 Modulator [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,18:01:11,18:03:12,18,3,12,121.17,Pick Up LRU: 'Stage 1 Modulator [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,18:01:11,18:03:13,18,3,13,121.76,Drop LRU: 'Stage 1 Modulator [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,18:01:11,18:03:21,18,3,21,129.72,Pick Up LRU: 'Sweep Control Circuit [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,18:01:11,18:03:22,18,3,22,131.31,Drop LRU: 'Sweep Control Circuit [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,18:01:11,18:03:24,18,3,24,132.95,Pick Up LRU: 'Sweep Generator Circuit [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,18:01:11,18:03:25,18,3,25,133.79,Drop LRU: 'Sweep Generator Circuit [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,18:01:11,18:03:27,18,3,27,135.47,Pick Up LRU: 'Sweep Generator Circuit [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,18:01:11,18:03:30,18,3,30,138.35,Drop LRU: 'Sweep Generator Circuit [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,18:01:11,18:03:34,18,3,34,142.55,Pick Up LRU: 'Sweep Control Circuit [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,18:01:11,18:03:36,18,3,36,145.24,Drop LRU: 'Sweep Control Circuit [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,18:01:11,18:03:38,18,3,38,146.57,Pick Up LRU: 'Sweep Control Circuit [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,18:01:11,18:03:39,18,3,39,147.67,Drop LRU: 'Sweep Control Circuit [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,18:01:11,18:03:41,18,3,41,150.29,Pick Up LRU: 'Sweep Control Circuit [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,18:01:11,18:03:42,18,3,42,151.02,Drop LRU: 'Sweep Control Circuit [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,18:01:11,18:03:47,18,3,47,155.44,Leave Spare Parts Table,,Local-Oscillator-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,18:01:11,18:03:48,18,3,48,157.33,Pick Up LRU: 'Sweep Control Circuit [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,18:01:11,18:03:54,18,3,54,162.92,Drop LRU: 'Sweep Control Circuit [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,18:01:11,18:04:04,18,4,4,173,Pick Up LRU: 'Sweep Control Circuit [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,18:01:11,18:04:07,18,4,7,175.93,Drop LRU: 'Sweep Control Circuit [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,18:01:11,18:04:14,18,4,14,183.09,Pick Up LRU: 'Sweep Control Circuit [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,18:01:11,18:04:16,18,4,16,185.15,Drop LRU: 'Sweep Control Circuit [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,18:01:11,18:04:19,18,4,19,187.46,Pick Up LRU: 'Sweep Control Circuit [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,18:01:11,18:04:20,18,4,20,188.4,Drop LRU: 'Sweep Control Circuit [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,18:01:11,18:04:31,18,4,31,199.94,Pick Up LRU: 'Sweep Control Circuit [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,18:01:11,18:04:32,18,4,32,201.15,Drop LRU: 'Sweep Control Circuit [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,18:01:11,18:04:39,18,4,39,207.87,Pick Up LRU: 'Sweep Control Circuit [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,18:01:11,18:04:42,18,4,42,210.57,Drop LRU: 'Sweep Control Circuit [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,18:01:11,18:04:51,18,4,51,219.82,Pick Up LRU: 'Sweep Control Circuit [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,18:01:11,18:04:52,18,4,52,221.03,Drop LRU: 'Sweep Control Circuit [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,18:01:11,18:04:57,18,4,57,225.97,Pick Up LRU: 'Sweep Control Circuit [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,18:01:11,18:04:59,18,4,59,227.35,Drop LRU: 'Sweep Control Circuit [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,18:01:11,18:05:01,18,5,1,229.65,Pick Up LRU: 'Sweep Control Circuit [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,18:01:11,18:05:02,18,5,2,230.78,Drop LRU: 'Sweep Control Circuit [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,18:01:11,18:05:08,18,5,8,236.54,Pick Up LRU: 'Sweep Control Circuit [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,18:01:11,18:05:09,18,5,9,237.87,Drop LRU: 'Sweep Control Circuit [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,18:01:11,18:05:11,18,5,11,239.82,Pick Up LRU: 'Sweep Control Circuit [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,18:01:11,18:05:12,18,5,12,240.53,Drop LRU: 'Sweep Control Circuit [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,18:01:11,18:05:17,18,5,17,245.47,Pick Up LRU: 'Sweep Control Circuit [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,18:01:11,18:05:18,18,5,18,246.42,Drop LRU: 'Sweep Control Circuit [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,18:01:11,18:05:22,18,5,22,250.37,Pick Up LRU: 'Sweep Control Circuit [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,18:01:11,18:05:26,18,5,26,255.33,Drop LRU: 'Sweep Control Circuit [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,18:01:11,18:05:34,18,5,34,263.03,Pick Up LRU: 'Sweep Control Circuit [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,18:01:11,18:05:35,18,5,35,264.07,Drop LRU: 'Sweep Control Circuit [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,18:01:11,18:05:37,18,5,37,265.75,Pick Up LRU: 'Sweep Control Circuit [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,18:01:11,18:05:38,18,5,38,266.77,Drop LRU: 'Sweep Control Circuit [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,18:01:11,18:05:40,18,5,40,268.52,Pick Up LRU: 'Sweep Control Circuit [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,18:01:11,18:05:40,18,5,40,269.31,Drop LRU: 'Sweep Control Circuit [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,18:01:11,18:05:46,18,5,46,275.19,Pick Up LRU: 'Sweep Control Circuit [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,18:01:11,18:05:48,18,5,48,276.61,Drop LRU: 'Sweep Control Circuit [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,18:01:11,18:05:49,18,5,49,278.2,Pick Up LRU: 'Sweep Control Circuit [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,18:01:11,18:05:52,18,5,52,280.61,Drop LRU: 'Sweep Control Circuit [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,18:01:11,18:05:56,18,5,56,285.33,Pick Up LRU: 'Sweep Control Circuit [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,18:01:11,18:05:58,18,5,58,286.4,Drop LRU: 'Sweep Control Circuit [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,18:01:11,18:06:13,18,6,13,301.67,Move to Spare Parts Table,,Local-Oscillator-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,18:01:11,18:06:22,18,6,22,311.03,Pick Up LRU: 'Sweep Control Circuit [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,18:01:11,18:06:24,18,6,24,312.54,Drop LRU: 'Sweep Control Circuit [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,18:01:11,18:06:25,18,6,25,313.53,Pick Up LRU: 'Sweep Control Circuit [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,18:01:11,18:06:26,18,6,26,314.8,Drop LRU: 'Sweep Control Circuit [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,18:01:11,18:06:29,18,6,29,318.24,Pick Up LRU: 'Gate Circuit [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,18:01:11,18:06:31,18,6,31,320.13,Drop LRU: 'Gate Circuit [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,18:01:11,18:06:34,18,6,34,322.61,Pick Up LRU: 'Intensity Gate Generator [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,18:01:11,18:06:35,18,6,35,324.22,Drop LRU: 'Intensity Gate Generator [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,18:01:11,18:06:37,18,6,37,325.88,Pick Up LRU: 'Intensity Gate Generator [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,18:01:11,18:06:38,18,6,38,326.73,Drop LRU: 'Intensity Gate Generator [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,18:01:11,18:06:41,18,6,41,329.88,Pick Up LRU: 'Sweep Generator Circuit [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,18:01:11,18:06:43,18,6,43,332.08,Drop LRU: 'Sweep Generator Circuit [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,18:01:11,18:06:45,18,6,45,333.4,Pick Up LRU: 'Cathode Ray Tube [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,18:01:11,18:06:48,18,6,48,336.72,Drop LRU: 'Cathode Ray Tube [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,18:01:11,18:06:49,18,6,49,337.52,Pick Up LRU: 'Cathode Ray Tube [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,18:01:11,18:06:50,18,6,50,338.9,Drop LRU: 'Cathode Ray Tube [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,18:01:11,18:06:55,18,6,55,343.71,Pick Up LRU: 'Cathode Ray Tube [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,18:01:11,18:06:56,18,6,56,345.1,Drop LRU: 'Cathode Ray Tube [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,18:01:11,18:07:23,18,7,23,372.27,Pick Up LRU: 'Sweep Control Circuit [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,18:01:11,18:07:25,18,7,25,373.45,Drop LRU: 'Sweep Control Circuit [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,18:01:11,18:07:26,18,7,26,374.52,Pick Up LRU: 'Sweep Control Circuit [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,18:01:11,18:07:26,18,7,26,375.28,Drop LRU: 'Sweep Control Circuit [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,18:01:11,18:07:27,18,7,27,376.03,Pick Up LRU: 'Sweep Control Circuit [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,18:01:11,18:07:29,18,7,29,378.33,Drop LRU: 'Sweep Control Circuit [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,18:01:11,18:07:30,18,7,30,379.33,Pick Up LRU: 'Sweep Control Circuit [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,18:01:11,18:07:32,18,7,32,380.5,Drop LRU: 'Sweep Control Circuit [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,18:01:11,18:07:35,18,7,35,384.13,Pick Up LRU: 'Cathode Ray Tube [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,18:01:11,18:07:36,18,7,36,385.1,Drop LRU: 'Cathode Ray Tube [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,18:01:11,18:07:37,18,7,37,385.82,Pick Up LRU: 'Cathode Ray Tube [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,18:01:11,18:07:39,18,7,39,388.31,Drop LRU: 'Cathode Ray Tube [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,18:01:11,18:07:43,18,7,43,391.47,Pick Up LRU: 'Sweep Generator Circuit [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,18:01:11,18:07:43,18,7,43,391.56,Drop LRU: 'Sweep Generator Circuit [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,18:01:11,18:07:44,18,7,44,392.62,Pick Up LRU: 'Sweep Generator Circuit [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,18:01:11,18:07:44,18,7,44,392.71,Drop LRU: 'Sweep Generator Circuit [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,18:01:11,18:07:48,18,7,48,396.36,Pick Up LRU: 'Cathode Ray Tube [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,18:01:11,18:07:49,18,7,49,398.2,Drop LRU: 'Cathode Ray Tube [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,18:01:11,18:08:01,18,8,1,410,Pick Up LRU: 'Video Amplifier [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,18:01:11,18:08:02,18,8,2,410.87,Drop LRU: 'Video Amplifier [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,18:01:11,18:08:05,18,8,5,414.15,Pick Up LRU: 'Cathode Ray Tube [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,18:01:11,18:08:07,18,8,7,415.91,Drop LRU: 'Cathode Ray Tube [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,18:01:11,18:08:08,18,8,8,416.62,Pick Up LRU: 'Cathode Ray Tube [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,18:01:11,18:08:09,18,8,9,417.36,Drop LRU: 'Cathode Ray Tube [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,18:01:11,18:08:11,18,8,11,420.06,Pick Up LRU: 'Sweep Generator Circuit [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,18:01:11,18:08:13,18,8,13,421.58,Drop LRU: 'Sweep Generator Circuit [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,18:01:11,18:08:13,18,8,13,422.21,Pick Up LRU: 'Sweep Generator Circuit [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,18:01:11,18:08:14,18,8,14,423,Drop LRU: 'Sweep Generator Circuit [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,18:01:11,18:08:15,18,8,15,423.64,Pick Up LRU: 'Sweep Generator Circuit [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,18:01:11,18:08:15,18,8,15,424.05,Drop LRU: 'Sweep Generator Circuit [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,18:01:11,18:08:17,18,8,17,425.68,Pick Up LRU: 'Sweep Control Circuit [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,18:01:11,18:08:18,18,8,18,427.16,Drop LRU: 'Sweep Control Circuit [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,18:01:11,18:08:21,18,8,21,429.45,Pick Up LRU: 'Intensity Gate Generator [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,18:01:11,18:08:22,18,8,22,430.44,Drop LRU: 'Intensity Gate Generator [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,18:01:11,18:08:22,18,8,22,431.31,Pick Up LRU: 'Gate Circuit [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,18:01:11,18:08:24,18,8,24,433.05,Drop LRU: 'Gate Circuit [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,18:01:11,18:08:25,18,8,25,434.21,Pick Up LRU: 'Cathode Ray Tube [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,18:01:11,18:08:25,18,8,25,434.33,Drop LRU: 'Cathode Ray Tube [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,18:01:11,18:08:38,18,8,38,447.31,Leave Spare Parts Table,,Local-Oscillator-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,18:01:11,18:08:51,18,8,51,459.79,Move to Server Box Table,,Local-Oscillator-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,18:01:11,18:08:57,18,8,57,465.51,Leave Server Box Table,,Local-Oscillator-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,18:01:11,18:08:57,18,8,57,466.21,Move to Spare Parts Table,,Local-Oscillator-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,18:01:11,18:09:28,18,9,28,496.94,Pick Up LRU: 'Stage 1 Modulator [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,18:01:11,18:09:28,18,9,28,497.13,Drop LRU: 'Stage 1 Modulator [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,18:01:11,18:09:46,18,9,46,514.53,Pick Up LRU: 'AFC Frequency Discriminator [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,18:01:11,18:09:46,18,9,46,514.69,Drop LRU: 'AFC Frequency Discriminator [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,18:01:11,18:09:51,18,9,51,519.54,Pick Up LRU: 'AFC Amplifier [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,18:01:11,18:09:51,18,9,51,519.64,Drop LRU: 'AFC Amplifier [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,18:01:11,18:09:53,18,9,53,521.56,Pick Up LRU: 'Sweep Generator Circuit [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,18:01:11,18:09:53,18,9,53,521.91,Drop LRU: 'Sweep Generator Circuit [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,18:01:11,18:09:54,18,9,54,522.89,Pick Up LRU: 'Sweep Generator Circuit [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,18:01:11,18:09:55,18,9,55,523.95,Drop LRU: 'Sweep Generator Circuit [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,18:01:11,18:09:56,18,9,56,525.01,Pick Up LRU: 'Sweep Generator Circuit [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,18:01:11,18:09:57,18,9,57,526.18,Drop LRU: 'Sweep Generator Circuit [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,18:01:11,18:09:58,18,9,58,526.91,Pick Up LRU: 'Sweep Generator Circuit [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,18:01:11,18:09:59,18,9,59,527.91,Drop LRU: 'Sweep Generator Circuit [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,18:01:11,18:10:16,18,10,16,544.59,Pick Up LRU: 'Adjuster [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,18:01:11,18:10:17,18,10,17,546.09,Drop LRU: 'Adjuster [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,18:01:11,18:10:18,18,10,18,546.78,Pick Up LRU: 'Adjuster [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,18:01:11,18:10:19,18,10,19,547.38,Drop LRU: 'Adjuster [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,18:01:11,18:10:19,18,10,19,548.11,Pick Up LRU: 'Adjuster [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,18:01:11,18:10:20,18,10,20,548.96,Drop LRU: 'Adjuster [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,18:01:11,18:10:20,18,10,20,549.03,Pick Up LRU: 'Overdriven Amplifier [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,18:01:11,18:10:21,18,10,21,550.24,Drop LRU: 'Overdriven Amplifier [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,18:01:11,18:10:46,18,10,46,574.37,Pick Up LRU: 'Transmitter Waveguide [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,18:01:11,18:10:46,18,10,46,574.93,Drop LRU: 'Transmitter Waveguide [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,18:01:11,18:10:50,18,10,50,578.64,Pick Up LRU: 'Transmitter Waveguide [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,18:01:11,18:10:51,18,10,51,579.63,Drop LRU: 'Transmitter Waveguide [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,18:01:11,18:10:57,18,10,57,586.31,Leave Spare Parts Table,,Local-Oscillator-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,18:01:11,18:10:58,18,10,58,586.38,Move to Spare Parts Table,,Local-Oscillator-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,18:01:11,18:11:00,18,11,0,588.54,Pick Up LRU: 'Sweep Control Circuit [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,18:01:11,18:11:01,18,11,1,589.54,Drop LRU: 'Sweep Control Circuit [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,18:01:11,18:11:01,18,11,1,589.76,Pick Up LRU: 'Sweep Control Circuit [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,18:01:11,18:11:01,18,11,1,590.02,Drop LRU: 'Sweep Control Circuit [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,18:01:11,18:11:07,18,11,7,595.44,Pick Up LRU: 'Sweep Control Circuit [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,18:01:11,18:11:10,18,11,10,598.69,Drop LRU: 'Sweep Control Circuit [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,18:01:11,18:11:10,18,11,10,598.87,Pick Up LRU: 'Sweep Control Circuit [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,18:01:11,18:11:11,18,11,11,599.99,Drop LRU: 'Sweep Control Circuit [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,18:01:11,18:11:12,18,11,12,600.66,Pick Up LRU: 'Sweep Control Circuit [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,18:01:11,18:11:13,18,11,13,601.82,Drop LRU: 'Sweep Control Circuit [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,18:01:11,18:11:14,18,11,14,602.49,Pick Up LRU: 'Sweep Control Circuit [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,18:01:11,18:11:15,18,11,15,604,Drop LRU: 'Sweep Control Circuit [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,18:01:11,18:11:16,18,11,16,604.66,Pick Up LRU: 'Sweep Control Circuit [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,18:01:11,18:11:17,18,11,17,606.22,Drop LRU: 'Sweep Control Circuit [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,18:01:11,18:11:19,18,11,19,607.81,Pick Up LRU: 'Sweep Control Circuit [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,18:01:11,18:11:20,18,11,20,609.07,Drop LRU: 'Sweep Control Circuit [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,18:01:11,18:11:21,18,11,21,609.76,Pick Up LRU: 'Sweep Control Circuit [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,18:01:11,18:11:22,18,11,22,610.54,Drop LRU: 'Sweep Control Circuit [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,18:01:11,18:11:23,18,11,23,611.49,Pick Up LRU: 'Sweep Control Circuit [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,18:01:11,18:11:23,18,11,23,612.34,Drop LRU: 'Sweep Control Circuit [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,18:01:11,18:11:25,18,11,25,613.86,Pick Up LRU: 'Sweep Control Circuit [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,18:01:11,18:11:26,18,11,26,614.74,Drop LRU: 'Sweep Control Circuit [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,18:01:11,18:11:27,18,11,27,615.76,Pick Up LRU: 'Sweep Control Circuit [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,18:01:11,18:11:29,18,11,29,617.51,Drop LRU: 'Sweep Control Circuit [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,18:01:11,18:11:30,18,11,30,618.39,Pick Up LRU: 'Sweep Control Circuit [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,18:01:11,18:11:30,18,11,30,619.26,Drop LRU: 'Sweep Control Circuit [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,18:01:11,18:11:31,18,11,31,620.16,Pick Up LRU: 'Sweep Control Circuit [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,18:01:11,18:11:32,18,11,32,621.17,Drop LRU: 'Sweep Control Circuit [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,18:01:11,18:11:33,18,11,33,622.18,Pick Up LRU: 'Sweep Control Circuit [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,18:01:11,18:11:34,18,11,34,622.92,Drop LRU: 'Sweep Control Circuit [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,18:01:11,18:11:35,18,11,35,623.91,Pick Up LRU: 'Sweep Control Circuit [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,18:01:11,18:11:36,18,11,36,625.29,Drop LRU: 'Sweep Control Circuit [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,18:01:11,18:11:38,18,11,38,626.99,Pick Up LRU: 'Sweep Control Circuit [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,18:01:11,18:11:40,18,11,40,628.79,Drop LRU: 'Sweep Control Circuit [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,18:01:11,18:11:41,18,11,41,630.27,Pick Up LRU: 'Sweep Control Circuit [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,18:01:11,18:11:42,18,11,42,630.39,Drop LRU: 'Sweep Control Circuit [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,18:01:11,18:11:42,18,11,42,630.49,Pick Up LRU: 'Sweep Control Circuit [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,18:01:11,18:11:42,18,11,42,630.62,Drop LRU: 'Sweep Control Circuit [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,18:01:11,18:11:42,18,11,42,630.74,Pick Up LRU: 'Sweep Control Circuit [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,18:01:11,18:11:43,18,11,43,631.42,Drop LRU: 'Sweep Control Circuit [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,18:01:11,18:11:43,18,11,43,631.96,Pick Up LRU: 'Sweep Control Circuit [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,18:01:11,18:11:45,18,11,45,633.64,Drop LRU: 'Sweep Control Circuit [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,18:01:11,18:11:45,18,11,45,634.32,Pick Up LRU: 'Sweep Control Circuit [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,18:01:11,18:11:47,18,11,47,635.51,Drop LRU: 'Sweep Control Circuit [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,18:01:11,18:12:12,18,12,12,661.14,Pick Up LRU: 'Intensity Gate Generator [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,18:01:11,18:12:13,18,12,13,662.31,Drop LRU: 'Intensity Gate Generator [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,18:01:11,18:12:15,18,12,15,663.92,Pick Up LRU: 'Video Amplifier [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,18:01:11,18:12:16,18,12,16,664.81,Drop LRU: 'Video Amplifier [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,18:01:11,18:12:54,18,12,54,702.51,Pick Up LRU: 'AFC Mixer [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,18:01:11,18:12:56,18,12,56,704.92,Drop LRU: 'AFC Mixer [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,18:01:11,18:13:05,18,13,5,713.64,Pick Up LRU: 'Low Noise RF Amplifier [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,18:01:11,18:13:05,18,13,5,713.85,Drop LRU: 'Low Noise RF Amplifier [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,18:01:11,18:13:06,18,13,6,714.37,Pick Up LRU: 'Low Noise RF Amplifier [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,18:01:11,18:13:06,18,13,6,714.49,Drop LRU: 'Low Noise RF Amplifier [SPARE]',,Local-Oscillator-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,18:01:11,18:13:57,18,13,57,765.43,Leave Spare Parts Table,,Local-Oscillator-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,18:01:11,18:13:58,18,13,58,767.05,Move to Server Box Table,,Local-Oscillator-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,18:01:11,18:14:02,18,14,2,771.04,Swing front panel: 0% open,,Local-Oscillator-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,18:01:11,18:14:04,18,14,4,773.19,Swing front panel: 27.8% open,,Local-Oscillator-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,18:01:11,18:14:07,18,14,7,775.92,Move drawer: 3.8% open,Tracker,Local-Oscillator-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,18:01:11,18:14:11,18,14,11,780.11,Move drawer: 91.2% open,Tracker,Local-Oscillator-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,18:01:11,18:14:24,18,14,24,792.47,Move drawer: 25.7% open,Tracker,Local-Oscillator-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,18:01:11,18:14:26,18,14,26,795.32,Move drawer: -1.7% open,Tracker,Local-Oscillator-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,18:01:11,18:14:31,18,14,31,800.32,Move drawer: 40.2% open,Synchronizer,Local-Oscillator-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,18:01:11,18:14:34,18,14,34,802.57,Move drawer: -4.6% open,Synchronizer,Local-Oscillator-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,18:01:11,18:14:37,18,14,37,805.88,Move drawer: 82.5% open,Processor,Local-Oscillator-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,18:01:11,18:14:45,18,14,45,813.54,Click on: 'Control Circuit',,Local-Oscillator-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,18:01:11,18:14:48,18,14,48,817.27,Disconnect LRU: 'Control Circuit',,Local-Oscillator-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,18:01:11,18:15:02,18,15,2,830.87,Click on: 'Video Detector',,Local-Oscillator-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,18:01:11,18:15:03,18,15,3,831.99,Disconnect LRU: 'Video Detector',,Local-Oscillator-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,18:01:11,18:15:07,18,15,7,836.24,Click on: 'Local Oscillator',,Local-Oscillator-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,18:01:11,18:15:09,18,15,9,837.7,Disconnect LRU: 'Local Oscillator',,Local-Oscillator-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,18:01:11,18:15:13,18,15,13,841.98,Move drawer: 82.5% open,Processor,Local-Oscillator-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,18:01:11,18:15:16,18,15,16,844.41,Move drawer: 82.5% open,Processor,Local-Oscillator-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,18:01:11,18:15:18,18,15,18,846.49,Click on: 'Video Amplifier',,Local-Oscillator-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,18:01:11,18:15:21,18,15,21,849.7,Disconnect LRU: 'Video Amplifier',,Local-Oscillator-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,18:01:11,18:15:31,18,15,31,859.94,Move drawer: 9.6% open,Processor,Local-Oscillator-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,18:01:11,18:15:39,18,15,39,868.01,Leave Server Box Table,,Local-Oscillator-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,18:01:11,18:15:42,18,15,42,870.52,Move to Server Box Table,,Local-Oscillator-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,18:01:11,18:15:46,18,15,46,874.62,Swing front panel: 100% open,,Local-Oscillator-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,18:01:11,18:15:48,18,15,48,876.84,Swing front panel: 10.2% open,,Local-Oscillator-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,18:01:11,18:15:54,18,15,54,882.98,Leave Server Box Table,,Local-Oscillator-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,18:01:11,18:15:56,18,15,56,885.26,Move to Server Box Table,,Local-Oscillator-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,18:01:11,18:16:15,18,16,15,903.85,Leave Server Box Table,,Local-Oscillator-(electrical),,,0,1,0
+ST42,HI,1,6/3/21,18:01:11,18:16:19,18,16,19,907.7,Move to Spare Parts Table,,Local-Oscillator-(electrical),,,0,1,0

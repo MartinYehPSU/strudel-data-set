@@ -1,0 +1,389 @@
+subject,subject_group,round,round_start_date_utc,round_start_time_utc,current_time_utc,current_hour24,current_minute,current_second,current_elapsed_seconds,event,ui_tab,active_faults,fixed_faults,fixed_nonfaults,ReplacedComponents,FaultsRemaining,ReplacedNonFaults
+st34,HI,1,5/22/21,17:19:10,17:19:10,17,19,10,0.03,Make electrical flaw: Sweep Control Circuit,,Sweep-Control-Circuit-(electrical),,,0,1,0
+st34,HI,1,5/22/21,17:19:10,17:19:10,17,19,10,0.03,Start (High Fidelity Sim),,Sweep-Control-Circuit-(electrical),,,0,1,0
+st34,HI,1,5/22/21,17:19:10,17:21:15,17,21,15,125.86,Move to Server Box Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+st34,HI,1,5/22/21,17:19:10,17:21:53,17,21,53,163.24,Swing front panel: 0% open,,Sweep-Control-Circuit-(electrical),,,0,1,0
+st34,HI,1,5/22/21,17:19:10,17:21:54,17,21,54,164.48,Swing front panel: 0% open,,Sweep-Control-Circuit-(electrical),,,0,1,0
+st34,HI,1,5/22/21,17:19:10,17:21:55,17,21,55,165.64,Swing front panel: 0% open,,Sweep-Control-Circuit-(electrical),,,0,1,0
+st34,HI,1,5/22/21,17:19:10,17:21:57,17,21,57,167.1,Swing front panel: 0% open,,Sweep-Control-Circuit-(electrical),,,0,1,0
+st34,HI,1,5/22/21,17:19:10,17:21:58,17,21,58,168.83,Swing front panel: 0% open,,Sweep-Control-Circuit-(electrical),,,0,1,0
+st34,HI,1,5/22/21,17:19:10,17:21:59,17,21,59,169.86,Swing front panel: 0% open,,Sweep-Control-Circuit-(electrical),,,0,1,0
+st34,HI,1,5/22/21,17:19:10,17:22:01,17,22,1,170.96,Swing front panel: 0% open,,Sweep-Control-Circuit-(electrical),,,0,1,0
+st34,HI,1,5/22/21,17:19:10,17:22:01,17,22,1,171.63,Swing front panel: 0% open,,Sweep-Control-Circuit-(electrical),,,0,1,0
+st34,HI,1,5/22/21,17:19:10,17:22:03,17,22,3,173.31,Swing front panel: 0% open,,Sweep-Control-Circuit-(electrical),,,0,1,0
+st34,HI,1,5/22/21,17:19:10,17:22:05,17,22,5,175,Swing front panel: 0% open,,Sweep-Control-Circuit-(electrical),,,0,1,0
+st34,HI,1,5/22/21,17:19:10,17:22:11,17,22,11,181.39,Swing front panel: 70.8% open,,Sweep-Control-Circuit-(electrical),,,0,1,0
+st34,HI,1,5/22/21,17:19:10,17:22:36,17,22,36,206.7,Move drawer: 50.9% open,Indicator,Sweep-Control-Circuit-(electrical),,,0,1,0
+st34,HI,1,5/22/21,17:19:10,17:22:59,17,22,59,229.15,Move drawer: 56.8% open,Indicator,Sweep-Control-Circuit-(electrical),,,0,1,0
+st34,HI,1,5/22/21,17:19:10,17:23:00,17,23,0,230.67,Move drawer: 99.6% open,Indicator,Sweep-Control-Circuit-(electrical),,,0,1,0
+st34,HI,1,5/22/21,17:19:10,17:24:40,17,24,40,330.1,Leave Server Box Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+st34,HI,1,5/22/21,17:19:10,17:24:40,17,24,40,330.38,Move to Spare Parts Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+st34,HI,1,5/22/21,17:19:10,17:24:54,17,24,54,344.4,Leave Spare Parts Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+st34,HI,1,5/22/21,17:19:10,17:24:54,17,24,54,344.68,Move to Server Box Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+st34,HI,1,5/22/21,17:19:10,17:25:25,17,25,25,375.72,Move drawer: 95.8% open,Indicator,Sweep-Control-Circuit-(electrical),,,0,1,0
+st34,HI,1,5/22/21,17:19:10,17:25:37,17,25,37,387.56,Move drawer: 97.7% open,Indicator,Sweep-Control-Circuit-(electrical),,,0,1,0
+st34,HI,1,5/22/21,17:19:10,17:25:41,17,25,41,391.26,Move drawer: 99.4% open,Indicator,Sweep-Control-Circuit-(electrical),,,0,1,0
+st34,HI,1,5/22/21,17:19:10,17:25:45,17,25,45,395.17,Swing front panel: 94.7% open,,Sweep-Control-Circuit-(electrical),,,0,1,0
+st34,HI,1,5/22/21,17:19:10,17:26:50,17,26,50,460.3,Move drawer: 96.1% open,Indicator,Sweep-Control-Circuit-(electrical),,,0,1,0
+st34,HI,1,5/22/21,17:19:10,17:26:53,17,26,53,463.85,Leave Server Box Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+st34,HI,1,5/22/21,17:19:10,17:26:55,17,26,55,465.44,Move to Spare Parts Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+st34,HI,1,5/22/21,17:19:10,17:27:19,17,27,19,489.39,Leave Spare Parts Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+st34,HI,1,5/22/21,17:19:10,17:27:19,17,27,19,489.76,Move to Server Box Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+st34,HI,1,5/22/21,17:19:10,17:27:28,17,27,28,498.01,Click on: 'Cathode Ray Tube',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st34,HI,1,5/22/21,17:19:10,17:27:30,17,27,30,500.04,Disconnect LRU: 'Cathode Ray Tube',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st34,HI,1,5/22/21,17:19:10,17:27:30,17,27,30,500.07,Move drawer: 95.4% open,Indicator,Sweep-Control-Circuit-(electrical),,,0,1,0
+st34,HI,1,5/22/21,17:19:10,17:27:32,17,27,32,502.06,Pick Up LRU: 'Cathode Ray Tube',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st34,HI,1,5/22/21,17:19:10,17:27:33,17,27,33,503.11,Drop LRU: 'Cathode Ray Tube',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st34,HI,1,5/22/21,17:19:10,17:27:42,17,27,42,511.98,Click on: 'Sweep Control Circuit',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st34,HI,1,5/22/21,17:19:10,17:27:43,17,27,43,513.02,Disconnect LRU: 'Sweep Control Circuit',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st34,HI,1,5/22/21,17:19:10,17:27:43,17,27,43,513.04,Move drawer: 95.4% open,Indicator,Sweep-Control-Circuit-(electrical),,,0,1,0
+st34,HI,1,5/22/21,17:19:10,17:27:44,17,27,44,514.65,Pick Up LRU: 'Sweep Control Circuit',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st34,HI,1,5/22/21,17:19:10,17:27:45,17,27,45,515.52,Drop LRU: 'Sweep Control Circuit',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st34,HI,1,5/22/21,17:19:10,17:27:47,17,27,47,517.6,Leave Server Box Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+st34,HI,1,5/22/21,17:19:10,17:27:49,17,27,49,519.36,Move to Spare Parts Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+st34,HI,1,5/22/21,17:19:10,17:27:52,17,27,52,522.41,Leave Spare Parts Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+st34,HI,1,5/22/21,17:19:10,17:27:53,17,27,53,523.71,Move to Spare Parts Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+st34,HI,1,5/22/21,17:19:10,17:27:59,17,27,59,529.14,Pick Up LRU: 'Sweep Generator Circuit [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st34,HI,1,5/22/21,17:19:10,17:27:59,17,27,59,529.28,Drop LRU: 'Sweep Generator Circuit [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st34,HI,1,5/22/21,17:19:10,17:28:00,17,28,0,530.57,Pick Up LRU: 'Sweep Generator Circuit [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st34,HI,1,5/22/21,17:19:10,17:28:03,17,28,3,533.59,Drop LRU: 'Sweep Generator Circuit [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st34,HI,1,5/22/21,17:19:10,17:28:03,17,28,3,533.66,Pick Up LRU: 'Sweep Generator Circuit [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st34,HI,1,5/22/21,17:19:10,17:28:03,17,28,3,533.79,Drop LRU: 'Sweep Generator Circuit [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st34,HI,1,5/22/21,17:19:10,17:28:04,17,28,4,534.61,Pick Up LRU: 'Sweep Generator Circuit [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st34,HI,1,5/22/21,17:19:10,17:28:04,17,28,4,534.72,Drop LRU: 'Sweep Generator Circuit [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st34,HI,1,5/22/21,17:19:10,17:28:05,17,28,5,535.66,Pick Up LRU: 'Sweep Generator Circuit [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st34,HI,1,5/22/21,17:19:10,17:28:09,17,28,9,539.18,Drop LRU: 'Sweep Generator Circuit [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st34,HI,1,5/22/21,17:19:10,17:28:33,17,28,33,563.7,Pick Up LRU: 'Sweep Generator Circuit [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st34,HI,1,5/22/21,17:19:10,17:28:33,17,28,33,563.83,Drop LRU: 'Sweep Generator Circuit [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st34,HI,1,5/22/21,17:19:10,17:28:34,17,28,34,564.42,Pick Up LRU: 'Sweep Generator Circuit [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st34,HI,1,5/22/21,17:19:10,17:28:34,17,28,34,564.94,Drop LRU: 'Sweep Generator Circuit [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st34,HI,1,5/22/21,17:19:10,17:28:35,17,28,35,565.03,Pick Up LRU: 'Sweep Generator Circuit [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st34,HI,1,5/22/21,17:19:10,17:28:35,17,28,35,565.51,Drop LRU: 'Sweep Generator Circuit [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st34,HI,1,5/22/21,17:19:10,17:28:40,17,28,40,570.56,Pick Up LRU: 'Sweep Generator Circuit [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st34,HI,1,5/22/21,17:19:10,17:28:42,17,28,42,571.98,Drop LRU: 'Sweep Generator Circuit [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st34,HI,1,5/22/21,17:19:10,17:28:44,17,28,44,574.11,Pick Up LRU: 'Sweep Generator Circuit [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st34,HI,1,5/22/21,17:19:10,17:28:53,17,28,53,583.55,Drop LRU: 'Sweep Generator Circuit [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st34,HI,1,5/22/21,17:19:10,17:28:54,17,28,54,584.05,Pick Up LRU: 'Sweep Generator Circuit [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st34,HI,1,5/22/21,17:19:10,17:28:55,17,28,55,585.41,Drop LRU: 'Sweep Generator Circuit [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st34,HI,1,5/22/21,17:19:10,17:28:56,17,28,56,586.09,Pick Up LRU: 'Sweep Generator Circuit [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st34,HI,1,5/22/21,17:19:10,17:28:56,17,28,56,586.26,Drop LRU: 'Sweep Generator Circuit [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st34,HI,1,5/22/21,17:19:10,17:28:57,17,28,57,587.17,Pick Up LRU: 'Sweep Generator Circuit [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st34,HI,1,5/22/21,17:19:10,17:28:59,17,28,59,589.12,Drop LRU: 'Sweep Generator Circuit [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st34,HI,1,5/22/21,17:19:10,17:28:59,17,28,59,589.32,Pick Up LRU: 'Sweep Generator Circuit [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st34,HI,1,5/22/21,17:19:10,17:29:02,17,29,2,592.45,Drop LRU: 'Sweep Generator Circuit [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st34,HI,1,5/22/21,17:19:10,17:29:06,17,29,6,596.91,Pick Up LRU: 'Sweep Generator Circuit [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st34,HI,1,5/22/21,17:19:10,17:29:07,17,29,7,597.77,Drop LRU: 'Sweep Generator Circuit [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st34,HI,1,5/22/21,17:19:10,17:29:09,17,29,9,599.13,Leave Spare Parts Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+st34,HI,1,5/22/21,17:19:10,17:29:11,17,29,11,601.22,Move to Server Box Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+st34,HI,1,5/22/21,17:19:10,17:29:12,17,29,12,602.55,Pick Up LRU: 'Sweep Generator Circuit [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st34,HI,1,5/22/21,17:19:10,17:29:15,17,29,15,605.23,Drop LRU: 'Sweep Generator Circuit [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st34,HI,1,5/22/21,17:19:10,17:29:16,17,29,16,606.71,Pick Up LRU: 'Sweep Generator Circuit [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st34,HI,1,5/22/21,17:19:10,17:29:17,17,29,17,607.81,Drop LRU: 'Sweep Generator Circuit [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st34,HI,1,5/22/21,17:19:10,17:29:18,17,29,18,608.91,Pick Up LRU: 'Sweep Generator Circuit [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st34,HI,1,5/22/21,17:19:10,17:29:20,17,29,20,609.98,Drop LRU: 'Sweep Generator Circuit [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st34,HI,1,5/22/21,17:19:10,17:29:42,17,29,42,632.92,Pick Up LRU: 'Sweep Generator Circuit [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st34,HI,1,5/22/21,17:19:10,17:29:49,17,29,49,639.8,Drop LRU: 'Sweep Generator Circuit [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st34,HI,1,5/22/21,17:19:10,17:30:00,17,30,0,650.79,Pick Up LRU: 'Sweep Generator Circuit [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st34,HI,1,5/22/21,17:19:10,17:30:03,17,30,3,653.46,Drop LRU: 'Sweep Generator Circuit [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st34,HI,1,5/22/21,17:19:10,17:30:06,17,30,6,655.98,Pick Up LRU: 'Sweep Generator Circuit [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st34,HI,1,5/22/21,17:19:10,17:30:07,17,30,7,656.96,Drop LRU: 'Sweep Generator Circuit [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st34,HI,1,5/22/21,17:19:10,17:30:13,17,30,13,663.5,Leave Server Box Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+st34,HI,1,5/22/21,17:19:10,17:30:14,17,30,14,664.05,Move to Spare Parts Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+st34,HI,1,5/22/21,17:19:10,17:30:19,17,30,19,669,Leave Spare Parts Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+st34,HI,1,5/22/21,17:19:10,17:30:20,17,30,20,670.72,Move to Spare Parts Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+st34,HI,1,5/22/21,17:19:10,17:30:24,17,30,24,674,Leave Spare Parts Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+st34,HI,1,5/22/21,17:19:10,17:30:25,17,30,25,675.2,Move to Spare Parts Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+st34,HI,1,5/22/21,17:19:10,17:30:28,17,30,28,678.05,Pick Up LRU: 'Cathode Ray Tube [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st34,HI,1,5/22/21,17:19:10,17:30:30,17,30,30,680.62,Drop LRU: 'Cathode Ray Tube [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st34,HI,1,5/22/21,17:19:10,17:30:31,17,30,31,681.6,Pick Up LRU: 'Cathode Ray Tube [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st34,HI,1,5/22/21,17:19:10,17:30:35,17,30,35,685.19,Drop LRU: 'Cathode Ray Tube [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st34,HI,1,5/22/21,17:19:10,17:30:38,17,30,38,688.73,Leave Spare Parts Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+st34,HI,1,5/22/21,17:19:10,17:30:42,17,30,42,692.28,Pick Up LRU: 'Cathode Ray Tube [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st34,HI,1,5/22/21,17:19:10,17:30:43,17,30,43,693.56,Drop LRU: 'Cathode Ray Tube [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st34,HI,1,5/22/21,17:19:10,17:30:47,17,30,47,697.18,Pick Up LRU: 'Cathode Ray Tube [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st34,HI,1,5/22/21,17:19:10,17:30:48,17,30,48,698.17,Drop LRU: 'Cathode Ray Tube [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st34,HI,1,5/22/21,17:19:10,17:30:50,17,30,50,700.27,Pick Up LRU: 'Cathode Ray Tube [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st34,HI,1,5/22/21,17:19:10,17:30:51,17,30,51,701.51,Drop LRU: 'Cathode Ray Tube [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st34,HI,1,5/22/21,17:19:10,17:30:53,17,30,53,703,Pick Up LRU: 'Cathode Ray Tube [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st34,HI,1,5/22/21,17:19:10,17:30:53,17,30,53,703.83,Drop LRU: 'Cathode Ray Tube [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st34,HI,1,5/22/21,17:19:10,17:30:54,17,30,54,704.73,Pick Up LRU: 'Cathode Ray Tube [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st34,HI,1,5/22/21,17:19:10,17:30:57,17,30,57,707.31,Drop LRU: 'Cathode Ray Tube [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st34,HI,1,5/22/21,17:19:10,17:30:59,17,30,59,709.53,Move to Server Box Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+st34,HI,1,5/22/21,17:19:10,17:31:07,17,31,7,717.79,Pick Up LRU: 'Cathode Ray Tube [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st34,HI,1,5/22/21,17:19:10,17:31:09,17,31,9,719.1,Drop LRU: 'Cathode Ray Tube [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st34,HI,1,5/22/21,17:19:10,17:31:11,17,31,11,721.74,Pick Up LRU: 'Cathode Ray Tube [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st34,HI,1,5/22/21,17:19:10,17:31:13,17,31,13,723.13,Drop LRU: 'Cathode Ray Tube [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st34,HI,1,5/22/21,17:19:10,17:31:15,17,31,15,725.73,Pick Up LRU: 'Cathode Ray Tube [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st34,HI,1,5/22/21,17:19:10,17:31:16,17,31,16,726.9,Drop LRU: 'Cathode Ray Tube [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st34,HI,1,5/22/21,17:19:10,17:31:19,17,31,19,729.08,Pick Up LRU: 'Cathode Ray Tube [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st34,HI,1,5/22/21,17:19:10,17:31:20,17,31,20,730.02,Drop LRU: 'Cathode Ray Tube [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st34,HI,1,5/22/21,17:19:10,17:31:21,17,31,21,731.77,Pick Up LRU: 'Cathode Ray Tube [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st34,HI,1,5/22/21,17:19:10,17:31:22,17,31,22,732.91,Drop LRU: 'Cathode Ray Tube [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st34,HI,1,5/22/21,17:19:10,17:31:25,17,31,25,735.28,Pick Up LRU: 'Cathode Ray Tube [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st34,HI,1,5/22/21,17:19:10,17:31:26,17,31,26,736.84,Drop LRU: 'Cathode Ray Tube [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st34,HI,1,5/22/21,17:19:10,17:31:32,17,31,32,742.75,Pick Up LRU: 'Cathode Ray Tube [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st34,HI,1,5/22/21,17:19:10,17:31:42,17,31,42,752.44,Leave Server Box Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+st34,HI,1,5/22/21,17:19:10,17:31:43,17,31,43,753.08,Drop LRU: 'Cathode Ray Tube [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st34,HI,1,5/22/21,17:19:10,17:31:44,17,31,44,754.05,Pick Up LRU: 'Cathode Ray Tube [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st34,HI,1,5/22/21,17:19:10,17:31:46,17,31,46,756.26,Drop LRU: 'Cathode Ray Tube [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st34,HI,1,5/22/21,17:19:10,17:31:47,17,31,47,757.26,Pick Up LRU: 'Cathode Ray Tube [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st34,HI,1,5/22/21,17:19:10,17:31:50,17,31,50,760,Drop LRU: 'Cathode Ray Tube [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st34,HI,1,5/22/21,17:19:10,17:31:51,17,31,51,761.26,Pick Up LRU: 'Cathode Ray Tube [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st34,HI,1,5/22/21,17:19:10,17:31:52,17,31,52,762.58,Drop LRU: 'Cathode Ray Tube [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st34,HI,1,5/22/21,17:19:10,17:31:53,17,31,53,763.72,Pick Up LRU: 'Cathode Ray Tube [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st34,HI,1,5/22/21,17:19:10,17:31:58,17,31,58,767.99,Move to Server Box Table,,Sweep-Control-Circuit-(electrical),,,0,1,0
+st34,HI,1,5/22/21,17:19:10,17:31:59,17,31,59,768.97,Attempt to reconnect mismatched LRU: 'Cathode Ray Tube [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st34,HI,1,5/22/21,17:19:10,17:31:59,17,31,59,769.22,Drop LRU: 'Cathode Ray Tube [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st34,HI,1,5/22/21,17:19:10,17:32:00,17,32,0,770.44,Pick Up LRU: 'Cathode Ray Tube [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st34,HI,1,5/22/21,17:19:10,17:32:01,17,32,1,771.76,Drop LRU: 'Cathode Ray Tube [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st34,HI,1,5/22/21,17:19:10,17:32:03,17,32,3,773.68,Connect LRU: 'Cathode Ray Tube [SPARE]',,Sweep-Control-Circuit-(electrical),,,0,1,0
+st34,HI,1,5/22/21,17:19:10,17:32:05,17,32,5,774.97,Replaced unnecessarily Cathode Ray Tube (electrical),,Sweep-Control-Circuit-(electrical),,Cathode-Ray-Tube-(electrical),1,1,1
+st34,HI,1,5/22/21,17:19:10,17:32:20,17,32,20,790.18,Pick Up LRU: 'Sweep Generator Circuit [SPARE]',,Sweep-Control-Circuit-(electrical),,Cathode-Ray-Tube-(electrical),1,1,1
+st34,HI,1,5/22/21,17:19:10,17:32:22,17,32,22,792.1,Drop LRU: 'Sweep Generator Circuit [SPARE]',,Sweep-Control-Circuit-(electrical),,Cathode-Ray-Tube-(electrical),1,1,1
+st34,HI,1,5/22/21,17:19:10,17:32:22,17,32,22,792.32,Attempt to reconnect mismatched LRU: 'Sweep Generator Circuit [SPARE]',,Sweep-Control-Circuit-(electrical),,Cathode-Ray-Tube-(electrical),1,1,1
+st34,HI,1,5/22/21,17:19:10,17:32:24,17,32,24,794.84,Pick Up LRU: 'Sweep Generator Circuit [SPARE]',,Sweep-Control-Circuit-(electrical),,Cathode-Ray-Tube-(electrical),1,1,1
+st34,HI,1,5/22/21,17:19:10,17:32:25,17,32,25,795.32,Drop LRU: 'Sweep Generator Circuit [SPARE]',,Sweep-Control-Circuit-(electrical),,Cathode-Ray-Tube-(electrical),1,1,1
+st34,HI,1,5/22/21,17:19:10,17:32:25,17,32,25,795.43,Attempt to reconnect mismatched LRU: 'Sweep Generator Circuit [SPARE]',,Sweep-Control-Circuit-(electrical),,Cathode-Ray-Tube-(electrical),1,1,1
+st34,HI,1,5/22/21,17:19:10,17:32:25,17,32,25,795.84,Pick Up LRU: 'Sweep Generator Circuit [SPARE]',,Sweep-Control-Circuit-(electrical),,Cathode-Ray-Tube-(electrical),1,1,1
+st34,HI,1,5/22/21,17:19:10,17:32:26,17,32,26,796.3,Drop LRU: 'Sweep Generator Circuit [SPARE]',,Sweep-Control-Circuit-(electrical),,Cathode-Ray-Tube-(electrical),1,1,1
+st34,HI,1,5/22/21,17:19:10,17:32:26,17,32,26,796.43,Attempt to reconnect mismatched LRU: 'Sweep Generator Circuit [SPARE]',,Sweep-Control-Circuit-(electrical),,Cathode-Ray-Tube-(electrical),1,1,1
+st34,HI,1,5/22/21,17:19:10,17:32:28,17,32,28,798.8,Pick Up LRU: 'Sweep Generator Circuit [SPARE]',,Sweep-Control-Circuit-(electrical),,Cathode-Ray-Tube-(electrical),1,1,1
+st34,HI,1,5/22/21,17:19:10,17:32:29,17,32,29,799.36,Drop LRU: 'Sweep Generator Circuit [SPARE]',,Sweep-Control-Circuit-(electrical),,Cathode-Ray-Tube-(electrical),1,1,1
+st34,HI,1,5/22/21,17:19:10,17:32:29,17,32,29,799.5,Attempt to reconnect mismatched LRU: 'Sweep Generator Circuit [SPARE]',,Sweep-Control-Circuit-(electrical),,Cathode-Ray-Tube-(electrical),1,1,1
+st34,HI,1,5/22/21,17:19:10,17:32:35,17,32,35,805.64,Pick Up LRU: 'Sweep Generator Circuit [SPARE]',,Sweep-Control-Circuit-(electrical),,Cathode-Ray-Tube-(electrical),1,1,1
+st34,HI,1,5/22/21,17:19:10,17:32:36,17,32,36,806.39,Attempt to reconnect mismatched LRU: 'Sweep Generator Circuit [SPARE]',,Sweep-Control-Circuit-(electrical),,Cathode-Ray-Tube-(electrical),1,1,1
+st34,HI,1,5/22/21,17:19:10,17:32:37,17,32,37,807.59,Drop LRU: 'Sweep Generator Circuit [SPARE]',,Sweep-Control-Circuit-(electrical),,Cathode-Ray-Tube-(electrical),1,1,1
+st34,HI,1,5/22/21,17:19:10,17:32:37,17,32,37,807.74,Attempt to reconnect mismatched LRU: 'Sweep Generator Circuit [SPARE]',,Sweep-Control-Circuit-(electrical),,Cathode-Ray-Tube-(electrical),1,1,1
+st34,HI,1,5/22/21,17:19:10,17:32:38,17,32,38,808.19,Pick Up LRU: 'Sweep Generator Circuit [SPARE]',,Sweep-Control-Circuit-(electrical),,Cathode-Ray-Tube-(electrical),1,1,1
+st34,HI,1,5/22/21,17:19:10,17:32:38,17,32,38,808.82,Attempt to reconnect mismatched LRU: 'Sweep Generator Circuit [SPARE]',,Sweep-Control-Circuit-(electrical),,Cathode-Ray-Tube-(electrical),1,1,1
+st34,HI,1,5/22/21,17:19:10,17:32:39,17,32,39,809.33,Drop LRU: 'Sweep Generator Circuit [SPARE]',,Sweep-Control-Circuit-(electrical),,Cathode-Ray-Tube-(electrical),1,1,1
+st34,HI,1,5/22/21,17:19:10,17:32:40,17,32,40,810.46,Pick Up LRU: 'Sweep Generator Circuit [SPARE]',,Sweep-Control-Circuit-(electrical),,Cathode-Ray-Tube-(electrical),1,1,1
+st34,HI,1,5/22/21,17:19:10,17:32:40,17,32,40,810.91,Drop LRU: 'Sweep Generator Circuit [SPARE]',,Sweep-Control-Circuit-(electrical),,Cathode-Ray-Tube-(electrical),1,1,1
+st34,HI,1,5/22/21,17:19:10,17:32:41,17,32,41,811,Attempt to reconnect mismatched LRU: 'Sweep Generator Circuit [SPARE]',,Sweep-Control-Circuit-(electrical),,Cathode-Ray-Tube-(electrical),1,1,1
+st34,HI,1,5/22/21,17:19:10,17:32:49,17,32,49,819.3,Click on: 'Sweep Generator Circuit',,Sweep-Control-Circuit-(electrical),,Cathode-Ray-Tube-(electrical),1,1,1
+st34,HI,1,5/22/21,17:19:10,17:32:50,17,32,50,820.8,Disconnect LRU: 'Sweep Generator Circuit',,Sweep-Control-Circuit-(electrical),,Cathode-Ray-Tube-(electrical),1,1,1
+st34,HI,1,5/22/21,17:19:10,17:32:52,17,32,52,822.24,Pick Up LRU: 'Sweep Generator Circuit',,Sweep-Control-Circuit-(electrical),,Cathode-Ray-Tube-(electrical),1,1,1
+st34,HI,1,5/22/21,17:19:10,17:32:53,17,32,53,823.16,Drop LRU: 'Sweep Generator Circuit',,Sweep-Control-Circuit-(electrical),,Cathode-Ray-Tube-(electrical),1,1,1
+st34,HI,1,5/22/21,17:19:10,17:32:54,17,32,54,824.66,Pick Up LRU: 'Sweep Generator Circuit [SPARE]',,Sweep-Control-Circuit-(electrical),,Cathode-Ray-Tube-(electrical),1,1,1
+st34,HI,1,5/22/21,17:19:10,17:32:55,17,32,55,825.85,Drop LRU: 'Sweep Generator Circuit [SPARE]',,Sweep-Control-Circuit-(electrical),,Cathode-Ray-Tube-(electrical),1,1,1
+st34,HI,1,5/22/21,17:19:10,17:32:57,17,32,57,827.22,Connect LRU: 'Sweep Generator Circuit [SPARE]',,Sweep-Control-Circuit-(electrical),,Cathode-Ray-Tube-(electrical),1,1,1
+st34,HI,1,5/22/21,17:19:10,17:32:57,17,32,57,827.23,Move drawer: 0% open,Tracker,Sweep-Control-Circuit-(electrical),,Cathode-Ray-Tube-(electrical),1,1,1
+st34,HI,1,5/22/21,17:19:10,17:32:58,17,32,58,828.45,Replaced unnecessarily Sweep Generator Circuit (electrical),,Sweep-Control-Circuit-(electrical),,Cathode-Ray-Tube-(electrical) Sweep-Generator-Circuit-(electrical),2,1,2
+st34,HI,1,5/22/21,17:19:10,17:32:58,17,32,58,828.58,Move drawer: 0% open,Tracker,Sweep-Control-Circuit-(electrical),,Cathode-Ray-Tube-(electrical) Sweep-Generator-Circuit-(electrical),2,1,2
+st34,HI,1,5/22/21,17:19:10,17:33:04,17,33,4,834.16,Leave Server Box Table,,Sweep-Control-Circuit-(electrical),,Cathode-Ray-Tube-(electrical) Sweep-Generator-Circuit-(electrical),2,1,2
+st34,HI,1,5/22/21,17:19:10,17:33:05,17,33,5,835.24,Move to Server Box Table,,Sweep-Control-Circuit-(electrical),,Cathode-Ray-Tube-(electrical) Sweep-Generator-Circuit-(electrical),2,1,2
+st34,HI,1,5/22/21,17:19:10,17:33:11,17,33,11,841.38,Leave Server Box Table,,Sweep-Control-Circuit-(electrical),,Cathode-Ray-Tube-(electrical) Sweep-Generator-Circuit-(electrical),2,1,2
+st34,HI,1,5/22/21,17:19:10,17:33:13,17,33,13,843.61,Move to Spare Parts Table,,Sweep-Control-Circuit-(electrical),,Cathode-Ray-Tube-(electrical) Sweep-Generator-Circuit-(electrical),2,1,2
+st34,HI,1,5/22/21,17:19:10,17:33:20,17,33,20,850.26,Leave Spare Parts Table,,Sweep-Control-Circuit-(electrical),,Cathode-Ray-Tube-(electrical) Sweep-Generator-Circuit-(electrical),2,1,2
+st34,HI,1,5/22/21,17:19:10,17:33:25,17,33,25,855.84,Move to Spare Parts Table,,Sweep-Control-Circuit-(electrical),,Cathode-Ray-Tube-(electrical) Sweep-Generator-Circuit-(electrical),2,1,2
+st34,HI,1,5/22/21,17:19:10,17:33:39,17,33,39,869.64,Pick Up LRU: 'Sweep Control Circuit [SPARE]',,Sweep-Control-Circuit-(electrical),,Cathode-Ray-Tube-(electrical) Sweep-Generator-Circuit-(electrical),2,1,2
+st34,HI,1,5/22/21,17:19:10,17:33:42,17,33,42,872.75,Leave Spare Parts Table,,Sweep-Control-Circuit-(electrical),,Cathode-Ray-Tube-(electrical) Sweep-Generator-Circuit-(electrical),2,1,2
+st34,HI,1,5/22/21,17:19:10,17:33:43,17,33,43,873.06,Move to Server Box Table,,Sweep-Control-Circuit-(electrical),,Cathode-Ray-Tube-(electrical) Sweep-Generator-Circuit-(electrical),2,1,2
+st34,HI,1,5/22/21,17:19:10,17:33:45,17,33,45,875.68,Drop LRU: 'Sweep Control Circuit [SPARE]',,Sweep-Control-Circuit-(electrical),,Cathode-Ray-Tube-(electrical) Sweep-Generator-Circuit-(electrical),2,1,2
+st34,HI,1,5/22/21,17:19:10,17:33:47,17,33,47,877,Pick Up LRU: 'Sweep Control Circuit [SPARE]',,Sweep-Control-Circuit-(electrical),,Cathode-Ray-Tube-(electrical) Sweep-Generator-Circuit-(electrical),2,1,2
+st34,HI,1,5/22/21,17:19:10,17:33:48,17,33,48,878.89,Drop LRU: 'Sweep Control Circuit [SPARE]',,Sweep-Control-Circuit-(electrical),,Cathode-Ray-Tube-(electrical) Sweep-Generator-Circuit-(electrical),2,1,2
+st34,HI,1,5/22/21,17:19:10,17:33:54,17,33,54,884.72,Pick Up LRU: 'Sweep Control Circuit [SPARE]',,Sweep-Control-Circuit-(electrical),,Cathode-Ray-Tube-(electrical) Sweep-Generator-Circuit-(electrical),2,1,2
+st34,HI,1,5/22/21,17:19:10,17:33:56,17,33,56,886.04,Drop LRU: 'Sweep Control Circuit [SPARE]',,Sweep-Control-Circuit-(electrical),,Cathode-Ray-Tube-(electrical) Sweep-Generator-Circuit-(electrical),2,1,2
+st34,HI,1,5/22/21,17:19:10,17:33:57,17,33,57,887.18,Pick Up LRU: 'Sweep Control Circuit [SPARE]',,Sweep-Control-Circuit-(electrical),,Cathode-Ray-Tube-(electrical) Sweep-Generator-Circuit-(electrical),2,1,2
+st34,HI,1,5/22/21,17:19:10,17:33:58,17,33,58,888.6,Drop LRU: 'Sweep Control Circuit [SPARE]',,Sweep-Control-Circuit-(electrical),,Cathode-Ray-Tube-(electrical) Sweep-Generator-Circuit-(electrical),2,1,2
+st34,HI,1,5/22/21,17:19:10,17:33:59,17,33,59,889.61,Pick Up LRU: 'Sweep Control Circuit [SPARE]',,Sweep-Control-Circuit-(electrical),,Cathode-Ray-Tube-(electrical) Sweep-Generator-Circuit-(electrical),2,1,2
+st34,HI,1,5/22/21,17:19:10,17:34:09,17,34,9,899.32,Drop LRU: 'Sweep Control Circuit [SPARE]',,Sweep-Control-Circuit-(electrical),,Cathode-Ray-Tube-(electrical) Sweep-Generator-Circuit-(electrical),2,1,2
+st34,HI,1,5/22/21,17:19:10,17:34:10,17,34,10,900.52,Connect LRU: 'Sweep Control Circuit [SPARE]',,Sweep-Control-Circuit-(electrical),,Cathode-Ray-Tube-(electrical) Sweep-Generator-Circuit-(electrical),2,1,2
+st34,HI,1,5/22/21,17:19:10,17:34:11,17,34,11,901.61,Fixed Sweep Control Circuit (electrical),,,Sweep-Control-Circuit-(electrical),Cathode-Ray-Tube-(electrical) Sweep-Generator-Circuit-(electrical),3,0,2
+st34,HI,1,5/22/21,17:19:10,17:34:18,17,34,18,908.62,Submit?,,,Sweep-Control-Circuit-(electrical),Cathode-Ray-Tube-(electrical) Sweep-Generator-Circuit-(electrical),3,0,2
+st34,HI,1,5/22/21,17:19:10,17:34:20,17,34,20,910.77,Submit Confirm,,,Sweep-Control-Circuit-(electrical),Cathode-Ray-Tube-(electrical) Sweep-Generator-Circuit-(electrical),3,0,2
+st34,HI,2,5/22/21,17:34:25,17:34:25,17,34,25,0,Make electrical flaw: AFC Mixer,,AFC-Mixer-(electrical),,,0,1,0
+st34,HI,2,5/22/21,17:34:25,17:34:25,17,34,25,0,Start (High Fidelity Sim),,AFC-Mixer-(electrical),,,0,1,0
+st34,HI,2,5/22/21,17:34:25,17:34:25,17,34,25,0.03,Leave Server Box Table,,AFC-Mixer-(electrical),,,0,1,0
+st34,HI,2,5/22/21,17:34:25,17:34:34,17,34,34,8.42,Move to Server Box Table,,AFC-Mixer-(electrical),,,0,1,0
+st34,HI,2,5/22/21,17:34:25,17:34:38,17,34,38,13.07,Swing front panel: 0% open,,AFC-Mixer-(electrical),,,0,1,0
+st34,HI,2,5/22/21,17:34:25,17:34:43,17,34,43,17.84,Swing front panel: 45.1% open,,AFC-Mixer-(electrical),,,0,1,0
+st34,HI,2,5/22/21,17:34:25,17:34:53,17,34,53,27.58,Move drawer: 6% open,Tracker,AFC-Mixer-(electrical),,,0,1,0
+st34,HI,2,5/22/21,17:34:25,17:34:55,17,34,55,29.66,Move drawer: 92.2% open,Tracker,AFC-Mixer-(electrical),,,0,1,0
+st34,HI,2,5/22/21,17:34:25,17:35:01,17,35,1,35.34,Move drawer: 0% open,Tracker,AFC-Mixer-(electrical),,,0,1,0
+st34,HI,2,5/22/21,17:34:25,17:35:04,17,35,4,39.05,Move drawer: 78.5% open,Processor,AFC-Mixer-(electrical),,,0,1,0
+st34,HI,2,5/22/21,17:34:25,17:35:39,17,35,39,73.87,Move drawer: 0% open,Tracker,AFC-Mixer-(electrical),,,0,1,0
+st34,HI,2,5/22/21,17:34:25,17:35:41,17,35,41,75.72,Move drawer: 0% open,Tracker,AFC-Mixer-(electrical),,,0,1,0
+st34,HI,2,5/22/21,17:34:25,17:35:44,17,35,44,78.69,Move drawer: 97.2% open,Processor,AFC-Mixer-(electrical),,,0,1,0
+st34,HI,2,5/22/21,17:34:25,17:37:32,17,37,32,186.31,Click on: 'Mixer Detector',,AFC-Mixer-(electrical),,,0,1,0
+st34,HI,2,5/22/21,17:34:25,17:37:33,17,37,33,187.73,Cancel disconnect: 'Mixer Detector',,AFC-Mixer-(electrical),,,0,1,0
+st34,HI,2,5/22/21,17:34:25,17:37:33,17,37,33,187.76,Move drawer: 95.4% open,Processor,AFC-Mixer-(electrical),,,0,1,0
+st34,HI,2,5/22/21,17:34:25,17:37:34,17,37,34,189.23,Click on: 'AFC Mixer',,AFC-Mixer-(electrical),,,0,1,0
+st34,HI,2,5/22/21,17:34:25,17:37:36,17,37,36,190.69,Disconnect LRU: 'AFC Mixer',,AFC-Mixer-(electrical),,,0,1,0
+st34,HI,2,5/22/21,17:34:25,17:37:36,17,37,36,190.72,Move drawer: 95.4% open,Processor,AFC-Mixer-(electrical),,,0,1,0
+st34,HI,2,5/22/21,17:34:25,17:37:37,17,37,37,191.75,Pick Up LRU: 'AFC Mixer',,AFC-Mixer-(electrical),,,0,1,0
+st34,HI,2,5/22/21,17:34:25,17:37:38,17,37,38,192.82,Drop LRU: 'AFC Mixer',,AFC-Mixer-(electrical),,,0,1,0
+st34,HI,2,5/22/21,17:34:25,17:37:41,17,37,41,195.37,Leave Server Box Table,,AFC-Mixer-(electrical),,,0,1,0
+st34,HI,2,5/22/21,17:34:25,17:37:41,17,37,41,195.78,Move to Spare Parts Table,,AFC-Mixer-(electrical),,,0,1,0
+st34,HI,2,5/22/21,17:34:25,17:37:52,17,37,52,207.13,Pick Up LRU: 'AFC Mixer [SPARE]',,AFC-Mixer-(electrical),,,0,1,0
+st34,HI,2,5/22/21,17:34:25,17:37:54,17,37,54,208.81,Drop LRU: 'AFC Mixer [SPARE]',,AFC-Mixer-(electrical),,,0,1,0
+st34,HI,2,5/22/21,17:34:25,17:37:55,17,37,55,210.15,Pick Up LRU: 'AFC Mixer [SPARE]',,AFC-Mixer-(electrical),,,0,1,0
+st34,HI,2,5/22/21,17:34:25,17:37:56,17,37,56,211.3,Drop LRU: 'AFC Mixer [SPARE]',,AFC-Mixer-(electrical),,,0,1,0
+st34,HI,2,5/22/21,17:34:25,17:37:57,17,37,57,212.25,Pick Up LRU: 'AFC Mixer [SPARE]',,AFC-Mixer-(electrical),,,0,1,0
+st34,HI,2,5/22/21,17:34:25,17:37:58,17,37,58,212.79,Drop LRU: 'AFC Mixer [SPARE]',,AFC-Mixer-(electrical),,,0,1,0
+st34,HI,2,5/22/21,17:34:25,17:38:01,17,38,1,215.42,Leave Spare Parts Table,,AFC-Mixer-(electrical),,,0,1,0
+st34,HI,2,5/22/21,17:34:25,17:38:01,17,38,1,216.27,Pick Up LRU: 'AFC Mixer [SPARE]',,AFC-Mixer-(electrical),,,0,1,0
+st34,HI,2,5/22/21,17:34:25,17:38:03,17,38,3,217.84,Drop LRU: 'AFC Mixer [SPARE]',,AFC-Mixer-(electrical),,,0,1,0
+st34,HI,2,5/22/21,17:34:25,17:38:05,17,38,5,219.31,Move to Server Box Table,,AFC-Mixer-(electrical),,,0,1,0
+st34,HI,2,5/22/21,17:34:25,17:38:08,17,38,8,223.27,Pick Up LRU: 'AFC Mixer [SPARE]',,AFC-Mixer-(electrical),,,0,1,0
+st34,HI,2,5/22/21,17:34:25,17:38:16,17,38,16,230.41,Drop LRU: 'AFC Mixer [SPARE]',,AFC-Mixer-(electrical),,,0,1,0
+st34,HI,2,5/22/21,17:34:25,17:38:17,17,38,17,231.64,Pick Up LRU: 'AFC Mixer',,AFC-Mixer-(electrical),,,0,1,0
+st34,HI,2,5/22/21,17:34:25,17:38:18,17,38,18,232.72,Drop LRU: 'AFC Mixer',,AFC-Mixer-(electrical),,,0,1,0
+st34,HI,2,5/22/21,17:34:25,17:38:19,17,38,19,233.71,Pick Up LRU: 'AFC Mixer',,AFC-Mixer-(electrical),,,0,1,0
+st34,HI,2,5/22/21,17:34:25,17:38:20,17,38,20,234.79,Drop LRU: 'AFC Mixer',,AFC-Mixer-(electrical),,,0,1,0
+st34,HI,2,5/22/21,17:34:25,17:38:21,17,38,21,235.94,Pick Up LRU: 'AFC Mixer',,AFC-Mixer-(electrical),,,0,1,0
+st34,HI,2,5/22/21,17:34:25,17:38:22,17,38,22,236.74,Drop LRU: 'AFC Mixer',,AFC-Mixer-(electrical),,,0,1,0
+st34,HI,2,5/22/21,17:34:25,17:38:23,17,38,23,237.56,Pick Up LRU: 'AFC Mixer',,AFC-Mixer-(electrical),,,0,1,0
+st34,HI,2,5/22/21,17:34:25,17:38:24,17,38,24,238.36,Drop LRU: 'AFC Mixer',,AFC-Mixer-(electrical),,,0,1,0
+st34,HI,2,5/22/21,17:34:25,17:38:24,17,38,24,239.25,Pick Up LRU: 'AFC Mixer',,AFC-Mixer-(electrical),,,0,1,0
+st34,HI,2,5/22/21,17:34:25,17:38:25,17,38,25,240.15,Drop LRU: 'AFC Mixer',,AFC-Mixer-(electrical),,,0,1,0
+st34,HI,2,5/22/21,17:34:25,17:38:26,17,38,26,241,Pick Up LRU: 'AFC Mixer',,AFC-Mixer-(electrical),,,0,1,0
+st34,HI,2,5/22/21,17:34:25,17:38:27,17,38,27,241.9,Drop LRU: 'AFC Mixer',,AFC-Mixer-(electrical),,,0,1,0
+st34,HI,2,5/22/21,17:34:25,17:38:29,17,38,29,244.07,Pick Up LRU: 'AFC Mixer',,AFC-Mixer-(electrical),,,0,1,0
+st34,HI,2,5/22/21,17:34:25,17:38:30,17,38,30,244.77,Drop LRU: 'AFC Mixer',,AFC-Mixer-(electrical),,,0,1,0
+st34,HI,2,5/22/21,17:34:25,17:38:31,17,38,31,245.83,Pick Up LRU: 'AFC Mixer',,AFC-Mixer-(electrical),,,0,1,0
+st34,HI,2,5/22/21,17:34:25,17:38:34,17,38,34,249.12,Drop LRU: 'AFC Mixer',,AFC-Mixer-(electrical),,,0,1,0
+st34,HI,2,5/22/21,17:34:25,17:38:35,17,38,35,250.14,Pick Up LRU: 'AFC Mixer',,AFC-Mixer-(electrical),,,0,1,0
+st34,HI,2,5/22/21,17:34:25,17:38:36,17,38,36,251.28,Drop LRU: 'AFC Mixer',,AFC-Mixer-(electrical),,,0,1,0
+st34,HI,2,5/22/21,17:34:25,17:38:38,17,38,38,252.86,Pick Up LRU: 'AFC Mixer',,AFC-Mixer-(electrical),,,0,1,0
+st34,HI,2,5/22/21,17:34:25,17:38:40,17,38,40,254.76,Drop LRU: 'AFC Mixer',,AFC-Mixer-(electrical),,,0,1,0
+st34,HI,2,5/22/21,17:34:25,17:38:43,17,38,43,258.17,Pick Up LRU: 'AFC Mixer',,AFC-Mixer-(electrical),,,0,1,0
+st34,HI,2,5/22/21,17:34:25,17:38:51,17,38,51,266,Drop LRU: 'AFC Mixer',,AFC-Mixer-(electrical),,,0,1,0
+st34,HI,2,5/22/21,17:34:25,17:38:53,17,38,53,267.63,Connect LRU: 'AFC Mixer',,AFC-Mixer-(electrical),,,0,1,0
+st34,HI,2,5/22/21,17:34:25,17:40:37,17,40,37,371.93,Move drawer: 95.8% open,Tracker,AFC-Mixer-(electrical),,,0,1,0
+st34,HI,2,5/22/21,17:34:25,17:40:39,17,40,39,373.75,Move drawer: -5.1% open,Tracker,AFC-Mixer-(electrical),,,0,1,0
+st34,HI,2,5/22/21,17:34:25,17:43:13,17,43,13,527.65,Move drawer: 95.4% open,Processor,AFC-Mixer-(electrical),,,0,1,0
+st34,HI,2,5/22/21,17:34:25,17:43:37,17,43,37,551.59,Click on: 'Video Amplifier',,AFC-Mixer-(electrical),,,0,1,0
+st34,HI,2,5/22/21,17:34:25,17:43:39,17,43,39,554,Disconnect LRU: 'Video Amplifier',,AFC-Mixer-(electrical),,,0,1,0
+st34,HI,2,5/22/21,17:34:25,17:43:40,17,43,40,555.13,Connect LRU: 'Video Amplifier',,AFC-Mixer-(electrical),,,0,1,0
+st34,HI,2,5/22/21,17:34:25,17:43:42,17,43,42,556.78,Click on: 'Video Amplifier',,AFC-Mixer-(electrical),,,0,1,0
+st34,HI,2,5/22/21,17:34:25,17:43:43,17,43,43,558.13,Disconnect LRU: 'Video Amplifier',,AFC-Mixer-(electrical),,,0,1,0
+st34,HI,2,5/22/21,17:34:25,17:43:45,17,43,45,559.52,Connect LRU: 'Video Amplifier',,AFC-Mixer-(electrical),,,0,1,0
+st34,HI,2,5/22/21,17:34:25,17:43:45,17,43,45,559.53,Move drawer: 95.4% open,Processor,AFC-Mixer-(electrical),,,0,1,0
+st34,HI,2,5/22/21,17:34:25,17:43:45,17,43,45,560.09,Click on: 'Video Amplifier',,AFC-Mixer-(electrical),,,0,1,0
+st34,HI,2,5/22/21,17:34:25,17:43:46,17,43,46,561.16,Disconnect LRU: 'Video Amplifier',,AFC-Mixer-(electrical),,,0,1,0
+st34,HI,2,5/22/21,17:34:25,17:43:47,17,43,47,561.77,Connect LRU: 'Video Amplifier',,AFC-Mixer-(electrical),,,0,1,0
+st34,HI,2,5/22/21,17:34:25,17:43:48,17,43,48,562.62,Click on: 'Video Amplifier',,AFC-Mixer-(electrical),,,0,1,0
+st34,HI,2,5/22/21,17:34:25,17:43:50,17,43,50,564.47,Disconnect LRU: 'Video Amplifier',,AFC-Mixer-(electrical),,,0,1,0
+st34,HI,2,5/22/21,17:34:25,17:43:51,17,43,51,565.39,Connect LRU: 'Video Amplifier',,AFC-Mixer-(electrical),,,0,1,0
+st34,HI,2,5/22/21,17:34:25,17:43:55,17,43,55,569.39,Click on: 'Video Amplifier',,AFC-Mixer-(electrical),,,0,1,0
+st34,HI,2,5/22/21,17:34:25,17:43:56,17,43,56,571,Disconnect LRU: 'Video Amplifier',,AFC-Mixer-(electrical),,,0,1,0
+st34,HI,2,5/22/21,17:34:25,17:43:56,17,43,56,571.01,Move drawer: 95.4% open,Processor,AFC-Mixer-(electrical),,,0,1,0
+st34,HI,2,5/22/21,17:34:25,17:43:59,17,43,59,574.03,Cancel connect: 'Video Amplifier',,AFC-Mixer-(electrical),,,0,1,0
+st34,HI,2,5/22/21,17:34:25,17:44:00,17,44,0,575.02,Pick Up LRU: 'Video Amplifier',,AFC-Mixer-(electrical),,,0,1,0
+st34,HI,2,5/22/21,17:34:25,17:44:02,17,44,2,577.08,Drop LRU: 'Video Amplifier',,AFC-Mixer-(electrical),,,0,1,0
+st34,HI,2,5/22/21,17:34:25,17:44:07,17,44,7,581.87,Leave Server Box Table,,AFC-Mixer-(electrical),,,0,1,0
+st34,HI,2,5/22/21,17:34:25,17:44:08,17,44,8,582.37,Move to Spare Parts Table,,AFC-Mixer-(electrical),,,0,1,0
+st34,HI,2,5/22/21,17:34:25,17:44:11,17,44,11,586.02,Pick Up LRU: 'Video Amplifier [SPARE]',,AFC-Mixer-(electrical),,,0,1,0
+st34,HI,2,5/22/21,17:34:25,17:44:14,17,44,14,588.69,Leave Spare Parts Table,,AFC-Mixer-(electrical),,,0,1,0
+st34,HI,2,5/22/21,17:34:25,17:44:14,17,44,14,589.05,Move to Server Box Table,,AFC-Mixer-(electrical),,,0,1,0
+st34,HI,2,5/22/21,17:34:25,17:44:15,17,44,15,589.93,Drop LRU: 'Video Amplifier [SPARE]',,AFC-Mixer-(electrical),,,0,1,0
+st34,HI,2,5/22/21,17:34:25,17:44:18,17,44,18,592.35,Pick Up LRU: 'Video Amplifier [SPARE]',,AFC-Mixer-(electrical),,,0,1,0
+st34,HI,2,5/22/21,17:34:25,17:44:21,17,44,21,595.59,Drop LRU: 'Video Amplifier [SPARE]',,AFC-Mixer-(electrical),,,0,1,0
+st34,HI,2,5/22/21,17:34:25,17:44:23,17,44,23,597.35,Pick Up LRU: 'Video Amplifier [SPARE]',,AFC-Mixer-(electrical),,,0,1,0
+st34,HI,2,5/22/21,17:34:25,17:44:27,17,44,27,601.38,Drop LRU: 'Video Amplifier [SPARE]',,AFC-Mixer-(electrical),,,0,1,0
+st34,HI,2,5/22/21,17:34:25,17:44:27,17,44,27,601.6,Move drawer: 95.4% open,Processor,AFC-Mixer-(electrical),,,0,1,0
+st34,HI,2,5/22/21,17:34:25,17:44:28,17,44,28,602.58,Pick Up LRU: 'Video Amplifier [SPARE]',,AFC-Mixer-(electrical),,,0,1,0
+st34,HI,2,5/22/21,17:34:25,17:44:28,17,44,28,603.24,Drop LRU: 'Video Amplifier [SPARE]',,AFC-Mixer-(electrical),,,0,1,0
+st34,HI,2,5/22/21,17:34:25,17:44:29,17,44,29,604.01,Pick Up LRU: 'Video Amplifier [SPARE]',,AFC-Mixer-(electrical),,,0,1,0
+st34,HI,2,5/22/21,17:34:25,17:44:34,17,44,34,609.18,Drop LRU: 'Video Amplifier [SPARE]',,AFC-Mixer-(electrical),,,0,1,0
+st34,HI,2,5/22/21,17:34:25,17:44:35,17,44,35,610.01,Connect LRU: 'Video Amplifier [SPARE]',,AFC-Mixer-(electrical),,,0,1,0
+st34,HI,2,5/22/21,17:34:25,17:44:35,17,44,35,610.02,Move drawer: 95.4% open,Processor,AFC-Mixer-(electrical),,,0,1,0
+st34,HI,2,5/22/21,17:34:25,17:44:36,17,44,36,610.77,Replaced unnecessarily Video Amplifier (electrical),,AFC-Mixer-(electrical),,Video-Amplifier-(electrical),1,1,1
+st34,HI,2,5/22/21,17:34:25,17:44:36,17,44,36,610.8,Move drawer: 95.4% open,Processor,AFC-Mixer-(electrical),,Video-Amplifier-(electrical),1,1,1
+st34,HI,2,5/22/21,17:34:25,17:45:47,17,45,47,681.45,Move drawer: 95.4% open,Processor,AFC-Mixer-(electrical),,Video-Amplifier-(electrical),1,1,1
+st34,HI,2,5/22/21,17:34:25,17:45:49,17,45,49,683.48,Click on: 'Video Detector',,AFC-Mixer-(electrical),,Video-Amplifier-(electrical),1,1,1
+st34,HI,2,5/22/21,17:34:25,17:45:50,17,45,50,684.67,Disconnect LRU: 'Video Detector',,AFC-Mixer-(electrical),,Video-Amplifier-(electrical),1,1,1
+st34,HI,2,5/22/21,17:34:25,17:45:50,17,45,50,684.69,Move drawer: 95.4% open,Processor,AFC-Mixer-(electrical),,Video-Amplifier-(electrical),1,1,1
+st34,HI,2,5/22/21,17:34:25,17:45:51,17,45,51,685.31,Pick Up LRU: 'Video Detector',,AFC-Mixer-(electrical),,Video-Amplifier-(electrical),1,1,1
+st34,HI,2,5/22/21,17:34:25,17:45:53,17,45,53,688.21,Drop LRU: 'Video Detector',,AFC-Mixer-(electrical),,Video-Amplifier-(electrical),1,1,1
+st34,HI,2,5/22/21,17:34:25,17:45:58,17,45,58,692.5,Move drawer: 95.4% open,Processor,AFC-Mixer-(electrical),,Video-Amplifier-(electrical),1,1,1
+st34,HI,2,5/22/21,17:34:25,17:45:59,17,45,59,693.53,Leave Server Box Table,,AFC-Mixer-(electrical),,Video-Amplifier-(electrical),1,1,1
+st34,HI,2,5/22/21,17:34:25,17:46:00,17,46,0,695.25,Move to Spare Parts Table,,AFC-Mixer-(electrical),,Video-Amplifier-(electrical),1,1,1
+st34,HI,2,5/22/21,17:34:25,17:46:04,17,46,4,698.42,Pick Up LRU: 'Video Detector [SPARE]',,AFC-Mixer-(electrical),,Video-Amplifier-(electrical),1,1,1
+st34,HI,2,5/22/21,17:34:25,17:46:05,17,46,5,699.88,Leave Spare Parts Table,,AFC-Mixer-(electrical),,Video-Amplifier-(electrical),1,1,1
+st34,HI,2,5/22/21,17:34:25,17:46:08,17,46,8,703.01,Drop LRU: 'Video Detector [SPARE]',,AFC-Mixer-(electrical),,Video-Amplifier-(electrical),1,1,1
+st34,HI,2,5/22/21,17:34:25,17:46:11,17,46,11,705.46,Pick Up LRU: 'Video Detector [SPARE]',,AFC-Mixer-(electrical),,Video-Amplifier-(electrical),1,1,1
+st34,HI,2,5/22/21,17:34:25,17:46:12,17,46,12,706.46,Drop LRU: 'Video Detector [SPARE]',,AFC-Mixer-(electrical),,Video-Amplifier-(electrical),1,1,1
+st34,HI,2,5/22/21,17:34:25,17:46:13,17,46,13,707.9,Pick Up LRU: 'Video Detector [SPARE]',,AFC-Mixer-(electrical),,Video-Amplifier-(electrical),1,1,1
+st34,HI,2,5/22/21,17:34:25,17:46:14,17,46,14,708.95,Drop LRU: 'Video Detector [SPARE]',,AFC-Mixer-(electrical),,Video-Amplifier-(electrical),1,1,1
+st34,HI,2,5/22/21,17:34:25,17:46:15,17,46,15,710.3,Pick Up LRU: 'Video Detector [SPARE]',,AFC-Mixer-(electrical),,Video-Amplifier-(electrical),1,1,1
+st34,HI,2,5/22/21,17:34:25,17:46:19,17,46,19,713.45,Drop LRU: 'Video Detector [SPARE]',,AFC-Mixer-(electrical),,Video-Amplifier-(electrical),1,1,1
+st34,HI,2,5/22/21,17:34:25,17:46:20,17,46,20,714.37,Pick Up LRU: 'Video Detector [SPARE]',,AFC-Mixer-(electrical),,Video-Amplifier-(electrical),1,1,1
+st34,HI,2,5/22/21,17:34:25,17:46:21,17,46,21,715.44,Drop LRU: 'Video Detector [SPARE]',,AFC-Mixer-(electrical),,Video-Amplifier-(electrical),1,1,1
+st34,HI,2,5/22/21,17:34:25,17:46:31,17,46,31,726.3,Pick Up LRU: 'Video Detector [SPARE]',,AFC-Mixer-(electrical),,Video-Amplifier-(electrical),1,1,1
+st34,HI,2,5/22/21,17:34:25,17:46:38,17,46,38,732.45,Move to Server Box Table,,AFC-Mixer-(electrical),,Video-Amplifier-(electrical),1,1,1
+st34,HI,2,5/22/21,17:34:25,17:46:42,17,46,42,736.64,Drop LRU: 'Video Detector [SPARE]',,AFC-Mixer-(electrical),,Video-Amplifier-(electrical),1,1,1
+st34,HI,2,5/22/21,17:34:25,17:46:50,17,46,50,744.35,Swing front panel: 89.2% open,,AFC-Mixer-(electrical),,Video-Amplifier-(electrical),1,1,1
+st34,HI,2,5/22/21,17:34:25,17:46:51,17,46,51,745.57,Swing front panel: 33.6% open,,AFC-Mixer-(electrical),,Video-Amplifier-(electrical),1,1,1
+st34,HI,2,5/22/21,17:34:25,17:46:52,17,46,52,746.76,Pick Up LRU: 'Video Detector [SPARE]',,AFC-Mixer-(electrical),,Video-Amplifier-(electrical),1,1,1
+st34,HI,2,5/22/21,17:34:25,17:46:54,17,46,54,749.09,Drop LRU: 'Video Detector [SPARE]',,AFC-Mixer-(electrical),,Video-Amplifier-(electrical),1,1,1
+st34,HI,2,5/22/21,17:34:25,17:46:56,17,46,56,750.51,Pick Up LRU: 'Video Detector [SPARE]',,AFC-Mixer-(electrical),,Video-Amplifier-(electrical),1,1,1
+st34,HI,2,5/22/21,17:34:25,17:46:57,17,46,57,751.34,Drop LRU: 'Video Detector [SPARE]',,AFC-Mixer-(electrical),,Video-Amplifier-(electrical),1,1,1
+st34,HI,2,5/22/21,17:34:25,17:46:57,17,46,57,752.26,Pick Up LRU: 'Video Detector [SPARE]',,AFC-Mixer-(electrical),,Video-Amplifier-(electrical),1,1,1
+st34,HI,2,5/22/21,17:34:25,17:46:58,17,46,58,752.98,Drop LRU: 'Video Detector [SPARE]',,AFC-Mixer-(electrical),,Video-Amplifier-(electrical),1,1,1
+st34,HI,2,5/22/21,17:34:25,17:47:00,17,47,0,755.01,Pick Up LRU: 'Video Detector [SPARE]',,AFC-Mixer-(electrical),,Video-Amplifier-(electrical),1,1,1
+st34,HI,2,5/22/21,17:34:25,17:47:01,17,47,1,755.9,Drop LRU: 'Video Detector [SPARE]',,AFC-Mixer-(electrical),,Video-Amplifier-(electrical),1,1,1
+st34,HI,2,5/22/21,17:34:25,17:47:02,17,47,2,757.1,Pick Up LRU: 'Video Detector [SPARE]',,AFC-Mixer-(electrical),,Video-Amplifier-(electrical),1,1,1
+st34,HI,2,5/22/21,17:34:25,17:47:04,17,47,4,758.45,Drop LRU: 'Video Detector [SPARE]',,AFC-Mixer-(electrical),,Video-Amplifier-(electrical),1,1,1
+st34,HI,2,5/22/21,17:34:25,17:47:07,17,47,7,761.57,Pick Up LRU: 'Video Detector [SPARE]',,AFC-Mixer-(electrical),,Video-Amplifier-(electrical),1,1,1
+st34,HI,2,5/22/21,17:34:25,17:47:09,17,47,9,763.83,Drop LRU: 'Video Detector [SPARE]',,AFC-Mixer-(electrical),,Video-Amplifier-(electrical),1,1,1
+st34,HI,2,5/22/21,17:34:25,17:47:11,17,47,11,765.35,Leave Server Box Table,,AFC-Mixer-(electrical),,Video-Amplifier-(electrical),1,1,1
+st34,HI,2,5/22/21,17:34:25,17:47:12,17,47,12,766.86,Pick Up LRU: 'Video Detector [SPARE]',,AFC-Mixer-(electrical),,Video-Amplifier-(electrical),1,1,1
+st34,HI,2,5/22/21,17:34:25,17:47:14,17,47,14,768.32,Drop LRU: 'Video Detector [SPARE]',,AFC-Mixer-(electrical),,Video-Amplifier-(electrical),1,1,1
+st34,HI,2,5/22/21,17:34:25,17:47:16,17,47,16,771.02,Move to Server Box Table,,AFC-Mixer-(electrical),,Video-Amplifier-(electrical),1,1,1
+st34,HI,2,5/22/21,17:34:25,17:47:17,17,47,17,771.78,Leave Server Box Table,,AFC-Mixer-(electrical),,Video-Amplifier-(electrical),1,1,1
+st34,HI,2,5/22/21,17:34:25,17:47:19,17,47,19,773.51,Move to Server Box Table,,AFC-Mixer-(electrical),,Video-Amplifier-(electrical),1,1,1
+st34,HI,2,5/22/21,17:34:25,17:47:22,17,47,22,776.58,Swing front panel: 61.6% open,,AFC-Mixer-(electrical),,Video-Amplifier-(electrical),1,1,1
+st34,HI,2,5/22/21,17:34:25,17:47:23,17,47,23,778.1,Pick Up LRU: 'Video Detector [SPARE]',,AFC-Mixer-(electrical),,Video-Amplifier-(electrical),1,1,1
+st34,HI,2,5/22/21,17:34:25,17:47:31,17,47,31,785.73,Drop LRU: 'Video Detector [SPARE]',,AFC-Mixer-(electrical),,Video-Amplifier-(electrical),1,1,1
+st34,HI,2,5/22/21,17:34:25,17:47:32,17,47,32,786.96,Connect LRU: 'Video Detector [SPARE]',,AFC-Mixer-(electrical),,Video-Amplifier-(electrical),1,1,1
+st34,HI,2,5/22/21,17:34:25,17:47:33,17,47,33,787.81,Replaced unnecessarily Video Detector (electrical),,AFC-Mixer-(electrical),,Video-Amplifier-(electrical) Video-Detector-(electrical),2,1,2
+st34,HI,2,5/22/21,17:34:25,17:47:40,17,47,40,794.58,Submit?,,AFC-Mixer-(electrical),,Video-Amplifier-(electrical) Video-Detector-(electrical),2,1,2
+st34,HI,2,5/22/21,17:34:25,17:47:41,17,47,41,795.72,Submit Confirm,,AFC-Mixer-(electrical),,Video-Amplifier-(electrical) Video-Detector-(electrical),2,1,2
+st34,HI,3,5/22/21,17:47:46,17:47:46,17,47,46,0,Make electrical flaw: RF Amplifier 2,,RF-Amplifier-2-(electrical),,,0,1,0
+st34,HI,3,5/22/21,17:47:46,17:47:46,17,47,46,0,Start (High Fidelity Sim),,RF-Amplifier-2-(electrical),,,0,1,0
+st34,HI,3,5/22/21,17:47:46,17:47:46,17,47,46,0.04,Leave Server Box Table,,RF-Amplifier-2-(electrical),,,0,1,0
+st34,HI,3,5/22/21,17:47:46,17:47:53,17,47,53,6.78,Move to Server Box Table,,RF-Amplifier-2-(electrical),,,0,1,0
+st34,HI,3,5/22/21,17:47:46,17:47:58,17,47,58,12.11,Swing front panel: 49.4% open,,RF-Amplifier-2-(electrical),,,0,1,0
+st34,HI,3,5/22/21,17:47:46,17:48:02,17,48,2,15.73,Move drawer: 95.4% open,Transmitter,RF-Amplifier-2-(electrical),,,0,1,0
+st34,HI,3,5/22/21,17:47:46,17:48:44,17,48,44,58.47,Click on: 'RF Amplifier 2',,RF-Amplifier-2-(electrical),,,0,1,0
+st34,HI,3,5/22/21,17:47:46,17:48:46,17,48,46,60.45,Disconnect LRU: 'RF Amplifier 2',,RF-Amplifier-2-(electrical),,,0,1,0
+st34,HI,3,5/22/21,17:47:46,17:48:48,17,48,48,62.25,Pick Up LRU: 'RF Amplifier 2',,RF-Amplifier-2-(electrical),,,0,1,0
+st34,HI,3,5/22/21,17:47:46,17:48:49,17,48,49,63.26,Drop LRU: 'RF Amplifier 2',,RF-Amplifier-2-(electrical),,,0,1,0
+st34,HI,3,5/22/21,17:47:46,17:48:51,17,48,51,64.62,Cancel connect: 'RF Amplifier 2',,RF-Amplifier-2-(electrical),,,0,1,0
+st34,HI,3,5/22/21,17:47:46,17:48:51,17,48,51,65.13,Pick Up LRU: 'RF Amplifier 2',,RF-Amplifier-2-(electrical),,,0,1,0
+st34,HI,3,5/22/21,17:47:46,17:48:54,17,48,54,68,Drop LRU: 'RF Amplifier 2',,RF-Amplifier-2-(electrical),,,0,1,0
+st34,HI,3,5/22/21,17:47:46,17:48:54,17,48,54,68.06,Pick Up LRU: 'RF Amplifier 2',,RF-Amplifier-2-(electrical),,,0,1,0
+st34,HI,3,5/22/21,17:47:46,17:48:58,17,48,58,71.65,Drop LRU: 'RF Amplifier 2',,RF-Amplifier-2-(electrical),,,0,1,0
+st34,HI,3,5/22/21,17:47:46,17:49:00,17,49,0,74.15,Leave Server Box Table,,RF-Amplifier-2-(electrical),,,0,1,0
+st34,HI,3,5/22/21,17:47:46,17:49:01,17,49,1,74.63,Move to Spare Parts Table,,RF-Amplifier-2-(electrical),,,0,1,0
+st34,HI,3,5/22/21,17:47:46,17:49:07,17,49,7,81.4,Pick Up LRU: 'RF Amplifier 2 [SPARE]',,RF-Amplifier-2-(electrical),,,0,1,0
+st34,HI,3,5/22/21,17:47:46,17:49:10,17,49,10,84.16,Leave Spare Parts Table,,RF-Amplifier-2-(electrical),,,0,1,0
+st34,HI,3,5/22/21,17:47:46,17:49:10,17,49,10,84.54,Move to Server Box Table,,RF-Amplifier-2-(electrical),,,0,1,0
+st34,HI,3,5/22/21,17:47:46,17:49:12,17,49,12,86.42,Drop LRU: 'RF Amplifier 2 [SPARE]',,RF-Amplifier-2-(electrical),,,0,1,0
+st34,HI,3,5/22/21,17:47:46,17:49:16,17,49,16,90.08,Pick Up LRU: 'RF Amplifier 2 [SPARE]',,RF-Amplifier-2-(electrical),,,0,1,0
+st34,HI,3,5/22/21,17:47:46,17:49:21,17,49,21,94.74,Drop LRU: 'RF Amplifier 2 [SPARE]',,RF-Amplifier-2-(electrical),,,0,1,0
+st34,HI,3,5/22/21,17:47:46,17:49:24,17,49,24,98.41,Pick Up LRU: 'RF Amplifier 2 [SPARE]',,RF-Amplifier-2-(electrical),,,0,1,0
+st34,HI,3,5/22/21,17:47:46,17:49:29,17,49,29,102.66,Drop LRU: 'RF Amplifier 2 [SPARE]',,RF-Amplifier-2-(electrical),,,0,1,0
+st34,HI,3,5/22/21,17:47:46,17:49:32,17,49,32,106.4,Pick Up LRU: 'RF Amplifier 2 [SPARE]',,RF-Amplifier-2-(electrical),,,0,1,0
+st34,HI,3,5/22/21,17:47:46,17:49:44,17,49,44,118,Drop LRU: 'RF Amplifier 2 [SPARE]',,RF-Amplifier-2-(electrical),,,0,1,0
+st34,HI,3,5/22/21,17:47:46,17:49:45,17,49,45,119.43,Swing front panel: 57.6% open,,RF-Amplifier-2-(electrical),,,0,1,0
+st34,HI,3,5/22/21,17:47:46,17:49:51,17,49,51,125.48,Swing front panel: 26.3% open,,RF-Amplifier-2-(electrical),,,0,1,0
+st34,HI,3,5/22/21,17:47:46,17:49:56,17,49,56,129.76,Leave Server Box Table,,RF-Amplifier-2-(electrical),,,0,1,0
+st34,HI,3,5/22/21,17:47:46,17:49:56,17,49,56,130.39,Move to Server Box Table,,RF-Amplifier-2-(electrical),,,0,1,0
+st34,HI,3,5/22/21,17:47:46,17:49:57,17,49,57,131.43,Swing front panel: 50.4% open,,RF-Amplifier-2-(electrical),,,0,1,0
+st34,HI,3,5/22/21,17:47:46,17:50:00,17,50,0,133.88,Pick Up LRU: 'RF Amplifier 2',,RF-Amplifier-2-(electrical),,,0,1,0
+st34,HI,3,5/22/21,17:47:46,17:50:01,17,50,1,135.48,Drop LRU: 'RF Amplifier 2',,RF-Amplifier-2-(electrical),,,0,1,0
+st34,HI,3,5/22/21,17:47:46,17:50:05,17,50,5,138.88,Pick Up LRU: 'RF Amplifier 2',,RF-Amplifier-2-(electrical),,,0,1,0
+st34,HI,3,5/22/21,17:47:46,17:50:12,17,50,12,146.4,Drop LRU: 'RF Amplifier 2',,RF-Amplifier-2-(electrical),,,0,1,0
+st34,HI,3,5/22/21,17:47:46,17:50:13,17,50,13,147.19,Pick Up LRU: 'RF Amplifier 2',,RF-Amplifier-2-(electrical),,,0,1,0
+st34,HI,3,5/22/21,17:47:46,17:50:14,17,50,14,148.13,Drop LRU: 'RF Amplifier 2',,RF-Amplifier-2-(electrical),,,0,1,0
+st34,HI,3,5/22/21,17:47:46,17:50:15,17,50,15,149.08,Connect LRU: 'RF Amplifier 2',,RF-Amplifier-2-(electrical),,,0,1,0
+st34,HI,3,5/22/21,17:47:46,17:50:35,17,50,35,168.85,Submit?,,RF-Amplifier-2-(electrical),,,0,1,0
+st34,HI,3,5/22/21,17:47:46,17:50:36,17,50,36,170.02,Submit Confirm,,RF-Amplifier-2-(electrical),,,0,1,0
+st34,HI,3,5/22/21,17:47:46,17:50:36,17,50,36,170.05,Move drawer: 95.4% open,Transmitter,RF-Amplifier-2-(electrical),,,0,1,0
+st34,HI,4,5/22/21,17:50:37,17:50:37,17,50,37,0,Make electrical flaw: Transmitter Waveguide,,Transmitter-Waveguide-(electrical),,,0,1,0
+st34,HI,4,5/22/21,17:50:37,17:50:37,17,50,37,0,Start (High Fidelity Sim),,Transmitter-Waveguide-(electrical),,,0,1,0
+st34,HI,4,5/22/21,17:50:37,17:50:37,17,50,37,0.02,Move drawer: -10.2% open,Transmitter,Transmitter-Waveguide-(electrical),,,0,1,0
+st34,HI,4,5/22/21,17:50:37,17:50:37,17,50,37,0.04,Leave Server Box Table,,Transmitter-Waveguide-(electrical),,,0,1,0

@@ -1,0 +1,55 @@
+User ID,Quiz Result ID,Taken On,Score,Question 1 Body,Question 1 Answer,Question 1 Correct
+770,16340,2021-03-31 19:34:08 UTC,0.0,What is the name of yellow circled component?,Step 2 Indicator,no
+771,16488,2021-04-02 19:13:40 UTC,0.0,What is the name of yellow circled component?,"",no
+772,16681,2021-04-09 16:50:42 UTC,0.0,What is the name of yellow circled component?,Sweep Generator Circuit,no
+773,16727,2021-04-10 00:41:44 UTC,1.0,What is the name of yellow circled component?,sweep control circuit,yes
+776,16972,2021-04-16 21:11:16 UTC,0.0,What is the name of yellow circled component?,"",no
+784,17146,2021-04-26 23:28:17 UTC,0.0,What is the name of yellow circled component?,Sweep Step Circuit,no
+779,17168,2021-04-27 01:44:37 UTC,0.0,What is the name of yellow circled component?,Cathode tube,no
+784,17193,2021-04-27 16:52:07 UTC,0.0,What is the name of yellow circled component?,N/A,no
+780,17215,2021-04-28 18:24:08 UTC,0.0,What is the name of yellow circled component?,indica tor wave,no
+787,17239,2021-04-28 20:42:23 UTC,0.0,What is the name of yellow circled component?,AFC Mixer,no
+790,17263,2021-04-28 21:27:49 UTC,0.0,What is the name of yellow circled component?,limiter,no
+786,17285,2021-04-29 19:21:50 UTC,0.0,What is the name of yellow circled component?,power,no
+789,17327,2021-04-30 19:27:39 UTC,0.0,What is the name of yellow circled component?,Node acclimator,no
+781,17349,2021-05-01 19:29:08 UTC,0.0,What is the name of yellow circled component?,"",no
+783,17371,2021-05-02 21:27:50 UTC,0.0,What is the name of yellow circled component?,Sweep Control,no
+793,17393,2021-05-05 18:33:17 UTC,0.0,What is the name of yellow circled component?,"",no
+800,17415,2021-05-06 00:36:46 UTC,0.0,What is the name of yellow circled component?,Control Circuit,no
+795,17437,2021-05-06 17:27:56 UTC,1.0,What is the name of yellow circled component?,sweep control circuit,yes
+799,17458,2021-05-07 22:50:53 UTC,0.0,What is the name of yellow circled component?,"",no
+802,17481,2021-05-09 15:17:34 UTC,0.0,What is the name of yellow circled component?,"",no
+803,17503,2021-05-10 16:21:14 UTC,0.0,What is the name of yellow circled component?,"",no
+804,17527,2021-05-11 01:24:44 UTC,0.0,What is the name of yellow circled component?,"",no
+796,17553,2021-05-11 21:26:12 UTC,0.0,What is the name of yellow circled component?,"",no
+807,17579,2021-05-13 19:27:08 UTC,0.0,What is the name of yellow circled component?,___ ___ ___,no
+808,17607,2021-05-14 16:10:03 UTC,0.0,What is the name of yellow circled component?,Sweep Control Unit,no
+809,17629,2021-05-14 22:54:45 UTC,1.0,What is the name of yellow circled component?,sweep control circuit,yes
+811,17651,2021-05-17 16:36:22 UTC,0.0,What is the name of yellow circled component?,system time,no
+794,17673,2021-05-20 23:21:07 UTC,0.0,What is the name of yellow circled component?,no idea,no
+797,17695,2021-05-21 16:23:20 UTC,0.0,What is the name of yellow circled component?,"",no
+816,17717,2021-05-21 21:06:35 UTC,1.0,What is the name of yellow circled component?,sweep control circuit,yes
+810,17739,2021-05-22 17:55:19 UTC,0.0,What is the name of yellow circled component?,"",no
+812,17761,2021-05-24 20:24:19 UTC,0.0,What is the name of yellow circled component?,sweep circuit controller,no
+817,17783,2021-05-26 15:23:12 UTC,0.0,What is the name of yellow circled component?,"",no
+814,17805,2021-05-27 16:34:22 UTC,0.0,What is the name of yellow circled component?,"",no
+820,17871,2021-05-28 23:47:55 UTC,0.0,What is the name of yellow circled component?,"",no
+821,17901,2021-05-29 16:32:18 UTC,0.0,What is the name of yellow circled component?,"",no
+822,17923,2021-06-03 17:52:16 UTC,0.0,What is the name of yellow circled component?,Gate Circuit,no
+823,17945,2021-06-05 01:26:40 UTC,0.0,What is the name of yellow circled component?,receiver,no
+825,17967,2021-06-05 22:24:02 UTC,0.0,What is the name of yellow circled component?,"",no
+826,17989,2021-06-07 16:21:45 UTC,0.0,What is the name of yellow circled component?,"",no
+828,18012,2021-06-15 15:24:11 UTC,0.0,What is the name of yellow circled component?,N/A,no
+813,18036,2021-06-15 18:20:41 UTC,1.0,What is the name of yellow circled component?,Sweep Control Circuit,yes
+829,18058,2021-06-15 19:24:43 UTC,0.0,What is the name of yellow circled component?,control,no
+830,18080,2021-06-21 19:20:11 UTC,1.0,What is the name of yellow circled component?,Sweep Control Circuit,yes
+808,18102,2021-07-01 15:18:57 UTC,0.0,What is the name of yellow circled component?,CTR,no
+832,18124,2021-07-01 18:24:14 UTC,0.0,What is the name of yellow circled component?,"",no
+834,18147,2021-07-17 00:26:24 UTC,0.0,What is the name of yellow circled component?,S,no
+833,18172,2021-07-19 19:53:28 UTC,0.0,What is the name of yellow circled component?,Sweep Control,no
+837,18195,2021-09-14 22:05:33 UTC,0.0,What is the name of yellow circled component?,Sweep Control Circut,no
+837,18197,2021-09-14 22:06:00 UTC,1.0,What is the name of yellow circled component?,Sweep Control Circuit,yes
+838,18223,2021-09-15 20:28:43 UTC,0.0,What is the name of yellow circled component?,Control Circuit,no
+839,18253,2021-10-07 17:32:56 UTC,0.0,What is the name of yellow circled component?,"",no
+852,18275,2021-10-15 01:40:03 UTC,0.0,What is the name of yellow circled component?,"",no
+853,18297,2021-10-15 17:44:39 UTC,0.0,What is the name of yellow circled component?,Sweep,no

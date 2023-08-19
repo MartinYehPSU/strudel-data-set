@@ -1,0 +1,108 @@
+subject,subject_group,round,round_start_date_utc,round_start_time_utc,current_time_utc,current_hour24,current_minute,current_second,current_elapsed_seconds,event,ui_tab,active_faults,fixed_faults,fixed_nonfaults,ReplacedComponents,FaultsRemaining,ReplacedNonFaults
+st50,HI,1,6/21/21,19:18:19,19:18:19,19,18,19,0.09,Make electrical flaw: Local Oscillator,,Local-Oscillator-(electrical),,,0,1,0
+st50,HI,1,6/21/21,19:18:19,19:18:19,19,18,19,0.1,Start (High Fidelity Sim),,Local-Oscillator-(electrical),,,0,1,0
+st50,HI,1,6/21/21,19:18:19,19:18:56,19,18,56,36.21,Move to Server Box Table,,Local-Oscillator-(electrical),,,0,1,0
+st50,HI,1,6/21/21,19:18:19,19:19:04,19,19,4,45.06,Swing front panel: 0% open,,Local-Oscillator-(electrical),,,0,1,0
+st50,HI,1,6/21/21,19:18:19,19:19:07,19,19,7,47.56,Swing front panel: 87.6% open,,Local-Oscillator-(electrical),,,0,1,0
+st50,HI,1,6/21/21,19:18:19,19:19:13,19,19,13,53.5,Click on: 'Control Circuit',,Local-Oscillator-(electrical),,,0,1,0
+st50,HI,1,6/21/21,19:18:19,19:19:15,19,19,15,55.64,Disconnect LRU: 'Control Circuit',,Local-Oscillator-(electrical),,,0,1,0
+st50,HI,1,6/21/21,19:18:19,19:19:17,19,19,17,57.9,Click on: 'Cathode Ray Tube',,Local-Oscillator-(electrical),,,0,1,0
+st50,HI,1,6/21/21,19:18:19,19:19:19,19,19,19,59.92,Cancel disconnect: 'Cathode Ray Tube',,Local-Oscillator-(electrical),,,0,1,0
+st50,HI,1,6/21/21,19:18:19,19:19:19,19,19,19,59.96,Swing front panel: 75% open,,Local-Oscillator-(electrical),,,0,1,0
+st50,HI,1,6/21/21,19:18:19,19:19:20,19,19,20,61.06,Click on: 'Cathode Ray Tube',,Local-Oscillator-(electrical),,,0,1,0
+st50,HI,1,6/21/21,19:18:19,19:19:23,19,19,23,63.63,Cancel disconnect: 'Cathode Ray Tube',,Local-Oscillator-(electrical),,,0,1,0
+st50,HI,1,6/21/21,19:18:19,19:19:23,19,19,23,63.65,Swing front panel: 75% open,,Local-Oscillator-(electrical),,,0,1,0
+st50,HI,1,6/21/21,19:18:19,19:19:25,19,19,25,66.02,Click on: 'Gate Circuit',,Local-Oscillator-(electrical),,,0,1,0
+st50,HI,1,6/21/21,19:18:19,19:19:28,19,19,28,68.49,Disconnect LRU: 'Gate Circuit',,Local-Oscillator-(electrical),,,0,1,0
+st50,HI,1,6/21/21,19:18:19,19:19:28,19,19,28,68.55,Move drawer: 0% open,Synchronizer,Local-Oscillator-(electrical),,,0,1,0
+st50,HI,1,6/21/21,19:18:19,19:19:36,19,19,36,76.97,Click on: 'Cathode Ray Tube',,Local-Oscillator-(electrical),,,0,1,0
+st50,HI,1,6/21/21,19:18:19,19:19:38,19,19,38,78.82,Disconnect LRU: 'Cathode Ray Tube',,Local-Oscillator-(electrical),,,0,1,0
+st50,HI,1,6/21/21,19:18:19,19:19:38,19,19,38,78.82,Move drawer: 0% open,Transmitter,Local-Oscillator-(electrical),,,0,1,0
+st50,HI,1,6/21/21,19:18:19,19:19:42,19,19,42,82.27,Move drawer: 93.2% open,Processor,Local-Oscillator-(electrical),,,0,1,0
+st50,HI,1,6/21/21,19:18:19,19:19:46,19,19,46,87.07,Click on: 'Video Detector',,Local-Oscillator-(electrical),,,0,1,0
+st50,HI,1,6/21/21,19:18:19,19:19:48,19,19,48,88.21,Disconnect LRU: 'Video Detector',,Local-Oscillator-(electrical),,,0,1,0
+st50,HI,1,6/21/21,19:18:19,19:19:49,19,19,49,89.94,Click on: 'Local Oscillator',,Local-Oscillator-(electrical),,,0,1,0
+st50,HI,1,6/21/21,19:18:19,19:19:50,19,19,50,91.12,Disconnect LRU: 'Local Oscillator',,Local-Oscillator-(electrical),,,0,1,0
+st50,HI,1,6/21/21,19:18:19,19:19:50,19,19,50,91.17,Move drawer: 0% open,Transmitter,Local-Oscillator-(electrical),,,0,1,0
+st50,HI,1,6/21/21,19:18:19,19:19:53,19,19,53,93.8,Move drawer: -11% open,Processor,Local-Oscillator-(electrical),,,0,1,0
+st50,HI,1,6/21/21,19:18:19,19:19:59,19,19,59,99.28,Move drawer: 93.8% open,Indicator,Local-Oscillator-(electrical),,,0,1,0
+st50,HI,1,6/21/21,19:18:19,19:20:02,19,20,2,102.22,Connect LRU: 'Control Circuit',,Local-Oscillator-(electrical),,,0,1,0
+st50,HI,1,6/21/21,19:18:19,19:20:02,19,20,2,102.25,Move drawer: 0% open,Transmitter,Local-Oscillator-(electrical),,,0,1,0
+st50,HI,1,6/21/21,19:18:19,19:20:05,19,20,5,106.17,Move drawer: -29.3% open,Indicator,Local-Oscillator-(electrical),,,0,1,0
+st50,HI,1,6/21/21,19:18:19,19:20:07,19,20,7,107.69,Swing front panel: 75% open,,Local-Oscillator-(electrical),,,0,1,0
+st50,HI,1,6/21/21,19:18:19,19:20:08,19,20,8,108.33,Cancel connect: 'Gate Circuit',,Local-Oscillator-(electrical),,,0,1,0
+st50,HI,1,6/21/21,19:18:19,19:20:08,19,20,8,108.35,Swing front panel: 75% open,,Local-Oscillator-(electrical),,,0,1,0
+st50,HI,1,6/21/21,19:18:19,19:20:10,19,20,10,110.56,Swing front panel: 16.8% open,,Local-Oscillator-(electrical),,,0,1,0
+st50,HI,1,6/21/21,19:18:19,19:20:11,19,20,11,112.04,Submit?,,Local-Oscillator-(electrical),,,0,1,0
+st50,HI,1,6/21/21,19:18:19,19:20:13,19,20,13,113.85,Submit Confirm,,Local-Oscillator-(electrical),,,0,1,0
+st50,HI,1,6/21/21,19:18:19,19:20:13,19,20,13,113.86,Swing front panel: 0% open,,Local-Oscillator-(electrical),,,0,1,0
+st50,HI,2,6/21/21,19:20:14,19:20:14,19,20,14,0,Make electrical flaw: Receiver Waveguide,,Receiver-Waveguide-(electrical),,,0,1,0
+st50,HI,2,6/21/21,19:20:14,19:20:14,19,20,14,0,Start (High Fidelity Sim),,Receiver-Waveguide-(electrical),,,0,1,0
+st50,HI,2,6/21/21,19:20:14,19:20:14,19,20,14,0.03,Leave Server Box Table,,Receiver-Waveguide-(electrical),,,0,1,0
+st50,HI,2,6/21/21,19:20:14,19:20:14,19,20,14,0.03,Swing front panel: 0% open,,Receiver-Waveguide-(electrical),,,0,1,0
+st50,HI,2,6/21/21,19:20:14,19:20:23,19,20,23,8.71,Move to Server Box Table,,Receiver-Waveguide-(electrical),,,0,1,0
+st50,HI,2,6/21/21,19:20:14,19:20:27,19,20,27,12.66,Swing front panel: 50.1% open,,Receiver-Waveguide-(electrical),,,0,1,0
+st50,HI,2,6/21/21,19:20:14,19:23:26,19,23,26,191.97,Click on: 'Control Circuit',,Receiver-Waveguide-(electrical),,,0,1,0
+st50,HI,2,6/21/21,19:20:14,19:23:28,19,23,28,194.14,Cancel disconnect: 'Control Circuit',,Receiver-Waveguide-(electrical),,,0,1,0
+st50,HI,2,6/21/21,19:20:14,19:23:28,19,23,28,194.17,Move drawer: 0% open,Transmitter,Receiver-Waveguide-(electrical),,,0,1,0
+st50,HI,2,6/21/21,19:20:14,19:23:31,19,23,31,196.55,Move drawer: 98.6% open,Processor,Receiver-Waveguide-(electrical),,,0,1,0
+st50,HI,2,6/21/21,19:20:14,19:23:35,19,23,35,200.83,Click on: 'IF Amplifier',,Receiver-Waveguide-(electrical),,,0,1,0
+st50,HI,2,6/21/21,19:20:14,19:23:36,19,23,36,202.09,Disconnect LRU: 'IF Amplifier',,Receiver-Waveguide-(electrical),,,0,1,0
+st50,HI,2,6/21/21,19:20:14,19:23:36,19,23,36,202.12,Move drawer: 0% open,Transmitter,Receiver-Waveguide-(electrical),,,0,1,0
+st50,HI,2,6/21/21,19:20:14,19:23:40,19,23,40,206.17,Move drawer: 95.4% open,Processor,Receiver-Waveguide-(electrical),,,0,1,0
+st50,HI,2,6/21/21,19:20:14,19:23:41,19,23,41,207.15,Click on: 'Mixer Detector',,Receiver-Waveguide-(electrical),,,0,1,0
+st50,HI,2,6/21/21,19:20:14,19:23:43,19,23,43,208.38,Disconnect LRU: 'Mixer Detector',,Receiver-Waveguide-(electrical),,,0,1,0
+st50,HI,2,6/21/21,19:20:14,19:23:55,19,23,55,221.21,Click on: 'Control Circuit',,Receiver-Waveguide-(electrical),,,0,1,0
+st50,HI,2,6/21/21,19:20:14,19:23:57,19,23,57,222.54,Disconnect LRU: 'Control Circuit',,Receiver-Waveguide-(electrical),,,0,1,0
+st50,HI,2,6/21/21,19:20:14,19:23:57,19,23,57,222.57,Move drawer: 0% open,Tracker,Receiver-Waveguide-(electrical),,,0,1,0
+st50,HI,2,6/21/21,19:20:14,19:24:01,19,24,1,226.84,Move drawer: 44.6% open,Processor,Receiver-Waveguide-(electrical),,,0,1,0
+st50,HI,2,6/21/21,19:20:14,19:24:06,19,24,6,232.08,Move drawer: -1.2% open,Processor,Receiver-Waveguide-(electrical),,,0,1,0
+st50,HI,2,6/21/21,19:20:14,19:24:08,19,24,8,233.74,Swing front panel: 48.1% open,,Receiver-Waveguide-(electrical),,,0,1,0
+st50,HI,2,6/21/21,19:20:14,19:24:09,19,24,9,235.07,Submit?,,Receiver-Waveguide-(electrical),,,0,1,0
+st50,HI,2,6/21/21,19:20:14,19:24:11,19,24,11,236.66,Swing front panel: 0% open,,Receiver-Waveguide-(electrical),,,0,1,0
+st50,HI,2,6/21/21,19:20:14,19:24:12,19,24,12,238.02,Swing front panel: 0% open,,Receiver-Waveguide-(electrical),,,0,1,0
+st50,HI,2,6/21/21,19:20:14,19:24:13,19,24,13,238.76,Submit Confirm,,Receiver-Waveguide-(electrical),,,0,1,0
+st50,HI,2,6/21/21,19:20:14,19:24:13,19,24,13,238.78,Swing front panel: 0% open,,Receiver-Waveguide-(electrical),,,0,1,0
+st50,HI,2,6/21/21,19:20:14,19:24:14,19,24,14,239.83,Swing front panel: 0% open,,Receiver-Waveguide-(electrical),,,0,1,0
+st50,HI,3,6/21/21,19:24:15,19:24:15,19,24,15,0,Make electrical flaw: Stage 3 Modulator,,Stage-3-Modulator-(electrical),,,0,1,0
+st50,HI,3,6/21/21,19:24:15,19:24:15,19,24,15,0,Start (High Fidelity Sim),,Stage-3-Modulator-(electrical),,,0,1,0
+st50,HI,3,6/21/21,19:24:15,19:24:15,19,24,15,0.05,Leave Server Box Table,,Stage-3-Modulator-(electrical),,,0,1,0
+st50,HI,3,6/21/21,19:24:15,19:24:15,19,24,15,0.06,Swing front panel: 7.6% open,,Stage-3-Modulator-(electrical),,,0,1,0
+st50,HI,3,6/21/21,19:24:15,19:26:22,19,26,22,127.11,Move to Server Box Table,,Stage-3-Modulator-(electrical),,,0,1,0
+st50,HI,3,6/21/21,19:24:15,19:26:33,19,26,33,138.03,Move drawer: 71.1% open,Transmitter,Stage-3-Modulator-(electrical),,,0,1,0
+st50,HI,3,6/21/21,19:24:15,19:26:35,19,26,35,139.97,Click on: 'RF Amplifier 1',,Stage-3-Modulator-(electrical),,,0,1,0
+st50,HI,3,6/21/21,19:24:15,19:26:36,19,26,36,141.22,Disconnect LRU: 'RF Amplifier 1',,Stage-3-Modulator-(electrical),,,0,1,0
+st50,HI,3,6/21/21,19:24:15,19:26:38,19,26,38,142.87,Click on: 'Stage 2 Modulator',,Stage-3-Modulator-(electrical),,,0,1,0
+st50,HI,3,6/21/21,19:24:15,19:26:39,19,26,39,143.97,Disconnect LRU: 'Stage 2 Modulator',,Stage-3-Modulator-(electrical),,,0,1,0
+st50,HI,3,6/21/21,19:24:15,19:26:42,19,26,42,146.92,Click on: 'RF Amplifier 3',,Stage-3-Modulator-(electrical),,,0,1,0
+st50,HI,3,6/21/21,19:24:15,19:26:43,19,26,43,148.12,Disconnect LRU: 'RF Amplifier 3',,Stage-3-Modulator-(electrical),,,0,1,0
+st50,HI,3,6/21/21,19:24:15,19:26:47,19,26,47,152.43,Move drawer: -7.3% open,Transmitter,Stage-3-Modulator-(electrical),,,0,1,0
+st50,HI,3,6/21/21,19:24:15,19:26:53,19,26,53,157.99,Leave Server Box Table,,Stage-3-Modulator-(electrical),,,0,1,0
+st50,HI,3,6/21/21,19:24:15,19:26:54,19,26,54,158.66,Move to Spare Parts Table,,Stage-3-Modulator-(electrical),,,0,1,0
+st50,HI,3,6/21/21,19:24:15,19:27:20,19,27,20,185.27,Leave Spare Parts Table,,Stage-3-Modulator-(electrical),,,0,1,0
+st50,HI,3,6/21/21,19:24:15,19:27:21,19,27,21,185.79,Move to Server Box Table,,Stage-3-Modulator-(electrical),,,0,1,0
+st50,HI,3,6/21/21,19:24:15,19:31:00,19,31,0,405.25,Swing front panel: 41.3% open,,Stage-3-Modulator-(electrical),,,0,1,0
+st50,HI,3,6/21/21,19:24:15,19:31:02,19,31,2,406.72,Submit?,,Stage-3-Modulator-(electrical),,,0,1,0
+st50,HI,3,6/21/21,19:24:15,19:31:03,19,31,3,408.56,Submit Confirm,,Stage-3-Modulator-(electrical),,,0,1,0
+st50,HI,4,6/21/21,19:31:04,19:31:04,19,31,4,0,Make electrical flaw: Sine Wave Oscillator,,Sine-Wave-Oscillator-(electrical),,,0,1,0
+st50,HI,4,6/21/21,19:31:04,19:31:04,19,31,4,0,Start (High Fidelity Sim),,Sine-Wave-Oscillator-(electrical),,,0,1,0
+st50,HI,4,6/21/21,19:31:04,19:31:04,19,31,4,0.05,Leave Server Box Table,,Sine-Wave-Oscillator-(electrical),,,0,1,0
+st50,HI,4,6/21/21,19:31:04,19:31:10,19,31,10,5.39,Move to Server Box Table,,Sine-Wave-Oscillator-(electrical),,,0,1,0
+st50,HI,4,6/21/21,19:31:04,19:31:13,19,31,13,9.28,Swing front panel: 0% open,,Sine-Wave-Oscillator-(electrical),,,0,1,0
+st50,HI,4,6/21/21,19:31:04,19:31:15,19,31,15,10.87,Swing front panel: 40% open,,Sine-Wave-Oscillator-(electrical),,,0,1,0
+st50,HI,4,6/21/21,19:31:04,19:31:23,19,31,23,19.26,Move drawer: 96.3% open,Synchronizer,Sine-Wave-Oscillator-(electrical),,,0,1,0
+st50,HI,4,6/21/21,19:31:04,19:31:25,19,31,25,20.66,Move drawer: 95.4% open,Synchronizer,Sine-Wave-Oscillator-(electrical),,,0,1,0
+st50,HI,4,6/21/21,19:31:04,19:31:26,19,31,26,21.78,Move drawer: 95.4% open,Synchronizer,Sine-Wave-Oscillator-(electrical),,,0,1,0
+st50,HI,4,6/21/21,19:31:04,19:31:27,19,31,27,22.64,Click on: 'Sine Wave Oscillator',,Sine-Wave-Oscillator-(electrical),,,0,1,0
+st50,HI,4,6/21/21,19:31:04,19:31:28,19,31,28,23.63,Disconnect LRU: 'Sine Wave Oscillator',,Sine-Wave-Oscillator-(electrical),,,0,1,0
+st50,HI,4,6/21/21,19:31:04,19:31:29,19,31,29,25.06,Move drawer: 95.4% open,Synchronizer,Sine-Wave-Oscillator-(electrical),,,0,1,0
+st50,HI,4,6/21/21,19:31:04,19:31:30,19,31,30,26,Move drawer: 95.4% open,Synchronizer,Sine-Wave-Oscillator-(electrical),,,0,1,0
+st50,HI,4,6/21/21,19:31:04,19:31:32,19,31,32,27.39,Move drawer: 95.4% open,Synchronizer,Sine-Wave-Oscillator-(electrical),,,0,1,0
+st50,HI,4,6/21/21,19:31:04,19:31:33,19,31,33,28.4,Move drawer: 95.4% open,Synchronizer,Sine-Wave-Oscillator-(electrical),,,0,1,0
+st50,HI,4,6/21/21,19:31:04,19:31:34,19,31,34,29.56,Click on: 'Adjuster',,Sine-Wave-Oscillator-(electrical),,,0,1,0
+st50,HI,4,6/21/21,19:31:04,19:31:35,19,31,35,31.13,Disconnect LRU: 'Adjuster',,Sine-Wave-Oscillator-(electrical),,,0,1,0
+st50,HI,4,6/21/21,19:31:04,19:34:00,19,34,0,176.35,Submit?,,Sine-Wave-Oscillator-(electrical),,,0,1,0
+st50,HI,4,6/21/21,19:31:04,19:34:02,19,34,2,178.32,Submit Confirm,,Sine-Wave-Oscillator-(electrical),,,0,1,0
+st50,HI,5,6/21/21,19:34:03,19:34:03,19,34,3,0,Make electrical flaw: Cathode Ray Tube,,Cathode-Ray-Tube-(electrical),,,0,1,0
+st50,HI,5,6/21/21,19:34:03,19:34:03,19,34,3,0,Start (High Fidelity Sim),,Cathode-Ray-Tube-(electrical),,,0,1,0
+st50,HI,5,6/21/21,19:34:03,19:34:03,19,34,3,0.01,Leave Server Box Table,,Cathode-Ray-Tube-(electrical),,,0,1,0
